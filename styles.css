@@ -118,7 +118,7 @@ img {
 
 .nav-shell {
   display: grid;
-  grid-template-columns: 1fr auto auto;
+  grid-template-columns: 1fr auto;
   align-items: center;
   height: 100%;
   gap: 28px;
@@ -174,7 +174,6 @@ img {
   transform: scaleX(1);
 }
 
-.edit-nav-button,
 .icon-button,
 .small-button,
 .icon-text-button,
@@ -189,18 +188,6 @@ img {
   transition: transform 160ms ease, background-color 160ms ease, color 160ms ease, border-color 160ms ease;
 }
 
-.edit-nav-button {
-  min-height: 38px;
-  padding: 0 13px;
-  gap: 8px;
-  border: 1px solid currentColor;
-  background: transparent;
-  color: inherit;
-  font-size: 13px;
-  font-weight: 700;
-}
-
-.edit-nav-button:hover,
 .button:hover,
 .small-button:hover,
 .icon-text-button:hover,
@@ -208,7 +195,6 @@ img {
   transform: translateY(-1px);
 }
 
-.edit-nav-button svg,
 .button svg,
 .small-button svg,
 .icon-text-button svg,
@@ -407,7 +393,7 @@ img {
   background: transparent;
   box-shadow: 18px 22px 0 rgba(177, 222, 220, 0.28);
   color: var(--white);
-  cursor: pointer;
+  cursor: default;
 }
 
 .portrait-button img {
@@ -425,31 +411,6 @@ img {
   color: rgba(36, 34, 41, 0.82);
   font-family: Georgia, "Times New Roman", serif;
   font-size: 58px;
-}
-
-.portrait-edit-indicator {
-  position: absolute;
-  right: 8px;
-  bottom: 8px;
-  display: grid;
-  width: 34px;
-  height: 34px;
-  place-items: center;
-  border-radius: 50%;
-  background: rgba(36, 34, 41, 0.82);
-  color: var(--white);
-  opacity: 0;
-  transition: opacity 160ms ease;
-}
-
-.portrait-edit-indicator svg {
-  width: 16px;
-  height: 16px;
-}
-
-.portrait-button:hover .portrait-edit-indicator,
-.portrait-button:focus-visible .portrait-edit-indicator {
-  opacity: 1;
 }
 
 .portrait-wrap figcaption {
@@ -1337,27 +1298,12 @@ img {
   }
 
   .nav-shell {
-    grid-template-columns: 1fr auto auto;
+    grid-template-columns: 1fr auto;
     gap: 8px;
   }
 
   .menu-toggle {
     display: inline-flex;
-  }
-
-  .edit-nav-button {
-    width: 40px;
-    min-height: 40px;
-    padding: 0;
-  }
-
-  .edit-nav-button span {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    overflow: hidden;
-    clip: rect(0 0 0 0);
-    white-space: nowrap;
   }
 
   .primary-nav {
@@ -1460,12 +1406,6 @@ img {
 
   .portrait-wrap figcaption {
     display: none;
-  }
-
-  .portrait-edit-indicator {
-    width: 28px;
-    height: 28px;
-    opacity: 1;
   }
 
   .scroll-cue {
