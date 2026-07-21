@@ -32,7 +32,7 @@ jobs:
       - name: Build read-only site artifact
         run: |
           mkdir _site
-          cp index.html styles.css script.js content.js robots.txt sitemap.xml .nojekyll _site/
+          cp index.html friends.html styles.css script.js friends.js content.js robots.txt sitemap.xml .nojekyll _site/
           cp -R assets _site/assets
 
       - name: Upload site

@@ -19,6 +19,8 @@ window.SITE_CONTENT = {
     "papersIntro": "Peer-reviewed publications, preprints, and work in progress.",
     "worksTitle": "Other Works",
     "worksIntro": "Selected projects, talks, datasets, teaching, and public scholarship.",
+    "friendsTitle": "Friends",
+    "friendsIntro": "Personal websites and thoughtful corners of the web maintained by friends.",
     "contactTitle": "",
     "contactText": ""
   },
@@ -106,6 +108,7 @@ window.SITE_CONTENT = {
       "linkUrl": "https://github.com/Mauris-Chueng/mauris-chueng.github.io/blob/main/pub/PL_Cross-Caps_and_Their_PL_Resolutions.pdf"
     }
   ],
+  "friends": [],
   "links": {
     "github": "https://github.com/miracleqihe",
     "scholar": "",

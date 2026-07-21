@@ -15,6 +15,8 @@ Keheng Zhu 的只读学术个人主页，发布地址为 <https://miracleqihe.gi
 
 在本地修改根目录的 `content.js`，检查无误后提交并推送到 `main` 分支。论文条目支持作者、期刊或会议、年份、卷期页码、状态、DOI、PDF、代码、项目页、摘要和 BibTeX。
 
+友链保存在 `content.js` 的 `friends` 数组中，每项支持名称、网站链接、头像和个人简介。公开友链页为 `friends.html`，首页只显示导航入口。
+
 头像和首屏背景当前以图片数据保存在 `content.js` 中。需要更换图片时，可让 Codex 更新该文件并重新发布。
 
 ## 本地预览
