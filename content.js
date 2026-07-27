@@ -66,7 +66,7 @@ window.SITE_CONTENT = {
       "volume": "",
       "issue": "",
       "pages": "",
-      "doiUrl": "",
+      "doiUrl": "https://arxiv.org/abs/2607.18326",
       "pdfUrl": "",
       "codeUrl": "",
       "projectUrl": "",
@@ -88,6 +88,23 @@ window.SITE_CONTENT = {
       "projectUrl": "",
       "abstract": "",
       "bibtex": ""
+    },
+    {
+      "title": "Exterior power sums",
+      "authors": "Y. Luo, R. Yang & K. Zhu",
+      "venue": "Preprint",
+      "year": "2026",
+      "status": "",
+      "volume": "",
+      "issue": "",
+      "pages": "",
+      "doiUrl": "https://arxiv.org/abs/2607.22017",
+      "pdfUrl": "",
+      "codeUrl": "",
+      "projectUrl": "",
+      "abstract": "",
+      "bibtex": ""
+
     }
   ],
   "works": [
