@@ -35,7 +35,7 @@
     <main id="main" class="wrap">
       <section id="screens" aria-labelledby="screens-heading">
         <h2 id="screens-heading">实页截图</h2>
-        <p class="section-intro">两张截图均选中「凉山美姑｜山路上的鬼板」。拍摄于 <time datetime="2026-11-23">2026-11-23</time>，桌面视口 <span class="numeric">1440 × 900</span>。</p>
+        <p class="section-intro">两张基准截图均选中「凉山美姑｜山路上的鬼板」。拍摄于 <time datetime="2026-11-23">2026-11-23</time>，桌面视口 <span class="numeric">1440 × 900</span>。</p>
         <figure>
           <img src="/astraia/assets/astraia-map-CSu1iPWx.png" width="1440" height="900" alt="Astraia 的 3D 地球。美姑小点在中国西南，地图显示聚合数字和跨区弧线，右侧卷宗展示故事与出处。" />
           <figcaption>
@@ -99,7 +99,7 @@
           </div>
           <div>
             <dt>信源与时间</dt>
-            <dd>按 S、A、B、C、F 级筛选，顶栏一键隐藏 F 级虚构。底部 <span class="numeric">36 px</span> 时间轴标出年代落点，拖动起止年份实时更新可见范围。</dd>
+            <dd>按 S、A、B、C、F 级筛选。馆藏首页默认隐藏 F 级虚构，开关同步更新图面、目录和年代刻度。底部 <span class="numeric">36 px</span> 时间轴支持拖动起止年份。</dd>
           </div>
         </dl>
       </section>
@@ -117,7 +117,7 @@
           </div>
           <div>
             <dt>跨区弧线</dt>
-            <dd>共享 L3 母题或 L4 机制的地理个案以拱起弧线相连，线色区分关系类型。悬停弧线显示中介名称、层级和已有编码，点击打开该枢纽卷宗。</dd>
+            <dd>跨区弧线中点有 <span class="numeric">8 px</span> 空心菱形。悬停菱形或弧线显示枢纽，点击调阅卷宗。无坐标的 L2–L4 枢纽按一至两跳的 L1 个案框选分布，卷宗按钮显示关联地点数。</dd>
           </div>
         </dl>
       </section>
@@ -135,17 +135,17 @@
           </div>
           <div>
             <dt>单层平铺与探针</dt>
-            <dd>在左轨或切片边缘单击层名聚焦。双击层名或用「平铺当前层」切换到正射平面以查看该层标签，再用「恢复分层」返回。悬停节点显示贯穿四层的垂线和交点套准标。</dd>
+            <dd>在左轨或切片边缘单击层名聚焦，点击对应的「2D 平铺」或双击层名切换，按钮变为「返回 3D」。选中节点后，探针按 <span class="numeric">35%</span> 透明度驻留。</dd>
           </div>
           <div>
             <dt>核验状态图例</dt>
             <dd>
               <ul class="evidence-key">
-                <li class="confirmed"><i aria-hidden="true"></i>已证实 <span>青绿或象牙白实线</span></li>
-                <li class="unverified"><i aria-hidden="true"></i>待核实或有争议 <span>琥珀虚线</span></li>
-                <li class="refuted"><i aria-hidden="true"></i>已驳回 <span>砖红断续线</span></li>
+                <li class="confirmed"><i aria-hidden="true"></i>已证实 <span>冷青翠实线 <code>#38B2AC</code></span></li>
+                <li class="unverified"><i aria-hidden="true"></i>待核实或有争议 <span>黄铜虚线 <code>#C29D59</code></span></li>
+                <li class="refuted"><i aria-hidden="true"></i>已驳回 <span>朱砂点划线 <code>#D9534F</code></span></li>
               </ul>
-              点击图例可开关对应状态的连线。状态用线型和文字同时标识。
+              象牙白实线表示结构关系，暗品红点线表示 F 级关联。核验图例附计数和勾选框，点击切换对应连线。
             </dd>
           </div>
         </dl>
@@ -164,11 +164,11 @@
           </div>
           <div>
             <dt>从卷宗反查图谱</dt>
-            <dd>悬停或点击 OCM、ATU 等编码徽章，画布高亮同码节点并以折线联结。点击关联项切换焦点。机制卡片用核验章标明已证实、争议或已驳回，已驳回项加砖红标记和删除线。</dd>
+            <dd>OCM、ATU 等徽章显示全库同码数量。悬停预览同码连线，点击保留高亮和顶部筛选提示，清除后回到当前卷宗。机制卡片随实证状态显示独立核验章。</dd>
           </div>
           <div>
             <dt>并排对比</dt>
-            <dd>用 <kbd>Shift + 点击</kbd> 或「加入对比」选择第二条。摘要提取共享编码、L3/L4 枢纽与各自信源、年代和地点。画布同时突出两者的一跳网络，并用独立的高亮色标记共同枢纽。</dd>
+            <dd>用 <kbd>Shift + 点击</kbd> 或「加入对比」选择第二条。共同枢纽与差异摘要固定在两列上方，元数据、编码、核验、关联分行同步滚动。长文默认四行，支持同时展开。窄画布优先显示主节点和共同枢纽的标签。</dd>
           </div>
         </dl>
       </section>
@@ -176,10 +176,12 @@
       <section id="evaluation" aria-labelledby="evaluation-heading">
         <h2 id="evaluation-heading">评审任务</h2>
         <ol class="review-tasks">
-          <li>从地图点打开卷宗、读故事并找到对应出处，再切换星图确认焦点和阅读上下文。</li>
-          <li>缩放并筛选密集点位，检查短地名、聚合数字、图例及一跳标签的辨识度。</li>
-          <li>以键盘操作搜索、图层和平铺，核对证据状态在颜色、线型和文字上的一致性。</li>
-          <li>打开双卷宗对比，检查共性摘要、正文宽度及画布上共同枢纽的辨识度。</li>
+          <li>从馆藏导览打开一则卷宗，核对地图点位、首屏关联和文献出处。</li>
+          <li>点击地图弧线菱形锚标，核对枢纽卷宗及自动框选的关联地点。</li>
+          <li>操作 L1 的「2D 平铺」与「返回 3D」，核对海岸线、层标签和探针。</li>
+          <li>点击编码徽章再清除高亮，逐项开关底部核验图例。</li>
+          <li>打开双卷宗对比，核对两列行高、同步滚动、全文展开和窄画布标签。</li>
+          <li>切换 F 级开关，核对节点目录、画布和年代刻度的变化。</li>
         </ol>
         <p class="review-note">优先评价可读性和交互发现成本。视觉方案沿用深靛、棉纸与直角分栏，保留原有资料层级及核验语义。密集场景的交互目标为 <span class="numeric">60 fps</span>。</p>
       </section>
