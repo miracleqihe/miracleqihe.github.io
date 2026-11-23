@@ -4,7 +4,7 @@
     {
       "id": "china",
       "label": "中国及相关资料",
-      "pending": 2486
+      "pending": 2495
     },
     {
       "id": "east_asia",
@@ -22,6 +22,6 @@
       "pending": 71
     }
   ],
-  "pending_total": 4616,
+  "pending_total": 4625,
   "version": 1
 }
