@@ -1,6 +1,6 @@
 Astraia CJK Supplemental
 
-This renamed, 223-character subset was made from Adobe Source Han Serif
+This renamed, 225-character subset was made from Adobe Source Han Serif
 Regular and Bold, version 1.001. It is included to display rare Chinese
 characters in the catalogue and its classical-text transcriptions. The original fonts and this modified
 subset are distributed under the SIL Open Font License 1.1; see the adjacent
