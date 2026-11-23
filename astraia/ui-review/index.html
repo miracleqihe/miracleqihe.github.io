@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#101722" />
+    <meta name="description" content="Astraia 的公开 UI 评审资料，包含两张实页截图、现有配色、3D 地图、四层语义星图及右侧卷宗的交互要求。" />
+    <title>Astraia · UI 评审说明</title>
+    <link rel="stylesheet" crossorigin href="/astraia/assets/index-CEpvDdwM.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">跳到正文</a>
+    <header class="cover">
+      <div class="wrap cover-inner">
+        <div>
+          <p class="wordmark" lang="en">Astraia</p>
+          <h1>UI 评审说明</h1>
+          <p class="cover-summary">通过地理位置与叙事关联查阅民俗卷宗。</p>
+        </div>
+        <a class="atlas-link" href="../">打开 Astraia <span aria-hidden="true">↗</span></a>
+      </div>
+    </header>
+    <nav class="chapter-nav" aria-label="说明页目录">
+      <ul class="wrap">
+        <li><a href="#screens">实页截图</a></li>
+        <li><a href="#palette">配色与字体</a></li>
+        <li><a href="#workspace">共享控制</a></li>
+        <li><a href="#map">3D 地图</a></li>
+        <li><a href="#constellation">四层星图</a></li>
+        <li><a href="#dossier">右侧卷宗</a></li>
+        <li><a href="#evaluation">评审任务</a></li>
+      </ul>
+    </nav>
+
+    <main id="main" class="wrap">
+      <section id="screens" aria-labelledby="screens-heading">
+        <h2 id="screens-heading">实页截图</h2>
+        <p class="section-intro">两张截图均选中「凉山美姑｜山路上的鬼板」。拍摄于 <time datetime="2026-11-23">2026-11-23</time>，桌面视口 <span class="numeric">1440 × 900</span>。</p>
+        <figure>
+          <img src="/astraia/assets/astraia-map-CSu1iPWx.png" width="1440" height="900" alt="Astraia 的 3D 地球。美姑小点在中国西南，地图显示聚合数字和跨区弧线，右侧卷宗展示故事与出处。" />
+          <figcaption>
+            <span><strong>3D 地图</strong> <span class="caption-detail">还原视角后的地理总览</span></span>
+            <a href="../?story=case_cn_meigu_ghost_boards_1992&amp;view=map">打开同一卷宗的地图</a>
+          </figcaption>
+        </figure>
+        <figure>
+          <img src="/astraia/assets/astraia-constellation-BpaKUGHN.png" width="1440" height="900" loading="lazy" alt="Astraia 的四层语义星图。四张半透明切片从底到顶分别呈现个案、文本、母题和机制，右侧保持美姑卷宗。" />
+          <figcaption>
+            <span><strong>四层语义星图</strong> <span class="caption-detail">同一卷宗的关联视图</span></span>
+            <a href="../?story=case_cn_meigu_ghost_boards_1992&amp;view=graph">打开同一卷宗的星图</a>
+          </figcaption>
+        </figure>
+      </section>
+
+      <section id="palette" aria-labelledby="palette-heading">
+        <h2 id="palette-heading">配色与字体</h2>
+        <p class="section-intro">左侧为深靛测绘画布，右侧为暖象牙棉纸。面板用直角与 <span class="numeric">1 px</span> 分隔线组织信息。</p>
+        <div class="palette-grid">
+          <div class="swatch-panel plate">
+            <h3>深靛画布</h3>
+            <dl>
+              <div class="swatch-row"><dt><i style="--swatch:var(--plate-bg)" aria-hidden="true"></i>乾版底色</dt><dd><code>#101722</code></dd></div>
+              <div class="swatch-row"><dt><i style="--swatch:var(--plate-grid)" aria-hidden="true"></i>测绘细网格</dt><dd><code>rgba(239, 236, 230, 0.12)</code></dd></div>
+              <div class="swatch-row"><dt><i style="--swatch:var(--vellum-sheet)" aria-hidden="true"></i>描图纸切片</dt><dd><code>rgba(239, 236, 230, 0.16)</code></dd></div>
+              <div class="swatch-row"><dt><i style="--swatch:var(--vellum-edge)" aria-hidden="true"></i>切边与套准标</dt><dd><code>rgba(239, 236, 230, 0.55)</code></dd></div>
+              <div class="swatch-row"><dt><i style="--swatch:var(--constellation-line)" aria-hidden="true"></i>星座线与探针</dt><dd><code>#EAE5D9</code></dd></div>
+              <div class="swatch-row"><dt><i style="--swatch:var(--brass-tick)" aria-hidden="true"></i>黄铜刻度与选中点</dt><dd><code>#C29D59</code></dd></div>
+            </dl>
+          </div>
+          <div class="swatch-panel">
+            <h3>暖象牙棉纸</h3>
+            <dl>
+              <div class="swatch-row"><dt><i style="--swatch:var(--folio-paper)" aria-hidden="true"></i>卷宗底色</dt><dd><code>#EFECE6</code></dd></div>
+              <div class="swatch-row"><dt><i style="--swatch:var(--folio-paper-alt)" aria-hidden="true"></i>表头与交替行</dt><dd><code>#E5E0D5</code></dd></div>
+              <div class="swatch-row"><dt><i style="--swatch:var(--ink-prussian)" aria-hidden="true"></i>主文字与分隔线</dt><dd><code>#1B2A4A</code></dd></div>
+              <div class="swatch-row"><dt><i style="--swatch:var(--ink-muted)" aria-hidden="true"></i>次级元数据</dt><dd><code>#5A6578</code></dd></div>
+              <div class="swatch-row"><dt><i style="--swatch:var(--ink-vermilion)" aria-hidden="true"></i>砖红批注与驳回章</dt><dd><code>#9E2A2B</code></dd></div>
+              <div class="swatch-row"><dt><i style="--swatch:var(--ink-verified)" aria-hidden="true"></i>已证实标记</dt><dd><code>#1F5E4B</code></dd></div>
+            </dl>
+          </div>
+        </div>
+        <dl class="spec-list type-spec">
+          <div><dt>题名和章节</dt><dd class="spec-serif">Cormorant Garamond / Noto Serif SC</dd></div>
+          <div><dt>正文与控件</dt><dd>Inter / Noto Sans SC</dd></div>
+          <div><dt>坐标、年份与编号</dt><dd><code>JetBrains Mono</code>，数字等宽对齐。</dd></div>
+        </dl>
+      </section>
+
+      <section id="workspace" aria-labelledby="workspace-heading">
+        <h2 id="workspace-heading">共享控制</h2>
+        <dl class="spec-list">
+          <div>
+            <dt>视图切换</dt>
+            <dd>在 3D 地图和语义星图之间切换时保留当前卷宗、对比节点及筛选。右侧按点位或关联节点变化切换内容。</dd>
+          </div>
+          <div>
+            <dt>测绘框与工具轨</dt>
+            <dd>四周内缩 <span class="numeric">16 px</span>，用细刻度与四角加号套准标界定左画布。左轨提供 <kbd>⌘ K</kbd> 或 <kbd>Ctrl + K</kbd> 搜索，按标题、编码或地点找节点并定位。</dd>
+          </div>
+          <div>
+            <dt>信源与时间</dt>
+            <dd>按 S、A、B、C、F 级筛选，顶栏一键隐藏 F 级虚构。底部 <span class="numeric">36 px</span> 时间轴标出年代落点，拖动起止年份实时更新可见范围。</dd>
+          </div>
+        </dl>
+      </section>
+
+      <section id="map" aria-labelledby="map-heading">
+        <h2 id="map-heading">3D 地图</h2>
+        <dl class="spec-list">
+          <div>
+            <dt>探索和定位</dt>
+            <dd>可拖动地球、滚轮缩放、倾斜和还原视角。随缩放从陆地轮廓过渡到城市、道路与地标，具体程度取决于底图可用数据。</dd>
+          </div>
+          <div>
+            <dt>点位与卷宗</dt>
+            <dd>L1 按经纬度落点。常态只绘点和聚合数字，选中时显示短地名。单点打开卷宗，聚合点放大或列出同处条目。卷宗的「在地图定位」回到该点。</dd>
+          </div>
+          <div>
+            <dt>跨区弧线</dt>
+            <dd>共享 L3 母题或 L4 机制的地理个案以拱起弧线相连，线色区分关系类型。悬停弧线显示中介名称、层级和已有编码，点击打开该枢纽卷宗。</dd>
+          </div>
+        </dl>
+      </section>
+
+      <section id="constellation" aria-labelledby="constellation-heading">
+        <h2 id="constellation-heading">四层语义星图</h2>
+        <dl class="spec-list">
+          <div>
+            <dt>四层空间</dt>
+            <dd>L1 个案底板绘制 Natural Earth 海岸线并按经纬度落点。上方依次是 L2 文本、L3 母题、L4 机制。左轨独立开关图层并调整 Z 轴层距。</dd>
+          </div>
+          <div>
+            <dt>一跳关系</dt>
+            <dd>悬停或选中节点时，突出一跳上下游及连线，名称和层级标记错位显示，其他节点降至 <span class="numeric">18%</span> 透明度。选中节点打开右侧卷宗。</dd>
+          </div>
+          <div>
+            <dt>单层平铺与探针</dt>
+            <dd>在左轨或切片边缘单击层名聚焦。双击层名或用「平铺当前层」切换到正射平面以查看该层标签，再用「恢复分层」返回。悬停节点显示贯穿四层的垂线和交点套准标。</dd>
+          </div>
+          <div>
+            <dt>核验状态图例</dt>
+            <dd>
+              <ul class="evidence-key">
+                <li class="confirmed"><i aria-hidden="true"></i>已证实 <span>青绿或象牙白实线</span></li>
+                <li class="unverified"><i aria-hidden="true"></i>待核实或有争议 <span>琥珀虚线</span></li>
+                <li class="refuted"><i aria-hidden="true"></i>已驳回 <span>砖红断续线</span></li>
+              </ul>
+              点击图例可开关对应状态的连线。状态用线型和文字同时标识。
+            </dd>
+          </div>
+        </dl>
+      </section>
+
+      <section id="dossier" aria-labelledby="dossier-heading">
+        <h2 id="dossier-heading">右侧棉纸卷宗</h2>
+        <dl class="spec-list">
+          <div>
+            <dt>抽屉尺寸</dt>
+            <dd>桌面有 <span class="numeric">40 px</span> 收起侧脊、<span class="numeric">420 px</span> 单卷宗和 <span class="numeric">680 px</span> 双卷宗三档。收起时画布重排扩展。</dd>
+          </div>
+          <div>
+            <dt>阅读与取证</dt>
+            <dd>题名旁展示层级、信源等级和加入对比按钮。正文单页展示梗概、田野元数据、已登记编码、文献出处及机制与跨层关联。可公开的原文在站内呈现，编号和锚点直达对应出处。</dd>
+          </div>
+          <div>
+            <dt>从卷宗反查图谱</dt>
+            <dd>悬停或点击 OCM、ATU 等编码徽章，画布高亮同码节点并以折线联结。点击关联项切换焦点。机制卡片用核验章标明已证实、争议或已驳回，已驳回项加砖红标记和删除线。</dd>
+          </div>
+          <div>
+            <dt>并排对比</dt>
+            <dd>用 <kbd>Shift + 点击</kbd> 或「加入对比」选择第二条。摘要提取共享编码、L3/L4 枢纽与各自信源、年代和地点。画布同时突出两者的一跳网络，并用独立的高亮色标记共同枢纽。</dd>
+          </div>
+        </dl>
+      </section>
+
+      <section id="evaluation" aria-labelledby="evaluation-heading">
+        <h2 id="evaluation-heading">评审任务</h2>
+        <ol class="review-tasks">
+          <li>从地图点打开卷宗、读故事并找到对应出处，再切换星图确认焦点和阅读上下文。</li>
+          <li>缩放并筛选密集点位，检查短地名、聚合数字、图例及一跳标签的辨识度。</li>
+          <li>以键盘操作搜索、图层和平铺，核对证据状态在颜色、线型和文字上的一致性。</li>
+          <li>打开双卷宗对比，检查共性摘要、正文宽度及画布上共同枢纽的辨识度。</li>
+        </ol>
+        <p class="review-note">优先评价可读性和交互发现成本。视觉方案沿用深靛、棉纸与直角分栏，保留原有资料层级及核验语义。密集场景的交互目标为 <span class="numeric">60 fps</span>。</p>
+      </section>
+    </main>
+    <footer class="guide-footer">
+      <div class="wrap"><span>Astraia · UI 评审说明</span><a href="../">打开公开图谱 <span aria-hidden="true">↗</span></a></div>
+    </footer>
+  </body>
+</html>
