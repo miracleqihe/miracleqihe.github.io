@@ -1,0 +1,1997 @@
+[
+  {
+    "file": "20261121-codex-new/gas-co-difference.svg",
+    "source_sha256": "a65172daa36f637db685c5ca5aa2af435c9a2697e34636da8900c812b2e34d2b",
+    "result_sha256": "242b834e6b137cf9f3376e3d2a0627bcdcbb1901b2fabbdf0dbe151c1608b844",
+    "characters": 82,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-codex-new/heat-stroke.svg",
+    "source_sha256": "bda86f1af17f6951915c205e924ac54d5b6a650a91a974046e59e479abd3666e",
+    "result_sha256": "a8815ae23491a7a13fabeee0fd3835fe5767a0d0f3beed1a84d5c899fc49228d",
+    "characters": 95,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/archaeological-strata.svg",
+    "source_sha256": "9a7279ab961a82e80fc83fea2d0b5688c32744769de2cccb91b199ea23ca6d9f",
+    "result_sha256": "212ae0a5d5becba2b050ba272f48d9ed1eb8aa7c8726ac9d4fc83e2be29f98e3",
+    "characters": 58,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/bleeding-pressure.svg",
+    "source_sha256": "7dcbe1239ca823b5e47fa2805be873484d47e010fb6866e403f3ad7ea7a38fc4",
+    "result_sha256": "1cbbd8e546c50bfe12db9a4e94d400a24d964c8588afba661af34a54009cdade",
+    "characters": 68,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/building-load-path.svg",
+    "source_sha256": "4e9593106a3c56a8e1337185d4229362bf978059c5e480cd43fbbfc8da490da9",
+    "result_sha256": "8f7a0dc6f060f8dd21ed17c28b9f1644d295991827358de7b5041e817c338819",
+    "characters": 83,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/cash-revenue-profit.svg",
+    "source_sha256": "1c47a35771c10d2ba69cc41f52280306cc41cdd8bce1dd6a53e55808dabe4406",
+    "result_sha256": "bc48a1cae3c6c23debdccd71df39f83ece718a309c42d566a0e7f462536b4d57",
+    "characters": 71,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/causal-confounding.svg",
+    "source_sha256": "a08c1c6116d9e8bdf9d7f866a0a11db61c769dc2f7e4f12087861ebc5b22110e",
+    "result_sha256": "881cbbacfa0989d7f965c4514cbeb711ca3a680f193624bf73210d68dbcdfd2f",
+    "characters": 52,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/chemical-label.svg",
+    "source_sha256": "a91e27106fde9176c90bbf376a3564fe1875c858f3a39c2a8c6d120ffb3e384a",
+    "result_sha256": "cd9112366a50960ffc2104476616839d49f473c48d73f701de81d06fe38bd183",
+    "characters": 96,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/chromatography.svg",
+    "source_sha256": "b6eb472a58144b7d4b11a888e92ba7fa933e869c59e78023e568cc301ece9ec4",
+    "result_sha256": "d52c4f44560d1bb3c6fe1ba4174229fe2374bfe3e80fd963107c2dfd1870b510",
+    "characters": 71,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/contract-reading.svg",
+    "source_sha256": "382539997b1b5701bb89f1842933573e1a468d1e37463ddb6f9ae10661e968b5",
+    "result_sha256": "1afd95de84ad13fc22dcbdf55cc937d168632b4bb223135a1eb8e2ecb2ea19e8",
+    "characters": 82,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/dose-response.svg",
+    "source_sha256": "0fbf730414581c9634ccfee5f78ce2db91e82740bfadea0ac93bb95c5209bf3b",
+    "result_sha256": "4350a6e1b76ac3ee6572a9b273049360f7929bd8778d36423546c0082272effd",
+    "characters": 72,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/heat-pathways.svg",
+    "source_sha256": "71e3312d4149598a9920e9b875786b962e28cfe87b29d61f3aebd9d4546d4c77",
+    "result_sha256": "3412a7ed8a5b1951e49f6de9cafb07bfe9d1de36517a394eff51cb91d142c4a5",
+    "characters": 66,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/mandarin-tone-contours.svg",
+    "source_sha256": "7e4b9e7011a30ae061773344ab96cf3a1e5602ef50443872e7d4990582515469",
+    "result_sha256": "761e33f18bfc5c39601bde499174bb3dcc6bf42b00405285f1ed508dab110289",
+    "characters": 67,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/meter-circuit.svg",
+    "source_sha256": "c888ad1cd1c99e5f569703c23d5f605852aacffe075d25c34680f7dcf6de3c71",
+    "result_sha256": "5d9c668f52cc82b1fac5ba57c5842fb3e6c36632fe5f41e2def54bd45840b750",
+    "characters": 64,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/narrative-order.svg",
+    "source_sha256": "d0eb04afb8d6e428add51ab9d391444e7eecb4eb0ef2bddb5d12335c73b113bd",
+    "result_sha256": "b55b805f50fd5066b28232295715ce4afc314020413a0b570159ea04f8887d48",
+    "characters": 54,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/percentage-points.svg",
+    "source_sha256": "c50e0d010e841007377aeb2c33add1c7be4f3bafe6cd321dad277bfa47ea8775",
+    "result_sha256": "f1506ef3f57f8455d5e616862f6085fa254a840fe0490d929d8d33ba45c50c31",
+    "characters": 45,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/screening-base-rate.svg",
+    "source_sha256": "6014b0e6e29c29316c1fa9b5a4b1ad42cc334a13ba165cdb5ff3aad0832d1379",
+    "result_sha256": "8f34c6c356f2943c97223b34bf73a2976211a6ae396358056dbec56578f3be92",
+    "characters": 71,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/social-mobility.svg",
+    "source_sha256": "ba1d169309f97408000d75be5ba918028feb7c578680253303c24e3e9b503b4d",
+    "result_sha256": "94989fdec8b5b1654d98c33db85c6b607fda9dbb39e897ec3841eb080d70ad58",
+    "characters": 68,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/solar-lunar-calendar.svg",
+    "source_sha256": "fe36fac9956addafc21ec26cf379fee0afc874a220dd95218f55d146b9155362",
+    "result_sha256": "3f5564ec07f7b2b4623c6de207454633abccf3a0b6dbf55ac1cf0723159ff3ab",
+    "characters": 63,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/sound-waveform.svg",
+    "source_sha256": "bda78fb60cf8e22745d4b9445de37627ef03911370fdc2db22de468ff35fa553",
+    "result_sha256": "58cfacf0fd4a18d91960f081064eed90a1c15a334b5bcc569fb7c3667ccd248e",
+    "characters": 47,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/stroke-fast.svg",
+    "source_sha256": "f1beb056f12a36bf5f7119d218943c4a32f5d9a6ef1ca04b1226c80374b1a473",
+    "result_sha256": "76e9a743304500f6488b21b04bb68414d046f012e37a04d45131c7a5d08bc8a6",
+    "characters": 81,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/terrain-valley-ridge.svg",
+    "source_sha256": "74e7d06bf87da3371d29bd294991b8b3551579404ac5eb2b9f11d636bd3409a6",
+    "result_sha256": "d76b09a3089a3cbca6777e1e93f1cfa9e5f34f8a2cc622c14a21dade5ba0d374",
+    "characters": 60,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-discipline/water-treatment.svg",
+    "source_sha256": "ea1cf46982ebb92289d1f921bb44f8eee049dcd63543db0fb762b11578e02815",
+    "result_sha256": "709b4d1708ee2686fe0705234c9e389d1d6c9aa8daec1e7dd183aeeec1cbd451",
+    "characters": 78,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/animal-cell-overview.svg",
+    "source_sha256": "aa9c09f9229464d5f617bc790880b7d9e4aef692bfa22844e2d54cb41ed1c64c",
+    "result_sha256": "c8f73b43c02af965906c7645090587c397e368ace70862467a6bf177d548a801",
+    "characters": 62,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/chest-discomfort.svg",
+    "source_sha256": "7016c50251208338e18223027abcf3bcf5a464983c58314aa2249695133486b1",
+    "result_sha256": "4c1d1b40c126ab9d94fc6efc6f29fb1a3363881e4761f813c5d26c3c217f102b",
+    "characters": 79,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/convex-lens-rays.svg",
+    "source_sha256": "ee54a5f39f307e8dec2017029ff97fc8852274a71cff9406aefc03f738ed968e",
+    "result_sha256": "aebf3d3154ddd04e3598ed14f644623786db02dd06c84e9698a248c3fb3c2c71",
+    "characters": 51,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/dns-iterative-detail.svg",
+    "source_sha256": "6b9a5d156cb9a5eafdfa5656e23f7b5642beede8d142768fa0371dfded9b7be4",
+    "result_sha256": "1ac41928bfa7b162c9dba309659d81d6c022ac704a0023b9f07d43fec5c605ce",
+    "characters": 79,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/downed-wire-water.svg",
+    "source_sha256": "b556a6beeedca8a87ae48ae1a025cda9d025441775cc14fbbe8994dd76957e7d",
+    "result_sha256": "7114ed1dacd892ad18b7959edaa63e0c83f02a95d557f272f7c06b2dca40fd33",
+    "characters": 75,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/electricity-kwh.svg",
+    "source_sha256": "032403ac8c71f52c4e6686bc80450edfcc91b334dbbce45188e8bdceb73cec77",
+    "result_sha256": "4593b99d493529730cebfe53027f362b4d551ade14769fb6587845799edead80",
+    "characters": 67,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/food-thermometer.svg",
+    "source_sha256": "8d672f76b1d30e8940233e98f3fbc6266b339ee92b330f2c76f9798fbbb18ecc",
+    "result_sha256": "e4898c27a6c119932d84a466911d7dafbcb7557046ac944c42b17e73a290792c",
+    "characters": 77,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/grease-fire-cover.svg",
+    "source_sha256": "b9573a65f538757591fded252b1e317c6350505fb8dd81c99988db4414ec1d48",
+    "result_sha256": "2c619d7f0bde45fdc59b2de7d6535a92b295b0a54c7168ae1beb3a3e298c09b2",
+    "characters": 79,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/heat-illness.svg",
+    "source_sha256": "882b5b3da52d3cc3e6207ca93041c4e6331aa81c34a828c23df8bca1a82dc231",
+    "result_sha256": "71940c02960d13ece4f24bef0fc7e9fa68cab33a03d550a838970f92325a5106",
+    "characters": 76,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/low-temperature-burn.svg",
+    "source_sha256": "4e595fdefa0e0a4b9343850307b18efad88b85adfaa734d573d1e4c6b86cb9b1",
+    "result_sha256": "1db63383b70e223d8d1592fffea35bc2bf209bad8785f874aa70c0912022680d",
+    "characters": 77,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/mercury-beads.svg",
+    "source_sha256": "0d252259519d11688e89a0ac6d5e5636268a671fca25b1be917c5a6d05b88da1",
+    "result_sha256": "f345492ce8ea67885437171d19bca40fae6aafab90edb7225f9a3ea4208696b8",
+    "characters": 91,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/power-strip-rating.svg",
+    "source_sha256": "c3fb2cb4c93491b8d19df505ab7a098cd83624856580cce5156f3e70a2c4937d",
+    "result_sha256": "1c07b3a01c36878a41e7f449b49eb70a631ed9837544048bb6eb21e14f1378d6",
+    "characters": 91,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/pressure-cooker-release.svg",
+    "source_sha256": "9e5235d41e18a78715197a4044f7295ea687e86d065a7b92712f9c71130b4289",
+    "result_sha256": "cb0a81ffe6de8f26d952bf84be66a8af47675dddc81dd33d938dd9dac2294254",
+    "characters": 79,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/river-strainer-detailed.svg",
+    "source_sha256": "67a6ba4b9309457939221179f95dc85e9a02fa0441581a899528632521f8d1cb",
+    "result_sha256": "379061ac40dc3166c35670d3f0ab75947605b02fdb3d3706e8bbf57da535d9ef",
+    "characters": 76,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/rodent-cleanup.svg",
+    "source_sha256": "285cdd8ca3593421a4e08adb5b5586940f6b99907223adeda4ac6f3778a99a84",
+    "result_sha256": "580c347cab13a09e41cacf183992cc081369945c804929ea603ed3a79ec1250f",
+    "characters": 63,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/snakebite-first-aid.svg",
+    "source_sha256": "1a7db309a4754eda1bdd4609190da710a166e7d1a3afeb4079ead6297104a0c3",
+    "result_sha256": "14101741b9027eea69a53ca3e79611a451d51b4ce95a681d85b26b5bc7d4afb2",
+    "characters": 91,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/soc-soh.svg",
+    "source_sha256": "febe854845318ee45a7b0df569cbf8923ed3c6cfaf0ca2a40f6c856eca283e08",
+    "result_sha256": "e0e466fee009cc3582eaed50cc04c03451208b6de0e9e6b4deb566a663399852",
+    "characters": 66,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/standing-wave-modes.svg",
+    "source_sha256": "a53375820597186c3273a93f38390d349ab698fed34ccc1cdc0f586220cd176c",
+    "result_sha256": "89d03ae0cbe86b87556acae96371ac6b9ae9163a9522954c5ee8404f096bc025",
+    "characters": 44,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/tick-removal.svg",
+    "source_sha256": "35de5dcefce7526096795143823ac4ed1d6d4e15a2d8b046fef2a4ffe98c61b8",
+    "result_sha256": "3b79ba61bb7b6b80e51b330b5c454bcd7d2bb07162e26e1df92a8ee0a84fa571",
+    "characters": 72,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-cross-refined/treewell-detailed.svg",
+    "source_sha256": "0198c828389184d9868fb9f5fe0e7597d676534274561ac010865d2ad68a7f06",
+    "result_sha256": "c52ec6adc0e489bca18572f506403465d85748378a17b7e5907651d011afeb7e",
+    "characters": 86,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-extra-drawings/02_井窖有限空间遇险.svg",
+    "source_sha256": "5ed16cb378b4dfddc08422fc414123e61bdb2ca591ef0e86a71dd1403d42eac1",
+    "result_sha256": "1efaf89e4271657864dd2fc1b6c52a9a1f171240f1a616bb48b8c52e07f38b20",
+    "characters": 93,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-extra-drawings/03_地震避险与被困求救.svg",
+    "source_sha256": "45ecc3008dffc6074aa033268b2486256e774694d9603935d6d57b4ad3a5b076",
+    "result_sha256": "af922a7d209e9a2d02b45ff5f0ce88c8b29e37df3ad592d41e4236c6262bd103",
+    "characters": 58,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/01-drowning.svg",
+    "source_sha256": "5ddfe1fedbdcfafa14f1e4b0cee8e21a14910fbc6326820bcfd6fa75afdb6ff8",
+    "result_sha256": "d05484da4a4cf3be7d7bcb8a999000d54f17300e923722af895bcb4d1a4ed9ba",
+    "characters": 94,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/02-smoke.svg",
+    "source_sha256": "ea4542311630ae11c20d1cc08454b63d16cfbfe63051c8d446263a0378f57b14",
+    "result_sha256": "94d9c8e8b2738eb901fcf8f8713dcef3a2244e8bee067ee8df5bcad1115de49b",
+    "characters": 87,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/03-head-bleeding.svg",
+    "source_sha256": "4ae10ebb4e60ede4eb640aad7818a346a27af5d88cccff75cb9450115f5d60b7",
+    "result_sha256": "d4111cce839a3563e47a936fd4913bd97d16b403fb8ac2ad467bcfd65ada3d45",
+    "characters": 55,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/04-fracture.svg",
+    "source_sha256": "29f288d4d3e1e62d4c0f3f391be55cd3ebc4550b6a382f500ea9d3846a57147b",
+    "result_sha256": "789040aa247f1244b98a7adc95525efcebe576db2d4fd82d221a0fe38ae0d5d7",
+    "characters": 76,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/05-luminol.svg",
+    "source_sha256": "60b88968c9e05d97e84901b0e3d2a6b867f56f39bd6baea48bfa02754ed0a901",
+    "result_sha256": "a87a1e4d2ec8e527db60744c3b5b2e49e09d8a7394c4972343e0f911aee194d0",
+    "characters": 82,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/06-stomach.svg",
+    "source_sha256": "e8b59508cfcfc74d8571efe2d96ce0d5a73f78dd9d1f15a89d74275f9b0a476d",
+    "result_sha256": "45296f9fb13739816b2dcccb441e071343af70c5ce68d80802ba530659240196",
+    "characters": 75,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/07-heat-splits.svg",
+    "source_sha256": "d0144ec11e85a778d9bd88aadf7e49318dbbb130a3b96a13a6be292f571a7d40",
+    "result_sha256": "a082b60fbfc5ff090de8cc0fb49da980dbe198eed6a979fa285164b837583f9e",
+    "characters": 80,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/08-airway-obstruction.svg",
+    "source_sha256": "92cb2d308ad48d888a3297c6761f07cafbf25fd5fd9ee27b5465bc739055970e",
+    "result_sha256": "4817c03d736a50025a45bc980dbce3db61d0680af60945ae372d86c16f9665f3",
+    "characters": 88,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/09-infant-sleep.svg",
+    "source_sha256": "3ad2eb14611bf43e3671c263e428366da7e9abe7452ed24419ab2fed7ee22cbf",
+    "result_sha256": "3fe4b413c3976fdba5e7cd1759819a12cf4adea2d2cb0f482167db0378795987",
+    "characters": 76,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/10-axonal.svg",
+    "source_sha256": "41ff6c8028e973cda6bc9becca45a4a144fc90c682e265450a6717e0317268a9",
+    "result_sha256": "ba19ff90b949768b663e447746f50328d36eea36b29a749dcfdc56b4b3a80023",
+    "characters": 83,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/13-eye.svg",
+    "source_sha256": "565cf46717b56b2d3e35a9b1637e2fe1b95c81dba953bb9e42721a415d70bc85",
+    "result_sha256": "0bf465361a508f41112dca8d7cd01362ad6db076c1428aa59574a89b01e40b9b",
+    "characters": 70,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/14-ear.svg",
+    "source_sha256": "167b04a09fa8993189253e801688ba7615453ec6057f054664755d7622fdc5ee",
+    "result_sha256": "7ece3ace532df879fe33bdced8c778ff7dcd910749db1cf21144f8b9b177aece",
+    "characters": 69,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/15-pelvis.svg",
+    "source_sha256": "09beb6f2090011391513e42ba958b97e28b00b04daa7d754cc2c3329a4e6a6f2",
+    "result_sha256": "b5b9529bafdf398660730cdb7a4ef43d597f1036515ca0c1147cdd3002dc26de",
+    "characters": 86,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/16-ectopic.svg",
+    "source_sha256": "cde4a2163d34f88c79fa484679a25b9feee8112c5df8dea48cdc7e98ba733f1a",
+    "result_sha256": "a4575f9726c2320d421b8341e6c5922e1568c59c9bef690549555848c2e5f41c",
+    "characters": 90,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/17-lightning.svg",
+    "source_sha256": "adcccfa950f91b8c343fbb4f9f2df937d656e884c1760cf132a5e6659e5c6cdd",
+    "result_sha256": "a1c90cf060c057fe3a0f90ae5ff4214086e777a03d1a5a3f3866ccbd9f6288ba",
+    "characters": 80,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/18-hypothermia.svg",
+    "source_sha256": "591febb4df017a40d67ad9433a55a8641268988dd2e9577e1b028a8fa27c1eee",
+    "result_sha256": "d64da4b25242205e37dc7d8bbbc211b522891ecbcdf69bf6eee57787c33adda0",
+    "characters": 88,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/19-growth-plate.svg",
+    "source_sha256": "053fb9acc16072e23cd8f80a287bb8ea65e860ef3b33d1fb7231ca08f06b79a7",
+    "result_sha256": "a2788a37ce1b70d1041641a7831cfdbf31946a59cf15bc22901b125f45610e8a",
+    "characters": 81,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/21-immersion-timeline.svg",
+    "source_sha256": "ac7a4b64aab0f144fd31f74a5adeea427893366c814514f59f97cb81a3bd0a04",
+    "result_sha256": "4f153f8f75f3e63032b029c14fb086473c111eafc9571b4acd0f0853bdbd0b5a",
+    "characters": 76,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/22-vitreous.svg",
+    "source_sha256": "5f2d6e91e12019200fe2f4027af4c6feaf0b3405b7babadcd05e14d9b5148134",
+    "result_sha256": "f4cba7d53cb270202b839dfbf35788f5044c3ccbb74e11486f3768213cb897a7",
+    "characters": 84,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/23-insect-temperature.svg",
+    "source_sha256": "dff6e5edd91bb0bbf2323f871f0514a3c260e7768acb1a9de5f10826cf4bfaba",
+    "result_sha256": "3a223d2828056232f08d37e624ad228371ae1b99a2239411269b939370110aef",
+    "characters": 84,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/24-hair.svg",
+    "source_sha256": "a3c1046f477f090d7500bc4e7f81ee421d5f2ba2a3970ab006ecb66091d479d8",
+    "result_sha256": "0238a2f29042d6a239edf5fbcaa930c200eaaaaf26a763c6ba2280af9dd0e72b",
+    "characters": 83,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/25-disaster-id.svg",
+    "source_sha256": "66ca252c51e58ac1904705579fa1eac9113ad31f77c837821f11e140fef1df0d",
+    "result_sha256": "7526931b1a3a94cede9b6661539b4f991947729fc1b8a5ce4e170e64d61a1ce4",
+    "characters": 88,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/26-semen.svg",
+    "source_sha256": "5eb150b3088a8a04834e44aecd384679de6fbbb4415c3c28aed7bbf5c4e6c138",
+    "result_sha256": "a17c7649a87f05944af517a10797c81294859827e2c8df86b6fd7bb8c8535f08",
+    "characters": 95,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-complete/27-anticholinergic.svg",
+    "source_sha256": "9a6cd68f87eba749fdfa7eeba11879bf6367d56e0771120374b1ce05a812a870",
+    "result_sha256": "317a2c5b518170bf9374ff4eda1baab2df651237bbf8a175f890974db1223343",
+    "characters": 86,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-extended/01-cooling-context.svg",
+    "source_sha256": "8d90659fb68b231fb4a4c2eb5309b9121494de6771d470e98e5b683aa4b091ef",
+    "result_sha256": "0a55b462aadc5675255a5e94c02068ad94616c69149d1dbe67e1dc52bb9e4366",
+    "characters": 99,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-extended/02-rigor-muscle.svg",
+    "source_sha256": "923004df9603e9c6087041e4a77ae8b2e5143f156a6643d42f8651fd2f3053e7",
+    "result_sha256": "9789cab83d78c21262c4a4e4223c60e02598b38a44c60de00097e0988427fea9",
+    "characters": 102,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-extended/03-eye-exposure.svg",
+    "source_sha256": "bd0c611773acee9be76d660ab33b09bad43b8e3ea9931af08158958c8c260b3b",
+    "result_sha256": "ff1c5248ef3f909ad0313a930674221a66fa0e481ac5fae3af4e78201adb35ed",
+    "characters": 114,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-extended/04-skin-artifacts.svg",
+    "source_sha256": "9f1d2bd90ebfc52842136588164c95ee875127ca8845b8f7b2c538e370cdb1ab",
+    "result_sha256": "62fa81cee3c9d74b8ff8ced22a2a843413bf8b009e3dba300186fec3293f5663",
+    "characters": 117,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-extended/05-subarachnoid-space.svg",
+    "source_sha256": "d31f054af72bd4aafa49fa763a0928f1f1c518c3d4c77a0c1f38e812f9f93ff0",
+    "result_sha256": "6ba489541e5d0cdfaee41bc5bb8491577958553eee9404252df35fee2a5868ff",
+    "characters": 122,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-extended/06-co-oxygen.svg",
+    "source_sha256": "8390b11848c6ad4d4b0fad7e857807e8ee114e7ebc8c1a9ab350a262157bd9f9",
+    "result_sha256": "6b99940e7abc6e72b32ffaf90e0166e8a1868def622476dd744c0555f4deb77c",
+    "characters": 114,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-extended/07-methanol-path.svg",
+    "source_sha256": "5fdadef2d346cfb357d9b16da3f5e7322f752662eb570c9cd5036d0ded6ee0f8",
+    "result_sha256": "70b682b31af054a716b3c94abc04cdce4b9780f6267d48ac003674c324feed2e",
+    "characters": 109,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-extended/08-organophosphate.svg",
+    "source_sha256": "d527ace3dc569a309f1f4ddcb8f2f497711ef7c79672405c5d2b5cc7ae410d97",
+    "result_sha256": "a0747b4b2816e0c4b4a65b86e14382605a85580666d5f7009ec14ddabbd25bd4",
+    "characters": 104,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-extended/09-opioid-breathing.svg",
+    "source_sha256": "2791d5c099f35fcc52a912b9985b85b61901162f3d3b3e3d1378b6ba8d331586",
+    "result_sha256": "1886a4fe5df496bc305b35701703b284460bbe1e2f6d68b40fa17a84172039ae",
+    "characters": 121,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-extended/10-lithium.svg",
+    "source_sha256": "dc5a4b60a6bc8af4fcce37ca1e9507ab29fc4735011f7615fff86e50e4d60ede",
+    "result_sha256": "646e152a1eb62b85b68546fdfeb63bc09bce07dc0eb29af313f2a134a55d1786",
+    "characters": 105,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-extended/11-insect-stages.svg",
+    "source_sha256": "bdce1444575a2a100bef2acc2688d04370c8fecad7fe10eb82df86d865860346",
+    "result_sha256": "cb659afca6af356cbe289447855339d430f62c1ee684a18b572266d0c659bb30",
+    "characters": 104,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-extended/12-hair.svg",
+    "source_sha256": "f56b13b2557f8be479d48212eec2d17387e55a9c3c9763cb2b93378a6b564afd",
+    "result_sha256": "73ee5b5fc63717dec18b8c18b535318839855a81d6f1a5e2122b6c9660343788",
+    "characters": 112,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-extended/13-dna-mixture.svg",
+    "source_sha256": "5e2e28b263f35f01f80fd99d182adb2525788a5f700b9705275f0b987e4791cd",
+    "result_sha256": "22f29e2a9c2448a548afffe2d40b86ac517004a4525a5ec627869d48508c8e31",
+    "characters": 101,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-extended/14-image-perspective.svg",
+    "source_sha256": "cf11b80415936bf48fa5fefd6a996801dd469c7e694a1008c32766c8372931c9",
+    "result_sha256": "87379dd9aa37c1d6d3005ec4f1b9cdc29dd943bc6fa49b68ab6cfe010cc99d52",
+    "characters": 102,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-extended/15-event-timeline.svg",
+    "source_sha256": "9f346b901feeea7bea5881d63146ab5ff19287b2eb993c624d2ce197cbd13fe7",
+    "result_sha256": "0649f7ba250a3e7830c2e31ab2ed5aa1efb2823362a8991c2f6734085dcd26c1",
+    "characters": 109,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-extended/16-location-uncertainty.svg",
+    "source_sha256": "6bbd3e96fd51f48d16144d626f78f3c875917142c0e9b9b5d9e6fe8404a70337",
+    "result_sha256": "d90f7da31f4c871cc177f88391e49cc70cfcbb3b9b30ed2cd4101f7ca4e8d883",
+    "characters": 113,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-extended/17-toxicology-matrices.svg",
+    "source_sha256": "476ced856d30ffd1e1ac961de97f101193a0abcd454a56b791c32d3da4c38b31",
+    "result_sha256": "c461b203f8215a8a3c65cddec6aecb34fc245aca869ef76d523ecbbd496c2b50",
+    "characters": 104,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-extended/18-footsteps-acoustics.svg",
+    "source_sha256": "3eafbac3e04ce503c29b4bf76e9c155c8eba1a66670615b9769eab68bbd37e41",
+    "result_sha256": "4fd1f66372c630596688809d8f45b3e0c627a9781e52426aad78e1ebf60bfe3e",
+    "characters": 103,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/01-chest.svg",
+    "source_sha256": "1e149e92d14e787c025c805abab9ad3bdc148c1822ed34cd68825bee141dec4d",
+    "result_sha256": "e401385a3d5d1274957f6c68002b540c27780686d5d5b914b7af425094ee1004",
+    "characters": 70,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/02-abdomen.svg",
+    "source_sha256": "de9145d9adf626dd1fa5666f1d533485813a43bd5a6f01d06107a363552dfb71",
+    "result_sha256": "3d8fec97c22aa0d6249a9e4971931e66f2bc4a22aa531c93b5d2e61941dec15f",
+    "characters": 85,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/03-adme.svg",
+    "source_sha256": "d8b896998c088f724ae7eae0fc47a1a1250f714dde775895634f8ff1c24f8ebf",
+    "result_sha256": "43b8fc18be641c6dfae0e6593ec58e805b42ee5dfe68cb1e3e189678f6cf0e2e",
+    "characters": 68,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/04-electrical.svg",
+    "source_sha256": "cc28dc1b70af9caa151108650afe49deea269b17c01d8681f68e21736c8f964e",
+    "result_sha256": "b8b70a68bbd9a5c156dc0d498c81c46df41029fa2475b2d2172b4ed3355f541c",
+    "characters": 82,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/05-bruise.svg",
+    "source_sha256": "13083199dbf040a016f993deb25965e443683677895af803b9ca856509fb9518",
+    "result_sha256": "c2349ecfd8502553cd163b99b6adc7815b1b1d6227414b12cc5b3f2ff8c5ee66",
+    "characters": 69,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/06-fall.svg",
+    "source_sha256": "66036cc678217e1cb79e85269811470a34500f3383a78c7fe7274023cbd081a9",
+    "result_sha256": "8eae4f28a435aa495cb8513e4b5d94198328db09073e8576215333462c2176ca",
+    "characters": 88,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/07-temperature-sites.svg",
+    "source_sha256": "ffd7493b6c228e3e39476f93bc57e31a488d3bda7ab2d150447a6dcb68c556a7",
+    "result_sha256": "4a960f220543196a2afafb1caa95697c753887a666647daa33b2fb8ff84afba7",
+    "characters": 78,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/08-scavenging.svg",
+    "source_sha256": "d135bc7909a9c7e05e67c132c86c8ced77bff9372f51ed9ee3333c24cf4c580b",
+    "result_sha256": "80f62634347de5bb78bda3f4ccdf2f91fc1c2fd449e4b4f570dad057a40ee3e5",
+    "characters": 73,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/09-pmct.svg",
+    "source_sha256": "5b0bfd163742d4ebcdda49ced716c6926999f7a739693fb2bf932d8a6cdac4d3",
+    "result_sha256": "845e95e202fd02b660e9778b3d728bdbeff39bc305eaaef51a2562dc45ffca5a",
+    "characters": 82,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/10-altitude-pressure.svg",
+    "source_sha256": "4ea37494019ec4555430193ec5024803f68e41b7698f4eafefbb838ee5b8b731",
+    "result_sha256": "1776ca2d2cfdead8bc9ddd279d04a15711ec2c3542b997f2ecafa85965ead6a0",
+    "characters": 78,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/11-arterial-gas.svg",
+    "source_sha256": "a656f3fa8da609eadf3828d1e8b7201cb8f23e513dd293b960e6bbb0fa308041",
+    "result_sha256": "c0b309b68def56a1a4daa7391ca848627b2efeb58dad82eba9b1ead4fb33e650",
+    "characters": 77,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/12-head-fluid.svg",
+    "source_sha256": "acca0a6d995f80e514fbdb333898fe22759be0cb7d22f8db109ced9c7113ef59",
+    "result_sha256": "c86f8322c7c2aacc1eccf400f8d3d5f7b89e28a95b6ad86eac0094ab41f7e0de",
+    "characters": 81,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/13-commotio.svg",
+    "source_sha256": "9215da058c18d11676367713f17b9c89bfd66d5df35fc17906eb0290e9e5699b",
+    "result_sha256": "58e2acf90dbdc952708d1f50dad93af216747196b5c4d1bcecaefc46f81a2a3e",
+    "characters": 86,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/14-fat-embolism.svg",
+    "source_sha256": "8d92c724091862a6098bf3eaca673dc3286e2e5f8dfe68cd46067e5a8e21f6e1",
+    "result_sha256": "36973b5644259393fc78a635e2ae76f3b83b4e6e499d33f2bf7e18fe2a51f01a",
+    "characters": 83,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/15-tryptase.svg",
+    "source_sha256": "3179ece4cb7b2b7ac56bba2a3b2f85c655a7c118293059d0d42fd6c62ae193af",
+    "result_sha256": "6d1918c84432ae7963654c3e1aff82ade3ca11c2784ccca62062e97238e60f01",
+    "characters": 87,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/16-position.svg",
+    "source_sha256": "df1874e37bb8f36d7c05f8e58c812eebba30d645ccf4c0b812d076c511f1217b",
+    "result_sha256": "a101892042f5ce2541be3a8d040b8b17168d0eae8f310839e7c68ee4c18e8b51",
+    "characters": 81,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/17-pneumonia.svg",
+    "source_sha256": "5e781a791ad0a2151a3c2f1e1fe02984ab23571c9b49ec4a36169d2d033fdbca",
+    "result_sha256": "ff97c7233cc43b9c69deef573dd43126a08e362f6093b8336c59a89cbc5fe4ea",
+    "characters": 72,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/18-pancreas.svg",
+    "source_sha256": "42b6fcc32480ea5dcbee72da07a02fed57110be6051eebf31931e2f2afa22358",
+    "result_sha256": "e966c4e1ff93ad710ffbbdda6e4ebb74772c65b7214d422aa802c09795930bcf",
+    "characters": 79,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/19-calcium-blockers.svg",
+    "source_sha256": "bfdb41c10bbf5888c44dfa234b1d00316a896e55ac09c2f958beeb763611da6b",
+    "result_sha256": "5b528fde031eaed64d520ea5cfba710a4802edc946c153f1d61681c418001d4a",
+    "characters": 81,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/20-tca.svg",
+    "source_sha256": "f14b9e8b2722646b818a8eba3ed46b96a4dec30e4f5096e1e3922117842523d3",
+    "result_sha256": "717243138eab0a1044c8d131389120ac0ca6ec1ab1e084054301d8a51e503785",
+    "characters": 81,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/21-rodenticide.svg",
+    "source_sha256": "06e21f97fd8ea03f602a9952d5bb417e46c931c1566a067f35e59cf369ca501b",
+    "result_sha256": "9b0362b50811ddd49b81eaca2fce019bc0098d451b2e1adc97a261b3bea35071",
+    "characters": 89,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/22-stimulant.svg",
+    "source_sha256": "a3b6ab567c93bd8f7c30d5b87a47eb6f6a66c8ed73ebfae32c8f551f44eca491",
+    "result_sha256": "0fa13cdd87a39fb02de9e9f0a73f30578bac6a7de3751de74535f62524386c20",
+    "characters": 95,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/23-saliva.svg",
+    "source_sha256": "a9c35341aad84c78434a22fc2ab2a763a03cfccc404663125907a9ea3bb5eead",
+    "result_sha256": "eea97bfa279e5b6721e1cdd28a36ef2378ef278b741ffa0c58212deb9a20bf6f",
+    "characters": 84,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/24-parentage.svg",
+    "source_sha256": "9473d0e4dae65eb708d0bb7a70586d729c0d4aba1503523a55f3642c5ae06486",
+    "result_sha256": "2ab07ca6823ed5247cc602172db5cd5b4ac04154d25306eb347a6a19d5ee3670",
+    "characters": 96,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/25-skeletal-age.svg",
+    "source_sha256": "530e370fc1f23f901fb50f96a679f916efa1f3caa185949629b239f1fad17529",
+    "result_sha256": "9467dd18234b6fe802b0b257cca93ef9e98a87a7a17ad54042edf8bba304a87f",
+    "characters": 79,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/26-paint-fragments.svg",
+    "source_sha256": "3eb74b482490b0ccf7e541b9a8033525bc560fd7898363041c52f1c7047de00a",
+    "result_sha256": "e899b1599769c57c3a3a03baba6f8f88fd8c067eb120a87a20862a2e485d9aeb",
+    "characters": 90,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/27-blood-void.svg",
+    "source_sha256": "45f04b2bc879720c71a79a9c21210009c418fa787594c8742aad0ccbe01d9978",
+    "result_sha256": "a95ffa030097147d85389073ab5fefe9a78e8326df1ebaf440400a6ba2c7fc64",
+    "characters": 85,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/28-tape.svg",
+    "source_sha256": "5aeac1bfcbf3797c6371f2e92b6356468273accc1ccd4bdd2d4e510ce8831f02",
+    "result_sha256": "418f298f92ef446edab4b9d3899b27c76370f446c08996ab58074b86a174e035",
+    "characters": 83,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/29-gsr.svg",
+    "source_sha256": "f56ba600b66afb5906a95c8c4f22388c9437ad3367a189be66175374ca6d5df5",
+    "result_sha256": "dcf98881032c3bbbb77248bf1732a672804df527113719e2e6068238a5d259c1",
+    "characters": 92,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/30-insect-delay.svg",
+    "source_sha256": "a0a93ec680d7e82e2d9032ae401d9179ae9a558268eed9395b95fe878e3bfc8b",
+    "result_sha256": "c693533a35d0d5ab6c7176f266e21d30217b71a7e6edb2d295d43c48c54d6ea1",
+    "characters": 94,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-final/31-tourniquet.svg",
+    "source_sha256": "a7b1809910de0153fc3c19870e0e2b73cd4e5b192daa6077a788d4af0f5b53f9",
+    "result_sha256": "4d480c2ab2661a627b0f0b6f72dabbe29762ac42dce452bd42fa72b3e8d69805",
+    "characters": 104,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/01-spine.svg",
+    "source_sha256": "635409c80d8510f49297dddab72b2675ab27ac9256cf947561efc354e6626cf4",
+    "result_sha256": "e4ee798117b6b29a2cf8952e54c902dc29d8860fcc65893d2a13f94299c7823a",
+    "characters": 82,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/02-neck.svg",
+    "source_sha256": "d83a94ce8095f1fbabafdab7261af8f1ba927c694064657fd0bba0ebc3055ad7",
+    "result_sha256": "cf183fbb49840d0631afc51b3f2329b6512cefa8fe10b2e862840334afff0273",
+    "characters": 87,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/03-clot.svg",
+    "source_sha256": "e3b51a54e2e58c8ef6443dac9740965f3b77d4cfebc7bfd82b59e32e6f8abc7e",
+    "result_sha256": "6e92014d5094978048cd27585ad2517c1c72e9b47d9197280217403c5bfd77f8",
+    "characters": 96,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/04-blunt.svg",
+    "source_sha256": "2177de80cacad50c21356575f8878379a48c383237cd46c3a9ed85e49963b765",
+    "result_sha256": "0ef4b345f9514132cc60952b74d6cf417e25c84d41e722a4af19a231c99727b8",
+    "characters": 80,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/05-sharp.svg",
+    "source_sha256": "90a55672ce404dd51361cbc82c895ccf9ec6d013a8015765cd7b632f9500eea2",
+    "result_sha256": "ff77ddb2acd9106efdbce37fd3e89cf8eaa45c506a24f732fb083fba0b69a170",
+    "characters": 76,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/06-burn.svg",
+    "source_sha256": "ebb766e1675040707a91a8ca19572995b51f0b2cbe5227d475ac45f44b65bffb",
+    "result_sha256": "1bd7f236a06467e524f5ce3141b3cb132edfac9b41ed53927aac847f46401275",
+    "characters": 83,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/07-compartment.svg",
+    "source_sha256": "2c1e607b240da74635ecb64a89be70a16a62057921621a5ad6187eab37c6ac73",
+    "result_sha256": "00ea91343a7423b8c329bc7bf2b7500f750e50baabba28ff0ca3080aad87602b",
+    "characters": 88,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/08-crush.svg",
+    "source_sha256": "4302e67df065554cdfb2856fef4885626730d116612fbbf886b0084c11faf010",
+    "result_sha256": "f8cd1029b88f9315bf5080abd30ab20430c86bf744d52ffedd9bcfdaca559b18",
+    "characters": 83,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/09-frostbite.svg",
+    "source_sha256": "f12bcaf10f8a71d47c6aa6686cef68295b7d2a2018ff3aab4e8fdfa2eb6bf31d",
+    "result_sha256": "832381d2837b6869983a73b31ae60aadc73a96e233f1f6e4f87bee80a96264fc",
+    "characters": 90,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/10-pneumothorax.svg",
+    "source_sha256": "b4e5961308df0058294a3dc73dc67f756891d16f987e2bb1804d1fcbedac0981",
+    "result_sha256": "37604d8d2a5e160002d1a3fe151754eb7d622bc1f29e649fccda957afde2dc62",
+    "characters": 76,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/11-limb-ischemia.svg",
+    "source_sha256": "be0e2a83c1b47fa904bacf0a41a51ae8bd4531971eb2195bdac1f48a6db5f7ab",
+    "result_sha256": "174878e8b671f8c4ed16392228375eb70d580f554f8ce52a9dc062cab3fb73bc",
+    "characters": 96,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/12-pressure-injection.svg",
+    "source_sha256": "6928414a0aed1f5fb0efd3fd858167f9a206ac1f80d6b522023cb240d9a83c40",
+    "result_sha256": "9cf752636648668d6f97ea453b4f7b52ae563256924cb37699473bcc10f82bc4",
+    "characters": 85,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/13-ketoacidosis.svg",
+    "source_sha256": "97b6a5ba6604ec1e5e4e4b9288a59067ea0a0012624caca5a940d001014bb4ca",
+    "result_sha256": "0c1ba35deb0fa54bec26275c693e6d1c2847378913ff3a01ed1dcc364bd5901b",
+    "characters": 80,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/14-asthma.svg",
+    "source_sha256": "029b692cef4fa7730dbdf5dc86cf6668d0a0a1a5a719cd3b873e71d248c27e12",
+    "result_sha256": "0806340d424067f427ec4ebadbf32c72171f64441b754ae003c6c7ef5a41a084",
+    "characters": 99,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/15-altitude.svg",
+    "source_sha256": "2b7159dd7b4ec2076c4d61f514b9b48c734b9b7c1fd39ed4190f59c82c0c742f",
+    "result_sha256": "03e00035d4b074d8ac382f35c5e93503cd25bd608db59e4966bdba7f9bea5a4c",
+    "characters": 82,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/16-decompression.svg",
+    "source_sha256": "8d0dc1cea5714d26fc83d679a352f9d33f3ffead506cb98dce09139d72c9511a",
+    "result_sha256": "cb73e9c84b59cbce1674bd03f1be0b64dbfb57af95c66ed569e0f667df0cce51",
+    "characters": 87,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/17-coronary.svg",
+    "source_sha256": "544933d2049df22bb0f625249376e5666206edaba4954665415c477ff3cf7ba4",
+    "result_sha256": "700f2f43c4c074323d4e1f4afc2f05918bbfce59a0db7e7a25ec35c33ebf4710",
+    "characters": 78,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/18-aortic.svg",
+    "source_sha256": "4257b92cdab4159e1c2a7ed52473b1be31b7d361e067b361c2105bbe085cf094",
+    "result_sha256": "383bcc845e9789c02e5b70a0b2d478405fd144dfb3a7fa08e50e8c3cff69434c",
+    "characters": 84,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/19-gi-bleeding.svg",
+    "source_sha256": "cde737dda593f808eb4be703c8fa48e57e8881f4cc37dfeddc620ab1fed63260",
+    "result_sha256": "1e124f5ada1a150ff52f66b431077b1607d767ef3bf5bb9241fd0c4c70c2f583",
+    "characters": 70,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/20-concussion.svg",
+    "source_sha256": "bac50f24a878576e6309e0120d8a797493e8f9339bcf1e65488d3db9c5c0b505",
+    "result_sha256": "417557a4481b0aa7b2684c3f6a3f9c98a25811b4a9e1d7f78a3c138c4bd4922e",
+    "characters": 91,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/21-rash.svg",
+    "source_sha256": "2f34068e928e9cd290754ab7f372a8c57e6d7a7de50038a1328de964801a82fa",
+    "result_sha256": "bb779bdd827acc4e0b5e2f25ffc53a7da4398c70db6e7ea630c5edfe65030fc6",
+    "characters": 96,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/22-necrotizing.svg",
+    "source_sha256": "a2aab9bb2d3048ac5a632c2323d670a7496274f7a321ba7b05c5b393a1018077",
+    "result_sha256": "47b1a815febd896477302050fe6057be60a25ed03613d4f960b760fc0b7b70bb",
+    "characters": 82,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/23-jaw.svg",
+    "source_sha256": "1ee2255fec4c60f9e83464be20d06321890933a9ae9e627382eea29d401064c6",
+    "result_sha256": "24e580666a0c6cabb2a1a37ddd55d3429b2b60ee1a1d1cc7425b34cd93d8d391",
+    "characters": 75,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/24-bog.svg",
+    "source_sha256": "974f4a98caf31ee6c90a51e405b2dac574398069404f79e7193c3eda0fa6a55a",
+    "result_sha256": "2d062469708909f02f8467343dffdfddda69b3fb3cc767cf30147ff702077f69",
+    "characters": 77,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/25-compression.svg",
+    "source_sha256": "14f5c6175a89a46c2e2f854bb76ccf7070f10392e14bdeaf2ca71e33cab5d0f8",
+    "result_sha256": "1be7045027d0ce0ba4f8a6a76a2d97d28a0b96a4614da6b2c650851f9859dbcb",
+    "characters": 75,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/26-photography.svg",
+    "source_sha256": "9563b903b77df88c71fd2b68a31064e4a12a5fc4494267667cebb2560b107754",
+    "result_sha256": "4262159c7949df2e50c64a3cbe5cded6fc489c4565b701eeb4e467c22e7c9618",
+    "characters": 72,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/27-handprints.svg",
+    "source_sha256": "6544cc8128ec6b6799b0d2c6f13949cb47a2f97530f8db07941b5de90dd674a4",
+    "result_sha256": "39bcc8631719b58a863a7a52cd2beddac28bdac67f3a80ecb35ffb688d4e212d",
+    "characters": 74,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/28-pmr.svg",
+    "source_sha256": "0b85c4cd2885a3d16a7a0efd9aed054d5b2165f8a74b491c918fe1af237a0c62",
+    "result_sha256": "f7889f9d686c349d1fe466c58e91393726fcce42584ce0b5c6226ea333185235",
+    "characters": 82,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/29-ethanol.svg",
+    "source_sha256": "b651d3efac607401a4297ad555980f2ee414ca5d2e3bb41f073dbb74e092d8ee",
+    "result_sha256": "9dcbda4954d0906d1f43b5c98799ce14de36d2f19d2dd2611aec68d1a3b446e3",
+    "characters": 93,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/30-sample-types.svg",
+    "source_sha256": "b59fdf851001138ee6e0670d9888ef142628e520c397a4dc78c87db8113598e0",
+    "result_sha256": "33081f786b47628d1755a46d3d5dba69fee41788d2aa487d83077b077a6b9e79",
+    "characters": 119,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/31-digoxin.svg",
+    "source_sha256": "dda3fcc6221ea6e7d4aa32a749d3fa7562b9643dc8f817799976373bed9d6db2",
+    "result_sha256": "b4d6b2bf6953a6f11cbf11444c46df669c8e0de0a48c7aa22e882b69c9737f09",
+    "characters": 85,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/32-withdrawal.svg",
+    "source_sha256": "b8ace1b020173f0c30af11c1980cd41da989c0bca6d841eeba8cb7b459703f7f",
+    "result_sha256": "2c57efff2c28845a7a899123c4dbed47fa5074597c7ee34fbe59b521fd5eb515",
+    "characters": 73,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/33-nms.svg",
+    "source_sha256": "81d38a16c5283783732c62322e11e82a25cb3ea0d7604367560a1f250327bc72",
+    "result_sha256": "8282cf23df9c1495820c52d2e2a3e51e1d1b0fe26ed57ba8c74af538d1fbe1c7",
+    "characters": 79,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/34-spiking.svg",
+    "source_sha256": "b4377d09acd4c0287d5b2b4986282b4e67502853e34bd47f61e0c3282b08d358",
+    "result_sha256": "226136acc047a7ad8344ded0a4ccefef0e3b5d8dc74616fdd545a4ab745494d3",
+    "characters": 78,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-next/35-clothes.svg",
+    "source_sha256": "093032422d0abe3855a31e1131b15fcc249a967322824fbce6eb1422e0f4ad04",
+    "result_sha256": "426b4e947646746d7c26239ced8584df4035e7b46567f083ab71de95b4b2f66c",
+    "characters": 74,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-refined/04-water-skin.svg",
+    "source_sha256": "3ff6c7e1db25c3aa6afd16bb8202c96f43d6b4245e3219de743a916206204eed",
+    "result_sha256": "4ba34a728cc3b8321199e0840fe4606a3a92a0b5b173dd24357f8e60c12a3ced",
+    "characters": 77,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-refined/06-cpr-chest.svg",
+    "source_sha256": "4e3f3f6439cd05ca507f7d34bab703a54fcfe88aa71c209dea2a50f859fea77b",
+    "result_sha256": "d4499b38d30b068f463b6e116a5f15c073df984bacf27f90bc463535a70f0798",
+    "characters": 84,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-refined/09-shock.svg",
+    "source_sha256": "b840b39103f3eefdc59a92a0e5c38f7180112d090beb8541eeb60a2f2fd62d30",
+    "result_sha256": "9ead5a385f4a42e7db7588c4fad12cd88fa221d8f0fc0a4f6d08e137a55c6eee",
+    "characters": 98,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-refined/10-pulmonary-embolism.svg",
+    "source_sha256": "4503296554f981bae2687ea1329f742056c9a62cbf6a60a00b44086034c05386",
+    "result_sha256": "6cfc0e10fd7b0c364c79484d16a2890ec09e55091938198254a5d5f7d6490560",
+    "characters": 82,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-refined/11-mummification.svg",
+    "source_sha256": "57cba37ceecfd88bb7cfd2e9c17aa20c3a6bad32b48a02531394598e055e4c20",
+    "result_sha256": "cab0eecfdc6f735694257d4fe1fa8a88e8f4978b6efe70a4994f61b1d4b58429",
+    "characters": 83,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-refined/12-inflammation.svg",
+    "source_sha256": "13f277fdf233d9df84406fdff239b5767b1e69fa72eb25063a34a930607987c3",
+    "result_sha256": "49ed7c83a5f7f71843320ba7db816fff58967aab11305e2437dde6d791c32e1f",
+    "characters": 80,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-refined/13-scene-protection.svg",
+    "source_sha256": "ec21ed9c5df0666edb560a2776f8a32b8814520cac11e3f0326d42edbf75587f",
+    "result_sha256": "8e9347d22bfa4edc5921dc951083cb0268fdfeca2f9bd8e8ca37adb5196dc432",
+    "characters": 87,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-refined/14-confined-space.svg",
+    "source_sha256": "dcda3cbd70ae4d40fcff3d4fe071fe08525c7518f8b6996745de6e78ea19d7dd",
+    "result_sha256": "c59999b903ae86c71062a3f4e3c837926f588a1dbef38849ebe21314ecd55826",
+    "characters": 69,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-refined/15-common-exposure.svg",
+    "source_sha256": "d9510ffd6288c8a84a178417d915d3476726b0d6acbd68d7ff06c4cebccabe91",
+    "result_sha256": "8b08d7ffa7105a893f17ae80092b53225e0e851bdcbdcbad10983f0f89019979",
+    "characters": 98,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-refined/16-soil-compare.svg",
+    "source_sha256": "2cca86196c3716878c465577894aee2b43fe2f8f95eedd53f58dff99d683552b",
+    "result_sha256": "a180d5c976193394c2b46e65e98ab810c3191d27909934c473a412c890714f24",
+    "characters": 90,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-refined/17-pollen.svg",
+    "source_sha256": "43264953183f610297260d36b0829a1edcf4db95d6e6a530ad88b1e53cea815a",
+    "result_sha256": "222d17134aee365d91a52566bd3b3389079d6b4a3a10a0acc379795e9cf32744",
+    "characters": 84,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-refined/18-dna-controls.svg",
+    "source_sha256": "8560241f4803050b71f6c3923625ee529e668e71b1c3f449a572dcc91d0d3475",
+    "result_sha256": "811d2337ee837beab1dcf52a8561ae215348c67da9fdc02096c03e304bae8cc8",
+    "characters": 93,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-refined/19-fibres.svg",
+    "source_sha256": "bf97d90c5bbe44bd903ffbd675e2a2bc8284e7100f1ec946f4dbaac973c6cbd9",
+    "result_sha256": "0ba6940332752b5f98deb9aa88a6b7445a231a1f8fbaf2cc7277f6a30ecf0f06",
+    "characters": 85,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-refined/20-tire-measure.svg",
+    "source_sha256": "eb74e70afbab004dbe3c9ad058063f05e03a2569e7692d20d1d362b437412e68",
+    "result_sha256": "1afdd500be7c40434e0cad838ad02fa1406c8e91d7fd2aad59e31287fadc33a0",
+    "characters": 74,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-refined/22-serotonin.svg",
+    "source_sha256": "53a97abb16dc805cd7de447d6569ad552862a3efccb8307f60e51c9132beb0b5",
+    "result_sha256": "292a923fa494f0fca4bba3b881681ad242db6cac80455f7a821bd853274f09b3",
+    "characters": 83,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-refined/23-thallium.svg",
+    "source_sha256": "62782599fe60c9568ff86550a16910ab084a5db078bd5f25497a666c7f5cfe6f",
+    "result_sha256": "4156d76f07f09580a2604ad10b9c18e76ca59e2223c7a36f9d80858a12a2d0b8",
+    "characters": 76,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-refined/24-wound-infection.svg",
+    "source_sha256": "dc60a9a8f5326199f2201bd2ccf9d8afe5c5dfe054c54d677210ffc730d59bca",
+    "result_sha256": "555813203c200e647785b18b04ed398c33dcf0f855b8253891d56f1e231f7da5",
+    "characters": 92,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-rich/01-posture-lividity.svg",
+    "source_sha256": "3953c6e04a46f2fb6761a0604813430da34bd561131e1fbe98938fb7ed127f9d",
+    "result_sha256": "9c566d7add1389f55d2f1c46ce2a09b44605f2ac19844d1e3ed2461c3aa4ca54",
+    "characters": 136,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-rich/02-lividity-and-bruise.svg",
+    "source_sha256": "cfe91cef89ca43c2ec817233a345356dbdffa7bd5c2f09d6ee9c9e543e56f1f4",
+    "result_sha256": "68fb48a385306a9a56fd26004361ff88dfd45ad62e6d2b9464316567480fa23a",
+    "characters": 135,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-rich/03-decomposition.svg",
+    "source_sha256": "3ee12a0eaff373b3f494100bd747bfa4953e3f24d8ac538fd008c9a782353893",
+    "result_sha256": "0e516011773ecea9b81369ab97d385eb0efd18fe74888bf50fbb3acf81e08ae5",
+    "characters": 120,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-rich/04-blunt-injuries.svg",
+    "source_sha256": "dad8a84b9bbd8c6e05d7723fb0394a25269cf1e4e967357f6392402ec5d49f3c",
+    "result_sha256": "61013d5c76b21fefabcb99781e3365509cac9a2b4fd4f9144938002a6525e0de",
+    "characters": 129,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-rich/05-injury-record.svg",
+    "source_sha256": "befcfdba753a1e99e162e91313289b8b55b67922cf459c3521b1f7ce1f3876f3",
+    "result_sha256": "6865a6dcea18c40ee3d8b8aac7e0b39f22a33ef95b4e9727ceedd60a09224a26",
+    "characters": 138,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-rich/06-trace-transfer-rich.svg",
+    "source_sha256": "252e4d91658108b5508a81db747adb0f3cf6f8453f6ea8e4ca65fcae2d6f937d",
+    "result_sha256": "b7f144c7289f0fa6f67a499783ee90cd30dc6587a27e701ed77e0f62665f089c",
+    "characters": 123,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-rich/07-custody-record.svg",
+    "source_sha256": "7cf6f9794afc79b6837205dd0c15724829b32f1b6417f10b2da396dcd475aee0",
+    "result_sha256": "7b34b65c167c7fdfcb994041476f360a419e02a46690e1f3396b5c1ed21bd29b",
+    "characters": 119,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-rich/08-scene-photo-rich.svg",
+    "source_sha256": "51ccb87647469a489797cf1a8a8f4e4e37042d54e8eb749a2efba8bba4581586",
+    "result_sha256": "6fc1254bf45a250cca55133dd689699c3b274bfc9f5f6fb3aaf38637b557db18",
+    "characters": 144,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-rich/09-footwear-rich.svg",
+    "source_sha256": "547be7e77194474dc7cc9c7a24c903ed13fa30f39b740194a888bc249d830171",
+    "result_sha256": "f196a6c7597fb356f43a62e5ff2a67ea84963aa2bd51761e044164568b2f56df",
+    "characters": 126,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-rich/10-fingerprint-rich.svg",
+    "source_sha256": "0a78a1d03dab15af8b4adcc692dfd9a29341d25df16b6eca99ed9f315e61b4cf",
+    "result_sha256": "a4aece64d57e80f3e256eac5ab1caf686a30c680c08dc259602c05cc72f1da25",
+    "characters": 118,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-rich/11-blood-dna.svg",
+    "source_sha256": "8e1ae707d5ecaf026dd1f4c57bfb6eac777b22838cba9034b584c62e71d768b6",
+    "result_sha256": "516275a3568f5ff9373e411f7756cc6d2206999d15f29872281a6d662decfb7a",
+    "characters": 142,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-rich/12-blood-patterns.svg",
+    "source_sha256": "cd3d38552a1a14123d074c1f56a6759a3a78f7c1ae64ff70076f7adda6375ad6",
+    "result_sha256": "7856c7f7528be2631ea056abd971a39a2be39f1e717d2b9535714fde43078be8",
+    "characters": 124,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-rich/13-document-compare.svg",
+    "source_sha256": "d0c4c820c9f16234c0608b1326904643657c2c8928308dfbd702441b29d4659a",
+    "result_sha256": "8e1f930cfc49c415928ba5c107d6d9523d77acf31676c62584fafbc46e38855f",
+    "characters": 133,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-forensic-rich/14-bio-evidence.svg",
+    "source_sha256": "5a5184962242923c9abe24fe91200a50af9011b7d7f9a4440b05961d28b17625",
+    "result_sha256": "09ffa3c9a56a0bc8605fedf135e9e65ae67b81703658b5f48d303f420d0ae0e2",
+    "characters": 143,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/algal-bloom-shore.svg",
+    "source_sha256": "37527af73ad03869309a3c449891e82e71e94ac19727a8f5a2ddefbe4c297e75",
+    "result_sha256": "9b28d38784267486783340069f1010a67232fe99c51fee0b5c034c7cce53b6c8",
+    "characters": 83,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/aliasing-sample.svg",
+    "source_sha256": "954e67de0ef595f5f08bf61fafef9436aa1e9b5974654bdc53f49827554159df",
+    "result_sha256": "4c83f5a8809d853cda04bf6065695330d0a85e48741e6019c02ca4abf376c167",
+    "characters": 73,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/bee-swarm-shelter.svg",
+    "source_sha256": "33a7859e97a44d3efabaa74b1b3799446723999f2fd5bb7193bafe6ca77b1914",
+    "result_sha256": "b81d4c8f7c786ad63143fd8442ed90cee3ba942cb8c1f61ce4e4035b40205dec",
+    "characters": 81,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/beetle-jellyfish-urchin.svg",
+    "source_sha256": "c1f1b2f52bb4784d0705238141e0388d73ec36e9a7662bd569ea8cf539ddb626",
+    "result_sha256": "ebe575905fb49cf5bc9ce940524f201d84d01ee03faff6515abe43275a85e943",
+    "characters": 89,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/bleach-incompatible-products.svg",
+    "source_sha256": "4f3b49d9f9ab6049ef61c08c8cd763d3cb44a7eb874f96d65f9729522f5e6df0",
+    "result_sha256": "7528993eb006f9c5a639561e71d1fc7d3c3863d3000cb02567997a9fd0b9b229",
+    "characters": 77,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/burned-root-chamber.svg",
+    "source_sha256": "e5867797b676c97821c3c9a58d3071706116a0d689acecc75f09dd2f56fc8559",
+    "result_sha256": "d3d033e1003b9d653648f5d97c94cdfd91476da6ff88a519997b3aa3442b6317",
+    "characters": 77,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/catalyst-energy-profile.svg",
+    "source_sha256": "2c2e72354861b832d72056ba863b01e27966848849e5b55a6789c560f8aa5fcb",
+    "result_sha256": "46f9801ffe24120423030cc7b37ad5d4bd2b03fa78e753142545c5d6ab6e505f",
+    "characters": 69,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/chemical-alert-shelter.svg",
+    "source_sha256": "b8b72b42a9df12158aa4c2675c8c34f2832941f6bbb13ea693d5053191ff8512",
+    "result_sha256": "602df432f065321715f7a3e74f64b09a32b0efef86ed2f2e9c629b1b62dd5874",
+    "characters": 83,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/downed-power-lines.svg",
+    "source_sha256": "826cca57ce8060c4b09e0181b00399ae47009bd0bffc88ea82d9e9c2a757cce1",
+    "result_sha256": "0d851c7824aaac5cc866561325f1f7790753b1349963487c700cc37598f19d62",
+    "characters": 81,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/fatigue-crack-progress.svg",
+    "source_sha256": "2c9f948cf53bbd352eb0736205f97b19e7346cb6e43f7c5ef781e5190b037cad",
+    "result_sha256": "46ae7041d1aeea808ef8c87b7cfa95417cabba0c6e402f71fe54191f330478a2",
+    "characters": 84,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/flood-return-home.svg",
+    "source_sha256": "97a7d848515d3e63ad1345fb1a26b04ac6cd4fb123b3dfedc4647b64ff51ddc1",
+    "result_sha256": "8a9d90c4c3b347255c405ca5ac022e4400636db60bb70a3e43ea75fc97112e2b",
+    "characters": 79,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/fog-whiteout.svg",
+    "source_sha256": "15941d86441bd3c84fddb7949e690cd2dec9010c5a2f92f65171cb21b93622f1",
+    "result_sha256": "8409293666d8507c8d0dad0062080f6c1cff62058c18117e118f3016508fb966",
+    "characters": 87,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/food-cross-contamination.svg",
+    "source_sha256": "001a7d65c48ecde4588c60c756b997b8bb7814ea5e8c3960d99265fad245315a",
+    "result_sha256": "bc28323fa8d3e02e4f779fc2d7b0c07a9e97b6a2082d1807ac69a502fbac0df4",
+    "characters": 59,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/gas-leak-evacuate.svg",
+    "source_sha256": "56bc42643cbbccf694fbad19c217c4428978050642a0ebaf022310d7d347ea4d",
+    "result_sha256": "bfcfbedbb80120845f60d51972f07d19e6e1a57c641a54071691015ac413cd89",
+    "characters": 77,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/heat-emergency-shade.svg",
+    "source_sha256": "beeb6200c3eee591a40d1c9f8da53bcc71c89ec3a55a1131a6eaa500f80db873",
+    "result_sha256": "98344cbe92f4cfc2f6cf03bc965621824d7274a017e04ee144d74b459fbe1f9e",
+    "characters": 84,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/hotel-exit-plan.svg",
+    "source_sha256": "e85f4337dfe33924bb2877c9d8a9bf36df904f7b91484d7e3cb3a0216e0bf8e8",
+    "result_sha256": "a1b414be235acfb2832842154320816d1b0b5bba02644656a87af926136e961c",
+    "characters": 76,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/insulin-cooler.svg",
+    "source_sha256": "ff414c638f079649e684b7233e63d9fcb353fc8e854cad0ad88522d9bf84e7d4",
+    "result_sha256": "3bc89ec86d7fa35b2afa1ed674893c0a218eb4efdc91af5e85d64fca23ef1d9d",
+    "characters": 87,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/lahar-uphill.svg",
+    "source_sha256": "d22cf721b32880bd25679e898b2d4cdceb2173bbd96f628754ff71ccac6d12f8",
+    "result_sha256": "933447781d133126b00b8054c7d7fc7d6013dc300fc2e650d8a94449d5a936b7",
+    "characters": 80,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/lost-first-hour.svg",
+    "source_sha256": "72162f045caabd5db5554299ff212b15da3ca14f4f5ed0143f8b31d86e18b043",
+    "result_sha256": "6c994ab67c6ab40cec5d176c89c27801cfa7eff3118bdb6cba4b33dbbc8f7f7b",
+    "characters": 93,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/oral-rehydration.svg",
+    "source_sha256": "bcd0be3cab039ec296bc1cab43c619a153f4b9dd7b11074fced885f803814134",
+    "result_sha256": "e3977db5f74d41284d15f5cedd8e8898ac1df05cc62c35cc02305914b3bdca2a",
+    "characters": 86,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/radiocarbon-context.svg",
+    "source_sha256": "d465b28198b6a4db9d89d65201832623d033660ac6db8985fa53f8a270acf409",
+    "result_sha256": "119e9346a370ff228115555170ad5ed03a5da561fe0597e9a0eb8edddcf9fc59",
+    "characters": 82,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/rainwater-collection.svg",
+    "source_sha256": "4fb543e949f4c08c922333bd91a4d92db7134c034fb96c2b5394b411fc44afc9",
+    "result_sha256": "637257b2c311c9817c9230d38ad931859f46dca990cbe78b699df3d19ba18c4b",
+    "characters": 77,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/reverberation-transmission.svg",
+    "source_sha256": "ba6f51ab4e33ccdced400bec2095d14cf2e10adae4b1c33e5eb6d418fd1a4762",
+    "result_sha256": "aa3437fd7bd9419764380ba6f0d0bda9b9c6ee40513d1b54a5f94e6a1d6182de",
+    "characters": 82,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/satellite-sos.svg",
+    "source_sha256": "71b93ba788169cc78e0082b7d7d020e570116693661ce5dc8ef2c26d55976123",
+    "result_sha256": "03f5f084c6a3448706a690ed20e4870d7633b8697aa8c1a93a1b8d1abae7c482",
+    "characters": 92,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/submerged-vehicle.svg",
+    "source_sha256": "6c96edb017a1ece7e98104f6cb81ce5914a48d4d77cbda733eca62814eb89089",
+    "result_sha256": "357c50da86aaecfbee7ec96ca4ba23447ccd34cced8dda0f9e7bceeaa03a4130",
+    "characters": 92,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/swollen-battery.svg",
+    "source_sha256": "ccc83203ffdce045945a21c2d2dd6e335e61da9f20f8bd2382afd0da5d3e3fc2",
+    "result_sha256": "5147b4d2e22cac01e38499cccb4a63e29a8d492819a46576e0fb61ed607e965f",
+    "characters": 81,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/trail-blister.svg",
+    "source_sha256": "8c76dfdd87223e9101c19b495360b6f9d1b08835f191ff829ea3babb98cf7135",
+    "result_sha256": "57f8c648cf9b4bef63a086b802afd0f7d3a0ccd6ff7de8b8b5e5f32a04f65d3f",
+    "characters": 85,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-life-next/wildfire-clean-room.svg",
+    "source_sha256": "274e0a9cb78bdd7b926f1aebada25c7a3f97dcd7f1a628545f4ff3b55e3fa9df",
+    "result_sha256": "100eae2ce7b47286b8bb2bee674b88a0e0bd540c44d98a41b2bb3f5a268f1b27",
+    "characters": 70,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-extended/abdomen-quadrants.svg",
+    "source_sha256": "87c2b749aca27b86c2c9ae65a01f543f43372e4e718b5a6f44167f8597a6af78",
+    "result_sha256": "a09e7f76363a136a4cb86dcc1da95cc73c50baec5591e8cc5412a8772a72d0dc",
+    "characters": 101,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-extended/adult-cpr-aed.svg",
+    "source_sha256": "5f0905bfc8ecf6412e2aefa63ed5e9cb9a83c56f7bfcb4f3e63d754814718f8a",
+    "result_sha256": "9dbcf003d3bed4fafe3edd7534e6fe88f3ddb8e946574572695351792acbf848",
+    "characters": 101,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-extended/amatoxin-timeline.svg",
+    "source_sha256": "36beffc1c4cc7def17d5b095a0d6387688a4be7f338f48cc6dde2200a722a81b",
+    "result_sha256": "4f02083b81ae5d414547b270125db52cf7844b9458fe4d99391d6a7207e1849f",
+    "characters": 96,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-extended/anaphylaxis-sites.svg",
+    "source_sha256": "171818532dc9b58e40d42cdd17c94f25e92282252c3030606591603b4d47f801",
+    "result_sha256": "265a993542b088844f7e02494b98741728d5448f63eec9b0411ad29653717095",
+    "characters": 82,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-extended/backup-321.svg",
+    "source_sha256": "4535d36c3fab4bbee2374ca81deef9d8964963b6d55790a710650b1cf99c6f16",
+    "result_sha256": "791593cb82d5880536eedb4aa92677f45434cc098a941f710f63b732bba9e5ed",
+    "characters": 90,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-extended/bleach-cleaner-hazard.svg",
+    "source_sha256": "144ec4631247970c888148790b174a2123d6c18639374cea1a23b163979da58a",
+    "result_sha256": "f502f9505d9098d6870fad312b7b2f398a7dfafb177a8dff45aaa77b3d95b320",
+    "characters": 54,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-extended/botulism-observation.svg",
+    "source_sha256": "deb72e900399e12581845eb484db2b098766506663a4f24bfe2d910aaf403224",
+    "result_sha256": "4bbcfa2762f104415f6dd60f77d1dce1d509d31b90fd96a15a1541e7df576238",
+    "characters": 89,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-extended/carbon-monoxide-path.svg",
+    "source_sha256": "beeb18eb9b35cbe54a013f2cb4cc4828e0a7579526e85adba51236f99cfc3449",
+    "result_sha256": "9c573d5507c349d322eebba805a2f6281067b0ca45523a122d2c60cbbd075caf",
+    "characters": 77,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-extended/choking-recognition.svg",
+    "source_sha256": "12910d96e33843e118bc225f023cb8bc64383bd9a23949e3994def7db586939b",
+    "result_sha256": "cafed5e320dcfbbc15f79f1c4b67b37581799f78b2cfb7805da21519914349a1",
+    "characters": 86,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-extended/dehydration-signs.svg",
+    "source_sha256": "d0174410066264b9d6e3037c04f4ff01701c97f348058cfc9768e98cd77b4c43",
+    "result_sha256": "e1da2aa09f876fdc8f1006b1bab810401895aa37559f3e14ea7f2e59f4592415",
+    "characters": 83,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-extended/flooded-lithium-battery.svg",
+    "source_sha256": "d5be517c60144bdfadb30cabdb7c3573b03098eed444711b9f6f353e4f2f6eec",
+    "result_sha256": "5ae030a70caf2430bc18431d044f71eb5c84b2c88f035ecab177ce4bb9dac69b",
+    "characters": 77,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-extended/head-injury-red-flags.svg",
+    "source_sha256": "df5e94e87f4d8c55c5034cdaba0569f9c4c970d2e4baee31c905a2cc6abcc085",
+    "result_sha256": "c42e739f7f9aa4d6ab02bf407e8137a714d1d3c5966e6aceec8c02e09e5d10a5",
+    "characters": 83,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-extended/home-fire-plan.svg",
+    "source_sha256": "abe0061cd18464e5bdfb6956b953f958cce69c14075ab1bbb7554a8e91851950",
+    "result_sha256": "f274335d282a1863bece8b451c644a169b3506d05f3bf45d3672960718093926",
+    "characters": 88,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-extended/household-storage.svg",
+    "source_sha256": "458dba06ce8f62c9097cb9a3bb65fb3332e4fa7268dbf87580074252a67e27c3",
+    "result_sha256": "940beb6b229e52754c8acfb21280a77c950d1b9c954d9a33369811612f67d2ea",
+    "characters": 76,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-extended/latency-jitter-loss.svg",
+    "source_sha256": "b663b5916666d3bdfb9b25d7e47cb493800f4cf317436648fa2c5cc145653c81",
+    "result_sha256": "49a93af6a91393619cbc6a49258ea62e6b6dd4da093f35eae94edb4477ce006d",
+    "characters": 66,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-extended/organophosphate-signs.svg",
+    "source_sha256": "772592d4eafd92119f3739f4c78e383659c09225e61f2d42a64644ad27bdc6a5",
+    "result_sha256": "c6a850bdbfd39eac59e9e24375f16dedd8e99a70e854780cbd3e8f2c911a7162",
+    "characters": 93,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-extended/rust-remover-exposure.svg",
+    "source_sha256": "c3b53692188b8fc2e6f0dc947aa4549c384fb1db84f05182d9acba438f6bc334",
+    "result_sha256": "0978978cc4b02a7777434ae8063179a83b803a82dcdca2e284f1a4fa02818987",
+    "characters": 96,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-extended/shellfish-toxin-symptoms.svg",
+    "source_sha256": "6efddcf44f428e4f5dda82d95c7a4622b8e100e4b5ff5794cac84d20ed8347ec",
+    "result_sha256": "e4faa77e815a1e647e19ba71cd3f545562c1fe72c662a0c6d619478ec19be128",
+    "characters": 82,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-final/botulism-food.svg",
+    "source_sha256": "a09149ba339946517a19fb1a8717c8588dcab6f9d30dd0b6dc24e073bb6e8db3",
+    "result_sha256": "d32ca71cd9a71aee14b2ecf95b3f6fcf6028636f0bc39aeb8a26d4efedd098f1",
+    "characters": 83,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-final/cathole-cross-section.svg",
+    "source_sha256": "4b7366370a27b4d266350f797d82bf90316f3053c16127aca7c0c0f8476e9d03",
+    "result_sha256": "3eebdfbfb9136e408e865e3c63780bc4d4b9e682eca9f641d0d0b54e21ac80a7",
+    "characters": 88,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-final/cyanide-oxygen.svg",
+    "source_sha256": "ba00e3cd02133fd011a3cb0991bfa1c9cf910e7b11b576abf97432fd70f4cb8e",
+    "result_sha256": "8a68b3de839bfe1ae6366c9f7590a45878a16a152112c7bc62f0d7411bbb7772",
+    "characters": 91,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-final/flooded-can.svg",
+    "source_sha256": "a2d36d7f6ba74bcb1f589f173a98287a20d3400ccba3b84f2a815ffae96c0c6a",
+    "result_sha256": "449279bb23c05c256ab379fa85459155819e89d98b86c4c54c56c2f8d0912b50",
+    "characters": 102,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-final/generator-outside.svg",
+    "source_sha256": "f7675aba7cfe0ba32518f4c499d329f08ec38a237e4e87daf7f13aad9081ba3f",
+    "result_sha256": "791401a56a623896d51492397c182a68e56a823334a55648e4a0654193d92820",
+    "characters": 91,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-final/gps-topographic-profile.svg",
+    "source_sha256": "5f3843520d579983f38b64ed72a67137f1bcaef8c362957192f8ca10f7241d08",
+    "result_sha256": "2900646b7c99c917beed74c983be8aec3f77132f1fa8b5140540b21896212796",
+    "characters": 57,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-final/green-beans-cook.svg",
+    "source_sha256": "c5727125336cd4cbd7fada4518624dbdb16813000dcb6b4baaf59c9a23c73ed2",
+    "result_sha256": "667d9eac340710697593055a9e1f6eeedc87a6024ee29d8d1a87fe25df7f8993",
+    "characters": 79,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-final/hydrocarbon-aspiration.svg",
+    "source_sha256": "389156fd9519e9c6bb84fe8083bda58164f5080341c03f9206795fd776be39c6",
+    "result_sha256": "a945a5388f167201b2eef30300e5a6d5a104f27be048d8521bae60dd301b3d7e",
+    "characters": 91,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-final/hydrofluoric-acid.svg",
+    "source_sha256": "84bedaad57a730c2856207c06baf7bef2b2566f934ee09b3f13a9124febfe833",
+    "result_sha256": "cd98136630908b96ced59d779bf07187730feb7b0dafa8513bda1af8289811db",
+    "characters": 83,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-final/methanol-metabolism.svg",
+    "source_sha256": "2d800374c4518886cca1c1eef9b6f114da023ff145981c515d48f554a823ca6f",
+    "result_sha256": "2f2b61acefa381e7887bccdc36e168a61b1654c905250cfceb99806c39494c4b",
+    "characters": 90,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-final/nitrite-methemoglobin.svg",
+    "source_sha256": "2661c54fcc667a398184240746e0e310cefd72a905f3c7f78c9d4d009486fdb0",
+    "result_sha256": "6e82295ec17cc8c271a08de9b3cd83358266e7ca8da2eff3fd89ff4ec488aec3",
+    "characters": 79,
+    "font": "LXGWWenKai-Regular.ttf"
+  },
+  {
+    "file": "20261121-practical-final/outage-fridge.svg",
+    "source_sha256": "618f6e59e0361f3fe7dfe1259b88b1d62073937e7b4a171d794af809ae15bc39",
+    "result_sha256": "4eda55e54dce3e7e3945c38ef8d1efbf889c50868a46decdc6623123dfb32730",
+    "characters": 101,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-final/photo-shadow-geometry.svg",
+    "source_sha256": "cc9a31e9d9617a0746c792a0db47dde8273a98fe59e90e5b2f8534b0d82d595d",
+    "result_sha256": "a08ab92eff274e64162fd8614f86256359cd1febc75507173aaa60580f94cb75",
+    "characters": 96,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-final/shadow-noon-map.svg",
+    "source_sha256": "1ab9b248f37f03ba54ff0fa78db05897e010d3957423cd353f756bcb0d54d321",
+    "result_sha256": "1ddaab90c9e5129dddeb65915fdb52db7b5faf4f56d30ecdcedd4f8d817f6e06",
+    "characters": 70,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-practical-final/wood-ear-soaking.svg",
+    "source_sha256": "2dc167b0102a0d40396d774232a3d809289c34e86e4f65ae328a4107b1a916c7",
+    "result_sha256": "5682b011f43da47ce028af9ec65dc945bf8764e08da5ba367b15bc0d9f089cb7",
+    "characters": 83,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-scene-extended/gas-leak-exit.svg",
+    "source_sha256": "7ab09b347e7df3637f715c953f56b91302c9b6c66c6e5602e1133390e1ab00f3",
+    "result_sha256": "7e1f70d404df01c9ad68b632b4b68b3d9c30cb64e133b21066d1b8ff49da2415",
+    "characters": 80,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-scene-extended/landslide-warning.svg",
+    "source_sha256": "22e49350f8233614becaedd3fca39ba71a7bc15dc93976d69cd09b970613f44f",
+    "result_sha256": "0e3e716fd2259c822c198ac8cce8edea8274454c5a08422fadd51776b815a34c",
+    "characters": 82,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-scene-extended/magnitude-and-intensity.svg",
+    "source_sha256": "7eede659cd4d41f3e02c691d050bdc05be22dd6a27839916ff6287fb49bd7206",
+    "result_sha256": "443bd81d93bbf52bc65225c1703f2984f031924dbd87065f2e1af5505c08e672",
+    "characters": 54,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-scene-extended/refrigerator-safety.svg",
+    "source_sha256": "ffc32f908436422af7b3d4d6a3f9ade51d5ba43c3a495753f93da25ca360c2bb",
+    "result_sha256": "794a07ace7a6eadd5449f4d2a407e8a96001fa2946bb7e88571a891a654b6df4",
+    "characters": 82,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-scene-extended/rising-tide-cutoff.svg",
+    "source_sha256": "b192e4729d7df6c3f62e0a689c2f5c02ecb3c679bc9cfe92405da44b5d403b7b",
+    "result_sha256": "7cc519857aa5751e16d38b31827b76d01ae7cc3281413de74299e03373cf3e82",
+    "characters": 78,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-scene-extended/seizure-care.svg",
+    "source_sha256": "4a69e6738e686407bdbb3d5b6c97da58e8d5192d7e0396ee9d190dbe62944e13",
+    "result_sha256": "aca8c9f729ad432cf457e8f601871779e3589c257a800f9c31dcf2a954222eae",
+    "characters": 90,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-scene-extended/soil-liquefaction.svg",
+    "source_sha256": "7b3f1f4c8e8ee9e1158fe34773641749fb05dff1968e17380379add0ee44e938",
+    "result_sha256": "ab630cfd38b098ad481930a600b3237e128ba6428b48684c4fa0922020f91ccd",
+    "characters": 66,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-scene-extended/thunder-shelter.svg",
+    "source_sha256": "94b05cd2289472d3ed94797788f2a2c0382fba60e52e91ac7e0010740c7056aa",
+    "result_sha256": "2c109970af2f832175bf6bd5e7ec1f8dc08ac5a4ee6a14c6819e8270c1c63c36",
+    "characters": 81,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/bear-food-storage.svg",
+    "source_sha256": "346376324839883f878a47f7ade40f0dccf60e59f4cf0c80f30b58cb2bced175",
+    "result_sha256": "60b625967611cdb2bc2c974938a7b8558c125ed6d3e5cb2cafae0aa1ab25abba",
+    "characters": 75,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/campsite-hazards.svg",
+    "source_sha256": "b6197503c546d257220b9e8cbbfac282d4a3ab1e1b6f6321675a691797d5e29f",
+    "result_sha256": "d03142293fb2499096630e8eb9734cbc5471d69499b50c0557051bfa3979ffa3",
+    "characters": 82,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/cold-water-shock.svg",
+    "source_sha256": "cf6734ce73103556dc6cfbb870ad6e4c6f44d21ea98fe65839241a23e7f9df98",
+    "result_sha256": "621770ad30c2960f60ec59fe722358c505ca8b016766ee9e375f35ae62402613",
+    "characters": 63,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/dam-release-rise.svg",
+    "source_sha256": "a958594849b99b22c6e9d1fb85f504c2a3e18bfe47da2cb71aef85eb11307a44",
+    "result_sha256": "b783d41a444e6937712fbcb8a1be7340bac8e24fdb1fd85e4023fe5d6bc13428",
+    "characters": 58,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/damaged-solar-pv.svg",
+    "source_sha256": "6396babe2ab0c0131eda48d4ea9379772498317f36078ab670d45246f993fd0d",
+    "result_sha256": "493f5acd7608f5089e4d75a96a9751dfb4fbe7b4295aeab2ae81fa9c35aef99f",
+    "characters": 76,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/emergency-water-chain.svg",
+    "source_sha256": "e9b67841f9d058c557be6f190bd8e72dfd2cb14eabd592841cc1ae6dd3fb0eb3",
+    "result_sha256": "b3b7ac7fcdc614756ff59c5c29595a640bcb741c3a222660cee8b27ae01eebbc",
+    "characters": 79,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/ground-insulation.svg",
+    "source_sha256": "d9c7ce7022d0cde1c12d262c2a6d96afeaebdea2e7ae2885f1ba387db3243efa",
+    "result_sha256": "a73799ebd10862504cef038d17541a084c152c61a270cebc9e4783052dcc2823",
+    "characters": 75,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/helicopter-rescue-area.svg",
+    "source_sha256": "5168a2c38de6b90f4066435d7eff1f29aee0aa7575239727e324dde95e413993",
+    "result_sha256": "a9c7aec319bd884fd87dfbdb39bdfdb8dbf6370d1e2089ac4d86a606e248484f",
+    "characters": 73,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/immersion-foot.svg",
+    "source_sha256": "0286417f7cb1f982a45a570080ba6d13d95e7349c522042d1e3728aa6684a97f",
+    "result_sha256": "8344146d45986da401ed70b2f9b4dd6743fa7238d0ba5d8612c83230115caff4",
+    "characters": 88,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/island-water-lens.svg",
+    "source_sha256": "15893e6a6eb1f2db7059e81bd40a4670699a1fde2e1aa47ef196483ae17ea951",
+    "result_sha256": "4a8f22878a3c81286b652a11004a167442ab5167a07bc1ed0fe6ed798565e17a",
+    "characters": 69,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/lifejacket-fit.svg",
+    "source_sha256": "67b80d7af9869a9a851efe8163c5198d0323566ecfb84169750b6eb3b5de6eac",
+    "result_sha256": "68236c964c75ddbdbc5ac9b585982922c3080162b0694adec2453120e1bdaf5a",
+    "characters": 85,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/offshore-wind.svg",
+    "source_sha256": "44682a451672f8ac3348d1cdd8da4f72f7dc652dfab06bf2bd4c3caf54884a96",
+    "result_sha256": "5f2de8e2497335e9dfdfdc84f7934e839e053bd41ff6fe72440d85fe0ff28e4b",
+    "characters": 60,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/rabies-wound-wash.svg",
+    "source_sha256": "38717756a0b785ab4db23c8d431ef16bc853413bd6dbc844eccaef425526ef75",
+    "result_sha256": "666d44e4cebdc38c283350b391c9de8b48e3cb790b2afdc205d8502716b5c0e9",
+    "characters": 85,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/river-foot-entrapment.svg",
+    "source_sha256": "c102d1865b5bc0357bc2616b202b2ee8792566f0392e0d0425a4e92752b88dfe",
+    "result_sha256": "d8d5d2444e25f7c2195db1de0c901649a123a05e26f6df4e450aa15fdf3d53ae",
+    "characters": 76,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/rockfall-offset.svg",
+    "source_sha256": "10f7b70e3957a130718d81ed66f3d57fad9ba912dba7969e580bc92a1fe39db5",
+    "result_sha256": "ee12edd252a41b20f4ae8c77d22c04d2908a5511a5d4d821756500446e2187c5",
+    "characters": 69,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/roof-snow-fall.svg",
+    "source_sha256": "73587c5472b180e52be9172f80b8be0652d7e0ea32eb8bdf32272b7a3a6a96f8",
+    "result_sha256": "03c422b1f186a13d5c73e5d1e39933f6c4eef1b861a25c00f1f377a492eb1af4",
+    "characters": 63,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/sand-hole-collapse.svg",
+    "source_sha256": "0660f2418fe0a18eb498ab1dc5a4412076de34294a544392f60bccb10a149982",
+    "result_sha256": "100d39f19082fe14707b1675a1d5b8bbfe38ff48f6fb68a9497d52f567b72549",
+    "characters": 73,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/seasonal-sunrise.svg",
+    "source_sha256": "509b25880e9d146e07e3ddc0963e930166330c4deb3745091d8789bfb208eacd",
+    "result_sha256": "d4b116e632f1a49a61b2dc21a48dcbb726bd570a727f2669248c2557058f3277",
+    "characters": 67,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/septic-after-flood.svg",
+    "source_sha256": "7bdf8a55c262be5a004f7e7c95b6f9d4e3e9ade481cb5fa54d056c037e4814bc",
+    "result_sha256": "7055d2588880103989a6700ca0b1c4b46fe9ce6c601883ef8b2e6713c6a7ad2d",
+    "characters": 72,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/thin-ice-rescue.svg",
+    "source_sha256": "3712805c197f5b6309108f3592bc81b6507640652813e456391e9f4f19808597",
+    "result_sha256": "0acc37109eb15a0e99703198d0a0e68022c2e125ea28dfec6a4de0ef1c37c135",
+    "characters": 66,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/truck-turning-space.svg",
+    "source_sha256": "60aa525e84dc1430c4cf3dff3f6f62acc8013574545bdd4814beab5af0f5f142",
+    "result_sha256": "3d5c89d6f94bb0c9311822575756a231c879ef63b2ed5c42bb6244fd91032fde",
+    "characters": 68,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "20261121-survival-complete/wet-clothing-shelter.svg",
+    "source_sha256": "25461e4bf53ae4caca9b697bd56d2465e15d952c4590fe941d05e4e2127a3fae",
+    "result_sha256": "65d767e27579b8e188165b77da478f25b6cb0c7e381e7e82639f1a222c149f0b",
+    "characters": 87,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "everyday/barcode-ean13-analysis.svg",
+    "source_sha256": "aa0d81a6e807bf31b352bf0bacc3b41961ae8ecbfd946a98a59529983eea7d14",
+    "result_sha256": "0e1ca67426312cc51d83368b43b8cf37d18be41992710ec3632bc151bee645e6",
+    "characters": 11,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "everyday/barcode-ean13.svg",
+    "source_sha256": "208e99064955c08c25d5840f4ec74deb7313737dc97a869fa94d564d22ac1802",
+    "result_sha256": "208e99064955c08c25d5840f4ec74deb7313737dc97a869fa94d564d22ac1802",
+    "characters": 0,
+    "font": null
+  },
+  {
+    "file": "everyday/color-palettes.svg",
+    "source_sha256": "2dc080a5692ec97eeb087b1161089256ccb1a5eebf82f08738df5d346184b3cb",
+    "result_sha256": "4cc06e9eb9483c20fffe6ff234a9c68f45e88af2313719a2fc4d5ad146aa9a2b",
+    "characters": 10,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "everyday/rgb-addition.svg",
+    "source_sha256": "e22995b8a3995c6240e7935b58875990a7dc2dcc36acf7d72c098e47bcf23de1",
+    "result_sha256": "e22995b8a3995c6240e7935b58875990a7dc2dcc36acf7d72c098e47bcf23de1",
+    "characters": 0,
+    "font": null
+  },
+  {
+    "file": "forensics/operation-scene.svg",
+    "source_sha256": "14fd7ae6e26b1fb582f05eaf275549b552099bcea7d0a806fa9397ca0737d919",
+    "result_sha256": "d39ce7787f853203a91403c6d3789baedd594f957d4d7bf61240264daaad3a70",
+    "characters": 4,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "forensics/operation-time-conditional.svg",
+    "source_sha256": "57b33f7ab46f1fa0571762b7a1f7b47c349f38234cc70d181b5cce4a3137e4ca",
+    "result_sha256": "ab7513690e983a038c9340240687796129b0cde33d8dfb8848545618fdc5634d",
+    "characters": 14,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "geology/operation-soil-compare.svg",
+    "source_sha256": "9a1c485afb8bae7f7993b7d1d15281d5bac8126c3e66afbddaf177c80ee8bfa7",
+    "result_sha256": "a322881ee3055499ff81dc1653f9f2f5aa05ae81c4c854234b919131a3ffc036",
+    "characters": 3,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "geology/operation-soil.svg",
+    "source_sha256": "e26125b627e2830b103c93cf69b027b3161a31eb3208096f0eb79538d7dcce1d",
+    "result_sha256": "f4bf5e747b5b14013c0d026ee25130ae768a199b70cc8a557ab6b4206375a290",
+    "characters": 5,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "geology/operation-trail-map.svg",
+    "source_sha256": "54030dcafd3bd499d802b7c81927638c29cfb22bd262d530982180b63f362195",
+    "result_sha256": "55fba2f4f60e33ac1b1205df71360af37bd490009b2166c7410a40a1002965b8",
+    "characters": 10,
+    "font": "Noto Sans SC (TrueType).otf"
+  },
+  {
+    "file": "geology/operation-trail-profile.svg",
+    "source_sha256": "0c423a21ede11b800db64354293fdd6d644988b8d7bb9646513aa46a3b22d5fc",
+    "result_sha256": "10e7bff797d39c8f32a8facbc6a970c138b545cc30f7fcb008501296d6a1df5c",
+    "characters": 23,
+    "font": "Noto Sans SC (TrueType).otf"
+  }
+]
