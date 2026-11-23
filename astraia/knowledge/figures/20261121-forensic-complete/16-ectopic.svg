@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">异位妊娠：输卵管与子宫腔</title>
+<desc id="desc">示意输卵管这一常见部位，并非实际诊断图</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">异位妊娠：输卵管与子宫腔</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">示意输卵管这一常见部位，并非实际诊断图</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M260 180 Q285 145 350 154 Q415 145 440 180 Q430 248 398 287 L382 365 H318 L302 287 Q270 248 260 180Z" fill="#e8c5bf" stroke="#ae807b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M265 183 Q215 125 165 138 Q133 145 122 185 M435 183 Q485 125 535 138 Q567 145 578 185" fill="none" stroke="#b8827e" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="115" cy="197" rx="32" ry="20" fill="#e5d7c2" stroke="#a99480" stroke-width="3"/><ellipse cx="585" cy="197" rx="32" ry="20" fill="#e5d7c2" stroke="#a99480" stroke-width="3"/><circle cx="200" cy="143" r="15" fill="#a7835a" stroke="#92744e" stroke-width="3"/><line x1="200" y1="143" x2="72" y2="75" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="200" cy="143" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="80" y="83" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">输卵管着床示例</text><line x1="350" y1="220" x2="490" y2="278" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="350" cy="220" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="498" y="286" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">子宫腔</text><line x1="585" y1="197" x2="631" y2="155" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="585" cy="197" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="639" y="163" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">卵巢</text><text x="350" y="445" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">结构示意：症状出现时及时排查</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">异位妊娠发生在子宫腔外，常见</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">于输卵管。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">腹痛、出血、肩尖痛或晕厥都值</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">得重视。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">怀孕可能伴剧痛或昏厥时立即急</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">救。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">有些人尚不知道怀孕；由医生结合检测和超声评估。</text>
+</g></svg>

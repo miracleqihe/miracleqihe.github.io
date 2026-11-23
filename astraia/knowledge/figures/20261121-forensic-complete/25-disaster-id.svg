@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">身份识别：生前与遗体资料比对</title>
+<desc id="desc">每份材料都需可追溯编号和对应记录</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">身份识别：生前与遗体资料比对</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">每份材料都需可追溯编号和对应记录</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<rect x="80" y="90" width="250" height="300" rx="8" fill="#fffdf8" stroke="#9db3a5" stroke-width="3"/><rect x="110" y="126" width="55" height="60" rx="3" fill="#dce7dd" stroke="#a9bbaa" stroke-width="2"/><path d="M120 174 q18-40 36 0" fill="none" stroke="#719481" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><line x1="195" y1="145" x2="300" y2="145" stroke="#b5c5ba" stroke-width="3" stroke-linecap="round"/><line x1="195" y1="175" x2="300" y2="175" stroke="#b5c5ba" stroke-width="3" stroke-linecap="round"/><path d="M123 240 q22-25 44 0 q-22 25-44 0" fill="none" stroke="#a7835a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M230 225 q-20 20 0 40 q20-20 0-40 M230 225 q20 20 0 40 q-20-20 0-40" fill="none" stroke="#668f98" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><rect x="475" y="90" width="250" height="300" rx="8" fill="#fffdf8" stroke="#9db3a5" stroke-width="3"/><rect x="505" y="126" width="55" height="60" rx="3" fill="#dce7dd" stroke="#a9bbaa" stroke-width="2"/><path d="M515 174 q18-40 36 0" fill="none" stroke="#719481" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><line x1="590" y1="145" x2="695" y2="145" stroke="#b5c5ba" stroke-width="3" stroke-linecap="round"/><line x1="590" y1="175" x2="695" y2="175" stroke="#b5c5ba" stroke-width="3" stroke-linecap="round"/><path d="M518 240 q22-25 44 0 q-22 25-44 0" fill="none" stroke="#a7835a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M625 225 q-20 20 0 40 q20-20 0-40 M625 225 q20 20 0 40 q-20-20 0-40" fill="none" stroke="#668f98" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="205" y="66" font-size="28" fill="#293e44" font-weight="700" text-anchor="middle">生前资料</text><text x="600" y="66" font-size="28" fill="#293e44" font-weight="700" text-anchor="middle">遗体检查资料</text><line x1="345" y1="207" x2="457" y2="207" stroke="#719481" stroke-width="4" stroke-linecap="round"/><path d="M 445.6 213.2 L 457 207 L 445.6 200.8" fill="none" stroke="#719481" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="398" y="257" font-size="25" fill="#293e44" font-weight="700" text-anchor="middle">核对</text><text x="205" y="432" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">指纹、牙科、DNA</text><text x="600" y="432" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">记录编号与检验结果</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">专业人员比对牙科资料、指纹或 </text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">DNA 等。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">亲属 DNA 需考虑亲缘关系，不要</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">求与本人完全相同。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">衣物、疤痕等可提供辅助线索。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">团队综合核验与记录，避免单凭外观作出身份结论。</text>
+</g></svg>

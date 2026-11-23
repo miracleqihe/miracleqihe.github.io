@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820" role="img" aria-labelledby="title desc">
+<title id="title">尸僵：肌丝连接与 ATP</title>
+<desc id="desc">以下是肌动蛋白与肌球蛋白的简化示意</desc>
+<rect x="1" y="1" width="1598" height="818" rx="15" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="36" y="53" font-size="42" font-weight="700" fill="#263d43" text-anchor="start">尸僵：肌丝连接与 ATP</text>
+<text x="38" y="94" font-size="29" font-weight="400" fill="#5b6d70" text-anchor="start">以下是肌动蛋白与肌球蛋白的简化示意</text>
+<rect x="28" y="120" width="920" height="595" rx="12" fill="#f3f6f2" stroke="#dce6df" stroke-width="2"/>
+<g transform="translate(35 130)">
+<text x="110" y="90" font-size="29" font-weight="700" fill="#263d43" text-anchor="start">肌丝连接可分离</text><line x1="110" y1="155" x2="610" y2="155" stroke="#5c826e" stroke-width="12" stroke-linecap="round"/><line x1="110" y1="205" x2="610" y2="205" stroke="#a66b70" stroke-width="18" stroke-linecap="round"/><path d="M170 205 l20-35 M275 205 l20-35 M380 205 l20-35 M485 205 l20-35" fill="none" stroke="#a66b70" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><text x="650" y="166" font-size="25" font-weight="400" fill="#5c826e" text-anchor="start">肌动蛋白</text><text x="650" y="215" font-size="25" font-weight="400" fill="#a66b70" text-anchor="start">肌球蛋白</text><line x1="365" y1="245" x2="365" y2="305" stroke="#608994" stroke-width="4" stroke-linecap="round"/><path d="M 358.1 291.7 L 365 305 L 371.9 291.7" fill="none" stroke="#608994" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="392" y="280" font-size="26" font-weight="400" fill="#263d43" text-anchor="start">ATP 下降</text><text x="110" y="345" font-size="29" font-weight="700" fill="#263d43" text-anchor="start">连接较难分离</text><line x1="110" y1="410" x2="610" y2="410" stroke="#5c826e" stroke-width="12" stroke-linecap="round"/><line x1="110" y1="460" x2="610" y2="460" stroke="#a66b70" stroke-width="18" stroke-linecap="round"/><path d="M170 460 l20-49 M275 460 l20-49 M380 460 l20-49 M485 460 l20-49" fill="none" stroke="#a66b70" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="76" cy="153" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="76" y="161" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">1</text><circle cx="76" cy="407" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="76" y="415" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">2</text><circle cx="670" cy="395" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="670" y="403" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">3</text><text x="695" y="405" font-size="25" font-weight="400" fill="#5b6d70" text-anchor="start">后续组织分解</text>
+</g>
+<line x1="971" y1="132" x2="971" y2="706" stroke="#e3e8e2" stroke-width="2" stroke-linecap="round"/>
+<text x="1005" y="164" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">① 活动</text>
+<text x="1005" y="204" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">肌动蛋白和肌球蛋白相互作用；分离</text>
+<text x="1005" y="241" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">需要 ATP。</text>
+<text x="1005" y="299" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">② 死后</text>
+<text x="1005" y="339" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">可用 ATP 减少时，部分连接较难解</text>
+<text x="1005" y="376" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">除，肌肉逐渐僵硬。</text>
+<text x="1005" y="434" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">③ 后续</text>
+<text x="1005" y="474" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">组织进一步分解时，僵硬可逐渐减</text>
+<text x="1005" y="511" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">轻。</text>
+<text x="1005" y="569" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">④ 观察</text>
+<text x="1005" y="609" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">温度、体况和死前活动影响速度；僵</text>
+<text x="1005" y="646" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">硬程度须综合解释。</text>
+<rect x="28" y="735" width="1544" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="45" y="773" font-size="29" font-weight="400" fill="#785334" text-anchor="start">柔软可能发生在僵硬形成前或消退后，不能单凭关节阻力计时。</text>
+</g></svg>

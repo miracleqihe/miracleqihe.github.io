@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">开放伤：表面长度与深部创道</title>
+<desc id="desc">纵切面比较两种可能的空间关系</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">开放伤：表面长度与深部创道</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">纵切面比较两种可能的空间关系</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<rect x="95" y="145" width="260" height="210" rx="0" fill="#f0dcd0" stroke="#bb9e91" stroke-width="3"/><rect x="95" y="145" width="260" height="20" rx="0" fill="#d1aaa0" stroke="none" stroke-width="0"/><rect x="95" y="265" width="260" height="90" rx="0" fill="#e5d5b1" stroke="none" stroke-width="0"/><line x1="95" y1="265" x2="355" y2="265" stroke="#ceb99a" stroke-width="2" stroke-linecap="round"/><rect x="455" y="145" width="260" height="210" rx="0" fill="#f0dcd0" stroke="#bb9e91" stroke-width="3"/><rect x="455" y="145" width="260" height="20" rx="0" fill="#d1aaa0" stroke="none" stroke-width="0"/><rect x="455" y="265" width="260" height="90" rx="0" fill="#e5d5b1" stroke="none" stroke-width="0"/><line x1="455" y1="265" x2="715" y2="265" stroke="#ceb99a" stroke-width="2" stroke-linecap="round"/><path d="M140 145 Q220 160 300 145 L285 180 Q220 191 155 180Z" fill="#af7072" stroke="#9c6667" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M562 145 L585 145 L578 292 L568 292Z" fill="#af7072" stroke="#9c6667" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="225" y="100" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">较长的表面创口</text><text x="585" y="100" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">可能较深的创道</text><line x1="225" y1="162" x2="140" y2="400" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="225" cy="162" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="148" y="408" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">表面长度</text><line x1="575" y1="258" x2="580" y2="400" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="575" cy="258" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="588" y="408" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">深部范围</text><text x="400" y="460" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">长度、深度和边缘均需分别测量</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">表面长度和深部受累范围应分别</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">记录。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">较小的外口仍可能伴深部损伤。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">具体类型要结合伤口、影像和现</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">场资料。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">图形不对应特定物体，不能由外形唯一认定工具。</text>
+</g></svg>

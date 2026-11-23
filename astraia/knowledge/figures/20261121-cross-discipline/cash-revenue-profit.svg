@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">收入、利润与现金：一笔赊销的时间差</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">假设第一月确认销售收入 100 元、费用 60 元，且当月均未收付现金。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<line x1="105" y1="190" x2="1090" y2="190" stroke="#a6bcb2" stroke-width="4"/>
+<circle cx="285" cy="190" r="10" fill="#326f80" stroke="#326f80" stroke-width="2"/>
+<circle cx="875" cy="190" r="10" fill="#a94d37" stroke="#a94d37" stroke-width="2"/>
+<rect x="100" y="230" width="370" height="160" rx="8" fill="#fff" stroke="#c6d6cf" stroke-width="2"/>
+<rect x="685" y="230" width="370" height="160" rx="8" fill="#fff" stroke="#c6d6cf" stroke-width="2"/>
+<text x="285" y="268" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">第一月：交付并赊销</text>
+<text x="210" y="310" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">收入 100</text>
+<text x="360" y="310" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">费用 60</text>
+<text x="210" y="348" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">利润 40</text>
+<text x="360" y="348" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">现金变化 0</text>
+<text x="870" y="268" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">第二月：收到货款</text>
+<text x="870" y="310" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">收到现金 100</text>
+<text x="870" y="348" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">不再重复确认收入</text>
+<text x="600" y="463" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">其他支出和税费未计入这个简化例子；利润也不等于账户余额。</text>
+</svg>

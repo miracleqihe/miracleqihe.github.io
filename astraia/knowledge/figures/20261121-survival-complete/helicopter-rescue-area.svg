@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">直升机救援：固定松散物，等待机组指示</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">落地条件与靠近路线由机组决定，未经指示不要自行靠近。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 130 250 L 420 250 Q 455 250 470 275 L 470 310 L 200 310 Q 130 310 130 280 Z" fill="#dbe7e3" stroke="#60816a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 130 270 L 70 260 M 70 245 L 70 280 M 250 235 L 250 210 M 120 210 L 400 210 M 190 330 L 420 330" fill="none" stroke="#263b3e" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="220" y1="345" x2="195" y2="395" stroke="#326f80" stroke-width="3"/>
+<path d="M 194.8 382.0 L 195 395 L 205.5 387.4" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="300" y1="345" x2="300" y2="395" stroke="#326f80" stroke-width="3"/>
+<path d="M 294.0 383.5 L 300 395 L 306.0 383.5" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="380" y1="345" x2="405" y2="395" stroke="#326f80" stroke-width="3"/>
+<path d="M 394.5 387.4 L 405 395 L 405.2 382.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="300" y="435" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">旋翼下洗气流可扬起松散物</text>
+<text x="680" y="185" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">收好衣物、绳索和轻物</text>
+<text x="680" y="235" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">保持原地，听从人员指示</text>
+<text x="680" y="285" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">不要靠近尾部旋翼</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">粉尘、石块和坡地会增加风险；由救援人员决定行动。</text>
+</svg>

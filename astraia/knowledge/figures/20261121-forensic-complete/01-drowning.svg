@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">溺水观察：口鼻与气道</title>
+<desc id="desc">从外表到内部，记录位置和呼吸状态</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">溺水观察：口鼻与气道</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">从外表到内部，记录位置和呼吸状态</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M165 80 Q115 85 102 140 L102 185 Q95 198 78 206 L102 215 Q106 242 130 251 L146 260 L146 335 L260 335 L260 208 Q250 110 200 85 Z" fill="#ead7cd" stroke="#b49284" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M107 191 Q130 180 161 189 M108 216 Q132 219 157 211" fill="none" stroke="#ad8e80" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><line x1="179" y1="213" x2="179" y2="317" stroke="#668f98" stroke-width="9" stroke-linecap="round"/><g transform="translate(179 350) scale(0.9)"><path d="M0 5 C-32 -17 -62 4 -70 43 Q-82 105 -21 108 L0 85 M0 5 C32 -17 62 4 70 43 Q82 105 21 108 L0 85" fill="#e4c5bf" stroke="#b68b83" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -95 V43 M0 23 L-38 58 M0 23 L38 58 M-26 46 L-47 42 M26 46 L47 42" fill="none" stroke="#668f98" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></g><path d="M15 262 Q50 250 80 262 T140 262 T200 262 T260 262 T320 262" fill="none" stroke="#668f98" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="101" cy="215" r="9" fill="#fffdf8" stroke="#668f98" stroke-width="2"/><circle cx="91" cy="210" r="7" fill="#fffdf8" stroke="#668f98" stroke-width="2"/><circle cx="84" cy="221" r="7" fill="#fffdf8" stroke="#668f98" stroke-width="2"/><circle cx="112" cy="220" r="5" fill="#fffdf8" stroke="#668f98" stroke-width="2"/><circle cx="180" cy="237" r="5" fill="#fffdf8" stroke="#668f98" stroke-width="2"/><circle cx="182" cy="255" r="4" fill="#fffdf8" stroke="#668f98" stroke-width="2"/><line x1="105" y1="218" x2="365" y2="115" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="105" cy="218" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="373" y="123" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">口鼻泡沫</text><line x1="182" y1="256" x2="365" y2="202" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="182" cy="256" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="373" y="210" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">喉和气管</text><line x1="145" y1="385" x2="365" y2="289" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="145" cy="385" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="373" y="297" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">支气管与肺</text><text x="365" y="391" font-size="25" fill="#596b6d" font-weight="400" text-anchor="start">外表泡沫有时不存在</text><text x="365" y="431" font-size="25" fill="#596b6d" font-weight="400" text-anchor="start">专业检查记录气道情况</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">口鼻可能有细小泡沫，也可能没</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">有。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">类似泡沫可见于多种情况，专业</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">人员结合其他信息判断。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">救出后无正常呼吸时按急救调度</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">指导复苏。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">不要倒提或按压腹部“控水”，以免耽误通气。</text>
+</g></svg>

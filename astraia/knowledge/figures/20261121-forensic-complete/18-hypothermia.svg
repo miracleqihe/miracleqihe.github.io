@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">失温：从湿冷环境到避风保温</title>
+<desc id="desc">雨、冷风和湿衣可使身体持续散热</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">失温：从湿冷环境到避风保温</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">雨、冷风和湿衣可使身体持续散热</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M78 404 H700" fill="none" stroke="#a7835a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M130 108 L90 70 M210 110 L170 72 M290 108 L250 70" fill="none" stroke="#668f98" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><g transform="translate(260 190) scale(0.65)"><circle cx="0" cy="0" r="29" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M-34 42 Q0 29 34 42 L44 145 L29 160 L23 278 L7 278 L0 168 L-7 278 L-23 278 L-29 160 L-44 145 Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-35 52 L-69 150 M35 52 L69 150" fill="none" stroke="#b49284" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/></g><path d="M182 218 q-15 19 0 38 M340 218 q15 19 0 38" fill="none" stroke="#668f98" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M410 270 Q460 205 510 270 L520 365 H400Z" fill="#bfd3c6" stroke="#8ca998" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="460" cy="240" r="27" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><rect x="392" y="365" width="145" height="18" rx="1" fill="#d4c1a7" stroke="#a99072" stroke-width="2"/><line x1="335" y1="225" x2="400" y2="225" stroke="#719481" stroke-width="4" stroke-linecap="round"/><path d="M 388.6 231.2 L 400 225 L 388.6 218.8" fill="none" stroke="#719481" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="210" y="133" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">雨、湿衣、冷风</text><text x="458" y="405" font-size="25" fill="#293e44" font-weight="400" text-anchor="middle">干燥遮挡与地面隔离</text><text x="650" y="180" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">发抖</text><text x="650" y="236" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">手笨</text><text x="650" y="292" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">迟钝</text><text x="650" y="348" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">嗜睡</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">发抖、动作笨拙、说话含糊或意</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">识迟钝可能出现。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">轻柔转移到避风处，换干衣并隔</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">开冷地面。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">清醒且能吞咽时可饮温热非酒精</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">饮料。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">意识不清者不喂水；避免火烤、高热水和剧烈按摩。</text>
+</g></svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">应急饮水：先判断污染类型，再处理</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">看似清澈不能排除病原体；化学或燃料污染的水需换水源。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="75" y="165" width="165" height="200" rx="12" fill="#e0eeeb" stroke="#60816a" stroke-width="3"/>
+<path d="M 90 300 L 225 300" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="157" y="220" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">取水</text>
+<line x1="250" y1="265" x2="320" y2="265" stroke="#326f80" stroke-width="4"/>
+<path d="M 308.5 271.0 L 320 265 L 308.5 259.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="330" y="165" width="165" height="200" rx="12" fill="#f5eee0" stroke="#bb8737" stroke-width="3"/>
+<path d="M 350 225 L 475 225 L 440 285 L 385 285 Z" fill="#e5dbc6" stroke="#aa9c84" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="412" y="330" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">浑浊先澄清</text>
+<line x1="505" y1="265" x2="575" y2="265" stroke="#326f80" stroke-width="4"/>
+<path d="M 563.5 271.0 L 575 265 L 563.5 259.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="585" y="165" width="165" height="200" rx="12" fill="#edf2ed" stroke="#60816a" stroke-width="3"/>
+<path d="M 620 290 L 715 290 L 705 330 L 630 330 Z" fill="#d7e6e2" stroke="#60816a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="667" y="220" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">煮沸</text>
+<line x1="760" y1="265" x2="830" y2="265" stroke="#326f80" stroke-width="4"/>
+<path d="M 818.5 271.0 L 830 265 L 818.5 259.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="840" y="165" width="165" height="200" rx="12" fill="#edf2ed" stroke="#60816a" stroke-width="3"/>
+<text x="922" y="250" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">洁净容器</text>
+<text x="600" y="424" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">清水滚沸 1 分钟；海拔较高地区按当地建议延长。</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">消毒片按标签与水量使用；化学污染不能靠简单过滤或煮沸消除。</text>
+</svg>

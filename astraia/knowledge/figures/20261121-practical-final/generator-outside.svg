@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">停电发电机：把排气源和建筑开口分开</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">示意俯视图；距离按开口到设备的实际位置测量。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 65 160 L 342 160 L 342 387 L 65 387 Z" fill="#eee8d9" stroke="#263b3e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="92" y="193" width="85" height="60" rx="8" fill="#cde3e6" stroke="#326f80" stroke-width="3"/>
+<line x1="342" y1="230" x2="342" y2="300" stroke="#ffffff" stroke-width="8"/>
+<path d="M 342 300 A 70 70 0 0 0 412 230" fill="none" stroke="#526d6e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="6 6"/>
+<circle cx="213" cy="294" r="19" fill="#f9efcf" stroke="#bb8737" stroke-width="3"/>
+<text x="213" y="302" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="16" font-weight="700" text-anchor="middle">CO</text>
+<rect x="533" y="252" width="115" height="82" rx="8" fill="#d9e6df" stroke="#263b3e" stroke-width="3"/>
+<rect x="553" y="268" width="48" height="30" rx="8" fill="#f4eee1" stroke="#526d6e" stroke-width="2"/>
+<circle cx="553" cy="339" r="12" fill="#263b3e" stroke="#263b3e" stroke-width="2"/>
+<circle cx="630" cy="339" r="12" fill="#263b3e" stroke="#263b3e" stroke-width="2"/>
+<line x1="648" y1="285" x2="708" y2="285" stroke="#a94d37" stroke-width="4"/>
+<path d="M 696.5 291.0 L 708 285 L 696.5 279.0" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="675" y="264" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">排气</text>
+<line x1="349" y1="361" x2="540" y2="361" stroke="#326f80" stroke-width="3"/>
+<line x1="349" y1="353" x2="349" y2="369" stroke="#326f80" stroke-width="3"/>
+<line x1="540" y1="353" x2="540" y2="369" stroke="#326f80" stroke-width="3"/>
+<text x="445" y="393" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">至少 6.1 米</text>
+<text x="136" y="183" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">窗</text>
+<text x="363" y="320" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">门</text>
+<text x="594" y="374" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">发电机</text>
+<line x1="720" y1="120" x2="720" y2="443" stroke="#d9e5df" stroke-width="2"/>
+<text x="756" y="153" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">室外、远离门窗和通风口</text>
+<text x="756" y="196" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">排气朝向远离建筑的位置</text>
+<text x="756" y="239" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">室内安装并维护 CO 报警器</text>
+<text x="756" y="282" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">车库开门也不能放发电机</text>
+<text x="756" y="325" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">注意 不用插座向住宅反送电</text>
+<text x="600" y="485" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">一氧化碳无色无味；报警或头晕时先离开并求助。</text>
+</svg>

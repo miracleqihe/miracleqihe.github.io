@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">隐翅虫接触与海洋蜇刺：观察不同部位</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">昆虫皮炎和海洋刺伤有不同处理方法；图为简化结构。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<line x1="420" y1="120" x2="420" y2="425" stroke="#dce6df" stroke-width="2"/>
+<line x1="795" y1="120" x2="795" y2="425" stroke="#dce6df" stroke-width="2"/>
+<ellipse cx="160" cy="220" rx="34" ry="25" fill="#303d3a" stroke="#263b3e" stroke-width="2"/>
+<ellipse cx="203" cy="220" rx="28" ry="34" fill="#bd684c" stroke="#263b3e" stroke-width="2"/>
+<rect x="226" y="192" width="53" height="56" rx="5" fill="#31434a" stroke="#263b3e" stroke-width="2"/>
+<path d="M 278 192 Q 335 199 354 220 Q 335 241 278 248 Z" fill="#c97555" stroke="#263b3e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="205" y1="198" x2="185" y2="170" stroke="#263b3e" stroke-width="2"/>
+<line x1="205" y1="243" x2="185" y2="270" stroke="#263b3e" stroke-width="2"/>
+<line x1="235" y1="198" x2="215" y2="170" stroke="#263b3e" stroke-width="2"/>
+<line x1="235" y1="243" x2="215" y2="270" stroke="#263b3e" stroke-width="2"/>
+<line x1="265" y1="198" x2="245" y2="170" stroke="#263b3e" stroke-width="2"/>
+<line x1="265" y1="243" x2="245" y2="270" stroke="#263b3e" stroke-width="2"/>
+<path d="M 132 210 Q 100 182 94 166 M 132 230 Q 100 248 94 264" fill="none" stroke="#263b3e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<text x="220" y="319" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">隐翅虫：虫体被压碎可污染皮肤</text>
+<text x="220" y="355" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="middle">轻掸离开；接触后肥皂清水清洗</text>
+<path d="M 503 203 Q 602 104 700 203 L 682 220 Q 600 240 520 220 Z" fill="#d6e9ed" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 530 222 Q 517 270 534 317 Q 544 345 530 365" fill="none" stroke="#326f80" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 555 222 Q 542 270 559 317 Q 569 345 555 365" fill="none" stroke="#326f80" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 585 222 Q 572 270 589 317 Q 599 345 585 365" fill="none" stroke="#326f80" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 615 222 Q 602 270 619 317 Q 629 345 615 365" fill="none" stroke="#326f80" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 645 222 Q 632 270 649 317 Q 659 345 645 365" fill="none" stroke="#326f80" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 675 222 Q 662 270 679 317 Q 689 345 675 365" fill="none" stroke="#326f80" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<text x="605" y="403" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">水母：触手仍可释放刺丝</text>
+<circle cx="987" cy="228" r="62" fill="#d3c4a7" stroke="#806f59" stroke-width="3"/>
+<line x1="1049.0" y1="228.0" x2="1091.0" y2="228.0" stroke="#263b3e" stroke-width="3"/>
+<line x1="1040.6935750346352" y1="259.0" x2="1077.0666419935817" y2="280.0" stroke="#263b3e" stroke-width="3"/>
+<line x1="1018.0" y1="281.6935750346352" x2="1039.0" y2="318.0666419935816" stroke="#263b3e" stroke-width="3"/>
+<line x1="987.0" y1="290.0" x2="987.0" y2="332.0" stroke="#263b3e" stroke-width="3"/>
+<line x1="956.0" y1="281.6935750346352" x2="935.0" y2="318.06664199358164" stroke="#263b3e" stroke-width="3"/>
+<line x1="933.3064249653648" y1="259.0" x2="896.9333580064184" y2="280.0" stroke="#263b3e" stroke-width="3"/>
+<line x1="925.0" y1="228.0" x2="883.0" y2="228.0" stroke="#263b3e" stroke-width="3"/>
+<line x1="933.3064249653648" y1="197.0" x2="896.9333580064184" y2="176.0" stroke="#263b3e" stroke-width="3"/>
+<line x1="956.0" y1="174.3064249653648" x2="935.0" y2="137.93335800641842" stroke="#263b3e" stroke-width="3"/>
+<line x1="987.0" y1="166.0" x2="987.0" y2="124.0" stroke="#263b3e" stroke-width="3"/>
+<line x1="1018.0" y1="174.3064249653648" x2="1039.0" y2="137.9333580064184" stroke="#263b3e" stroke-width="3"/>
+<line x1="1040.6935750346352" y1="196.99999999999997" x2="1077.0666419935815" y2="175.99999999999994" stroke="#263b3e" stroke-width="3"/>
+<text x="987" y="377" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">海胆：刺可能断留在组织内</text>
+<text x="600" y="485" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">海水冲洗及触手处理遵循当地指南；呼吸困难或广泛症状应立即求救。</text>
+</svg>

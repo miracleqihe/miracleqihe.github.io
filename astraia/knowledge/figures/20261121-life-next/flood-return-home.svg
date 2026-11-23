@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">洪水退后：先看结构、用电和污染</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">房屋、道路和设备应在确认安全后再进入或使用。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 80 270 L 260 135 L 440 270 Z" fill="#dfcdb8" stroke="#967b64" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="115" y="270" width="290" height="140" rx="8" fill="#f0e7d7" stroke="#aa9c85" stroke-width="3"/>
+<rect x="210" y="300" width="75" height="110" rx="8" fill="#d7e5e3" stroke="#60816a" stroke-width="2"/>
+<path d="M 55 355 Q 180 340 310 355 T 485 355" fill="none" stroke="#326f80" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 345 295 L 326 325 L 351 325 L 330 355" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="355" y="322" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="start">电气</text>
+<path d="M 500 355 L 700 355" fill="none" stroke="#a9a9a0" stroke-width="18" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 530 355 L 555 385 L 575 355" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="595" y="420" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">路基可能掏空</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">关注官方返家通告</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">远离积水、断线与受损结构</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">勿在潮湿处操作电器</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">浸水物与霉菌按指南处理</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">水退去后仍有触电、坍塌和感染风险。</text>
+</svg>

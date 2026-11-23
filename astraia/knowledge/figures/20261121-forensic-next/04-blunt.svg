@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">钝性损伤：擦伤、挫伤与挫裂创</title>
+<desc id="desc">比较表皮、组织内出血和裂口的不同位置</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">钝性损伤：擦伤、挫伤与挫裂创</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">比较表皮、组织内出血和裂口的不同位置</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<rect x="40" y="150" width="220" height="185" rx="0" fill="#f0dcd0" stroke="#bb9e91" stroke-width="3"/><rect x="40" y="150" width="220" height="20" rx="0" fill="#d1aaa0" stroke="none" stroke-width="0"/><rect x="40" y="270" width="220" height="65" rx="0" fill="#e5d5b1" stroke="none" stroke-width="0"/><line x1="40" y1="270" x2="260" y2="270" stroke="#ceb99a" stroke-width="2" stroke-linecap="round"/><rect x="305" y="150" width="220" height="185" rx="0" fill="#f0dcd0" stroke="#bb9e91" stroke-width="3"/><rect x="305" y="150" width="220" height="20" rx="0" fill="#d1aaa0" stroke="none" stroke-width="0"/><rect x="305" y="270" width="220" height="65" rx="0" fill="#e5d5b1" stroke="none" stroke-width="0"/><line x1="305" y1="270" x2="525" y2="270" stroke="#ceb99a" stroke-width="2" stroke-linecap="round"/><rect x="570" y="150" width="220" height="185" rx="0" fill="#f0dcd0" stroke="#bb9e91" stroke-width="3"/><rect x="570" y="150" width="220" height="20" rx="0" fill="#d1aaa0" stroke="none" stroke-width="0"/><rect x="570" y="270" width="220" height="65" rx="0" fill="#e5d5b1" stroke="none" stroke-width="0"/><line x1="570" y1="270" x2="790" y2="270" stroke="#ceb99a" stroke-width="2" stroke-linecap="round"/><path d="M65 150 H105 q20 12 38 0 H235" fill="none" stroke="#af7072" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M365 235 q45-26 95 0 q-9 30-48 32 q-40-5-47-32Z" fill="#c68f91" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/><path d="M570 150 H640 l18 47 19-24 20 36 19-59 H790" fill="none" stroke="#af7072" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M660 197 Q676 225 696 209" fill="none" stroke="#bba090" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><text x="150" y="104" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">擦伤</text><text x="415" y="104" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">挫伤</text><text x="680" y="104" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">挫裂创</text><text x="150" y="385" font-size="23" fill="#293e44" font-weight="400" text-anchor="middle">表浅组织受损</text><text x="415" y="385" font-size="23" fill="#293e44" font-weight="400" text-anchor="middle">血液进入组织</text><text x="680" y="385" font-size="23" fill="#293e44" font-weight="400" text-anchor="middle">边缘与组织桥需检查</text><text x="410" y="448" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">示意剖面：实际伤情可能互相重叠</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">擦伤可累及表浅皮肤，挫伤可表</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">现为组织内出血。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">挫裂创边缘可能不整齐，裂口内</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">可见组织桥。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">损伤形态受接触面、组织和受力</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">条件影响。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">示意形态可重叠；不能凭单个伤口唯一确定工具。</text>
+</g></svg>

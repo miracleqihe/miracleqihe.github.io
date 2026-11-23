@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="660" viewBox="0 0 1400 660" role="img" aria-labelledby="title desc">
+<title id="title">擦伤、挫伤、裂创：皮肤与组织</title>
+<desc id="desc">侧面剖面只展示常见机制；一次事件可同时出现多种损伤</desc>
+<rect x="1" y="1" width="1398" height="658" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="32" y="47" fill="#293b43" font-size="38" font-weight="700" text-anchor="start">擦伤、挫伤、裂创：皮肤与组织</text>
+<text x="33" y="85" fill="#52636a" font-size="24" font-weight="400" text-anchor="start">侧面剖面只展示常见机制；一次事件可同时出现多种损伤</text>
+<rect x="26" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="242" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">擦伤：表面磨损</text>
+<g transform="translate(112 172)">
+<rect x="20" y="20" width="220" height="82" rx="3" fill="#eadbd1" stroke="#b09c91" stroke-width="2"/><line x1="21" y1="38" x2="239" y2="38" stroke="#b18a80" stroke-width="4" stroke-linecap="round"/><path d="M73 37 l16-8 15 9 13-8 14 8 12-9 14 8" fill="none" stroke="#a64f51" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="51" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">表皮磨破，可有渗血或渗</text>
+<text x="51" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">液。膝、肘等突出部位容易</text>
+<text x="51" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">擦破。颗粒或异物需由医护</text>
+<text x="51" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">处理。</text>
+<rect x="484" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="700" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">挫伤：组织内出血</text>
+<g transform="translate(570 172)">
+<rect x="20" y="20" width="220" height="82" rx="3" fill="#eadbd1" stroke="#b09c91" stroke-width="2"/><line x1="21" y1="38" x2="239" y2="38" stroke="#b18a80" stroke-width="4" stroke-linecap="round"/><path d="M78 75 q52-35 105 0 q-22 25-105 0z" fill="#b1818c" stroke="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="509" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">皮肤可完整，局部有红紫</text>
+<text x="509" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">色。可有肿胀和疼痛；深层</text>
+<text x="509" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">血液显色位置可能偏离受力</text>
+<text x="509" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">处。</text>
+<rect x="942" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="1158" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">裂创：皮肤撕开</text>
+<g transform="translate(1028 172)">
+<rect x="20" y="20" width="220" height="82" rx="3" fill="#eadbd1" stroke="#b09c91" stroke-width="2"/><line x1="21" y1="38" x2="239" y2="38" stroke="#b18a80" stroke-width="4" stroke-linecap="round"/><path d="M101 38 l10 30 11-12 10 27 12-45" fill="none" stroke="#a75256" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><line x1="111" y1="68" x2="132" y2="65" stroke="#8e6e67" stroke-width="3" stroke-linecap="round"/>
+</g>
+<text x="967" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">边缘可不整齐，周围可擦</text>
+<text x="967" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">伤。裂口深处有时保留组织</text>
+<text x="967" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">桥。紧贴骨面的裂口也可能</text>
+<text x="967" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">较整齐。</text>
+<rect x="26" y="558" width="1348" height="81" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="44" y="590" fill="#785334" font-size="25" font-weight="400" text-anchor="start">严重出血或意识异常先急救；嵌入物不要自行拔出。</text>
+<text x="44" y="622" fill="#785334" font-size="25" font-weight="400" text-anchor="start">不能仅凭图示推断具体工具、伤害经过或伤口形成时间。</text>
+</g></svg>

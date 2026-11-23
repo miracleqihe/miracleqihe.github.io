@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">潜水后减压病：压力变化与气泡</title>
+<desc id="desc">较高压力下溶解的气体与上升后气泡的概念图</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">潜水后减压病：压力变化与气泡</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">较高压力下溶解的气体与上升后气泡的概念图</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M70 180 Q140 165 210 180 T350 180 T490 180 T630 180 T770 180" fill="none" stroke="#668f98" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><rect x="80" y="182" width="680" height="240" rx="0" fill="#dceced" stroke="none" stroke-width="0"/><g transform="translate(350 235) scale(0.5)"><circle cx="0" cy="0" r="29" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M-34 42 Q0 29 34 42 L44 145 L29 160 L23 278 L7 278 L0 168 L-7 278 L-23 278 L-29 160 L-44 145 Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-35 52 L-69 150 M35 52 L69 150" fill="none" stroke="#b49284" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(565 82) scale(0.5)"><circle cx="0" cy="0" r="29" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M-34 42 Q0 29 34 42 L44 145 L29 160 L23 278 L7 278 L0 168 L-7 278 L-23 278 L-29 160 L-44 145 Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-35 52 L-69 150 M35 52 L69 150" fill="none" stroke="#b49284" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/></g><line x1="370" y1="265" x2="545" y2="145" stroke="#a7835a" stroke-width="5" stroke-linecap="round"/><path d="M 539.1 156.6 L 545 145 L 532.1 146.3" fill="none" stroke="#a7835a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="380" cy="280" r="6" fill="#f7fcfa" stroke="#668f98" stroke-width="2"/><circle cx="397" cy="298" r="6" fill="#f7fcfa" stroke="#668f98" stroke-width="2"/><circle cx="412" cy="277" r="6" fill="#f7fcfa" stroke="#668f98" stroke-width="2"/><circle cx="580" cy="139" r="6" fill="#f7fcfa" stroke="#668f98" stroke-width="2"/><circle cx="602" cy="126" r="6" fill="#f7fcfa" stroke="#668f98" stroke-width="2"/><circle cx="614" cy="103" r="6" fill="#f7fcfa" stroke="#668f98" stroke-width="2"/><circle cx="592" cy="92" r="6" fill="#f7fcfa" stroke="#668f98" stroke-width="2"/><text x="193" y="270" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">较高环境压力</text><text x="193" y="315" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">气体溶入组织</text><text x="555" y="445" font-size="25" fill="#293e44" font-weight="400" text-anchor="middle">上升后可能出现气泡</text><text x="168" y="95" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">水面</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">潜水上升后可能出现关节痛、皮</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">疹或神经症状。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">症状可在出水后出现，严重时需</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">要紧急救治。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">联系急救并说明潜水经过，按受</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">训程序供氧。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">不要再次下水自行加压治疗；由专业医疗人员评估。</text>
+</g></svg>

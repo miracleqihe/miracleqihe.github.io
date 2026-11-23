@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="660" viewBox="0 0 1400 660" role="img" aria-labelledby="title desc">
+<title id="title">指纹比较：整体纹型与局部细节</title>
+<desc id="desc">弓形和斗形仅作纹路示意，实际印痕可能只有一部分</desc>
+<rect x="1" y="1" width="1398" height="658" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="32" y="47" fill="#293b43" font-size="38" font-weight="700" text-anchor="start">指纹比较：整体纹型与局部细节</text>
+<text x="33" y="85" fill="#52636a" font-size="24" font-weight="400" text-anchor="start">弓形和斗形仅作纹路示意，实际印痕可能只有一部分</text>
+<rect x="26" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="242" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">整体纹型</text>
+<g transform="translate(112 172)">
+<path d="M 12 100 Q 55 30 98 100" fill="none" stroke="#6d898e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M 12 90 Q 55 24 98 90" fill="none" stroke="#6d898e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M 12 80 Q 55 18 98 80" fill="none" stroke="#6d898e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M 12 70 Q 55 12 98 70" fill="none" stroke="#6d898e" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="184" cy="65" r="18" fill="none" stroke="#6d898e" stroke-width="3"/><circle cx="184" cy="65" r="28" fill="none" stroke="#6d898e" stroke-width="3"/><circle cx="184" cy="65" r="38" fill="none" stroke="#6d898e" stroke-width="3"/><circle cx="184" cy="65" r="48" fill="none" stroke="#6d898e" stroke-width="3"/><text x="53" y="126" fill="#52636a" font-size="18" font-weight="400" text-anchor="middle">弓形</text><text x="184" y="126" fill="#52636a" font-size="18" font-weight="400" text-anchor="middle">斗形</text>
+</g>
+<text x="51" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">大致可见弓形、箕形或斗</text>
+<text x="51" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">形。整体纹型有助于分类与</text>
+<text x="51" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">检索，不能只靠类别确认来</text>
+<text x="51" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">源。</text>
+<rect x="484" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="700" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">局部细节</text>
+<g transform="translate(570 172)">
+<path d="M10 40 H112 M10 75 H90 M10 110 H112 M145 40 H245 M145 75 H195 Q207 75 224 58 M195 75 Q207 75 224 92 M145 110 H245" fill="none" stroke="#6d898e" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="91" cy="75" r="13" fill="none" stroke="#9d6157" stroke-width="2"/><circle cx="195" cy="75" r="13" fill="none" stroke="#9d6157" stroke-width="2"/><text x="60" y="126" fill="#52636a" font-size="18" font-weight="400" text-anchor="middle">终止</text><text x="195" y="126" fill="#52636a" font-size="18" font-weight="400" text-anchor="middle">分叉</text>
+</g>
+<text x="509" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">比较纹线的终止、分叉及位</text>
+<text x="509" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">置。要看多处细节的相对关</text>
+<text x="509" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">系，也要记录不一致与清晰</text>
+<text x="509" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">程度。</text>
+<rect x="942" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="1158" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">质量与可比范围</text>
+<g transform="translate(1028 172)">
+<path d="M25 25 Q100 45 225 20 M25 46 Q100 66 225 41 M25 67 Q100 87 225 62 M25 88 Q100 108 225 83" fill="none" stroke="#aab6b4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M91 16 v95 M156 16 v95" fill="none" stroke="#d1c4bd" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/><text x="130" y="125" fill="#52636a" font-size="18" font-weight="400" text-anchor="middle">局部叠印示意</text>
+</g>
+<text x="967" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">局部、叠印、按压或擦动会</text>
+<text x="967" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">让纹线模糊、断开或连成一</text>
+<text x="967" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">片。有时只能得出无法判</text>
+<text x="967" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">断。</text>
+<rect x="26" y="558" width="1348" height="81" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="44" y="590" fill="#785334" font-size="25" font-weight="400" text-anchor="start">自动检索给出的是候选，比较和复核需结合实际细节及方法。</text>
+<text x="44" y="622" fill="#785334" font-size="25" font-weight="400" text-anchor="start">发现可疑痕迹时不擦拭、不自行撒粉。</text>
+</g></svg>

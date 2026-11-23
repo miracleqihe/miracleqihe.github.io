@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">凝块显微观察：厚带与细丝</title>
+<desc id="desc">两种结构的概念示意，实际标本可能更复杂</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">凝块显微观察：厚带与细丝</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">两种结构的概念示意，实际标本可能更复杂</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<circle cx="225" cy="225" r="130" fill="#f5e7df" stroke="#ad9d93" stroke-width="4"/><circle cx="575" cy="225" r="130" fill="#f5e7df" stroke="#ad9d93" stroke-width="4"/><path d="M130 193 Q200 125 306 210 M132 250 Q210 175 313 268" fill="none" stroke="#d4b88a" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/><path d="M130 193 Q200 125 306 210 M132 250 Q210 175 313 268" fill="none" stroke="#af7072" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="150" cy="180" r="6" fill="#a97579" stroke="none" stroke-width="3"/><circle cx="185" cy="159" r="6" fill="#a97579" stroke="none" stroke-width="3"/><circle cx="220" cy="160" r="6" fill="#a97579" stroke="none" stroke-width="3"/><circle cx="250" cy="176" r="6" fill="#a97579" stroke="none" stroke-width="3"/><circle cx="171" cy="222" r="6" fill="#a97579" stroke="none" stroke-width="3"/><circle cx="210" cy="206" r="6" fill="#a97579" stroke="none" stroke-width="3"/><circle cx="252" cy="218" r="6" fill="#a97579" stroke="none" stroke-width="3"/><circle cx="279" cy="240" r="6" fill="#a97579" stroke="none" stroke-width="3"/><path d="M480 175 Q555 148 662 230 M490 258 Q558 220 670 270 M505 200 Q568 205 630 178" fill="none" stroke="#d4b88a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><text x="225" y="390" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">较厚的血小板与纤维蛋白带</text><text x="575" y="390" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">细纤维丝可见于多种凝块</text><text x="400" y="455" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">显微形态需要与其他证据共同解释</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">较厚血小板带包绕纤维蛋白可提</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">供比较线索。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">细弯曲纤维丝在两类凝块中均可</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">能出现。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">形成时点、来源及其是否致死需</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">要分别判断。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">结构需结合染色、组织位置和其他检查综合解释。</text>
+</g></svg>

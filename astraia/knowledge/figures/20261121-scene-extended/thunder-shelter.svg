@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">听到雷声：尽快进入可靠遮蔽处</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">提前查看天气预报；帐篷、孤树和敞开式凉亭不能提供可靠防雷保护。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 135 235 Q 120 190 167 175 Q 188 130 238 151 Q 290 135 306 180 Q 350 185 340 226 Q 336 245 315 246 L 166 246 Q 142 246 135 235 Z" fill="#dfe7e4" stroke="#8b9d98" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 240 245 L 213 303 L 244 294 L 218 350 L 278 274 L 247 282 L 270 245 Z" fill="#f2cf78" stroke="#bb8737" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="360" y1="290" x2="480" y2="290" stroke="#326f80" stroke-width="4"/>
+<path d="M 468.5 296.0 L 480 290 L 468.5 284.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 540 330 L 540 235 L 625 185 L 710 235 L 710 330 Z" fill="#e9e3d8" stroke="#938b7e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="605" y="275" width="40" height="55" rx="8" fill="#e5efed" stroke="#326f80" stroke-width="2"/>
+<text x="625" y="380" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">有电气或管道的建筑</text>
+<text x="790" y="235" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="400" text-anchor="start">或</text>
+<path d="M 850 320 L 865 280 L 910 258 L 980 258 L 1010 280 L 1040 288 L 1040 320 Z" fill="#dce9e7" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="890" cy="325" r="18" fill="#fff" stroke="#263b3e" stroke-width="3"/>
+<circle cx="1000" cy="325" r="18" fill="#fff" stroke="#263b3e" stroke-width="3"/>
+<text x="945" y="380" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">关窗的金属硬顶车辆</text>
+<text x="600" y="478" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">最后一次雷声后，在安全遮蔽处至少等待 30 分钟再继续户外活动。</text>
+</svg>

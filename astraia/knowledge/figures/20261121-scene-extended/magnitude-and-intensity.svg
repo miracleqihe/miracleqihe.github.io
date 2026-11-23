@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">一次地震：一个震级，多处不同烈度</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">震级描述震源释放能量的规模；烈度描述某地点的摇晃与影响。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 70 275 L 1120 275" fill="none" stroke="#8fa79b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="250" y="185" width="95" height="90" rx="2" fill="#e9e2d4" stroke="#a29787" stroke-width="3"/>
+<line x1="270" y1="210" x2="325" y2="210" stroke="#a29787" stroke-width="2"/>
+<line x1="270" y1="235" x2="325" y2="235" stroke="#a29787" stroke-width="2"/>
+<rect x="570" y="210" width="95" height="65" rx="2" fill="#e9e2d4" stroke="#a29787" stroke-width="3"/>
+<line x1="590" y1="235" x2="645" y2="235" stroke="#a29787" stroke-width="2"/>
+<line x1="590" y1="260" x2="645" y2="260" stroke="#a29787" stroke-width="2"/>
+<rect x="900" y="227" width="95" height="48" rx="2" fill="#e9e2d4" stroke="#a29787" stroke-width="3"/>
+<line x1="920" y1="252" x2="975" y2="252" stroke="#a29787" stroke-width="2"/>
+<line x1="920" y1="277" x2="975" y2="277" stroke="#a29787" stroke-width="2"/>
+<circle cx="220" cy="405" r="13" fill="#a94d37" stroke="#a94d37" stroke-width="2"/>
+<text x="220" y="448" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">震源</text>
+<path d="M 245 385 Q 320 338 350 280 M 250 400 Q 480 350 560 280 M 250 415 Q 690 372 900 280" fill="none" stroke="#c9a978" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 7"/>
+<text x="295" y="155" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">甲地烈度</text>
+<text x="620" y="155" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">乙地烈度</text>
+<text x="947" y="155" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">丙地烈度</text>
+<text x="600" y="485" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">各地烈度受距离、震源深度、场地与建筑条件等影响，远近不是唯一因素。</text>
+</svg>

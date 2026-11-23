@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">动物细胞示意：边界、细胞核与细胞器</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">细胞器有立体结构和动态变化；图示位置与数量不代表真实比例。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<ellipse cx="340" cy="275" rx="245" ry="160" fill="#e5eee9" stroke="#60816a" stroke-width="4"/>
+<circle cx="300" cy="250" r="70" fill="#d9e3ed" stroke="#326f80" stroke-width="3"/>
+<circle cx="300" cy="250" r="22" fill="#a6bdc8" stroke="#326f80" stroke-width="2"/>
+<ellipse cx="450" cy="220" rx="50" ry="28" fill="#e9c5b4" stroke="#a94d37" stroke-width="3"/>
+<path d="M 420 220 Q 430 207 440 220 T 460 220 T 480 220" fill="none" stroke="#a94d37" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 245 355 Q 300 325 355 355 M 235 365 Q 300 338 365 365" fill="none" stroke="#bb8737" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="210" cy="220" r="5" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<circle cx="400" cy="325" r="5" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<circle cx="230" cy="300" r="5" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<circle cx="390" cy="185" r="5" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<circle cx="475" cy="300" r="5" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<line x1="300" y1="180" x2="300" y2="125" stroke="#326f80" stroke-width="3"/>
+<path d="M 306.0 136.5 L 300 125 L 294.0 136.5" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="312" y="131" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">细胞核</text>
+<line x1="450" y1="220" x2="590" y2="175" stroke="#326f80" stroke-width="3"/>
+<path d="M 580.9 184.2 L 590 175 L 577.2 172.8" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="602" y="181" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">线粒体</text>
+<line x1="360" y1="360" x2="590" y2="330" stroke="#326f80" stroke-width="3"/>
+<path d="M 579.3 337.4 L 590 330 L 577.8 325.5" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="602" y="336" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">内质网示意</text>
+<line x1="580" y1="250" x2="620" y2="240" stroke="#326f80" stroke-width="3"/>
+<path d="M 610.3 248.6 L 620 240 L 607.4 237.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="632" y="246" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">细胞膜</text>
+<text x="860" y="205" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">细胞核：遗传信息</text>
+<text x="860" y="255" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">线粒体：能量转换</text>
+<text x="860" y="305" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">细胞膜：调节物质交换</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">植物细胞还具有细胞壁、液泡及叶绿体等结构。</text>
+</svg>

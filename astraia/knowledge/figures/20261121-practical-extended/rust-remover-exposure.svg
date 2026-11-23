@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">酸性除锈剂暴露：按接触部位处理</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">先停止接触并保留产品容器，不要试图自行中和。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="95" y="150" width="195" height="230" rx="12" fill="#f2ece2" stroke="#aaa18f" stroke-width="3"/>
+<rect x="155" y="120" width="75" height="30" rx="2" fill="#e2ded1" stroke="#aaa18f" stroke-width="2"/>
+<text x="192" y="242" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="middle">除锈剂</text>
+<text x="192" y="282" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">原包装</text>
+<circle cx="435" cy="170" r="10" fill="#326f80" stroke="#326f80" stroke-width="2"/>
+<text x="465" y="175" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="start">眼睛</text>
+<text x="610" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">立即用流动清水持续冲洗</text>
+<circle cx="435" cy="240" r="10" fill="#326f80" stroke="#326f80" stroke-width="2"/>
+<text x="465" y="245" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="start">皮肤</text>
+<text x="610" y="245" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">移除污染衣物并冲洗</text>
+<circle cx="435" cy="310" r="10" fill="#326f80" stroke="#326f80" stroke-width="2"/>
+<text x="465" y="315" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="start">误服</text>
+<text x="610" y="315" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">不要催吐，立即求助</text>
+<text x="600" y="438" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">产品浓度与配方不同，向中毒咨询或医护说明名称、时间和接触方式。</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">呼吸困难、昏迷或抽搐时立即呼叫急救。</text>
+</svg>

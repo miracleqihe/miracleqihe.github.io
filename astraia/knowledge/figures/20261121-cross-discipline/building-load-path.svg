@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">建筑竖向荷载路径与侧向支撑</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">图为一种简化框架，实际结构需要查看施工图并由专业人员评估。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 160 235 L 390 125 L 620 235 Z" fill="#e9dcca" stroke="#7e7061" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="150" y="235" width="480" height="25" rx="2" fill="#c6d5cd" stroke="#668477" stroke-width="3"/>
+<rect x="190" y="260" width="35" height="130" rx="2" fill="#dfe9e3" stroke="#668477" stroke-width="3"/>
+<rect x="555" y="260" width="35" height="130" rx="2" fill="#dfe9e3" stroke="#668477" stroke-width="3"/>
+<path d="M 225 375 L 555 275 M 225 275 L 555 375" fill="none" stroke="#bb8737" stroke-width="7" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="140" y="390" width="500" height="24" rx="0" fill="#a6afa7" stroke="#66736c" stroke-width="2"/>
+<rect x="100" y="414" width="580" height="29" rx="0" fill="#e8dcc2" stroke="#c9b998" stroke-width="1"/>
+<line x1="250" y1="160" x2="250" y2="220" stroke="#a94d37" stroke-width="4"/>
+<path d="M 244.0 208.5 L 250 220 L 256.0 208.5" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="390" y1="160" x2="390" y2="220" stroke="#a94d37" stroke-width="4"/>
+<path d="M 384.0 208.5 L 390 220 L 396.0 208.5" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="530" y1="160" x2="530" y2="220" stroke="#a94d37" stroke-width="4"/>
+<path d="M 524.0 208.5 L 530 220 L 536.0 208.5" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="208" y1="270" x2="208" y2="374" stroke="#a94d37" stroke-width="4"/>
+<path d="M 202.0 362.5 L 208 374 L 214.0 362.5" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="573" y1="270" x2="573" y2="374" stroke="#a94d37" stroke-width="4"/>
+<path d="M 567.0 362.5 L 573 374 L 579.0 362.5" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="650" y1="330" x2="600" y2="330" stroke="#326f80" stroke-width="4"/>
+<path d="M 611.5 324.0 L 600 330 L 611.5 336.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="745" y="178" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="start">屋面与楼板</text>
+<text x="745" y="210" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">将荷载传给梁</text>
+<text x="745" y="260" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="start">梁、柱与基础</text>
+<text x="745" y="292" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">逐级传递至地基</text>
+<text x="745" y="342" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="start">斜撑等抗侧构件</text>
+<text x="745" y="374" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">帮助抵抗侧向作用</text>
+<text x="600" y="487" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">不能凭简图判断墙体是否可拆；改动前联系结构专业人员。</text>
+</svg>

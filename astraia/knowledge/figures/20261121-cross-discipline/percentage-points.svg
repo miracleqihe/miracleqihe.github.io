@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">百分数变化与百分点变化</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">假设某比例从 10% 上升至 15%。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<line x1="140" y1="390" x2="640" y2="390" stroke="#263b3e" stroke-width="3"/>
+<rect x="225" y="250" width="110" height="140" rx="1" fill="#8ab1a5" stroke="#648c7f" stroke-width="2"/>
+<rect x="440" y="180" width="110" height="210" rx="1" fill="#cd9a6e" stroke="#a87954" stroke-width="2"/>
+<text x="280" y="235" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="28" font-weight="700" text-anchor="middle">10%</text>
+<text x="495" y="165" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="28" font-weight="700" text-anchor="middle">15%</text>
+<text x="280" y="430" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">原比例</text>
+<text x="495" y="430" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">新比例</text>
+<text x="720" y="205" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="27" font-weight="700" text-anchor="start">相差 5 个百分点</text>
+<text x="720" y="248" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">15% − 10% = 5%</text>
+<text x="720" y="320" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="27" font-weight="700" text-anchor="start">相对上升 50%</text>
+<text x="720" y="363" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">(15% − 10%) ÷ 10% = 50%</text>
+<text x="600" y="482" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">比较相对变化时，先确认分母是哪个基准值。</text>
+</svg>

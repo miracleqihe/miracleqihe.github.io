@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820" role="img" aria-labelledby="title desc">
+<title id="title">蛛网膜下腔出血：出血位于哪里</title>
+<desc id="desc">颅骨及脑膜顺序的示意剖面，并非 CT 影像</desc>
+<rect x="1" y="1" width="1598" height="818" rx="15" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="36" y="53" font-size="42" font-weight="700" fill="#263d43" text-anchor="start">蛛网膜下腔出血：出血位于哪里</text>
+<text x="38" y="94" font-size="29" font-weight="400" fill="#5b6d70" text-anchor="start">颅骨及脑膜顺序的示意剖面，并非 CT 影像</text>
+<rect x="28" y="120" width="920" height="595" rx="12" fill="#f3f6f2" stroke="#dce6df" stroke-width="2"/>
+<g transform="translate(35 130)">
+<text x="100" y="64" font-size="28" font-weight="700" fill="#263d43" text-anchor="start">从外向内（示意）</text><rect x="130" y="95" width="550" height="50" rx="0" fill="#d7cec3" stroke="#a89d90" stroke-width="2"/><text x="405" y="129" font-size="28" font-weight="400" fill="#263d43" text-anchor="middle">颅骨</text><rect x="130" y="145" width="550" height="39" rx="0" fill="#c9b4ad" stroke="#a69089" stroke-width="2"/><text x="405" y="174" font-size="26" font-weight="400" fill="#263d43" text-anchor="middle">硬脑膜</text><rect x="130" y="184" width="550" height="34" rx="0" fill="#dce6e4" stroke="#91aaa5" stroke-width="2"/><text x="405" y="210" font-size="26" font-weight="400" fill="#263d43" text-anchor="middle">蛛网膜</text><rect x="130" y="218" width="550" height="107" rx="0" fill="#c9e4e8" stroke="#8eaeb3" stroke-width="2"/><text x="405" y="286" font-size="27" font-weight="400" fill="#263d43" text-anchor="middle">蛛网膜下腔：脑脊液与血管</text><path d="M 177 248 C 238 225 293 272 349 248 S 470 228 536 257 S 625 232 654 252" fill="none" stroke="#a66b70" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M480 280.4 Q464.4 299.6 468 308.0 Q480 321.2 492 308.0 Q495.6 299.6 480 280.4 Z" fill="#a66b70" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/><rect x="130" y="325" width="550" height="34" rx="0" fill="#dfebe6" stroke="#91aaa5" stroke-width="2"/><text x="405" y="352" font-size="26" font-weight="400" fill="#263d43" text-anchor="middle">软脑膜</text><path d="M130 359 Q240 389 315 365 T490 374 T680 359 L680 500 H130Z" fill="#e9cfc8" stroke="#b89b91" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="405" y="446" font-size="30" font-weight="400" fill="#263d43" text-anchor="middle">脑组织</text><circle cx="715" cy="270" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="715" y="278" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">1</text>
+</g>
+<line x1="971" y1="132" x2="971" y2="706" stroke="#e3e8e2" stroke-width="2" stroke-linecap="round"/>
+<text x="1005" y="164" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">① 所在空间</text>
+<text x="1005" y="204" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">血液进入蛛网膜与软脑膜之间的空</text>
+<text x="1005" y="241" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">间。</text>
+<text x="1005" y="299" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">② 可能原因</text>
+<text x="1005" y="339" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">血管病变和头部创伤都可能造成该部</text>
+<text x="1005" y="376" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">位出血。</text>
+<text x="1005" y="434" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">③ 要查什么</text>
+<text x="1005" y="474" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">需要结合影像、血管、损伤及临床经</text>
+<text x="1005" y="511" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">过判断。</text>
+<text x="1005" y="569" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">④ 急救警讯</text>
+<text x="1005" y="609" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">突发剧烈头痛，尤其伴呕吐或意识变</text>
+<text x="1005" y="646" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">化时立即呼救。</text>
+<rect x="28" y="735" width="1544" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="45" y="773" font-size="29" font-weight="400" fill="#785334" text-anchor="start">这个名称说明出血部位，不能单凭名称推断血管来源或死因。</text>
+</g></svg>

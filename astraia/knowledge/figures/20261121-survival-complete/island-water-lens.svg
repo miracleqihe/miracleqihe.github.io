@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">海岛找水：地下淡水与海水的关系</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">海岛淡水层受地形、降雨和抽取影响；剖面是概念示意。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 60 320 Q 270 250 450 300 Q 650 235 850 320 L 850 420 L 60 420 Z" fill="#e8d9b8" stroke="#b39e78" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 80 330 Q 260 290 450 315 Q 640 270 830 330 L 830 410 L 80 410 Z" fill="#cce8ea" stroke="#326f80" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 80 385 Q 450 330 830 385 L 830 410 L 80 410 Z" fill="#9ec9d3" stroke="#326f80" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<text x="340" y="320" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="middle">可能的淡水区</text>
+<text x="450" y="405" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">海水影响区</text>
+<line x1="170" y1="165" x2="170" y2="250" stroke="#326f80" stroke-width="4"/>
+<path d="M 164.0 238.5 L 170 250 L 176.0 238.5" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="170" y="150" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">降雨补给</text>
+<text x="900" y="185" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">盐味或污染水别喝</text>
+<text x="900" y="238" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">优先安全储水和雨水</text>
+<text x="900" y="290" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">取水后仍需处理</text>
+<text x="600" y="482" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">是否有淡水及其水质不能靠图判断；海水和化学污染水不能靠煮沸变安全。</text>
+</svg>

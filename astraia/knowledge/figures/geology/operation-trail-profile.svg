@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 350" width="760" height="350">
+  <rect x="0" y="0" width="760" height="350" rx="12" fill="#f8faf7"/>
+  <g font-family="Arial, sans-serif" fill="#344940">
+    <text x="85" y="36" font-size="16">A</text>
+    <path d="M105 30h54" fill="none" stroke="#2b6f5a" stroke-width="4"/>
+    <text x="190" y="36" font-size="16">B</text>
+    <path d="M210 30h10 M227 30h10 M244 30h10 M261 30h3" fill="none" stroke="#b2683b" stroke-width="4"/>
+    <text x="15" y="83" font-size="13">ELEV (m)</text>
+  </g>
+  <g stroke="#dae3dc" stroke-width="1">
+    <path d="M85 110h600 M85 140h600 M85 170h600 M85 200h600 M85 230h600 M85 260h600 M85 290h600"/>
+    <path d="M85 110v180 M235 110v180 M385 110v180 M535 110v180 M685 110v180"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="13" fill="#475c50">
+    <text x="72" y="114" text-anchor="end">400</text><text x="72" y="144" text-anchor="end">380</text>
+    <text x="72" y="174" text-anchor="end">360</text><text x="72" y="204" text-anchor="end">340</text>
+    <text x="72" y="234" text-anchor="end">320</text><text x="72" y="264" text-anchor="end">300</text>
+    <text x="72" y="294" text-anchor="end">280</text>
+    <text x="85" y="311" text-anchor="middle">0</text><text x="235" y="311" text-anchor="middle">500</text>
+    <text x="385" y="311" text-anchor="middle">1,000</text><text x="535" y="311" text-anchor="middle">1,500</text>
+    <text x="685" y="311" text-anchor="middle">2,000</text><text x="685" y="337" text-anchor="end">DIST (m)</text>
+  </g>
+  <path d="M85 260 L235 170 L355 200 L565 140" fill="none" stroke="#2b6f5a" stroke-width="4"/>
+  <path d="M85.000 260.000 L94.889 258.517 M101.812 257.478 L111.701 255.995 M118.624 254.956 L128.513 253.473 M135.436 252.435 L145.325 250.951 M152.248 249.913 L162.137 248.429 M169.060 247.391 L178.949 245.908 M185.872 244.869 L195.761 243.386 M202.683 242.347 L212.573 240.864 M219.495 239.826 L229.385 238.342 M236.307 237.304 L246.197 235.821 M253.119 234.782 L263.009 233.299 M269.931 232.260 L279.820 230.777 M286.743 229.739 L296.632 228.255 M303.555 227.217 L313.444 225.733 M320.367 224.695 L330.256 223.212 M337.179 222.173 L347.068 220.690 M353.991 219.651 L363.880 218.168 M370.803 217.130 L380.692 215.646 M385.000 215.000 L394.701 212.575 M401.492 210.877 L411.194 208.452 M417.985 206.754 L427.686 204.328 M434.477 202.631 L444.179 200.205 M450.970 198.508 L460.671 196.082 M467.462 194.384 L477.164 191.959 M483.955 190.261 L493.656 187.836 M500.447 186.138 L510.148 183.713 M516.939 182.015 L526.641 179.590 M533.432 177.892 L543.133 175.467 M549.924 173.769 L559.626 171.344 M566.417 169.646 L576.118 167.220 M582.909 165.523 L592.610 163.097 M599.401 161.400 L609.103 158.974 M615.894 157.277 L625.595 154.851 M632.386 153.153 L642.088 150.728 M648.879 149.030 L658.580 146.605 M665.371 144.907 L675.073 142.482 M681.864 140.784 L685.000 140.000" fill="none" stroke="#b2683b" stroke-width="4"/>
+  <g fill="#ffffff" stroke-width="3">
+    <circle cx="85" cy="260" r="4.5" stroke="#334e42"/>
+    <circle cx="235" cy="170" r="4.5" stroke="#2b6f5a"/><circle cx="355" cy="200" r="4.5" stroke="#2b6f5a"/><circle cx="565" cy="140" r="4.5" stroke="#2b6f5a"/>
+    <circle cx="385" cy="215" r="4.5" stroke="#b2683b"/><circle cx="685" cy="140" r="4.5" stroke="#b2683b"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="13">
+    <text x="98" y="280" fill="#334e42">S 300</text>
+    <text x="235" y="158" text-anchor="middle" fill="#2b6f5a">A1 360</text>
+    <text x="355" y="183" text-anchor="middle" fill="#2b6f5a">A2 340</text>
+    <text x="565" y="127" text-anchor="middle" fill="#2b6f5a">A3=E 380</text>
+    <text x="396" y="233" fill="#9a522b">B1 330</text>
+    <text x="685" y="127" text-anchor="middle" fill="#9a522b">B2=E 380</text>
+  </g>
+</svg>

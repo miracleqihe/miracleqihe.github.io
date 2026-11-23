@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">胶带物证：背面、胶层与断口</title>
+<desc id="desc">剖面示意不同表面可能携带的多类信息</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">胶带物证：背面、胶层与断口</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">剖面示意不同表面可能携带的多类信息</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<rect x="90" y="125" width="600" height="45" rx="0" fill="#d7ded3" stroke="#a3b2a4" stroke-width="3"/><rect x="90" y="170" width="600" height="55" rx="0" fill="#e3d0a8" stroke="#bcaa84" stroke-width="3"/><path d="M180 192 q20-30 40 0 M310 200 q25-40 50 0 M470 195 q25-30 50 0" fill="none" stroke="#719481" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="265" cy="190" r="7" fill="#af7072" stroke="none" stroke-width="3"/><circle cx="450" cy="203" r="6" fill="#668f98" stroke="none" stroke-width="3"/><circle cx="560" cy="190" r="8" fill="#a7835a" stroke="none" stroke-width="3"/><path d="M90 125 L70 145 L90 160 L70 180 L90 202 L70 225" fill="none" stroke="#293e44" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><line x1="300" y1="145" x2="80" y2="80" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="300" cy="145" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="88" y="88" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">背面</text><line x1="300" y1="190" x2="470" y2="75" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="300" cy="190" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="478" y="83" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">黏胶层</text><line x1="350" y1="200" x2="450" y2="300" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="350" cy="200" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="458" y="308" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">纤维与微粒</text><line x1="80" y1="180" x2="80" y2="330" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="80" cy="180" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="88" y="338" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">断口轮廓</text><text x="390" y="440" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">先记录原有位置，救援剪裁也要说明</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">背面、黏胶层及断口提供不同的</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">观察对象。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">纤维和微粒可能附着在黏胶层。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">断口的物理契合与成分比较需由</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">专业人员完成。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">先保证救治安全，剪裁或移动需在记录中说明。</text>
+</g></svg>

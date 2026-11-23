@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">消化道出血：部位与外观线索</title>
+<desc id="desc">食管、胃、十二指肠及肠道位置示意</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">消化道出血：部位与外观线索</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">食管、胃、十二指肠及肠道位置示意</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M276 80 V155 Q280 175 315 170 Q365 158 375 210 Q376 275 325 290 Q275 300 240 267 Q220 245 244 215 Q260 195 260 155 V80" fill="#e5c3b5" stroke="#af8079" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M330 286 Q365 296 370 325 Q374 345 340 350" fill="none" stroke="#a7835a" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/><path d="M205 315 Q150 305 145 345 Q145 390 200 390 H460 Q515 390 515 345 Q515 306 460 315" fill="none" stroke="#bb9286" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/><path d="M295 232 q22-15 43 0" fill="none" stroke="#af7072" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><line x1="300" y1="223" x2="505" y2="135" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="300" cy="223" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="513" y="143" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">胃和上消化道</text><line x1="465" y1="350" x2="555" y2="335" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="465" cy="350" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="563" y="343" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">肠道</text><text x="195" y="428" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">黑色柏油样便</text><text x="565" y="260" font-size="24" fill="#596b6d" font-weight="400" text-anchor="start">呕血可呈红色或咖啡渣样</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">呕血可能鲜红，也可能呈暗褐色</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">或咖啡渣样。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">黑色柏油样便可能与消化道出血</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">有关。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">呕血、黑便伴虚弱或晕厥需要紧</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">急就医。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">血色和粪便颜色提供线索，不能单独确定出血位置。</text>
+</g></svg>

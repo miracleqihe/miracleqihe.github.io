@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">伤口周围剧痛：表面与深部</title>
+<desc id="desc">皮肤、皮下组织和筋膜的层次示意</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">伤口周围剧痛：表面与深部</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">皮肤、皮下组织和筋膜的层次示意</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<rect x="95" y="145" width="580" height="240" rx="0" fill="#f0dcd0" stroke="#bb9e91" stroke-width="3"/><rect x="95" y="145" width="580" height="20" rx="0" fill="#d1aaa0" stroke="none" stroke-width="0"/><rect x="95" y="265" width="580" height="120" rx="0" fill="#e5d5b1" stroke="none" stroke-width="0"/><line x1="95" y1="265" x2="675" y2="265" stroke="#ceb99a" stroke-width="2" stroke-linecap="round"/><path d="M100 265 H670" fill="none" stroke="#a9a18b" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M285 270 q70-45 150 0 q-50 45-150 0Z" fill="#c58584" stroke="#a56d6d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M315 145 Q355 125 398 145" fill="none" stroke="#af7072" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><line x1="355" y1="145" x2="115" y2="95" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="355" cy="145" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="123" y="103" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">表面红肿可能有限</text><line x1="360" y1="270" x2="490" y2="335" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="360" cy="270" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="498" y="343" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">筋膜及深部变化</text><text x="385" y="435" font-size="25" fill="#596b6d" font-weight="400" text-anchor="middle">疼痛剧烈或快速加重应立即就医</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">疼痛迅速加重、范围超过可见红</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">肿值得重视。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">发热、虚弱、肿胀或皮肤变化可</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">同时出现。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">可疑症状快速进展时立即就医。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">早期表面改变可能不明显；需由医护评估。</text>
+</g></svg>

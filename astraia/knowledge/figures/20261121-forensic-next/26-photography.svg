@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">现场记录：整体、中景与近景</title>
+<desc id="desc">从环境位置到细节和尺度逐层记录</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">现场记录：整体、中景与近景</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">从环境位置到细节和尺度逐层记录</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<rect x="35" y="115" width="230" height="210" rx="2" fill="#edf2e9" stroke="#9cae9f" stroke-width="4"/><path d="M35 250 H125 V325 M180 250 H265 M125 250 H180" fill="none" stroke="#9cae9f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><rect x="65" y="150" width="70" height="50" rx="8" fill="#d2dfd4" stroke="#8ea796" stroke-width="2"/><circle cx="205" cy="210" r="7" fill="#af7072" stroke="none" stroke-width="3"/><rect x="305" y="115" width="230" height="210" rx="2" fill="#f2f1e8" stroke="#9cae9f" stroke-width="4"/><rect x="340" y="155" width="160" height="110" rx="8" fill="#e8d8c5" stroke="#b7a48d" stroke-width="3"/><circle cx="430" cy="208" r="10" fill="#af7072" stroke="none" stroke-width="3"/><rect x="575" y="115" width="230" height="210" rx="2" fill="#f8f5ed" stroke="#9cae9f" stroke-width="4"/><path d="M610 230 q65-62 130-4 q-35 36-130 4Z" fill="#d49c99" stroke="#af7b79" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="620" y="266" width="140" height="16" rx="0" fill="#eee8da" stroke="#a9a194" stroke-width="2"/><line x1="625" y1="267" x2="625" y2="274" stroke="#293e44" stroke-width="2" stroke-linecap="round"/><line x1="640" y1="267" x2="640" y2="274" stroke="#293e44" stroke-width="2" stroke-linecap="round"/><line x1="655" y1="267" x2="655" y2="274" stroke="#293e44" stroke-width="2" stroke-linecap="round"/><line x1="670" y1="267" x2="670" y2="274" stroke="#293e44" stroke-width="2" stroke-linecap="round"/><line x1="685" y1="267" x2="685" y2="274" stroke="#293e44" stroke-width="2" stroke-linecap="round"/><line x1="700" y1="267" x2="700" y2="274" stroke="#293e44" stroke-width="2" stroke-linecap="round"/><line x1="715" y1="267" x2="715" y2="274" stroke="#293e44" stroke-width="2" stroke-linecap="round"/><line x1="730" y1="267" x2="730" y2="274" stroke="#293e44" stroke-width="2" stroke-linecap="round"/><line x1="745" y1="267" x2="745" y2="274" stroke="#293e44" stroke-width="2" stroke-linecap="round"/><text x="150" y="76" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">整体</text><text x="420" y="76" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">中景</text><text x="690" y="76" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">近景</text><text x="150" y="377" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">位置与环境</text><text x="420" y="377" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">与参照物关系</text><text x="690" y="377" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">细节及比例尺</text><text x="420" y="445" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">先留原貌，再记录补充尺度</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">整体照交代现场与固定参照位</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">置。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">中景显示物品与周围对象之间的</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">关系。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">近景记录细节，并可按程序补拍</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">比例尺。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">救治与现场安全优先，拍照不能耽误救援。</text>
+</g></svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">残留颗粒：形态、成分与接触</title>
+<desc id="desc">颗粒和人物均为示意，并非显微检验照片</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">残留颗粒：形态、成分与接触</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">颗粒和人物均为示意，并非显微检验照片</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<circle cx="240" cy="215" r="112" fill="#dce5dc" stroke="#9aaca0" stroke-width="4"/><circle cx="240" cy="215" r="79" fill="#c4c8c1" stroke="#969e96" stroke-width="3"/><circle cx="200" cy="190" r="12" fill="#af7072" stroke="none" stroke-width="3"/><circle cx="258" cy="178" r="10" fill="#a7835a" stroke="none" stroke-width="3"/><circle cx="280" cy="230" r="13" fill="#668f98" stroke="none" stroke-width="3"/><circle cx="215" cy="250" r="10" fill="#719481" stroke="none" stroke-width="3"/><circle cx="250" cy="230" r="7" fill="#827c78" stroke="none" stroke-width="3"/><circle cx="540" cy="155" r="35" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><circle cx="630" cy="155" r="35" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M505 215 Q540 185 575 215 M595 215 Q630 185 665 215" fill="none" stroke="#b49284" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/><path d="M590 245 L680 245" fill="none" stroke="#668f98" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><line x1="240" y1="215" x2="60" y2="360" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="240" cy="215" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="68" y="368" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">颗粒形态与成分</text><line x1="585" y1="220" x2="480" y2="335" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="585" cy="220" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="488" y="343" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">接触和环境可能带来颗粒</text><text x="240" y="72" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">显微颗粒概念图</text><text x="585" y="75" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">近距离接触示意</text><text x="410" y="445" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">检出位置、颗粒组成和替代来源共同解释</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">实验室可比较颗粒形态和元素组</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">成。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">附近活动、表面接触或转移都可</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">能影响颗粒分布。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">采样时间和背景环境也需要记</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">录。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">检出颗粒不能单独确认接触方式或特定行为。</text>
+</g></svg>

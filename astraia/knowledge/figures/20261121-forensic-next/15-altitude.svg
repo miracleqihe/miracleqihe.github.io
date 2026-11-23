@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">高原危险信号：脑部与肺部</title>
+<desc id="desc">上升后出现不适时，留意行走与静息呼吸</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">高原危险信号：脑部与肺部</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">上升后出现不适时，留意行走与静息呼吸</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M45 402 L210 175 L305 270 L480 80 L745 402Z" fill="#d8e3da" stroke="#9eafa0" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M415 175 L480 80 L545 175" fill="none" stroke="#fffdf8" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><g transform="translate(365 195) scale(0.45)"><circle cx="0" cy="0" r="29" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M-34 42 Q0 29 34 42 L44 145 L29 160 L23 278 L7 278 L0 168 L-7 278 L-23 278 L-29 160 L-44 145 Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-35 52 L-69 150 M35 52 L69 150" fill="none" stroke="#b49284" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/></g><line x1="430" y1="230" x2="300" y2="335" stroke="#af7072" stroke-width="5" stroke-linecap="round"/><path d="M 305.0 323.0 L 300 335 L 312.8 332.7" fill="none" stroke="#af7072" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="620" cy="155" r="46" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M600 149 q20-22 40 0 M603 168 q17-10 34 0" fill="none" stroke="#af7072" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><g transform="translate(618 275) scale(0.65)"><path d="M0 5 C-32 -17 -62 4 -70 43 Q-82 105 -21 108 L0 85 M0 5 C32 -17 62 4 70 43 Q82 105 21 108 L0 85" fill="#e4c5bf" stroke="#b68b83" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -65 V43 M0 23 L-38 58 M0 23 L38 58" fill="none" stroke="#668f98" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></g><text x="605" y="87" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">走路不稳、意识改变</text><text x="618" y="420" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">休息时气短、咳嗽</text><text x="315" y="390" font-size="24" fill="#293e44" font-weight="700" text-anchor="middle">停止上升并尽快下降</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">走路摇晃、反应变慢或嗜睡需警</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">惕脑部受累。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">休息时仍气短、咳嗽或胸闷需警</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">惕肺部受累。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">立即停止上升，尽快下降并联系</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">救援。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">就近寻求医疗与专业救援，不等待全部症状出现。</text>
+</g></svg>

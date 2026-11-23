@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">救生衣合身：扣紧后检查肩部是否上滑</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">按制造商标签选择适合体重、用途和水域的型号。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<circle cx="280" cy="155" r="38" fill="#f1ddce" stroke="#263b3e" stroke-width="3"/>
+<path d="M 220 205 L 245 195 L 280 245 L 315 195 L 340 205 L 355 350 L 205 350 Z" fill="#efd19a" stroke="#bb8737" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="280" y1="245" x2="280" y2="340" stroke="#263b3e" stroke-width="3"/>
+<line x1="220" y1="285" x2="340" y2="285" stroke="#263b3e" stroke-width="3"/>
+<line x1="220" y1="315" x2="340" y2="315" stroke="#263b3e" stroke-width="3"/>
+<line x1="235" y1="205" x2="235" y2="155" stroke="#326f80" stroke-width="4"/>
+<path d="M 241.0 166.5 L 235 155 L 229.0 166.5" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="325" y1="205" x2="325" y2="155" stroke="#326f80" stroke-width="4"/>
+<path d="M 331.0 166.5 L 325 155 L 319.0 166.5" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="280" y="408" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">轻提肩部检查是否明显上滑</text>
+<text x="600" y="185" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">扣好拉链及全部扣带</text>
+<text x="600" y="235" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">不应滑到脸部或越过耳朵</text>
+<text x="600" y="285" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">儿童按产品说明调整裆带</text>
+<text x="600" y="335" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">定期检查磨损和浮力材料</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">在安全、受控的浅水环境了解浮力和翻身性能。</text>
+</svg>

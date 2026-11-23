@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">类胰蛋白酶：细胞释放与样本解释</title>
+<desc id="desc">临床时间变化为概念曲线，不表示固定数值</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">类胰蛋白酶：细胞释放与样本解释</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">临床时间变化为概念曲线，不表示固定数值</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<circle cx="235" cy="215" r="90" fill="#e7d4ca" stroke="#b59a8c" stroke-width="4"/><circle cx="205" cy="185" r="7" fill="#af7072" stroke="none" stroke-width="3"/><circle cx="235" cy="170" r="7" fill="#af7072" stroke="none" stroke-width="3"/><circle cx="265" cy="190" r="7" fill="#af7072" stroke="none" stroke-width="3"/><circle cx="190" cy="215" r="7" fill="#af7072" stroke="none" stroke-width="3"/><circle cx="220" cy="220" r="7" fill="#af7072" stroke="none" stroke-width="3"/><circle cx="250" cy="220" r="7" fill="#af7072" stroke="none" stroke-width="3"/><circle cx="275" cy="240" r="7" fill="#af7072" stroke="none" stroke-width="3"/><circle cx="205" cy="250" r="7" fill="#af7072" stroke="none" stroke-width="3"/><path d="M300 155 L355 130 M320 195 L390 185 M315 240 L375 260 M290 285 L345 320" fill="none" stroke="#af7072" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="355" cy="130" r="6" fill="#af7072" stroke="none" stroke-width="3"/><circle cx="390" cy="185" r="6" fill="#af7072" stroke="none" stroke-width="3"/><circle cx="375" cy="260" r="6" fill="#af7072" stroke="none" stroke-width="3"/><circle cx="345" cy="320" r="6" fill="#af7072" stroke="none" stroke-width="3"/><text x="235" y="340" font-size="25" fill="#293e44" font-weight="400" text-anchor="middle">肥大细胞活化示意</text><path d="M460 330 H725 M460 330 V110" fill="none" stroke="#293e44" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M465 300 Q520 145 580 210 Q650 290 720 300" fill="none" stroke="#668f98" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M465 300 H720" fill="none" stroke="#a7835a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="585" y="98" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">临床血样：水平可变化</text><text x="585" y="382" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">时间与基线均影响解释</text><text x="585" y="450" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">尸后样本需另行解释</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">肥大细胞活化时可释放类胰蛋白</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">酶。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">活人急性期与基线比较需考虑采</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">样时机。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">尸后采样部位、方法和其他病因</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">也会影响解释。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">血液读数只能提供线索，不能单独确定过敏性死亡。</text>
+</g></svg>

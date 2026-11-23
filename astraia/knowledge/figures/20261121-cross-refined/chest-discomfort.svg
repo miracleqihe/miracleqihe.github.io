@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">胸部不适：留意扩散与伴随症状</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">持续或突发胸闷、压迫感，尤其伴有气短、冷汗或虚弱时，及时呼叫急救。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<circle cx="245" cy="165" r="45" fill="#f0ddce" stroke="#263b3e" stroke-width="3"/>
+<path d="M 192 224 Q 245 205 298 224 L 335 355 L 155 355 Z" fill="#e7ede8" stroke="#60816a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="245" cy="270" rx="43" ry="29" fill="#efb2a2" stroke="#a94d37" stroke-width="3"/>
+<line x1="250" y1="263" x2="185" y2="217" stroke="#a94d37" stroke-width="3"/>
+<path d="M 197.9 218.8 L 185 217 L 190.9 228.6" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="250" y1="263" x2="132" y2="312" stroke="#a94d37" stroke-width="3"/>
+<path d="M 140.3 302.0 L 132 312 L 145.0 313.1" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="250" y1="263" x2="358" y2="310" stroke="#a94d37" stroke-width="3"/>
+<path d="M 345.0 310.9 L 358 310 L 349.8 299.9" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="245" y="408" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">胸口及可能的扩散部位</text>
+<text x="505" y="168" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="start">可能伴随</text>
+<text x="505" y="218" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">气短、出汗、恶心或头晕</text>
+<text x="505" y="273" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">不适可延至肩臂、背、颈或下颌</text>
+<text x="505" y="328" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">记下开始时间，等待急救人员</text>
+<text x="600" y="475" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">症状因人而异；单凭疼痛位置不能确定原因。</text>
+</svg>

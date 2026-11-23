@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">纤维比较：纵向、截面与成分</title>
+<desc id="desc">图示不同观察角度，不对应具体纤维品种</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">纤维比较：纵向、截面与成分</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">图示不同观察角度，不对应具体纤维品种</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M100 135 Q190 115 270 145 T430 145" fill="none" stroke="#ac8668" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/><path d="M100 235 Q190 215 270 245 T430 245" fill="none" stroke="#9a9eaa" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/><circle cx="555" cy="155" r="50" fill="#dfc7a6" stroke="#aa8d72" stroke-width="3"/><path d="M505 270 L530 218 L580 218 L605 270 L580 315 L530 315 Z" fill="#c7ccd3" stroke="#8c97a0" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="300" y="110" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">纵向形态</text><text x="548" y="385" font-size="26" fill="#293e44" font-weight="400" text-anchor="middle">截面示意</text><text x="297" y="352" font-size="25" fill="#596b6d" font-weight="400" text-anchor="middle">显微形态、颜色与成分各自比较</text><circle cx="74" cy="130" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/><circle cx="634" cy="155" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/><circle cx="634" cy="265" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">显微镜可比较颜色、粗细和纵向</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">形态。</text>
+<circle cx="985" cy="314" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">截面形状可能提供附加信息，也</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">受加工影响。</text>
+<circle cx="985" cy="469" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">成分或染料检验回答的问题不</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">同，需结合结果。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">相似特征支持进一步比较，不能单凭一种形态确定来源。</text>
+</g></svg>

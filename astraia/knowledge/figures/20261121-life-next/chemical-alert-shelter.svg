@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">化学泄漏通知：按指示撤离或就地避险</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">危险物质、风向和建筑条件不同，先听当地应急指令。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 80 250 L 245 135 L 410 250 Z" fill="#ddc6af" stroke="#9d806a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="110" y="250" width="270" height="165" rx="8" fill="#f3ecdf" stroke="#b6a690" stroke-width="3"/>
+<rect x="160" y="290" width="70" height="70" rx="8" fill="#d4e5e7" stroke="#326f80" stroke-width="2"/>
+<line x1="195" y1="290" x2="195" y2="360" stroke="#326f80" stroke-width="2"/>
+<line x1="160" y1="325" x2="230" y2="325" stroke="#326f80" stroke-width="2"/>
+<rect x="280" y="285" width="60" height="130" rx="8" fill="#dce8df" stroke="#60816a" stroke-width="2"/>
+<line x1="90" y1="210" x2="170" y2="210" stroke="#a94d37" stroke-width="3"/>
+<path d="M 158.5 216.0 L 170 210 L 158.5 204.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 450 160 Q 500 120 550 155 Q 595 120 640 165 Q 650 210 595 215 L 490 215 Q 440 205 450 160 Z" fill="#e4d2bd" stroke="#ba9c7d" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<text x="540" y="250" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="middle">云团和风向仅作示意</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">先听清官方指令</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">就地避险时关闭门窗</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">按要求关闭引入室外空气设备</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">避开门窗缝隙并继续接收消息</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">撤离路线、室内通风要求及解除警报由当地部门发布。</text>
+</svg>

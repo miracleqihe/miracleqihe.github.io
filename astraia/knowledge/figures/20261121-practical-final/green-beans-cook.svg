@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">四季豆：一整批都要煮熟焖透</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">表面变软或短暂焯水不等于豆荚内部熟透。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<ellipse cx="251" cy="280" rx="180" ry="82" fill="#dce8d9" stroke="#60816a" stroke-width="3"/>
+<path d="M 125 265 Q 160 226 202 242" fill="none" stroke="#60816a" stroke-width="12" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 175 308 Q 210 269 252 285" fill="none" stroke="#60816a" stroke-width="12" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 219 253 Q 254 214 296 230" fill="none" stroke="#60816a" stroke-width="12" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 275 292 Q 310 253 352 269" fill="none" stroke="#60816a" stroke-width="12" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 193 335 Q 228 296 270 312" fill="none" stroke="#60816a" stroke-width="12" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 290 325 Q 325 286 367 302" fill="none" stroke="#60816a" stroke-width="12" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 74 280 Q 251 410 428 280" fill="none" stroke="#263b3e" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="250" y="417" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">分批受热、充分翻动</text>
+<line x1="451" y1="258" x2="532" y2="258" stroke="#326f80" stroke-width="4"/>
+<path d="M 520.5 264.0 L 532 258 L 520.5 252.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="563" y="170" width="540" height="195" rx="8" fill="#f8f5e9" stroke="#ded8c5" stroke-width="2"/>
+<text x="593" y="211" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="start">厚豆荚也要充分加热</text>
+<text x="593" y="255" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">择筋、短炒、只看表面均不够</text>
+<text x="593" y="299" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">不要用试吃判断是否熟透</text>
+<text x="593" y="343" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">不适时记录同餐食物并就医</text>
+<text x="600" y="485" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">不同锅具、豆荚大小和装量会影响加热，时间只作参考。</text>
+</svg>

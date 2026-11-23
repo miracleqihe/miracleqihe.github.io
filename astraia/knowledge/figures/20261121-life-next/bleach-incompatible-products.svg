@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">含氯漂白剂：查看标签并与其他清洁剂分开</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">酸性或含氨清洁剂与漂白剂混用可产生危险气体。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 138 155 L 192 155 L 192 200 L 215 218 L 215 365 L 115 365 L 115 218 L 138 200 Z" fill="#d8e7df" stroke="#263b3e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="130" y="250" width="70" height="60" rx="8" fill="#fff" stroke="#c8d0c9" stroke-width="1"/>
+<path d="M 388 155 L 442 155 L 442 200 L 465 218 L 465 365 L 365 365 L 365 218 L 388 200 Z" fill="#eee0d4" stroke="#263b3e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="380" y="250" width="70" height="60" rx="8" fill="#fff" stroke="#c8d0c9" stroke-width="1"/>
+<path d="M 638 155 L 692 155 L 692 200 L 715 218 L 715 365 L 615 365 L 615 218 L 638 200 Z" fill="#e5e2c9" stroke="#263b3e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="630" y="250" width="70" height="60" rx="8" fill="#fff" stroke="#c8d0c9" stroke-width="1"/>
+<text x="165" y="290" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">含氯</text>
+<text x="415" y="290" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">酸性</text>
+<text x="665" y="290" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">含氨</text>
+<line x1="255" y1="220" x2="310" y2="285" stroke="#a94d37" stroke-width="6"/>
+<line x1="310" y1="220" x2="255" y2="285" stroke="#a94d37" stroke-width="6"/>
+<line x1="505" y1="220" x2="560" y2="285" stroke="#a94d37" stroke-width="6"/>
+<line x1="560" y1="220" x2="505" y2="285" stroke="#a94d37" stroke-width="6"/>
+<text x="390" y="425" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">原包装、通风、按标签单独使用</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">使用前看成分与警示</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">不同清洁剂不要混用</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">发生刺激性气味时离开</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">呼吸不适时寻求急救</text>
+<text x="600" y="486" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">图中交叉符号表示禁止混用，不是实验操作。</text>
+</svg>

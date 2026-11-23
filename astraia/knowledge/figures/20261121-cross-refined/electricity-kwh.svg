@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">电费与用电量：功率乘以使用时间</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">电能按千瓦时计算；电价还可能包含阶梯、时段或附加费用。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 120 385 L 120 165 L 550 165 L 550 385 Z" fill="#e5efec" stroke="#60816a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="120" y1="390" x2="600" y2="390" stroke="#263b3e" stroke-width="3"/>
+<path d="M 588.5 396.0 L 600 390 L 588.5 384.0" fill="none" stroke="#263b3e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="120" y1="390" x2="120" y2="125" stroke="#263b3e" stroke-width="3"/>
+<path d="M 126.0 136.5 L 120 125 L 114.0 136.5" fill="none" stroke="#263b3e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="345" y="255" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="middle">1 千瓦</text>
+<text x="345" y="305" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">连续使用 1 小时</text>
+<text x="360" y="432" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">时间</text>
+<text x="65" y="150" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">功率</text>
+<text x="690" y="205" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="26" font-weight="700" text-anchor="start">1 kW × 1 h</text>
+<text x="690" y="265" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="28" font-weight="700" text-anchor="start">= 1 kWh</text>
+<text x="690" y="325" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">再按所在地电价计算费用</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">铭牌功率是参考值，温控或间歇工作设备的实际功率会变化。</text>
+</svg>

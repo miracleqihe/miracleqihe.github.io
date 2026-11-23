@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">尸后乙醇：血液、玻璃体液和尿液</title>
+<desc id="desc">多个检材可以互相参照，解释仍需结合样本条件</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">尸后乙醇：血液、玻璃体液和尿液</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">多个检材可以互相参照，解释仍需结合样本条件</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<rect x="75" y="135" width="130" height="220" rx="14" fill="#f4f6ed" stroke="#9cae9f" stroke-width="4"/><rect x="82" y="235" width="116" height="105" rx="5" fill="#b98080" stroke="none" stroke-width="0"/><rect x="75" y="115" width="130" height="28" rx="4" fill="#d5e0d6" stroke="#9cae9f" stroke-width="3"/><circle cx="395" cy="245" r="100" fill="#e6f0eb" stroke="#9bb4a7" stroke-width="4"/><circle cx="395" cy="245" r="56" fill="#d2e4e4" stroke="#b5ceca" stroke-width="2"/><path d="M293 205 Q255 245 293 285" fill="none" stroke="#668f98" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><rect x="580" y="150" width="125" height="200" rx="10" fill="#f5f6ee" stroke="#9cae9f" stroke-width="4"/><rect x="588" y="255" width="109" height="88" rx="5" fill="#e6d098" stroke="none" stroke-width="0"/><rect x="580" y="129" width="125" height="28" rx="4" fill="#d5e0d6" stroke="#9cae9f" stroke-width="3"/><text x="140" y="402" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">血液</text><text x="395" y="402" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">玻璃体液</text><text x="642" y="402" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">尿液</text><text x="395" y="460" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">同一案件的样本可提供不同参照</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">血液和其他体液可受不同程度的</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">死后变化影响。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">EtG、EtS 等指标也受基质、微</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">生物和保存影响。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">多项资料与现场、病史和采样记</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">录一起解释。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">单个阴性或阳性不能独立判定乙醇的唯一来源。</text>
+</g></svg>

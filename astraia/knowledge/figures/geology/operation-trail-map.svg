@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 380 380" width="380" height="380">
+  <rect x="0" y="0" width="380" height="380" rx="12" fill="#f8faf7"/>
+  <g font-family="Arial, sans-serif" font-size="16" fill="#344940">
+    <text x="40" y="24">A</text><path d="M59 18h43" fill="none" stroke="#2b6f5a" stroke-width="4"/>
+    <text x="138" y="24">B</text><path d="M158 18h10 M175 18h10 M192 18h9" fill="none" stroke="#b2683b" stroke-width="4"/>
+  </g>
+  <path d="M60 115 L120 35 L120 115 L260 115" fill="none" stroke="#2b6f5a" stroke-width="4"/>
+  <path d="M60.000 115.000 L65.000 123.660 M68.500 129.722 L73.500 138.383 M77.000 144.445 L82.000 153.105 M85.500 159.167 L90.500 167.828 M94.000 173.890 L99.000 182.550 M102.500 188.612 L107.500 197.272 M111.000 203.335 L116.000 211.995 M119.500 218.057 L124.500 226.717 M128.000 232.779 L133.000 241.440 M136.500 247.502 L141.500 256.162 M145.000 262.224 L150.000 270.885 M153.500 276.947 L158.500 285.607 M160.000 288.205 L165.000 279.545 M168.500 273.483 L173.500 264.822 M177.000 258.760 L182.000 250.100 M185.500 244.038 L190.500 235.378 M194.000 229.315 L199.000 220.655 M202.500 214.593 L207.500 205.933 M211.000 199.870 L216.000 191.210 M219.500 185.148 L224.500 176.488 M228.000 170.426 L233.000 161.765 M236.500 155.703 L241.500 147.043 M245.000 140.981 L250.000 132.321 M253.500 126.258 L258.500 117.598" fill="none" stroke="#b2683b" stroke-width="4"/>
+  <g fill="#ffffff" stroke-width="3">
+    <circle cx="60" cy="115" r="5" stroke="#334e42"/><circle cx="260" cy="115" r="5" stroke="#334e42"/>
+    <circle cx="120" cy="35" r="5" stroke="#2b6f5a"/><circle cx="120" cy="115" r="5" stroke="#2b6f5a"/>
+    <circle cx="160" cy="288.205081" r="5" stroke="#b2683b"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="16">
+    <text x="40" y="108" fill="#334e42">S</text><text x="270" y="120" fill="#334e42">E</text>
+    <text x="130" y="42" fill="#2b6f5a">A1</text><text x="116" y="139" fill="#2b6f5a">A2</text>
+    <text x="171" y="292" fill="#9a522b">B1</text>
+  </g>
+  <g stroke="#344940" stroke-width="2">
+    <path d="M45 337h100 M45 330v14 M145 330v14"/>
+    <path d="M45 337h50" stroke-width="5"/>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="13" fill="#344940">
+    <text x="45" y="360" text-anchor="middle">0</text><text x="145" y="360" text-anchor="middle">500 m</text>
+  </g>
+</svg>

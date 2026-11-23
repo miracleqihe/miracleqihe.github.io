@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">高温中的危险信号：意识变化与主动降温</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">身体发热、头晕、乏力可出现于多种热相关疾病；意识异常应立即急救。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<circle cx="245" cy="174" r="47" fill="#f0ddce" stroke="#263b3e" stroke-width="3"/>
+<path d="M 197 232 Q 245 215 293 232 L 310 340 L 280 358 L 270 420 L 220 420 L 210 358 L 180 340 Z" fill="#e4ede8" stroke="#60816a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="215" cy="245" r="9" fill="#b4dce0" stroke="#326f80" stroke-width="2"/>
+<circle cx="275" cy="245" r="9" fill="#b4dce0" stroke="#326f80" stroke-width="2"/>
+<circle cx="230" cy="370" r="9" fill="#b4dce0" stroke="#326f80" stroke-width="2"/>
+<circle cx="260" cy="370" r="9" fill="#b4dce0" stroke="#326f80" stroke-width="2"/>
+<line x1="350" y1="185" x2="447" y2="185" stroke="#326f80" stroke-width="4"/>
+<path d="M 435.5 191.0 L 447 185 L 435.5 179.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="470" y="192" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="start">转移到阴凉处</text>
+<line x1="350" y1="260" x2="447" y2="260" stroke="#326f80" stroke-width="4"/>
+<path d="M 435.5 266.0 L 447 260 L 435.5 254.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="470" y="267" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">湿敷皮肤并扇风降温</text>
+<line x1="350" y1="335" x2="447" y2="335" stroke="#a94d37" stroke-width="4"/>
+<path d="M 435.5 341.0 L 447 335 L 435.5 329.0" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="470" y="342" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">意识混乱、抽搐：立即急救</text>
+<text x="600" y="474" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">意识不清者不要喂水；皮肤可以干燥，也可以仍在出汗。</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">脑震荡：留意症状与危险信号</title>
+<desc id="desc">撞击后及时观察，也留意稍后出现的变化</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">脑震荡：留意症状与危险信号</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">撞击后及时观察，也留意稍后出现的变化</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<circle cx="250" cy="200" r="125" fill="#ead7cd" stroke="#b49284" stroke-width="4"/><path d="M155 195 Q165 105 250 98 Q335 105 345 195 Q330 245 250 255 Q170 245 155 195Z" fill="#e5d1c9" stroke="#b49d93" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M195 150 q25-20 50 0 q25-20 50 0 M180 185 q35-15 70 0 q35-15 70 0" fill="none" stroke="#bd9a92" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="205" cy="205" r="5" fill="#293e44" stroke="none" stroke-width="3"/><circle cx="295" cy="205" r="5" fill="#293e44" stroke="none" stroke-width="3"/><path d="M215 235 q35-10 70 0" fill="none" stroke="#a78279" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="450" y="150" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">头痛、头晕</text><text x="450" y="225" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">反应慢、反复问话</text><text x="450" y="300" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">走路不稳、恶心</text><path d="M450 335 H730" fill="none" stroke="#c6d7cb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="450" y="388" font-size="24" fill="#af7072" font-weight="700" text-anchor="start">反复呕吐或意识恶化：急救</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">头痛、头晕、记忆问题和反应变</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">慢可在无昏迷时出现。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">反复呕吐、叫不醒或意识恶化时</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">立即急救。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">避免再次撞击，恢复活动应听从</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">医护指导。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">症状也可能来自其他损伤；持续或加重时及时评估。</text>
+</g></svg>

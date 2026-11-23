@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">野外迷路：先固定位置与风险</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">若无法安全确认路线，尽早呼救并在安全处等待。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 50 350 L 225 190 L 350 310 L 450 175 L 660 350 Z" fill="#d7e5d9" stroke="#60816a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 55 392 Q 180 340 245 360 Q 340 390 430 345 Q 520 320 670 370" fill="none" stroke="#bb8737" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="12 8"/>
+<circle cx="360" cy="275" r="12.0" fill="#f2ddce" stroke="#263b3e" stroke-width="2"/>
+<path d="M 360 287.0 L 360 319.0 M 360 297.0 L 343.0 309.0 M 360 297.0 L 377.0 309.0 M 360 319.0 L 346.0 343.0 M 360 319.0 L 374.0 343.0" fill="none" stroke="#263b3e" stroke-width="4.0" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="360" cy="340" r="33" fill="none" stroke="#a94d37" stroke-width="3"/>
+<line x1="130" y1="365" x2="130" y2="297.0" stroke="#806f59" stroke-width="5.6000000000000005"/>
+<path d="M 98.0 321.0 L 130 269.0 L 162.0 321.0 Z" fill="#b7ccb7" stroke="#60816a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="610" y1="365" x2="610" y2="288.5" stroke="#806f59" stroke-width="6.3"/>
+<path d="M 574.0 315.5 L 610 257.0 L 646.0 315.5 Z" fill="#b7ccb7" stroke="#60816a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<text x="250" y="425" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">原路标记与当前位置</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">停下：观察天气、伤情和地形</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">记录坐标与最后已知位置</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">联络救援，保留电量</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">避开危崖、溪谷和落石</text>
+<text x="755" y="343" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">危险迫近时移至较安全处</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">能否原路返回取决于路线和环境；救援沟通后说明移动方向。</text>
+</svg>

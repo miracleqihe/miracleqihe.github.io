@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">等高线：山谷、山脊与地形剖面</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">先读标高和等高距；以下图形是独立的示意，并非同一地点。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="45" y="120" width="350" height="300" rx="8" fill="#ffffff" stroke="#c6d6cf" stroke-width="2"/>
+<rect x="425" y="120" width="350" height="300" rx="8" fill="#ffffff" stroke="#c6d6cf" stroke-width="2"/>
+<rect x="805" y="120" width="350" height="300" rx="8" fill="#ffffff" stroke="#c6d6cf" stroke-width="2"/>
+<text x="220" y="155" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">山谷：弯向高处</text>
+<text x="600" y="155" fill="#bb8737" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">山脊：弯向低处</text>
+<text x="980" y="155" fill="#60816a" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">地形剖面示意</text>
+<path d="M 100 205 L 165 205 L 220 181 L 275 205 L 345 205" fill="none" stroke="#60816a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 480 205 L 545 205 L 600 229 L 655 205 L 725 205" fill="none" stroke="#bb8737" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="56" y="212" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="start">400</text>
+<text x="436" y="212" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="start">400</text>
+<path d="M 100 252 L 165 252 L 220 228 L 275 252 L 345 252" fill="none" stroke="#60816a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 480 252 L 545 252 L 600 276 L 655 252 L 725 252" fill="none" stroke="#bb8737" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="56" y="259" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="start">300</text>
+<text x="436" y="259" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="start">300</text>
+<path d="M 100 299 L 165 299 L 220 275 L 275 299 L 345 299" fill="none" stroke="#60816a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 480 299 L 545 299 L 600 323 L 655 299 L 725 299" fill="none" stroke="#bb8737" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="56" y="306" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="start">200</text>
+<text x="436" y="306" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="start">200</text>
+<path d="M 100 346 L 165 346 L 220 322 L 275 346 L 345 346" fill="none" stroke="#60816a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 480 346 L 545 346 L 600 370 L 655 346 L 725 346" fill="none" stroke="#bb8737" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="56" y="353" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="start">100</text>
+<text x="436" y="353" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="start">100</text>
+<line x1="220" y1="182" x2="220" y2="195" stroke="#326f80" stroke-width="3"/>
+<path d="M 214.0 183.5 L 220 195 L 226.0 183.5" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="220" y1="330" x2="220" y2="375" stroke="#326f80" stroke-width="3"/>
+<path d="M 214.0 363.5 L 220 375 L 226.0 363.5" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="220" y="397" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">流水由高向低</text>
+<path d="M 840 340 L 900 240 L 990 340 L 1070 215 L 1125 340" fill="none" stroke="#60816a" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="840" y1="340" x2="1125" y2="340" stroke="#b3c8bd" stroke-width="2"/>
+<text x="900" y="222" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">高地</text>
+<text x="990" y="378" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">低处</text>
+<text x="1070" y="196" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">高地</text>
+<text x="600" y="483" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">山谷的 V 形尖端指向高处；同图中等高线越密，通常表示坡越陡。</text>
+</svg>

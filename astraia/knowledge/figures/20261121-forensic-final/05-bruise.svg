@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">淤青：组织内出血与外观</title>
+<desc id="desc">皮肤和小血管的位置，以及可能混合的颜色</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">淤青：组织内出血与外观</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">皮肤和小血管的位置，以及可能混合的颜色</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<rect x="95" y="120" width="560" height="235" rx="0" fill="#f0dcd0" stroke="#bb9e91" stroke-width="3"/><rect x="95" y="120" width="560" height="20" rx="0" fill="#d1aaa0" stroke="none" stroke-width="0"/><rect x="95" y="240" width="560" height="115" rx="0" fill="#e5d5b1" stroke="none" stroke-width="0"/><line x1="95" y1="240" x2="655" y2="240" stroke="#ceb99a" stroke-width="2" stroke-linecap="round"/><path d="M120 275 H390" fill="none" stroke="#668f98" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M300 275 q20-45 38-5 q20-45 40-5" fill="none" stroke="#af7072" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path d="M330 270 q30-40 60-22 q25 27-15 43 q-45 8-45-21Z" fill="#bd8e92" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/><line x1="220" y1="130" x2="80" y2="70" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="220" cy="130" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="88" y="78" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">皮肤表面</text><line x1="310" y1="276" x2="80" y2="405" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="310" cy="276" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="88" y="413" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">小血管</text><line x1="370" y1="260" x2="470" y2="395" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="370" cy="260" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="478" y="403" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">血液进入组织</text><circle cx="460" cy="180" r="17" fill="#ad777d" stroke="none" stroke-width="3"/><circle cx="510" cy="180" r="17" fill="#c09a78" stroke="none" stroke-width="3"/><circle cx="560" cy="180" r="17" fill="#a89876" stroke="none" stroke-width="3"/><text x="510" y="230" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">颜色可能混合</text><text x="510" y="267" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">受肤色、照明等影响</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">小血管受损后血液可进入周围组</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">织。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">深度、部位、肤色和光线均会影</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">响可见颜色。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">同一处淤青可能出现多种颜色。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">不能凭颜色单独准确确定受伤的日期。</text>
+</g></svg>

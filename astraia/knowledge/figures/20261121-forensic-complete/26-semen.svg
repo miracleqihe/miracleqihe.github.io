@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">疑似精液：筛查、显微观察与 DNA</title>
+<desc id="desc">从现场记录到不同检验问题的概念示意</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">疑似精液：筛查、显微观察与 DNA</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">从现场记录到不同检验问题的概念示意</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M80 150 L278 130 L310 300 L108 320 Z" fill="#e6dfd0" stroke="#b6aa97" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M159 209 q30-30 60 0 q-20 40-60 0Z" fill="#bca889" stroke="#a38d70" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><line x1="190" y1="213" x2="100" y2="390" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="190" cy="213" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="108" y="398" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">疑似斑迹</text><line x1="310" y1="205" x2="360" y2="205" stroke="#668f98" stroke-width="4" stroke-linecap="round"/><path d="M 348.6 211.2 L 360 205 L 348.6 198.8" fill="none" stroke="#668f98" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="448" cy="205" r="67" fill="#f8f3e7" stroke="#9eb0a5" stroke-width="4"/><circle cx="429" cy="193" r="15" fill="#c99b9c" stroke="none" stroke-width="3"/><path d="M439 201 q25 18 36 40 q20 5 28-4" fill="none" stroke="#af7072" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="448" y="305" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">显微镜观察</text><line x1="526" y1="205" x2="582" y2="205" stroke="#668f98" stroke-width="4" stroke-linecap="round"/><path d="M 570.6 211.2 L 582 205 L 570.6 198.8" fill="none" stroke="#668f98" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M615 130 q80 45 0 90 q-70 45 0 90 M660 130 q-80 45 0 90 q70 45 0 90" fill="none" stroke="#668f98" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><line x1="620" y1="150" x2="655" y2="150" stroke="#668f98" stroke-width="3" stroke-linecap="round"/><line x1="620" y1="180" x2="655" y2="180" stroke="#668f98" stroke-width="3" stroke-linecap="round"/><line x1="620" y1="210" x2="655" y2="210" stroke="#668f98" stroke-width="3" stroke-linecap="round"/><line x1="620" y1="240" x2="655" y2="240" stroke="#668f98" stroke-width="3" stroke-linecap="round"/><line x1="620" y1="270" x2="655" y2="270" stroke="#668f98" stroke-width="3" stroke-linecap="round"/><line x1="620" y1="300" x2="655" y2="300" stroke="#668f98" stroke-width="3" stroke-linecap="round"/><text x="638" y="355" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">DNA 检测</text><text x="401" y="440" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">筛查、精子观察与 DNA 回答不同问题</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">酸性磷酸酶可作筛查线索，仍需</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">要解释其局限。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">观察到精子可提供重要信息；未</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">检出不排除精液。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">DNA 检测回答个体来源相关问</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">题。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">样本状态、方法和对照结果由专业实验室综合评估。</text>
+</g></svg>

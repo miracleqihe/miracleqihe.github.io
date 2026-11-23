@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">松石坡：不要位于同伴正下方</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">坡面示意；松动岩块可能沿坡滚落并改变方向。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 95 410 L 550 150 L 750 410 Z" fill="#e7ddc6" stroke="#a79a7c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="470" cy="195" r="20" fill="#f2ddce" stroke="#263b3e" stroke-width="3"/>
+<path d="M 470 215 L 470 260 M 470 230 L 445 247 M 470 230 L 493 245 M 470 260 L 447 295 M 470 260 L 493 295" fill="none" stroke="#263b3e" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="250" cy="320" r="20" fill="#f2ddce" stroke="#263b3e" stroke-width="3"/>
+<path d="M 250 340 L 250 385 M 250 355 L 225 372 M 250 355 L 273 370 M 250 385 L 227 420 M 250 385 L 273 420" fill="none" stroke="#263b3e" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="460" cy="290" r="9" fill="#b9a48a" stroke="#907f6d" stroke-width="2"/>
+<circle cx="420" cy="315" r="9" fill="#b9a48a" stroke="#907f6d" stroke-width="2"/>
+<circle cx="380" cy="340" r="9" fill="#b9a48a" stroke="#907f6d" stroke-width="2"/>
+<line x1="460" y1="275" x2="365" y2="350" stroke="#a94d37" stroke-width="4"/>
+<path d="M 370.3 338.1 L 365 350 L 377.8 347.6" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="810" y="190" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">前后拉开并横向错开</text>
+<text x="810" y="240" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">避开明显松石与坡脚</text>
+<text x="810" y="290" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">落石出现时立即警示同伴</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">选择路线需结合实际坡势和天气，不在悬崖或落石通道停留。</text>
+</svg>

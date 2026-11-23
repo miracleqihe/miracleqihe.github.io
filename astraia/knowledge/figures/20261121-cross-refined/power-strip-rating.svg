@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">插排承载：对照铭牌与同时工作的总功率</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">插排、电线、墙壁插座各有额定条件，按其中较低的限制使用。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="115" y="230" width="430" height="92" rx="18" fill="#eaece7" stroke="#9ca9a1" stroke-width="3"/>
+<circle cx="170" cy="276" r="22" fill="#ffffff" stroke="#8a9991" stroke-width="3"/>
+<line x1="162" y1="276" x2="178" y2="276" stroke="#8a9991" stroke-width="2"/>
+<circle cx="270" cy="276" r="22" fill="#ffffff" stroke="#8a9991" stroke-width="3"/>
+<line x1="262" y1="276" x2="278" y2="276" stroke="#8a9991" stroke-width="2"/>
+<circle cx="370" cy="276" r="22" fill="#ffffff" stroke="#8a9991" stroke-width="3"/>
+<line x1="362" y1="276" x2="378" y2="276" stroke="#8a9991" stroke-width="2"/>
+<circle cx="470" cy="276" r="22" fill="#ffffff" stroke="#8a9991" stroke-width="3"/>
+<line x1="462" y1="276" x2="478" y2="276" stroke="#8a9991" stroke-width="2"/>
+<path d="M 545 275 Q 610 275 650 240" fill="none" stroke="#263b3e" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<text x="330" y="175" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">看清电流与功率铭牌</text>
+<text x="330" y="380" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="middle">发热、焦味或插头松动：停用并检查</text>
+<text x="720" y="200" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">例：额定 250V、10A</text>
+<text x="720" y="247" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">相乘得到 2500W 上限</text>
+<text x="720" y="294" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">同时工作的设备功率应合计</text>
+<text x="720" y="340" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">大功率设备按说明直插墙座</text>
+<text x="600" y="482" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">数值仅为铭牌示例；实际线路和设备应以其额定值为准。</text>
+</svg>

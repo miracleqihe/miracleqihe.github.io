@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">成人心肺复苏与 AED：按压位置和贴片</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">无反应且没有正常呼吸或仅喘息：呼叫急救，取 AED，并按调度员指引行动。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<circle cx="238" cy="166" r="36" fill="#f2ded0" stroke="#263b3e" stroke-width="3"/>
+<path d="M 170 213 Q 238 194 306 213 L 335 260 L 315 361 Q 238 380 161 361 L 141 260 Z" fill="#f1e6da" stroke="#8d776c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="238" y1="231" x2="238" y2="326" stroke="#a6988f" stroke-width="3"/>
+<circle cx="238" cy="285" r="25" fill="#f7c8b9" stroke="#a94d37" stroke-width="4"/>
+<line x1="238" y1="207" x2="238" y2="252" stroke="#a94d37" stroke-width="5"/>
+<path d="M 232.0 240.5 L 238 252 L 244.0 240.5" fill="none" stroke="#a94d37" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<text x="238" y="407" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">双手掌根叠放在胸骨下半部</text>
+<text x="455" y="214" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="start">按压频率</text>
+<text x="455" y="251" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">每分钟 100—120 次</text>
+<text x="455" y="304" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">成人深度约 5—6 厘米</text>
+<text x="455" y="341" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">每次放松，让胸部回弹</text>
+<circle cx="922" cy="166" r="36" fill="#f2ded0" stroke="#263b3e" stroke-width="3"/>
+<path d="M 854 213 Q 922 194 990 213 L 1019 260 L 999 361 Q 922 380 845 361 L 825 260 Z" fill="#f1e6da" stroke="#8d776c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="857" y="235" width="48" height="33" rx="3" fill="#f4dc84" stroke="#bb8737" stroke-width="3"/>
+<rect x="955" y="315" width="48" height="33" rx="3" fill="#f4dc84" stroke="#bb8737" stroke-width="3"/>
+<line x1="795" y1="235" x2="850" y2="246" stroke="#326f80" stroke-width="3"/>
+<path d="M 837.5 249.6 L 850 246 L 839.9 237.9" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="690" y="230" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="start">本人右上胸</text>
+<line x1="1034" y1="337" x2="1007" y2="331" stroke="#326f80" stroke-width="3"/>
+<path d="M 1019.6 327.6 L 1007 331 L 1017.0 339.4" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="1040" y="339" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="start">本人左侧胸</text>
+<text x="922" y="407" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">按 AED 图片和语音提示贴片</text>
+<text x="600" y="483" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">图示适用于成人；儿童和婴儿的按压方法不同。</text>
+</svg>

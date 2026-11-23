@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">熊出没地区：把食物和有气味物品统一管理</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">存放地点及容器须遵循当地公园或保护区规定。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 80 355 L 180 210 L 280 355 Z" fill="#e7dac0" stroke="#aa936f" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="180" y="395" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">休息区</text>
+<rect x="500" y="185" width="190" height="180" rx="9" fill="#dce8df" stroke="#60816a" stroke-width="3"/>
+<rect x="520" y="165" width="150" height="22" rx="3" fill="#cadbd0" stroke="#60816a" stroke-width="2"/>
+<text x="595" y="260" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">防熊容器</text>
+<text x="595" y="305" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">食物与有味物品</text>
+<line x1="300" y1="270" x2="475" y2="270" stroke="#326f80" stroke-width="4"/>
+<path d="M 463.5 276.0 L 475 270 L 463.5 264.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="790" y="190" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">零食、饮料和垃圾</text>
+<text x="790" y="240" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">牙膏、防晒与炊具</text>
+<text x="790" y="290" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">离开或睡前检查是否收好</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">不要把有味物品留在帐篷内；依照当地规定使用储物柜或容器。</text>
+</svg>

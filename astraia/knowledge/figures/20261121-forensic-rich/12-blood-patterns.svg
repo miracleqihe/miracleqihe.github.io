@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="660" viewBox="0 0 1400 660" role="img" aria-labelledby="title desc">
+<title id="title">血迹观察：形态、位置与表面</title>
+<desc id="desc">三种形态示意不代表已确定形成过程</desc>
+<rect x="1" y="1" width="1398" height="658" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="32" y="47" fill="#293b43" font-size="38" font-weight="700" text-anchor="start">血迹观察：形态、位置与表面</text>
+<text x="33" y="85" fill="#52636a" font-size="24" font-weight="400" text-anchor="start">三种形态示意不代表已确定形成过程</text>
+<rect x="26" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="242" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">点状分布</text>
+<g transform="translate(112 172)">
+<circle cx="70" cy="65" r="19" fill="#a86a6b" stroke="none" stroke-width="2"/><circle cx="130" cy="60" r="15" fill="#a86a6b" stroke="none" stroke-width="2"/><circle cx="190" cy="72" r="12" fill="#a86a6b" stroke="none" stroke-width="2"/><circle cx="147" cy="89" r="4" fill="#a86a6b" stroke="none" stroke-width="2"/>
+</g>
+<text x="51" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">记录点的大小、疏密与所在</text>
+<text x="51" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">平面。相邻区域、重叠和卫</text>
+<text x="51" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">星小点可能影响对形态的描</text>
+<text x="51" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">述。</text>
+<rect x="484" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="700" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">流注形态</text>
+<g transform="translate(570 172)">
+<path d="M45 35 h170 M90 40 q-10 16 0 43 q9 18 0 26 M140 40 q-10 16 0 35 q8 14 0 25 M185 40 q-8 16 0 31" fill="none" stroke="#a86a6b" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="509" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">液体可沿表面形成条带或汇</text>
+<text x="509" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">集。观察表面的朝向、边缘</text>
+<text x="509" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">与延伸，并记录是否有后续</text>
+<text x="509" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">接触。</text>
+<rect x="942" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="1158" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">接触形态</text>
+<g transform="translate(1028 172)">
+<path d="M55 95 Q80 53 104 73 Q130 42 155 68 Q176 45 205 78" fill="none" stroke="#a86a6b" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/><path d="M55 95 Q80 53 104 73 Q130 42 155 68 Q176 45 205 78" fill="none" stroke="#fbf9f3" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="967" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">沾有液体的物体接触表面，</text>
+<text x="967" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">可形成局部转移或擦抹痕。</text>
+<text x="967" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">形态须结合表面材质与整体</text>
+<text x="967" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">位置。</text>
+<rect x="26" y="558" width="1348" height="81" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="44" y="590" fill="#785334" font-size="25" font-weight="400" text-anchor="start">表面、干燥、重叠和后续移动都可能改变外观。</text>
+<text x="44" y="622" fill="#785334" font-size="25" font-weight="400" text-anchor="start">先记录，再由专业人员结合其他证据评估；不要凭图猜武器或动作。</text>
+</g></svg>

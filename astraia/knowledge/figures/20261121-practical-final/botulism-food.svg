@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">低酸罐藏与肉毒毒素：看加工过程</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">外观、气味和味道无法可靠识别肉毒毒素。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="80" y="142" width="220" height="245" rx="30" fill="#dcebe8" stroke="#263b3e" stroke-width="3"/>
+<rect x="90" y="126" width="200" height="35" rx="4" fill="#abbeb8" stroke="#263b3e" stroke-width="3"/>
+<ellipse cx="130" cy="191" rx="27" ry="12" fill="#96b788" stroke="#60816a" stroke-width="2"/>
+<ellipse cx="198" cy="178" rx="27" ry="12" fill="#96b788" stroke="#60816a" stroke-width="2"/>
+<ellipse cx="247" cy="225" rx="27" ry="12" fill="#96b788" stroke="#60816a" stroke-width="2"/>
+<ellipse cx="153" cy="270" rx="27" ry="12" fill="#96b788" stroke="#60816a" stroke-width="2"/>
+<ellipse cx="220" cy="317" rx="27" ry="12" fill="#96b788" stroke="#60816a" stroke-width="2"/>
+<text x="190" y="422" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">低酸食品密封罐</text>
+<line x1="325" y1="255" x2="423" y2="255" stroke="#326f80" stroke-width="4"/>
+<path d="M 411.5 261.0 L 423 255 L 411.5 249.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="440" y="146" width="305" height="242" rx="8" fill="#fbf5e6" stroke="#e0d2af" stroke-width="2"/>
+<text x="592" y="187" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">可能产毒的条件</text>
+<text x="468" y="235" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">芽孢存活</text>
+<text x="468" y="286" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">缺氧、低酸</text>
+<text x="468" y="337" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">温度和时间适宜</text>
+<line x1="764" y1="255" x2="823" y2="255" stroke="#a94d37" stroke-width="4"/>
+<path d="M 811.5 261.0 L 823 255 L 811.5 249.0" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="943" cy="241" r="67" fill="#f5e5df" stroke="#a94d37" stroke-width="3"/>
+<path d="M 915 229 Q 943 212 971 229 M 920 259 Q 944 246 966 260" fill="none" stroke="#263b3e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="943" y="338" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">重影、吞咽困难</text>
+<text x="943" y="373" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">可逐渐向下无力</text>
+<text x="600" y="485" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">可疑食品停止食用；出现神经症状立即急救，同餐者一并报告。</text>
+</svg>

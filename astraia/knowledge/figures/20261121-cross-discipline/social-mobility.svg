@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">社会流动：读懂一张转移表</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">假想样本 100 人；行表示家庭出身类别，列表示成年后的类别。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<text x="440" y="135" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">类别甲</text>
+<text x="590" y="135" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">类别乙</text>
+<text x="740" y="135" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">类别丙</text>
+<text x="340" y="197" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="end">类别甲</text>
+<rect x="365" y="155" width="150" height="67" rx="0" fill="#dcece5" stroke="#c7d7d0" stroke-width="1"/>
+<text x="440" y="198" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">24</text>
+<rect x="515" y="155" width="150" height="67" rx="0" fill="#fff" stroke="#c7d7d0" stroke-width="1"/>
+<text x="590" y="198" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">6</text>
+<rect x="665" y="155" width="150" height="67" rx="0" fill="#fff" stroke="#c7d7d0" stroke-width="1"/>
+<text x="740" y="198" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">0</text>
+<text x="340" y="264" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="end">类别乙</text>
+<rect x="365" y="222" width="150" height="67" rx="0" fill="#fff" stroke="#c7d7d0" stroke-width="1"/>
+<text x="440" y="265" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">7</text>
+<rect x="515" y="222" width="150" height="67" rx="0" fill="#dcece5" stroke="#c7d7d0" stroke-width="1"/>
+<text x="590" y="265" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">26</text>
+<rect x="665" y="222" width="150" height="67" rx="0" fill="#fff" stroke="#c7d7d0" stroke-width="1"/>
+<text x="740" y="265" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">7</text>
+<text x="340" y="331" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="end">类别丙</text>
+<rect x="365" y="289" width="150" height="67" rx="0" fill="#fff" stroke="#c7d7d0" stroke-width="1"/>
+<text x="440" y="332" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">1</text>
+<rect x="515" y="289" width="150" height="67" rx="0" fill="#fff" stroke="#c7d7d0" stroke-width="1"/>
+<text x="590" y="332" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">9</text>
+<rect x="665" y="289" width="150" height="67" rx="0" fill="#dcece5" stroke="#c7d7d0" stroke-width="1"/>
+<text x="740" y="332" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">20</text>
+<text x="600" y="420" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">对角线表示类别相同；其他格子表示类别不同。</text>
+<text x="600" y="479" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">类别定义与样本选择会改变结论，表格本身不能解释流动原因。</text>
+</svg>

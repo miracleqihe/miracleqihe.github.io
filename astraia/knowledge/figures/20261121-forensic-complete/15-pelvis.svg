@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">骨盆、膀胱和尿道的位置</title>
+<desc id="desc">正面结构示意，损伤可能累及多个部位</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">骨盆、膀胱和尿道的位置</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">正面结构示意，损伤可能累及多个部位</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M130 117 Q190 96 260 155 Q300 187 320 250 Q325 300 280 324 Q242 351 229 388 L192 388 Q197 339 162 319 Q105 297 95 245 Q80 163 130 117Z" fill="#ecdfcf" stroke="#ad9b88" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M570 117 Q510 96 440 155 Q400 187 380 250 Q375 300 420 324 Q458 351 471 388 L508 388 Q503 339 538 319 Q595 297 605 245 Q620 163 570 117Z" fill="#ecdfcf" stroke="#ad9b88" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M305 220 Q350 176 395 220 Q415 280 350 300 Q285 280 305 220Z" fill="#c7dcda" stroke="#7faaa7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M350 300 V356" fill="none" stroke="#7faaa7" stroke-width="11" stroke-linecap="round" stroke-linejoin="round"/><line x1="167" y1="190" x2="70" y2="87" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="167" cy="190" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="78" y="95" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">骨盆</text><line x1="350" y1="242" x2="655" y2="145" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="350" cy="242" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="663" y="153" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">膀胱</text><line x1="350" y1="326" x2="655" y2="261" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="350" cy="326" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="663" y="269" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">尿道</text><text x="350" y="454" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">正面示意：盆腔内出血可能不易从体表看出</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">骨盆受伤可出现疼痛、无法站立</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">或周围淤肿。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">尿血、尿道口见血或排尿困难应</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">告知急救人员。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">严重撞击后皮肤外观并不能排除</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">内部出血。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">怀疑严重骨盆伤时呼叫急救，避免不必要搬动。</text>
+</g></svg>

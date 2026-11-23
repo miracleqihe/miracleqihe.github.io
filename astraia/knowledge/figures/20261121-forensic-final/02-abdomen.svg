@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">腹部撞击：器官位置与隐藏伤</title>
+<desc id="desc">正面示意，患者右侧位于画面左侧</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">腹部撞击：器官位置与隐藏伤</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">正面示意，患者右侧位于画面左侧</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M155 60 Q100 95 108 205 L120 370 Q260 403 400 370 L412 205 Q420 95 365 60Z" fill="#ead7cd" stroke="#b49284" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M145 155 Q208 115 265 150 Q265 200 160 208Z" fill="#bd8880" stroke="#9f6f69" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M326 155 Q367 155 372 189 Q364 218 330 210Z" fill="#b27d7d" stroke="#976967" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M170 225 q-25-15-34 9 q-8 25 21 36 q25 8 28-15Z" fill="#cfa6a0" stroke="#a7837a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M345 225 q25-15 34 9 q8 25-21 36 q-25 8-28-15Z" fill="#cfa6a0" stroke="#a7837a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M205 270 Q260 245 315 270 Q325 335 260 345 Q195 335 205 270Z" fill="none" stroke="#a7835a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><line x1="200" y1="174" x2="40" y2="95" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="200" cy="174" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="48" y="103" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">肝脏</text><line x1="350" y1="182" x2="470" y2="95" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="350" cy="182" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="478" y="103" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">脾脏</text><line x1="154" y1="246" x2="40" y2="250" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="154" cy="246" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="48" y="258" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">肾脏位于后方</text><line x1="260" y1="305" x2="470" y2="285" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="260" cy="305" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="478" y="293" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">肠道</text><text x="260" y="445" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">正面示意：患者右侧在画面左侧</text><circle cx="370" cy="340" r="11" fill="#af7072" stroke="none" stroke-width="3"/><text x="470" y="385" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">体表改变可轻微</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">肝、脾、肾及肠道均可能受到撞</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">击影响。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">腹腔或腹膜后出血未必在体表看</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">见。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">腹痛加重、头晕或明显虚弱时立</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">即求助。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">伤处表面颜色与内部损伤范围并不一一对应。</text>
+</g></svg>

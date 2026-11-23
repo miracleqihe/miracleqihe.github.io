@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">噎住时先观察能否咳嗽和说话</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">适用于清醒的成人和一岁以上儿童；婴儿处理方式不同。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="65" y="125" width="320" height="270" rx="8" fill="#ffffff" stroke="#c6d6cf" stroke-width="2"/>
+<rect x="440" y="125" width="320" height="270" rx="8" fill="#ffffff" stroke="#c6d6cf" stroke-width="2"/>
+<rect x="815" y="125" width="320" height="270" rx="8" fill="#ffffff" stroke="#c6d6cf" stroke-width="2"/>
+<text x="225" y="166" fill="#60816a" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="middle">仍能有力咳嗽</text>
+<circle cx="225" cy="220" r="34" fill="#f2ded0" stroke="#263b3e" stroke-width="3"/>
+<path d="M 207 226 Q 225 239 243 226" fill="none" stroke="#263b3e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="225" y="297" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">鼓励继续咳嗽</text>
+<text x="225" y="333" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">持续观察是否恶化</text>
+<text x="600" y="166" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="middle">不能说话或呼吸</text>
+<circle cx="600" cy="220" r="34" fill="#f2ded0" stroke="#263b3e" stroke-width="3"/>
+<path d="M 584 230 Q 600 217 616 230" fill="none" stroke="#263b3e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="600" y="297" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">立即呼救并叫急救</text>
+<text x="600" y="333" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">按培训给予急救</text>
+<text x="975" y="166" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="middle">失去反应</text>
+<path d="M 875 270 L 1080 270 M 920 270 Q 955 234 990 270" fill="none" stroke="#263b3e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" />
+<text x="975" y="310" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">开始心肺复苏</text>
+<text x="975" y="346" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">按急救调度指引</text>
+<line x1="390" y1="260" x2="432" y2="260" stroke="#326f80" stroke-width="3"/>
+<path d="M 420.5 266.0 L 432 260 L 420.5 254.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="765" y1="260" x2="807" y2="260" stroke="#326f80" stroke-width="3"/>
+<path d="M 795.5 266.0 L 807 260 L 795.5 254.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="600" y="473" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">有力咳嗽的人不应盲目拍背；严重梗阻须立即行动。</text>
+</svg>

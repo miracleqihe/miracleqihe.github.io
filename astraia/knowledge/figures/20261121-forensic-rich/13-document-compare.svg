@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="660" viewBox="0 0 1400 660" role="img" aria-labelledby="title desc">
+<title id="title">笔迹比较：原件、笔画与自然变化</title>
+<desc id="desc">观察可比较特征，也保留无法判断的可能</desc>
+<rect x="1" y="1" width="1398" height="658" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="32" y="47" fill="#293b43" font-size="38" font-weight="700" text-anchor="start">笔迹比较：原件、笔画与自然变化</text>
+<text x="33" y="85" fill="#52636a" font-size="24" font-weight="400" text-anchor="start">观察可比较特征，也保留无法判断的可能</text>
+<rect x="26" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="242" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">保存原件</text>
+<g transform="translate(112 172)">
+<rect x="45" y="5" width="130" height="116" rx="4" fill="#fffdf8" stroke="#9b9f99" stroke-width="3"/><path d="M65 35 h90 M65 56 h76 M65 80 q20-22 42 0 t43 0" fill="none" stroke="#777c79" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="205" y="65" fill="#52636a" font-size="20" font-weight="400" text-anchor="start">原件</text>
+</g>
+<text x="51" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">原纸可保留部分压痕与线条</text>
+<text x="51" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">细节。扫描或照片可能丢失</text>
+<text x="51" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">这些信息。不在原件上补</text>
+<text x="51" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">写、折叠或描画。</text>
+<rect x="484" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="700" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">观察笔画</text>
+<g transform="translate(570 172)">
+<path d="M15 65 Q35 18 55 66 T95 66 T135 66 T175 66 T215 66" fill="none" stroke="#667f85" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="56" cy="66" r="13" fill="none" stroke="#9d6157" stroke-width="2"/><circle cx="134" cy="66" r="13" fill="none" stroke="#9d6157" stroke-width="2"/><text x="130" y="121" fill="#52636a" font-size="19" font-weight="400" text-anchor="middle">转折与连接</text>
+</g>
+<text x="509" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">可比较起收笔、连接、转折</text>
+<text x="509" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">和比例。一处迟缓或抖动有</text>
+<text x="509" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">多种原因，需要放在整体中</text>
+<text x="509" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">评估。</text>
+<rect x="942" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="1158" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">比较多份样本</text>
+<g transform="translate(1028 172)">
+<rect x="20" y="15" width="64" height="100" rx="4" fill="#fffdf8" stroke="#9b9f99" stroke-width="2"/><path d="M 30 78 q 8 -16 16 0 t 17 0" fill="none" stroke="#748b8c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="93" y="15" width="64" height="100" rx="4" fill="#fffdf8" stroke="#9b9f99" stroke-width="2"/><path d="M 103 78 q 8 -16 16 0 t 17 0" fill="none" stroke="#748b8c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="166" y="15" width="64" height="100" rx="4" fill="#fffdf8" stroke="#9b9f99" stroke-width="2"/><path d="M 176 78 q 8 -16 16 0 t 17 0" fill="none" stroke="#748b8c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="967" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">参考样本来源应可靠且可</text>
+<text x="967" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">比。同一个人的书写也有自</text>
+<text x="967" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">然变化；时间、姿势、笔纸</text>
+<text x="967" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">都会影响结果。</text>
+<rect x="26" y="558" width="1348" height="81" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="44" y="590" fill="#785334" font-size="25" font-weight="400" text-anchor="start">有限样本、图像质量或材料差异可能使结论受限。</text>
+<text x="44" y="622" fill="#785334" font-size="25" font-weight="400" text-anchor="start">笔迹检验本身不证明文件内容真实或签署自愿。</text>
+</g></svg>

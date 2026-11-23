@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820" role="img" aria-labelledby="title desc">
+<title id="title">锂盐中毒：消化与神经表现</title>
+<desc id="desc">一次误服和长期蓄积时表现可能不同</desc>
+<rect x="1" y="1" width="1598" height="818" rx="15" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="36" y="53" font-size="42" font-weight="700" fill="#263d43" text-anchor="start">锂盐中毒：消化与神经表现</text>
+<text x="38" y="94" font-size="29" font-weight="400" fill="#5b6d70" text-anchor="start">一次误服和长期蓄积时表现可能不同</text>
+<rect x="28" y="120" width="920" height="595" rx="12" fill="#f3f6f2" stroke="#dce6df" stroke-width="2"/>
+<g transform="translate(35 130)">
+<g transform="translate(320 80) scale(1.25)"><circle cx="0" cy="0" r="29" fill="#e8d5cc" stroke="#b5968a" stroke-width="3"/><path d="M -34 40 Q 0 29 34 40 L 43 132 L 28 153 L 22 267 L 5 267 L 0 158 L -5 267 L -22 267 L -28 153 L -43 132 Z" fill="#e8d5cc" stroke="#b5968a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M -34 48 L -69 145 M 34 48 L 69 145" fill="none" stroke="#b5968a" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/></g><path d="M290 250 q30-25 60 0 q-30 35-60 0Z" fill="none" stroke="#9a7554" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M 240 287 l-15 10 14 10 M 399 287 l15 10-14 10" fill="none" stroke="#a66b70" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M 290 456 l-10 20 m70-20 10 20" fill="none" stroke="#608994" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="233" cy="251" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="233" y="259" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">1</text><circle cx="405" cy="290" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="405" y="298" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">2</text><circle cx="420" cy="449" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="420" y="457" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">3</text><line x1="250" y1="251" x2="285" y2="251" stroke="#608994" stroke-width="4" stroke-linecap="round"/><line x1="387" y1="290" x2="360" y2="280" stroke="#608994" stroke-width="4" stroke-linecap="round"/><line x1="402" y1="449" x2="360" y2="449" stroke="#608994" stroke-width="4" stroke-linecap="round"/><text x="500" y="250" font-size="26" font-weight="400" fill="#263d43" text-anchor="start">恶心、呕吐、腹泻</text><text x="500" y="305" font-size="26" font-weight="400" fill="#263d43" text-anchor="start">手抖或意识变化</text><text x="500" y="460" font-size="26" font-weight="400" fill="#263d43" text-anchor="start">步态不稳</text>
+</g>
+<line x1="971" y1="132" x2="971" y2="706" stroke="#e3e8e2" stroke-width="2" stroke-linecap="round"/>
+<text x="1005" y="164" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">① 消化</text>
+<text x="1005" y="204" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">恶心、呕吐、腹痛或腹泻可出现。</text>
+<text x="1005" y="299" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">② 神经</text>
+<text x="1005" y="339" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">明显手抖、说话含糊、嗜睡或意识变</text>
+<text x="1005" y="376" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">化应重视。</text>
+<text x="1005" y="434" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">③ 行动</text>
+<text x="1005" y="474" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">走路不稳、严重嗜睡或呼吸异常时立</text>
+<text x="1005" y="511" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">即求助。</text>
+<text x="1005" y="569" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">④ 病史</text>
+<text x="1005" y="609" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">向医护说明服药时间、药物清单和脱</text>
+<text x="1005" y="646" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">水情况。</text>
+<rect x="28" y="735" width="1544" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="45" y="773" font-size="29" font-weight="400" fill="#785334" text-anchor="start">慢性蓄积时胃肠症状不一定明显；不要自行催吐或另服药处理。</text>
+</g></svg>

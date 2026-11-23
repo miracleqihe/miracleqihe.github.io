@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">头部受伤后：追踪变化，识别危险信号</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">某些症状可能在受伤后数小时或更晚出现。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<circle cx="220" cy="235" r="100" fill="#f0ddce" stroke="#263b3e" stroke-width="3"/>
+<path d="M 165 210 Q 220 155 275 210" fill="none" stroke="#967a6b" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="195" cy="235" r="5" fill="#263b3e" stroke="#263b3e" stroke-width="2"/>
+<circle cx="245" cy="235" r="5" fill="#263b3e" stroke="#263b3e" stroke-width="2"/>
+<text x="220" y="376" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">记录撞击和变化时间</text>
+<circle cx="475" cy="163" r="8" fill="#a94d37" stroke="#a94d37" stroke-width="2"/>
+<text x="505" y="170" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="start">头痛</text>
+<text x="630" y="170" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">持续加重、不缓解</text>
+<circle cx="475" cy="233" r="8" fill="#a94d37" stroke="#a94d37" stroke-width="2"/>
+<text x="505" y="240" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="start">意识</text>
+<text x="630" y="240" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">反复呕吐、昏睡或叫不醒</text>
+<circle cx="475" cy="303" r="8" fill="#a94d37" stroke="#a94d37" stroke-width="2"/>
+<text x="505" y="310" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="start">神经</text>
+<text x="630" y="310" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">抽搐、无力、言语异常</text>
+<text x="600" y="447" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">出现危险信号立即呼叫急救；疑似颈部受伤时减少不必要的移动。</text>
+</svg>

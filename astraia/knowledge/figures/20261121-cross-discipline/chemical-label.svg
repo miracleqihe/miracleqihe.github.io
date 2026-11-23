@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">读懂化学品标签与安全技术说明书</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">查看具体产品标签：不同危险分类、地区和用途的标示要求不同。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="78" y="130" width="505" height="285" rx="8" fill="#fff" stroke="#bbc9c3" stroke-width="3"/>
+<text x="110" y="172" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="26" font-weight="700" text-anchor="start">产品标识</text>
+<text x="110" y="213" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="start">警示词</text>
+<text x="110" y="253" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">危险说明：说明具体危害</text>
+<text x="110" y="291" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">防范说明：预防、急救、储存</text>
+<text x="110" y="358" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">供应商与联系方式</text>
+<path d="M 478 147 L 532 201 L 478 255 L 424 201 Z" fill="#ffffff" stroke="#a94d37" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<text x="478" y="209" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="42" font-weight="700" text-anchor="middle">!</text>
+<line x1="620" y1="268" x2="700" y2="268" stroke="#326f80" stroke-width="4"/>
+<path d="M 688.5 274.0 L 700 268 L 688.5 262.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="735" y="130" width="390" height="285" rx="8" fill="#f3f8f6" stroke="#bbcec6" stroke-width="2"/>
+<text x="770" y="175" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="start">安全技术说明书 SDS</text>
+<text x="770" y="222" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">第 2 节：危险性概述</text>
+<text x="770" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">第 4 节：急救措施</text>
+<text x="770" y="296" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">第 7 节：操作与储存</text>
+<text x="770" y="333" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">第 8 节：接触控制</text>
+<text x="600" y="475" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">图中感叹号仅作图形位置示例，不表示所有产品都属于同一危险类别。</text>
+</svg>

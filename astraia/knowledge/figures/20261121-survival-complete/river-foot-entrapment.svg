@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">急流中站立：脚卡在河床可能使人被水压住</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">侧面示意：水流能通过岩缝，脚却可能被石块夹住。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 60 250 Q 350 230 700 250 L 700 390 L 60 390 Z" fill="#dbeef0" stroke="#326f80" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 60 390 L 170 345 L 245 390 L 320 340 L 395 390 L 480 340 L 560 390 L 700 375 L 700 425 L 60 425 Z" fill="#c7c6bb" stroke="#9d9e92" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="355" cy="205" r="28" fill="#f1dccd" stroke="#263b3e" stroke-width="3"/>
+<path d="M 355 233 L 390 295 L 375 355 L 400 385 M 380 275 L 435 260" fill="none" stroke="#263b3e" stroke-width="7" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="110" y1="280" x2="275" y2="280" stroke="#326f80" stroke-width="4"/>
+<path d="M 263.5 286.0 L 275 280 L 263.5 274.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="445" y1="285" x2="625" y2="285" stroke="#326f80" stroke-width="4"/>
+<path d="M 613.5 291.0 L 625 285 L 613.5 279.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="400" cy="382" r="20" fill="none" stroke="#a94d37" stroke-width="3"/>
+<text x="440" y="405" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">卡脚</text>
+<text x="780" y="185" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">急流中避免尝试站立</text>
+<text x="780" y="235" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">保持漂浮并寻找缓流</text>
+<text x="780" y="285" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">到很浅或无流区域再站起</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">遇险优先呼救；水流、障碍和岸边环境都会改变可行路线。</text>
+</svg>

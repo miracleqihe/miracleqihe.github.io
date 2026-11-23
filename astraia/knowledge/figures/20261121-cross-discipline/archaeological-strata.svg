@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">考古地层：先后关系与后期扰动</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">一般叠压关系只在地层次序保存较完整时成立。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="100" y="135" width="590" height="70" rx="0" fill="#e5ddc7" stroke="#c8bea7" stroke-width="1"/>
+<rect x="100" y="205" width="590" height="72" rx="0" fill="#d0bb96" stroke="#b79e75" stroke-width="1"/>
+<rect x="100" y="277" width="590" height="69" rx="0" fill="#b49a77" stroke="#9b805c" stroke-width="1"/>
+<rect x="100" y="346" width="590" height="70" rx="0" fill="#8e7358" stroke="#806248" stroke-width="1"/>
+<path d="M 460 135 L 565 135 L 550 285 Q 510 310 475 285 Z" fill="#e3d4b6" stroke="#977a5b" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="255" cy="240" rx="22" ry="13" fill="#8f5d48" stroke="#744934" stroke-width="2"/>
+<circle cx="365" cy="321" r="12" fill="#c8a86b" stroke="#927347" stroke-width="2"/>
+<path d="M 485 215 L 500 204 L 514 216 L 500 228 Z" fill="#829c8f" stroke="#647f72" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="740" y1="170" x2="820" y2="170" stroke="#326f80" stroke-width="3"/>
+<path d="M 808.5 176.0 L 820 170 L 808.5 164.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="845" y="178" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">上层一般较新</text>
+<line x1="740" y1="385" x2="820" y2="385" stroke="#bb8737" stroke-width="3"/>
+<path d="M 808.5 391.0 L 820 385 L 808.5 379.0" fill="none" stroke="#bb8737" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="845" y="393" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">下层一般较早</text>
+<line x1="650" y1="255" x2="750" y2="255" stroke="#a94d37" stroke-width="3"/>
+<path d="M 738.5 261.0 L 750 255 L 738.5 249.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="770" y="263" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">后挖坑切穿旧层</text>
+<text x="600" y="478" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">记录层位、切割关系与遗物位置，再结合可用的测年方法。</text>
+</svg>

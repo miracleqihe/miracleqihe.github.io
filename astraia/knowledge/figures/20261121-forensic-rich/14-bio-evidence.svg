@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="660" viewBox="0 0 1400 660" role="img" aria-labelledby="title desc">
+<title id="title">生物物证：采样、保存与防污染</title>
+<desc id="desc">以下为授权专业人员的工作示意，具体要求以实验室流程为准</desc>
+<rect x="1" y="1" width="1398" height="658" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="32" y="47" fill="#293b43" font-size="38" font-weight="700" text-anchor="start">生物物证：采样、保存与防污染</text>
+<text x="33" y="85" fill="#52636a" font-size="24" font-weight="400" text-anchor="start">以下为授权专业人员的工作示意，具体要求以实验室流程为准</text>
+<rect x="26" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="242" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">① 分清位置</text>
+<g transform="translate(112 172)">
+<path d="M30 85 L103 24 M145 99 L218 38" fill="none" stroke="#788f91" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="103" cy="24" r="11" fill="#f8f6eb" stroke="#97a7a1" stroke-width="3"/><circle cx="218" cy="38" r="11" fill="#f8f6eb" stroke="#97a7a1" stroke-width="3"/><text x="45" y="122" fill="#52636a" font-size="20" font-weight="400" text-anchor="start">A 处</text><text x="166" y="122" fill="#52636a" font-size="20" font-weight="400" text-anchor="start">B 处</text>
+</g>
+<text x="51" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">先记录发现位置和物件编</text>
+<text x="51" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">号。不同部位的样本分别标</text>
+<text x="51" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">记、处理。注意防护和避免</text>
+<text x="51" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">相互接触。</text>
+<rect x="484" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="700" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">② 湿样按要求干燥</text>
+<g transform="translate(570 172)">
+<path d="M100 30 l-18 13 8 22 12-6 v53 h56 v-53 l12 6 8-22 -18-13 -13 5 h-20z" fill="#cad7d5" stroke="#718e90" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M35 34 Q50 22 65 34 M32 52 Q50 40 68 52 M190 34 Q205 22 220 34 M187 52 Q205 40 223 52" fill="none" stroke="#90a7a1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="130" y="126" fill="#52636a" font-size="18" font-weight="400" text-anchor="middle">在适当条件下干燥</text>
+</g>
+<text x="509" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">潮湿生物材料按流程适当风</text>
+<text x="509" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">干，以减少潮湿造成的降</text>
+<text x="509" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">解。液体样本另按实验室要</text>
+<text x="509" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">求处理。</text>
+<rect x="942" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="1158" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">③ 独立包装与交接</text>
+<g transform="translate(1028 172)">
+<path d="M 55 20 H 205 V 111 H 55 Z M 55 34 H205" fill="#f7f3e9" stroke="#a69177" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="87" y="52" width="84" height="38" rx="4" fill="#fffdf8" stroke="#c4b29a" stroke-width="2"/><text x="129" y="78" fill="#293b43" font-size="18" font-weight="700" text-anchor="middle">A-01</text>
+</g>
+<text x="967" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">适用时将干燥物件用纸包</text>
+<text x="967" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">装。标签记编号、来源及封</text>
+<text x="967" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">装信息；交接时记录时间和</text>
+<text x="967" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">封口状态。</text>
+<rect x="26" y="558" width="1348" height="81" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="44" y="590" fill="#785334" font-size="25" font-weight="400" text-anchor="start">包装、保存温度和运输方式依物证类型及接收实验室要求确定。</text>
+<text x="44" y="622" fill="#785334" font-size="25" font-weight="400" text-anchor="start">公众以安全、救助和保护现场为先，不自行采样或清洁痕迹。</text>
+</g></svg>

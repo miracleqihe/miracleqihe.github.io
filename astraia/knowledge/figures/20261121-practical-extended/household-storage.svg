@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">家庭储存：药品、清洁剂和食物分开</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">保留原包装与清晰标签，放到儿童和宠物无法接触的位置。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="170" y="132" width="390" height="280" rx="4" fill="#eee6d8" stroke="#9f8c73" stroke-width="3"/>
+<line x1="170" y1="232" x2="560" y2="232" stroke="#9f8c73" stroke-width="4"/>
+<line x1="170" y1="330" x2="560" y2="330" stroke="#9f8c73" stroke-width="4"/>
+<rect x="210" y="170" width="42" height="52" rx="5" fill="#fff" stroke="#9ba99e" stroke-width="2"/>
+<rect x="220" y="156" width="22" height="14" rx="1" fill="#d4e0d7" stroke="#9ba99e" stroke-width="2"/>
+<rect x="275" y="170" width="42" height="52" rx="5" fill="#fff" stroke="#9ba99e" stroke-width="2"/>
+<rect x="285" y="156" width="22" height="14" rx="1" fill="#d4e0d7" stroke="#9ba99e" stroke-width="2"/>
+<rect x="340" y="170" width="42" height="52" rx="5" fill="#fff" stroke="#9ba99e" stroke-width="2"/>
+<rect x="350" y="156" width="22" height="14" rx="1" fill="#d4e0d7" stroke="#9ba99e" stroke-width="2"/>
+<rect x="215" y="258" width="55" height="56" rx="5" fill="#d9e8de" stroke="#8aa194" stroke-width="2"/>
+<text x="242" y="294" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">药</text>
+<rect x="295" y="258" width="55" height="56" rx="5" fill="#d9e8de" stroke="#8aa194" stroke-width="2"/>
+<text x="322" y="294" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">药</text>
+<rect x="375" y="258" width="55" height="56" rx="5" fill="#d9e8de" stroke="#8aa194" stroke-width="2"/>
+<text x="402" y="294" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">药</text>
+<rect x="225" y="350" width="140" height="45" rx="4" fill="#e2e6df" stroke="#9ba99e" stroke-width="2"/>
+<text x="295" y="380" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">防护用品</text>
+<path d="M 505 143 L 545 143 L 545 211 L 505 211 Z" fill="#d4c1a1" stroke="#9f8c73" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="525" cy="175" r="8" fill="#f8f6ef" stroke="#263b3e" stroke-width="2"/>
+<line x1="600" y1="190" x2="735" y2="190" stroke="#326f80" stroke-width="3"/>
+<path d="M 723.5 196.0 L 735 190 L 723.5 184.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="755" y="198" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">上锁并保留原标签</text>
+<line x1="600" y1="275" x2="735" y2="275" stroke="#326f80" stroke-width="3"/>
+<path d="M 723.5 281.0 L 735 275 L 723.5 269.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="755" y="283" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">药品按说明避热避潮</text>
+<line x1="600" y1="368" x2="735" y2="368" stroke="#a94d37" stroke-width="3"/>
+<path d="M 723.5 374.0 L 735 368 L 723.5 362.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="755" y="376" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">食品与化学品分开存放</text>
+<rect x="800" y="400" width="135" height="42" rx="4" fill="#f6d8a5" stroke="#b89d75" stroke-width="2"/>
+<text x="867" y="429" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">食品另柜</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">绝不将化学品倒入饮料瓶；容器破损时联系当地处置机构。</text>
+</svg>

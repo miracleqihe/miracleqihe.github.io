@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">倒落电线：地面和接触物可能同时带电</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">把不明线路当作带电，保持距离并通知供电或应急部门。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<line x1="135" y1="135" x2="135" y2="420" stroke="#927e69" stroke-width="13"/>
+<line x1="85" y1="155" x2="185" y2="155" stroke="#927e69" stroke-width="10"/>
+<path d="M 135 155 Q 235 180 300 320 Q 340 360 415 353" fill="none" stroke="#263b3e" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="415" cy="353" r="90" fill="none" stroke="#a94d37" stroke-width="2"/>
+<circle cx="415" cy="353" r="140" fill="none" stroke="#a94d37" stroke-width="2"/>
+<circle cx="620" cy="245" r="9.600000000000001" fill="#f2ddce" stroke="#263b3e" stroke-width="2"/>
+<path d="M 620 254.6 L 620 280.2 M 620 262.6 L 606.4 272.2 M 620 262.6 L 633.6 272.2 M 620 280.2 L 608.8 299.4 M 620 280.2 L 631.2 299.4" fill="none" stroke="#263b3e" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="565" y1="280" x2="640" y2="280" stroke="#326f80" stroke-width="4"/>
+<path d="M 628.5 286.0 L 640 280 L 628.5 274.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="415" y="425" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">可能带电区域：形状和范围不定</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">远离电线、积水及接触物</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">不要靠近、触碰或挪动</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">通知当地电力或应急部门</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">在车内遇线落车身，遵从救援指示</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">图中圆圈仅示意地面风险，不代表可用的安全距离。</text>
+</svg>

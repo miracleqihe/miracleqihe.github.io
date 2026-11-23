@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">胃内容物：混合与向肠道排空</title>
+<desc id="desc">胃、食管与十二指肠的相对位置</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">胃内容物：混合与向肠道排空</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">胃、食管与十二指肠的相对位置</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M255 60 Q255 150 278 167 Q300 176 327 157 Q377 126 410 176 Q433 215 414 277 Q390 358 290 359 Q210 359 198 311 Q190 267 225 221 Q251 180 246 60Z" fill="#e8c5b7" stroke="#a97d75" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M405 285 Q463 286 471 320 Q480 351 450 365 Q420 378 414 408" fill="none" stroke="#a7835a" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/><path d="M270 236 q27-19 48 2 M280 267 q25-20 47 0 M329 246 q18-16 34 0" fill="none" stroke="#bd8476" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="320" cy="286" r="12" fill="#719481" stroke="none" stroke-width="3"/><circle cx="290" cy="303" r="10" fill="#a7835a" stroke="none" stroke-width="3"/><circle cx="355" cy="274" r="9" fill="#af7072" stroke="none" stroke-width="3"/><line x1="246" y1="110" x2="85" y2="106" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="246" cy="110" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="93" y="114" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">食管</text><line x1="323" y1="211" x2="491" y2="137" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="323" cy="211" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="499" y="145" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">胃腔混合</text><line x1="458" y1="339" x2="515" y2="288" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="458" cy="339" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="523" y="296" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">十二指肠</text><text x="285" y="452" font-size="25" fill="#596b6d" font-weight="400" text-anchor="middle">内容物形态可比较进食线索</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">固体食物需被磨碎、混合，液体</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">可能更早离开胃。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">餐食组成、疾病、药物及受伤状</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">态影响排空。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">可辨认的内容物能与已知食物信</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">息比较。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">胃内食物的外观不能可靠换算死亡时刻。</text>
+</g></svg>

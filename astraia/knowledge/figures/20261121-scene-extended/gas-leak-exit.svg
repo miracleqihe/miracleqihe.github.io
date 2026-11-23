@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">疑似燃气泄漏：先离开，再从室外求助</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">闻到异常气味、报警器鸣响或怀疑漏气时，立即撤离。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 90 350 L 90 220 L 250 130 L 410 220 L 410 350 Z" fill="#f1ebe1" stroke="#9f9c90" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="195" y="250" width="90" height="100" rx="8" fill="#e2edeb" stroke="#326f80" stroke-width="3"/>
+<path d="M 198 350 L 198 251 L 276 269 L 276 350" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="335" cy="270" r="27" fill="#f4d2c8" stroke="#a94d37" stroke-width="3"/>
+<text x="335" y="279" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="28" font-weight="700" text-anchor="middle">!</text>
+<line x1="300" y1="308" x2="475" y2="308" stroke="#326f80" stroke-width="5"/>
+<path d="M 463.5 314.0 L 475 308 L 463.5 302.0" fill="none" stroke="#326f80" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<text x="500" y="280" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="start">离开建筑</text>
+<text x="500" y="318" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">到安全的室外呼救</text>
+<rect x="740" y="155" width="350" height="215" rx="8" fill="#fff" stroke="#d7dfd9" stroke-width="2"/>
+<text x="915" y="195" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="middle">撤离途中</text>
+<text x="780" y="244" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">不要操作开关或电器</text>
+<text x="780" y="288" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">不要点火、吸烟或制造火花</text>
+<text x="780" y="332" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">不要返回，等待专业人员</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">从远离泄漏点的安全位置联系燃气公司或当地消防、急救部门。</text>
+</svg>

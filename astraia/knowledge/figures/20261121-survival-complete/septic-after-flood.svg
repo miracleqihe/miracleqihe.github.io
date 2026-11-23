@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">洪水后的化粪池：盖口和地下空间都有风险</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">池内可能有缺氧或有毒气体；水饱和时还可能影响池体稳定。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 60 225 L 760 225 L 760 430 L 60 430 Z" fill="#e9dcc4" stroke="#b19e7e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 175 290 Q 350 250 525 290 L 525 395 Q 350 420 175 395 Z" fill="#cfd9ce" stroke="#82958a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="330" y="195" width="48" height="65" rx="3" fill="#bbc4b8" stroke="#82958a" stroke-width="3"/>
+<rect x="315" y="187" width="78" height="15" rx="2" fill="#a3aaa1" stroke="#82958a" stroke-width="2"/>
+<line x1="354" y1="185" x2="354" y2="125" stroke="#a94d37" stroke-width="4"/>
+<path d="M 360.0 136.5 L 354 125 L 348.0 136.5" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="400" y="155" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">危险气体</text>
+<text x="810" y="190" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">不要开盖、探身或进入</text>
+<text x="810" y="240" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">远离污水和损坏区域</text>
+<text x="810" y="290" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">联系当地专业人员</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">不要在洪水或土壤仍饱和时自行抽排；遵循当地专业建议。</text>
+</svg>

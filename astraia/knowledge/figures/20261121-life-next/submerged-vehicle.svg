@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">车辆落水：先解安全带，尽快打开出口</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">提前辨认车窗材质与出口，熟悉所备逃生工具的说明。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 55 340 L 95 263 L 205 238 L 330 180 L 497 180 L 585 238 L 654 253 L 690 340 Z" fill="#e6eeeb" stroke="#263b3e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 228 235 L 338 192 L 407 192 L 407 235 Z" fill="#c8dfe3" stroke="#326f80" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 425 192 L 492 192 L 558 235 L 425 235 Z" fill="#c8dfe3" stroke="#326f80" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="415" y1="190" x2="415" y2="338" stroke="#263b3e" stroke-width="3"/>
+<circle cx="191" cy="342" r="37" fill="#6e7775" stroke="#263b3e" stroke-width="3"/>
+<circle cx="570" cy="342" r="37" fill="#6e7775" stroke="#263b3e" stroke-width="3"/>
+<path d="M 58 290 Q 180 280 310 290 T 555 290 T 690 290" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="470" y1="221" x2="470" y2="140" stroke="#a94d37" stroke-width="4"/>
+<path d="M 476.0 151.5 L 470 140 L 464.0 151.5" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="488" y="151" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">可开启的侧窗</text>
+<text x="90" y="415" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">不同位置的侧窗可能使用不同玻璃。</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">先解安全带，协助同乘者</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">尽快打开侧窗并离开</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">钢化玻璃：依工具说明使用</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">夹层侧窗：常见工具未必击穿</text>
+<text x="755" y="343" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">脱离后联系当地救援</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">图为车辆外观示意；水深、电路及逃生条件随事故变化。</text>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">离岸风：近岸水面平静，回岸却可能费力</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">俯视示意，风从陆地吹向水面；离岸风也会影响小艇与充气玩具。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 70 140 L 330 140 L 330 405 L 70 405 Z" fill="#e6dec6" stroke="#b1a889" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 330 140 L 1080 140 L 1080 405 L 330 405 Z" fill="#d9edf0" stroke="#326f80" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="210" y1="200" x2="750" y2="200" stroke="#326f80" stroke-width="4"/>
+<path d="M 738.5 206.0 L 750 200 L 738.5 194.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="210" y1="275" x2="750" y2="275" stroke="#326f80" stroke-width="4"/>
+<path d="M 738.5 281.0 L 750 275 L 738.5 269.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="210" y1="350" x2="750" y2="350" stroke="#326f80" stroke-width="4"/>
+<path d="M 738.5 356.0 L 750 350 L 738.5 344.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="800" cy="275" rx="90" ry="18" fill="#f2d8a4" stroke="#bb8737" stroke-width="3"/>
+<circle cx="800" cy="200" r="20" fill="#f2ddce" stroke="#263b3e" stroke-width="3"/>
+<path d="M 800 220 L 800 265 M 800 235 L 775 252 M 800 235 L 823 250 M 800 265 L 777 300 M 800 265 L 823 300" fill="none" stroke="#263b3e" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="730" y1="330" x2="450" y2="330" stroke="#a94d37" stroke-width="3"/>
+<path d="M 461.5 324.0 L 450 330 L 461.5 336.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="590" y="365" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="middle">逆风返回更困难</text>
+<text x="195" y="280" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="26" font-weight="700" text-anchor="middle">岸</text>
+<text x="880" y="185" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">水域</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">下水前核对风向、风力和潮流，携带可靠的求救设备。</text>
+</svg>

@@ -1,0 +1,1 @@
+Astraia Handbook Glyphs: renamed four-character subsets of Noto Sans SC Regular and Bold, covering U+44EC, U+68AB, U+7B65, and U+9FEB. The original and subsets use SIL OFL 1.1; see the adjacent license.

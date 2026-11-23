@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">三环类药物过量：口腔、意识和心律</title>
+<desc id="desc">示意可能受影响的身体系统，表现可重叠</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">三环类药物过量：口腔、意识和心律</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">示意可能受影响的身体系统，表现可重叠</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<circle cx="175" cy="190" r="75" fill="#ead7cd" stroke="#b49284" stroke-width="4"/><circle cx="150" cy="180" r="6" fill="#293e44" stroke="none" stroke-width="3"/><circle cx="200" cy="180" r="6" fill="#293e44" stroke="none" stroke-width="3"/><path d="M155 220 q20-12 40 0" fill="none" stroke="#af7072" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><g transform="translate(405 140) scale(0.8)"><path d="M0 20 C-50 -36 -94 2 -75 50 C-60 83 -25 106 0 130 C25 106 60 83 75 50 C94 2 50 -36 0 20Z" fill="#d99c98" stroke="#ae7475" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g><path d="M325 325 H360 l20-40 35 80 30-40 H500" fill="none" stroke="#af7072" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M555 135 Q650 95 725 155 Q745 220 690 258 Q635 280 575 245 Q540 225 555 135Z" fill="#e4cec3" stroke="#af988d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M575 175 q35-22 70 0 q35-22 70 0" fill="none" stroke="#b8978d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><line x1="175" y1="220" x2="50" y2="335" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="175" cy="220" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="58" y="343" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">口干、视物模糊</text><line x1="405" y1="200" x2="425" y2="90" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="405" cy="200" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="433" y="98" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">心律异常</text><line x1="650" y1="195" x2="575" y2="335" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="650" cy="195" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="583" y="343" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">嗜睡或意识混乱</text><text x="410" y="445" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">抽搐、昏迷或呼吸异常时立即急救</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">可能口干、视物模糊、嗜睡或意</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">识混乱。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">心律异常、抽搐或呼吸障碍需要</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">立即急救。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">提供药盒、可能接触时间和其他</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">用药情况。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">图中的心律线只是示意，不能据此诊断药物种类。</text>
+</g></svg>

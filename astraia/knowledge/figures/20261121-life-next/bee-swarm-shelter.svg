@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">蜂群袭扰：尽快离开并进入封闭空间</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">单只昆虫靠近与群体持续追袭的应对情形不同。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="430" y="175" width="240" height="230" rx="8" fill="#efe7d8" stroke="#a99b85" stroke-width="3"/>
+<path d="M 410 175 L 550 110 L 690 175 Z" fill="#c9b9a2" stroke="#8d806d" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="515" y="255" width="70" height="150" rx="8" fill="#d4e3df" stroke="#60816a" stroke-width="3"/>
+<line x1="585" y1="255" x2="585" y2="405" stroke="#263b3e" stroke-width="3"/>
+<circle cx="270" cy="260" r="14.399999999999999" fill="#f2ddce" stroke="#263b3e" stroke-width="2"/>
+<path d="M 270 274.4 L 270 312.8 M 270 286.4 L 249.6 300.8 M 270 286.4 L 290.4 300.8 M 270 312.8 L 253.2 341.6 M 270 312.8 L 286.8 341.6" fill="none" stroke="#263b3e" stroke-width="4.8" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="315" y1="320" x2="485" y2="320" stroke="#326f80" stroke-width="5"/>
+<path d="M 473.5 326.0 L 485 320 L 473.5 314.0" fill="none" stroke="#326f80" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="110" cy="180" rx="13" ry="7" fill="#e9c16e" stroke="#263b3e" stroke-width="2"/>
+<line x1="110" y1="174" x2="110" y2="186" stroke="#263b3e" stroke-width="2"/>
+<ellipse cx="145" cy="210" rx="13" ry="7" fill="#e9c16e" stroke="#263b3e" stroke-width="2"/>
+<line x1="145" y1="204" x2="145" y2="216" stroke="#263b3e" stroke-width="2"/>
+<ellipse cx="180" cy="160" rx="13" ry="7" fill="#e9c16e" stroke="#263b3e" stroke-width="2"/>
+<line x1="180" y1="154" x2="180" y2="166" stroke="#263b3e" stroke-width="2"/>
+<ellipse cx="200" cy="230" rx="13" ry="7" fill="#e9c16e" stroke="#263b3e" stroke-width="2"/>
+<line x1="200" y1="224" x2="200" y2="236" stroke="#263b3e" stroke-width="2"/>
+<ellipse cx="110" cy="265" rx="13" ry="7" fill="#e9c16e" stroke="#263b3e" stroke-width="2"/>
+<line x1="110" y1="259" x2="110" y2="271" stroke="#263b3e" stroke-width="2"/>
+<ellipse cx="165" cy="290" rx="13" ry="7" fill="#e9c16e" stroke="#263b3e" stroke-width="2"/>
+<line x1="165" y1="284" x2="165" y2="296" stroke="#263b3e" stroke-width="2"/>
+<text x="550" y="447" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">建筑或可关闭的车内</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">遭群体追袭时迅速远离</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">进入可以关闭的空间</text>
+<text x="755" y="259" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">不要跳入水中躲避</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">出现呼吸困难等症状立即求救</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">急救及严重过敏处理应结合当地急救指导。</text>
+</svg>

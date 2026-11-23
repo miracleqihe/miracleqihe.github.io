@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">腹泻和呕吐：看脱水迹象和能否喝水</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">持续腹泻、老人和婴幼儿更需要留意失水；症状轻重因人而异。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<circle cx="205" cy="215" r="62" fill="#f0ddce" stroke="#263b3e" stroke-width="3"/>
+<circle cx="183" cy="201" r="5" fill="#263b3e" stroke="#263b3e" stroke-width="2"/>
+<circle cx="227" cy="201" r="5" fill="#263b3e" stroke="#263b3e" stroke-width="2"/>
+<path d="M 175 244 Q 205 232 235 244" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="205" y="328" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">口干、口渴</text>
+<path d="M 455 180 Q 430 235 455 270 Q 480 235 455 180 Z" fill="#d4e9eb" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="455" y="328" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">尿量减少、尿色深</text>
+<path d="M 690 190 L 805 190 L 790 290 L 705 290 Z" fill="#e8f0e4" stroke="#60816a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="705" y1="224" x2="790" y2="224" stroke="#60816a" stroke-width="3"/>
+<text x="748" y="328" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">能清醒吞咽：少量频饮</text>
+<circle cx="1000" cy="232" r="52" fill="#f9e3d9" stroke="#a94d37" stroke-width="3"/>
+<text x="1000" y="241" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="39" font-weight="700" text-anchor="middle">!</text>
+<text x="1000" y="328" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">昏睡或不能喝：急救</text>
+<text x="600" y="443" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">口服补液盐按包装配制；意识不清者不要强行喂水。</text>
+<text x="600" y="484" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">持续呕吐、血便或尿量明显减少，应及时就医。</text>
+</svg>

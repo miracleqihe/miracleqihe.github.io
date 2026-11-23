@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">儿童骨骼：生长板与邻近骨组织</title>
+<desc id="desc">图示软骨生长板及可能的受伤区域</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">儿童骨骼：生长板与邻近骨组织</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">图示软骨生长板及可能的受伤区域</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<text x="220" y="78" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">生长板及周围骨组织</text><path d="M135 110 Q220 72 305 110 L300 180 Q220 211 140 180 Z" fill="#e6ddce" stroke="#b3a38f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M140 205 Q220 237 300 205 L280 355 Q220 390 160 355Z" fill="#e6ddce" stroke="#b3a38f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M140 183 Q220 212 300 183 L300 201 Q220 232 140 201Z" fill="#96b8ac" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/><line x1="230" y1="138" x2="364" y2="118" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="230" cy="138" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="372" y="126" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">骨骺</text><line x1="230" y1="197" x2="364" y2="203" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="230" cy="197" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="372" y="211" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">软骨生长板</text><line x1="230" y1="280" x2="364" y2="285" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="230" cy="280" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="372" y="293" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">干骺端</text><path d="M570 150 Q640 125 710 150 L700 195 Q640 217 580 195Z" fill="#e6ddce" stroke="#b3a38f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M580 221 Q640 238 700 221 L684 340 Q640 363 594 340Z" fill="#e6ddce" stroke="#b3a38f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M580 198 Q640 217 700 198 L700 216 Q640 238 580 216Z" fill="#96b8ac" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/><path d="M648 198 L636 210 L649 220 L639 239" fill="none" stroke="#af7072" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><text x="640" y="401" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">可能的损伤位置</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">生长板位于骨端与干骺端之间。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">局部疼痛或压痛时需要检查，即</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">使初次影像未见断线。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">医生可能按疑似生长板损伤处理</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">并安排复查。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">这不是 X 线影像，不能据图自行判读骨折类型。</text>
+</g></svg>

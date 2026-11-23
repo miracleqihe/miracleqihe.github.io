@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">木耳泡发：让干净、低温和及时加工连起来</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">隔天泡制的木耳或银耳按风险提示不再食用。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="80" y="235" width="240" height="130" rx="30" fill="#dceced" stroke="#326f80" stroke-width="3"/>
+<path d="M 80 255 Q 200 230 320 255" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 110 290 Q 111 255 138 263 Q 171 272 158 295 Q 135 311 110 290 Z" fill="#766c61" stroke="#263b3e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 163 320 Q 164 285 191 293 Q 224 302 211 325 Q 188 341 163 320 Z" fill="#766c61" stroke="#263b3e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 225 289 Q 226 254 253 262 Q 286 271 273 294 Q 250 310 225 289 Z" fill="#766c61" stroke="#263b3e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<text x="200" y="408" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">随泡随做</text>
+<line x1="335" y1="283" x2="405" y2="283" stroke="#326f80" stroke-width="4"/>
+<path d="M 393.5 289.0 L 405 283 L 393.5 277.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="425" y="176" width="238" height="190" rx="8" fill="#fff" stroke="#d0ded7" stroke-width="2"/>
+<text x="544" y="219" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">避免长时间温放</text>
+<circle cx="544" cy="282" r="43" fill="#f5f0dd" stroke="#bb8737" stroke-width="2"/>
+<line x1="544" y1="282" x2="544" y2="252" stroke="#263b3e" stroke-width="3"/>
+<line x1="544" y1="282" x2="568" y2="296" stroke="#263b3e" stroke-width="3"/>
+<line x1="679" y1="283" x2="750" y2="283" stroke="#326f80" stroke-width="4"/>
+<path d="M 738.5 289.0 L 750 283 L 738.5 277.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="766" y="171" width="336" height="198" rx="8" fill="#f2f7f5" stroke="#c6d6cf" stroke-width="2"/>
+<text x="790" y="211" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">已变质或存放失控</text>
+<text x="790" y="253" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">直接丢弃，勿试吃</text>
+<text x="790" y="296" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">米酵菌酸较耐热</text>
+<text x="790" y="336" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">再煮不能可靠去毒</text>
+<text x="600" y="485" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">共同食用后多人不适，记录食物与进食时间并及时就医。</text>
+</svg>

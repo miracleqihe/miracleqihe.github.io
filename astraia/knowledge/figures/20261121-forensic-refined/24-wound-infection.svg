@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">伤口变化：红肿、疼痛与就医</title>
+<desc id="desc">皮肤和深部变化为示意，颜色受肤色与光线影响</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">伤口变化：红肿、疼痛与就医</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">皮肤和深部变化为示意，颜色受肤色与光线影响</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<rect x="130" y="160" width="530" height="210" rx="8" fill="#efd9d1" stroke="#bd9e93" stroke-width="3"/><path d="M285 160 l28 60 25-25 24 53 30-88" fill="none" stroke="#a96d70" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path d="M200 220 Q330 135 465 220" fill="none" stroke="#c7817a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="330" cy="260" r="13" fill="#f6f0d9" stroke="#bda28b" stroke-width="3"/><circle cx="363" cy="282" r="10" fill="#f6f0d9" stroke="#bda28b" stroke-width="3"/><text x="400" y="416" font-size="26" fill="#596b6d" font-weight="400" text-anchor="middle">局部范围与症状可能逐渐变化</text><circle cx="205" cy="205" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/><circle cx="395" cy="198" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/><circle cx="480" cy="260" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">逐渐加重的疼痛、肿胀、发热或</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">流脓值得警惕。</text>
+<circle cx="985" cy="314" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">红肿范围扩大或全身发热、明显</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">不适时应及时就医。</text>
+<circle cx="985" cy="469" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">深刺伤、污染和动物咬伤需由医</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">护处理并评估破伤风。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">迅速恶化、意识混乱或呼吸急促时立即急救。</text>
+</g></svg>

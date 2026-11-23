@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820" role="img" aria-labelledby="title desc">
+<title id="title">毒理样本：血液、胃内容物与尿液</title>
+<desc id="desc">不同样本承载的物质、时间信息与解释条件不同</desc>
+<rect x="1" y="1" width="1598" height="818" rx="15" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="36" y="53" font-size="42" font-weight="700" fill="#263d43" text-anchor="start">毒理样本：血液、胃内容物与尿液</text>
+<text x="38" y="94" font-size="29" font-weight="400" fill="#5b6d70" text-anchor="start">不同样本承载的物质、时间信息与解释条件不同</text>
+<rect x="28" y="120" width="920" height="595" rx="12" fill="#f3f6f2" stroke="#dce6df" stroke-width="2"/>
+<g transform="translate(35 130)">
+<g transform="translate(270 75) scale(1.4)"><circle cx="0" cy="0" r="29" fill="#e8d5cc" stroke="#b5968a" stroke-width="3"/><path d="M -34 40 Q 0 29 34 40 L 43 132 L 28 153 L 22 267 L 5 267 L 0 158 L -5 267 L -22 267 L -28 153 L -43 132 Z" fill="#e8d5cc" stroke="#b5968a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M -34 48 L -69 145 M 34 48 L 69 145" fill="none" stroke="#b5968a" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/></g><path d="M246 240 q30-25 55 0 q-30 30-55 0Z" fill="none" stroke="#9a7554" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M246 335 q30-20 55 0 q-30 30-55 0Z" fill="none" stroke="#608994" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="270" cy="183" r="18" fill="#c77b7d" stroke="none" stroke-width="3"/><line x1="300" y1="183" x2="505" y2="150" stroke="#a66b70" stroke-width="4" stroke-linecap="round"/><path d="M 493.0 159.0 L 505 150 L 490.8 145.3" fill="none" stroke="#a66b70" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><line x1="300" y1="250" x2="505" y2="278" stroke="#9a7554" stroke-width="4" stroke-linecap="round"/><path d="M 490.9 283.1 L 505 278 L 492.8 269.3" fill="none" stroke="#9a7554" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><line x1="300" y1="335" x2="505" y2="406" stroke="#608994" stroke-width="4" stroke-linecap="round"/><path d="M 490.2 408.2 L 505 406 L 494.7 395.1" fill="none" stroke="#608994" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><rect x="510" y="111" width="150" height="75" rx="2" fill="#f8f3ec" stroke="#bca58f" stroke-width="5"/><rect x="510" y="239" width="150" height="75" rx="2" fill="#f8f3ec" stroke="#bca58f" stroke-width="5"/><rect x="510" y="367" width="150" height="75" rx="2" fill="#f8f3ec" stroke="#bca58f" stroke-width="5"/><text x="585" y="158" font-size="27" font-weight="700" fill="#263d43" text-anchor="middle">血液</text><text x="585" y="286" font-size="27" font-weight="700" fill="#263d43" text-anchor="middle">胃内容物</text><text x="585" y="414" font-size="27" font-weight="700" fill="#263d43" text-anchor="middle">尿液</text><circle cx="700" cy="150" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="700" y="158" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">1</text><circle cx="700" cy="278" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="700" y="286" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">2</text><circle cx="700" cy="406" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="700" y="414" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">3</text>
+</g>
+<line x1="971" y1="132" x2="971" y2="706" stroke="#e3e8e2" stroke-width="2" stroke-linecap="round"/>
+<text x="1005" y="164" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">① 血液</text>
+<text x="1005" y="204" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">反映采样时血液中的检测结果，还要</text>
+<text x="1005" y="241" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">看采样位置和时间。</text>
+<text x="1005" y="299" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">② 胃内容物</text>
+<text x="1005" y="339" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">显示胃中是否有某种物质；残留量不</text>
+<text x="1005" y="376" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">等于已经吸收的量。</text>
+<text x="1005" y="434" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">③ 尿液</text>
+<text x="1005" y="474" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">可能反映此前一段时间的暴露或代</text>
+<text x="1005" y="511" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">谢。</text>
+<text x="1005" y="569" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">④ 比较</text>
+<text x="1005" y="609" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">全血、血清、尿液及其他样本不能简</text>
+<text x="1005" y="646" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">单互换数值。</text>
+<rect x="28" y="735" width="1544" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="45" y="773" font-size="29" font-weight="400" fill="#785334" text-anchor="start">采样、保存、方法与临床经过都会影响结果解释。</text>
+</g></svg>

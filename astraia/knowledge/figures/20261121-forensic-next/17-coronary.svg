@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">冠状动脉与心肌供血</title>
+<desc id="desc">心脏表面的血管分支与其供应的心肌</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">冠状动脉与心肌供血</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">心脏表面的血管分支与其供应的心肌</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<g transform="translate(275 120) scale(1.35)"><path d="M0 20 C-50 -36 -94 2 -75 50 C-60 83 -25 106 0 130 C25 106 60 83 75 50 C94 2 50 -36 0 20Z" fill="#d99c98" stroke="#ae7475" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g><path d="M275 180 Q230 210 210 267 M275 180 Q320 205 350 252 M255 213 Q270 250 250 300" fill="none" stroke="#b26662" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><circle cx="226" cy="229" r="13" fill="#a7835a" stroke="none" stroke-width="3"/><line x1="226" y1="229" x2="438" y2="135" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="226" cy="229" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="446" y="143" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">冠状动脉分支</text><line x1="315" y1="270" x2="438" y2="235" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="315" cy="270" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="446" y="243" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">心肌</text><text x="438" y="325" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">胸部压迫感、气短</text><text x="438" y="377" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">或突然倒地需急救</text><text x="290" y="454" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">心脏表面血管供血示意</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">冠状动脉病变可影响心肌供血。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">胸部压迫感、气短或其他不适需</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">及时医疗评估。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">突然倒地且无正常呼吸时按调度</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">指导复苏。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">猝倒原因多样，心脏病变需结合完整检查判断。</text>
+</g></svg>

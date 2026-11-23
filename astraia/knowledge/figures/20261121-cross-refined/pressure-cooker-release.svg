@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">压力锅开盖：先等压力完全释放</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">烹调时保持排气装置畅通；不同锅型以说明书和指示装置为准。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 100 220 L 430 220 L 410 370 L 120 370 Z" fill="#e5e9e5" stroke="#8c9b95" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 90 220 Q 265 170 440 220 Z" fill="#d3dad6" stroke="#8c9b95" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="250" y="176" width="30" height="29" rx="4" fill="#bfcac5" stroke="#8c9b95" stroke-width="2"/>
+<path d="M 265 160 Q 240 137 262 115 M 285 160 Q 305 138 286 115" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="500" y1="285" x2="595" y2="285" stroke="#326f80" stroke-width="4"/>
+<path d="M 583.5 291.0 L 595 285 L 583.5 279.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="635" y="190" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">关火，按说明降压</text>
+<text x="635" y="240" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">确认压力指示降回安全位置</text>
+<text x="635" y="290" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">不要强行撬盖或堵住排气口</text>
+<text x="635" y="340" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">蒸汽方向避开手和面部</text>
+<text x="600" y="478" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">故障、堵塞或部件损坏时停止使用并联系维修。</text>
+</svg>

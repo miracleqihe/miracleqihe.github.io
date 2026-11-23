@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">识别突发中风：观察三处，立即呼救</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">突然发生一项或多项异常，即呼叫当地急救电话，记下最后正常时间。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="55" y="120" width="245" height="330" rx="8" fill="#fff" stroke="#d3e0d9" stroke-width="2"/>
+<rect x="330" y="120" width="245" height="330" rx="8" fill="#fff" stroke="#d3e0d9" stroke-width="2"/>
+<rect x="605" y="120" width="245" height="330" rx="8" fill="#fff" stroke="#d3e0d9" stroke-width="2"/>
+<rect x="880" y="120" width="245" height="330" rx="8" fill="#fff" stroke="#d3e0d9" stroke-width="2"/>
+<circle cx="178" cy="205" r="60" fill="#f3dfcc" stroke="#263b3e" stroke-width="3"/>
+<circle cx="158" cy="192" r="4" fill="#263b3e" stroke="#263b3e" stroke-width="2"/>
+<circle cx="198" cy="192" r="4" fill="#263b3e" stroke="#263b3e" stroke-width="2"/>
+<path d="M 151 224 Q 173 234 205 220" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="178" y="300" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="27" font-weight="700" text-anchor="middle">面部</text>
+<text x="178" y="337" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">微笑时一侧下垂</text>
+<circle cx="453" cy="177" r="29" fill="#f3dfcc" stroke="#263b3e" stroke-width="3"/>
+<path d="M 453 208 L 453 280 M 453 224 L 393 206 M 453 224 L 508 253" fill="none" stroke="#263b3e" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="523" y1="220" x2="523" y2="266" stroke="#a94d37" stroke-width="4"/>
+<path d="M 517.0 254.5 L 523 266 L 529.0 254.5" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="453" y="327" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="27" font-weight="700" text-anchor="middle">双臂</text>
+<text x="453" y="364" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">抬起时一侧下落</text>
+<path d="M 669 161 Q 669 139 692 139 L 805 139 Q 830 139 830 164 L 830 218 Q 830 239 806 239 L 760 239 L 739 259 L 740 239 L 693 239 Q 669 239 669 216 Z" fill="#eaf3f1" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="749" y="198" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">说一句话</text>
+<text x="728" y="327" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="27" font-weight="700" text-anchor="middle">言语</text>
+<text x="728" y="364" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">含糊、说不出</text>
+<circle cx="1003" cy="195" r="58" fill="#f7f1df" stroke="#bb8737" stroke-width="3"/>
+<line x1="1003" y1="195" x2="1003" y2="161" stroke="#263b3e" stroke-width="4"/>
+<line x1="1003" y1="195" x2="1028" y2="211" stroke="#263b3e" stroke-width="4"/>
+<text x="1003" y="300" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="27" font-weight="700" text-anchor="middle">时间</text>
+<text x="1003" y="337" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">立即呼叫急救</text>
+<text x="1003" y="373" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">勿自行驾车</text>
+<text x="600" y="488" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">视力、平衡突变也应警觉；症状消退后仍需立即就医。</text>
+</svg>

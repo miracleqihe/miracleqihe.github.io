@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">复苏后的胸部损伤如何记录</title>
+<desc id="desc">胸骨与肋骨的简化示意，不是完整急救操作图</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">复苏后的胸部损伤如何记录</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">胸骨与肋骨的简化示意，不是完整急救操作图</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M260 100 Q200 115 190 220 L215 375 Q300 405 385 375 L410 220 Q400 115 340 100 Z" fill="#ead7cd" stroke="#b49284" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><line x1="300" y1="160" x2="300" y2="310" stroke="#efe6da" stroke-width="16" stroke-linecap="round"/><path d="M300 165 Q255 153 220 183 M300 165 Q345 153 380 183" fill="none" stroke="#f3ebe1" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M300 195 Q255 183 220 213 M300 195 Q345 183 380 213" fill="none" stroke="#f3ebe1" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M300 225 Q255 213 220 243 M300 225 Q345 213 380 243" fill="none" stroke="#f3ebe1" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M300 255 Q255 243 220 273 M300 255 Q345 243 380 273" fill="none" stroke="#f3ebe1" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="M300 285 Q255 273 220 303 M300 285 Q345 273 380 303" fill="none" stroke="#f3ebe1" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><line x1="300" y1="65" x2="300" y2="125" stroke="#a96d70" stroke-width="4" stroke-linecap="round"/><path d="M 293.1 111.7 L 300 125 L 306.9 111.7" fill="none" stroke="#a96d70" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="470" y="176" font-size="27" fill="#293e44" font-weight="400" text-anchor="start">胸骨</text><text x="470" y="234" font-size="27" fill="#293e44" font-weight="400" text-anchor="start">肋骨</text><text x="470" y="292" font-size="27" fill="#293e44" font-weight="400" text-anchor="start">胸部按压</text><line x1="320" y1="180" x2="455" y2="170" stroke="#a96d70" stroke-width="3" stroke-linecap="round"/><line x1="360" y1="229" x2="455" y2="228" stroke="#a96d70" stroke-width="3" stroke-linecap="round"/><circle cx="300" cy="98" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/><circle cx="398" cy="250" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">胸外按压后可能出现胸前擦伤或</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">肋骨、胸骨骨折。</text>
+<circle cx="985" cy="314" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">外表没有明显痕迹也可能有内部</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">损伤。</text>
+<circle cx="985" cy="469" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">记录抢救时间、按压及其他操</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">作，供医疗和法医判断。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">无反应且无正常呼吸时立即按调度员指导复苏，不因担心骨折延误。</text>
+</g></svg>

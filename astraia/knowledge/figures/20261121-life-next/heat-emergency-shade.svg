@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">高温下出现意识变化：先求助并降温</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">意识混乱、昏迷或抽搐可提示危重情况。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 65 180 L 205 120 L 355 180 Z" fill="#c8dfd1" stroke="#60816a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="205" y1="180" x2="205" y2="385" stroke="#263b3e" stroke-width="5"/>
+<circle cx="305" cy="275" r="26" fill="#f2ddce" stroke="#263b3e" stroke-width="2"/>
+<path d="M 330 292 Q 385 295 445 320 L 430 345 L 330 326 Z" fill="#a9c5bd" stroke="#263b3e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="350" y="270" width="80" height="25" rx="8" fill="#cde5ec" stroke="#326f80" stroke-width="2"/>
+<line x1="500" y1="220" x2="430" y2="275" stroke="#326f80" stroke-width="3"/>
+<path d="M 435.4 263.2 L 430 275 L 442.8 272.6" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="500" y="205" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="700" text-anchor="start">遮阳并帮助散热</text>
+<text x="755" y="175" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">立即呼叫当地急救</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">转移到阴凉通风处</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">以安全方式帮助身体降温</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">意识不清者不要强行喂水</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">多人照护时持续观察呼吸，遵从急救调度指导。</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">胸腹受压：胸廓活动与通气</title>
+<desc id="desc">肋骨、肺和胸廓活动的正面示意</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">胸腹受压：胸廓活动与通气</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">肋骨、肺和胸廓活动的正面示意</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M210 85 Q135 115 135 220 L155 375 Q260 405 365 375 L385 220 Q385 115 310 85Z" fill="#ead7cd" stroke="#b49284" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><g transform="translate(260 190) scale(1)"><path d="M0 5 C-32 -17 -62 4 -70 43 Q-82 105 -21 108 L0 85 M0 5 C32 -17 62 4 70 43 Q82 105 21 108 L0 85" fill="#e4c5bf" stroke="#b68b83" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -65 V43 M0 23 L-38 58 M0 23 L38 58" fill="none" stroke="#668f98" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></g><path d="M260 155 V345" fill="none" stroke="#e8ded0" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><path d="M260 170 Q220 160 175 190 M260 170 Q300 160 345 190" fill="none" stroke="#f7eee2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path d="M260 210 Q220 200 175 230 M260 210 Q300 200 345 230" fill="none" stroke="#f7eee2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path d="M260 250 Q220 240 175 270 M260 250 Q300 240 345 270" fill="none" stroke="#f7eee2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path d="M260 290 Q220 280 175 310 M260 290 Q300 280 345 310" fill="none" stroke="#f7eee2" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><line x1="460" y1="200" x2="405" y2="200" stroke="#af7072" stroke-width="4" stroke-linecap="round"/><path d="M 416.4 193.8 L 405 200 L 416.4 206.2" fill="none" stroke="#af7072" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><line x1="60" y1="200" x2="115" y2="200" stroke="#af7072" stroke-width="4" stroke-linecap="round"/><path d="M 103.6 206.2 L 115 200 L 103.6 193.8" fill="none" stroke="#af7072" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><line x1="312" y1="220" x2="480" y2="290" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="312" cy="220" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="488" y="298" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">胸廓与肺</text><text x="480" y="370" font-size="25" fill="#596b6d" font-weight="400" text-anchor="start">胸腹活动受限可影响通气</text><text x="260" y="445" font-size="25" fill="#596b6d" font-weight="400" text-anchor="middle">胸腔正面示意</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">胸腹受压可能限制胸廓运动和呼</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">吸。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">喘息、说话费力、胸痛或意识混</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">乱需尽快救助。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">环境仍危险时通知专业救援，避</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">免盲目进入。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">无正常呼吸时按急救调度指导复苏。</text>
+</g></svg>

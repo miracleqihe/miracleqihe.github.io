@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">洪水泡过的商业金属罐：筛选后清洗</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">完整金属罐可依当地公共卫生指引处理；化学污染需另询卫生部门。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<ellipse cx="95" cy="225" rx="46" ry="15" fill="#edf2ef" stroke="#263b3e" stroke-width="2"/>
+<rect x="49" y="225" width="92" height="104" rx="2" fill="#edf2ef" stroke="#263b3e" stroke-width="2"/>
+<ellipse cx="95" cy="329" rx="46" ry="15" fill="#d8e2dc" stroke="#263b3e" stroke-width="2"/>
+<ellipse cx="320" cy="225" rx="46" ry="15" fill="#edf2ef" stroke="#263b3e" stroke-width="2"/>
+<rect x="274" y="225" width="92" height="104" rx="2" fill="#edf2ef" stroke="#263b3e" stroke-width="2"/>
+<ellipse cx="320" cy="329" rx="46" ry="15" fill="#d8e2dc" stroke="#263b3e" stroke-width="2"/>
+<ellipse cx="545" cy="225" rx="46" ry="15" fill="#edf2ef" stroke="#263b3e" stroke-width="2"/>
+<rect x="499" y="225" width="92" height="104" rx="2" fill="#edf2ef" stroke="#263b3e" stroke-width="2"/>
+<ellipse cx="545" cy="329" rx="46" ry="15" fill="#d8e2dc" stroke="#263b3e" stroke-width="2"/>
+<ellipse cx="770" cy="225" rx="46" ry="15" fill="#edf2ef" stroke="#263b3e" stroke-width="2"/>
+<rect x="724" y="225" width="92" height="104" rx="2" fill="#edf2ef" stroke="#263b3e" stroke-width="2"/>
+<ellipse cx="770" cy="329" rx="46" ry="15" fill="#d8e2dc" stroke="#263b3e" stroke-width="2"/>
+<ellipse cx="995" cy="225" rx="46" ry="15" fill="#edf2ef" stroke="#263b3e" stroke-width="2"/>
+<rect x="949" y="225" width="92" height="104" rx="2" fill="#edf2ef" stroke="#263b3e" stroke-width="2"/>
+<ellipse cx="995" cy="329" rx="46" ry="15" fill="#d8e2dc" stroke="#263b3e" stroke-width="2"/>
+<path d="M 70 273 L 92 245 L 115 278" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="95" y="382" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="middle">检查封口</text>
+<path d="M 282 256 L 355 256 M 285 272 L 348 272" fill="none" stroke="#bb8737" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="320" y="382" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="middle">去标签洗净</text>
+<path d="M 510 206 Q 545 171 580 206" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="545" y="382" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="middle">安全水冲净</text>
+<path d="M 718 208 L 718 348 L 822 348 L 822 208 M 712 208 L 828 208" fill="none" stroke="#263b3e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="721" y1="218" x2="819" y2="218" stroke="#326f80" stroke-width="3"/>
+<text x="770" y="372" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="700" text-anchor="middle">整罐浸没煮沸</text>
+<text x="770" y="400" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="middle">沸后再煮 2 分钟</text>
+<rect x="958" y="245" width="74" height="43" rx="8" fill="#f5e7bd" stroke="#bb8737" stroke-width="2"/>
+<text x="995" y="274" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="18" font-weight="400" text-anchor="middle">日期</text>
+<text x="995" y="382" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="middle">晾干并标记</text>
+<line x1="162" y1="277" x2="253" y2="277" stroke="#326f80" stroke-width="3"/>
+<path d="M 241.5 283.0 L 253 277 L 241.5 271.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="387" y1="277" x2="478" y2="277" stroke="#326f80" stroke-width="3"/>
+<path d="M 466.5 283.0 L 478 277 L 466.5 271.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="612" y1="277" x2="703" y2="277" stroke="#326f80" stroke-width="3"/>
+<path d="M 691.5 283.0 L 703 277 L 691.5 271.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="837" y1="277" x2="928" y2="277" stroke="#326f80" stroke-width="3"/>
+<path d="M 916.5 283.0 L 928 277 L 916.5 271.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="600" y="438" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">鼓胀、破损罐和被洪水浸过的螺旋盖瓶，应丢弃。</text>
+<text x="600" y="485" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">自然晾干至少 1 小时；重新写上内容与有效期，尽早使用。</text>
+</svg>

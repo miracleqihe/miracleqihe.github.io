@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">冰箱收纳：控温、密封、生熟分开</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">冰箱温度需用温度计核对；食品保存时间随种类而异。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="100" y="120" width="445" height="300" rx="15" fill="#edf4f3" stroke="#829c9b" stroke-width="3"/>
+<line x1="125" y1="210" x2="520" y2="210" stroke="#a5bbb9" stroke-width="3"/>
+<line x1="125" y1="300" x2="520" y2="300" stroke="#a5bbb9" stroke-width="3"/>
+<rect x="150" y="145" width="150" height="47" rx="8" fill="#fff" stroke="#9eafa9" stroke-width="2"/>
+<text x="225" y="176" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="middle">熟食密封</text>
+<rect x="350" y="145" width="125" height="47" rx="8" fill="#fff" stroke="#9eafa9" stroke-width="2"/>
+<text x="412" y="176" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">饮品</text>
+<rect x="150" y="235" width="150" height="47" rx="8" fill="#f6edda" stroke="#c1ae8d" stroke-width="2"/>
+<text x="225" y="266" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">果蔬</text>
+<rect x="150" y="325" width="250" height="60" rx="8" fill="#efd9d2" stroke="#be8c7d" stroke-width="2"/>
+<text x="275" y="363" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="middle">生肉密封并置底层</text>
+<rect x="460" y="325" width="50" height="60" rx="8" fill="#fff" stroke="#9eafa9" stroke-width="2"/>
+<text x="485" y="362" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">°C</text>
+<line x1="570" y1="170" x2="660" y2="170" stroke="#326f80" stroke-width="3"/>
+<path d="M 648.5 176.0 L 660 170 L 648.5 164.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="682" y="178" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="start">冷藏不高于 4°C</text>
+<line x1="570" y1="250" x2="660" y2="250" stroke="#326f80" stroke-width="3"/>
+<path d="M 648.5 256.0 L 660 250 L 648.5 244.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="682" y="258" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">生食汁液不能滴到熟食</text>
+<line x1="570" y1="330" x2="660" y2="330" stroke="#326f80" stroke-width="3"/>
+<path d="M 648.5 336.0 L 660 330 L 648.5 324.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="682" y="338" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">冷冻室建议 −18°C 或更低</text>
+<text x="600" y="483" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">断电后按食物种类、受热时间和温度判断；不能仅凭气味认定安全。</text>
+</svg>

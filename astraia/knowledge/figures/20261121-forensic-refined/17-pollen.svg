@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">花粉和孢子：形状、表面与组合</title>
+<desc id="desc">两个颗粒为概念示意，不对应具体物种</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">花粉和孢子：形状、表面与组合</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">两个颗粒为概念示意，不对应具体物种</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<circle cx="240" cy="245" r="72" fill="#e7d19c" stroke="#b99d62" stroke-width="5"/><circle cx="240" cy="245" r="41" fill="none" stroke="#b99d62" stroke-width="4"/><line x1="240.0" y1="173.75" x2="240" y2="150" stroke="#b99d62" stroke-width="4" stroke-linecap="round"/><line x1="240.0" y1="316.25" x2="240" y2="340" stroke="#b99d62" stroke-width="4" stroke-linecap="round"/><line x1="168.75" y1="245.0" x2="145" y2="245" stroke="#b99d62" stroke-width="4" stroke-linecap="round"/><line x1="311.25" y1="245.0" x2="335" y2="245" stroke="#b99d62" stroke-width="4" stroke-linecap="round"/><line x1="189.75" y1="194.75" x2="173" y2="178" stroke="#b99d62" stroke-width="4" stroke-linecap="round"/><line x1="290.25" y1="194.75" x2="307" y2="178" stroke="#b99d62" stroke-width="4" stroke-linecap="round"/><line x1="189.75" y1="295.25" x2="173" y2="312" stroke="#b99d62" stroke-width="4" stroke-linecap="round"/><line x1="290.25" y1="295.25" x2="307" y2="312" stroke="#b99d62" stroke-width="4" stroke-linecap="round"/><ellipse cx="550" cy="245" rx="95" ry="62" fill="#d4e5d1" stroke="#8caf96" stroke-width="5"/><path d="M475 244 q75-30 150 0 M475 259 q75-30 150 0" fill="none" stroke="#8caf96" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="240" y="405" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">表面纹饰</text><text x="550" y="405" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">形状与沟纹</text><circle cx="130" cy="142" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/><circle cx="658" cy="150" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">显微比较可观察颗粒的大小、轮</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">廓与表面结构。</text>
+<circle cx="985" cy="314" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">多个颗粒的组合可提供环境比较</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">线索。</text>
+<circle cx="985" cy="469" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">风、水和物品接触均可能造成转</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">移。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">颗粒形态和背景因物种、地点与季节而异，不能只凭一粒确定去向。</text>
+</g></svg>

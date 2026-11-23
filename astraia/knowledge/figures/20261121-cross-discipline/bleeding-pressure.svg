@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">严重外出血：持续直接压迫</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">先呼救；如条件允许，使用手套或屏障，避免直接接触血液。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="60" y="140" width="675" height="245" rx="95" fill="#f5e4d5" stroke="#dec3b1" stroke-width="2"/>
+<path d="M 360 214 Q 396 190 430 215 Q 396 235 360 214 Z" fill="#a94339" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="340" y="192" width="110" height="46" rx="6" fill="#fdfcf7" stroke="#7e8a83" stroke-width="2"/>
+<path d="M 337 154 Q 348 136 368 140 L 436 148 Q 452 151 458 169 L 451 191 L 344 191 Z" fill="#e8bea4" stroke="#9b7764" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="396" y1="116" x2="396" y2="140" stroke="#a94d37" stroke-width="5"/>
+<path d="M 390.0 128.5 L 396 140 L 402.0 128.5" fill="none" stroke="#a94d37" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<text x="120" y="421" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="400" text-anchor="start">纱布或干净布直接压住伤口，持续用力</text>
+<rect x="780" y="130" width="355" height="280" rx="8" fill="#fff" stroke="#c6d6cf" stroke-width="2"/>
+<text x="957" y="168" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="26" font-weight="700" text-anchor="middle">有嵌入物时</text>
+<path d="M 910 320 L 961 218 L 990 320 Z" fill="#c8c9c4" stroke="#263b3e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 845 320 Q 882 300 919 320 M 983 320 Q 1020 300 1060 320" fill="none" stroke="#a94d37" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="840" y1="272" x2="897" y2="307" stroke="#326f80" stroke-width="4"/>
+<path d="M 884.0 306.1 L 897 307 L 890.3 295.9" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="1070" y1="272" x2="1000" y2="307" stroke="#326f80" stroke-width="4"/>
+<path d="M 1007.6 296.5 L 1000 307 L 1013.0 307.2" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="957" y="365" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">不要拔出；在异物周围施压</text>
+<text x="600" y="488" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">持续严重出血需立即求助；按现场急救培训使用止血带。</text>
+</svg>

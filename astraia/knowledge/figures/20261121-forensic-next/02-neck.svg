@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">颈部受压后：声音、呼吸与吞咽</title>
+<desc id="desc">侧面结构只示意位置，不展示致伤方式</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">颈部受压后：声音、呼吸与吞咽</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">侧面结构只示意位置，不展示致伤方式</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M185 80 Q110 79 108 155 Q100 185 85 195 L110 202 Q112 235 160 245 L165 386 L280 386 L280 220 Q281 110 220 82Z" fill="#ead7cd" stroke="#b49284" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M123 185 Q160 171 195 184 M123 208 Q160 216 195 208" fill="none" stroke="#aa8d82" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M196 220 Q213 199 230 220 L225 252 H201Z" fill="#d6b8ac" stroke="#9e8077" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M202 253 V370 M225 253 V370" fill="none" stroke="#668f98" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M245 228 Q258 285 250 370" fill="none" stroke="#b4937b" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><line x1="210" y1="235" x2="360" y2="105" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="210" cy="235" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="368" y="113" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">喉与声音</text><line x1="215" y1="305" x2="360" y2="205" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="215" cy="305" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="368" y="213" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">气管与呼吸</text><line x1="253" y1="292" x2="360" y2="305" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="253" cy="292" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="368" y="313" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">食管与吞咽</text><text x="390" y="412" font-size="25" fill="#596b6d" font-weight="400" text-anchor="start">症状可以在受压后出现或加重</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">声音嘶哑、吞咽困难或呼吸费力</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">可能出现。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">头晕、意识改变或一侧无力也需</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">及时报告。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">即使外表无明显痕迹，也应尽快</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">医疗评估。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">呼吸困难、明显声变、昏厥或肢体无力时立即急救。</text>
+</g></svg>

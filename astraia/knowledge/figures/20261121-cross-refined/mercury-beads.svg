@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">水银体温计破碎：别让小汞珠散得更远</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">立即带孩子和宠物离开，打开通向室外的窗户，联系当地环保或中毒咨询。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 70 340 L 700 340" fill="none" stroke="#a7b5ae" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="230" cy="329" r="13" fill="#c6cdd0" stroke="#657b80" stroke-width="2"/>
+<circle cx="260" cy="332" r="8" fill="#c6cdd0" stroke="#657b80" stroke-width="2"/>
+<circle cx="285" cy="329" r="11" fill="#c6cdd0" stroke="#657b80" stroke-width="2"/>
+<circle cx="310" cy="333" r="6" fill="#c6cdd0" stroke="#657b80" stroke-width="2"/>
+<circle cx="336" cy="331" r="9" fill="#c6cdd0" stroke="#657b80" stroke-width="2"/>
+<path d="M 390 250 L 425 250 L 425 336 L 390 336 Z" fill="#f5e5bf" stroke="#b19a78" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="380" y1="295" x2="325" y2="326" stroke="#326f80" stroke-width="4"/>
+<path d="M 332.1 315.1 L 325 326 L 338.0 325.6" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="330" y="410" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">少量汞珠可用硬纸片轻推聚拢</text>
+<rect x="800" y="190" width="115" height="165" rx="8" fill="#e8efed" stroke="#819b94" stroke-width="3"/>
+<rect x="810" y="167" width="95" height="25" rx="3" fill="#d8e2df" stroke="#819b94" stroke-width="2"/>
+<text x="857" y="285" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">密封</text>
+<text x="980" y="195" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">不要吸尘</text>
+<text x="980" y="245" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">不要扫拭</text>
+<text x="980" y="295" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">按当地规定处理</text>
+<text x="600" y="479" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">若进入地毯、裂缝或污染范围不明，请寻求专业指导。</text>
+</svg>

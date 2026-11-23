@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">卫星求救器：争取开阔天空并确认信息</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">设备功能、覆盖范围和是否需要订阅因型号而异。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 50 385 L 220 235 L 350 360 L 500 205 L 705 385 Z" fill="#d6e5d8" stroke="#60816a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="350" cy="300" r="12" fill="#f2ddce" stroke="#263b3e" stroke-width="2"/>
+<path d="M 350 312 L 350 344 M 350 322 L 333 334 M 350 322 L 367 334 M 350 344 L 336 368 M 350 344 L 364 368" fill="none" stroke="#263b3e" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="385" y="320" width="38" height="57" rx="4" fill="#f8eee0" stroke="#bb8737" stroke-width="2"/>
+<text x="404" y="352" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="12" font-weight="700" text-anchor="middle">SOS</text>
+<rect x="275" y="140" width="100" height="35" rx="3" fill="#e6e9ea" stroke="#263b3e" stroke-width="2"/>
+<rect x="245" y="150" width="30" height="17" rx="0" fill="#b5d3dc" stroke="#326f80" stroke-width="2"/>
+<rect x="375" y="150" width="30" height="17" rx="0" fill="#b5d3dc" stroke="#326f80" stroke-width="2"/>
+<path d="M 405 314 Q 450 240 370 177" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 7"/>
+<path d="M 130 170 Q 165 190 180 220" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="5 5"/>
+<text x="117" y="155" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="start">遮挡可能削弱信号</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">出发前测试与登记设备</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">尽量在安全的开阔处发出</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">说明位置、伤情和人数</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">保持设备开启以便回复</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">紧急发报后遵从设备提示和救援指挥，注意环境安全。</text>
+</svg>

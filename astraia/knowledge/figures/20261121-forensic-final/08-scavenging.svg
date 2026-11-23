@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">动物活动：表面变化与环境线索</title>
+<desc id="desc">缺损的位置、边缘与周围环境一起记录</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">动物活动：表面变化与环境线索</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">缺损的位置、边缘与周围环境一起记录</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M70 370 H760" fill="none" stroke="#a7835a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M130 320 Q200 280 280 305 Q330 295 370 320 L520 335 Q580 320 645 340" fill="none" stroke="#bba89a" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/><circle cx="120" cy="318" r="24" fill="#cbb6a8" stroke="none" stroke-width="3"/><path d="M275 300 q7-18 14 0 q7-18 14 0 q7-18 14 0" fill="none" stroke="#af7072" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M500 328 q12-10 24 0 q12 10 24 0 q12-10 24 0" fill="none" stroke="#a7835a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M620 182 q25-26 50 0 q-25 18-50 0 M645 182 v43 M630 225 h30" fill="none" stroke="#719481" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><line x1="300" y1="299" x2="350" y2="130" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="300" cy="299" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="358" y="138" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">表浅缺损或痕迹</text><line x1="532" y1="329" x2="440" y2="245" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="532" cy="329" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="448" y="253" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">位置与周边环境</text><line x1="645" y1="190" x2="660" y2="155" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="645" cy="190" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="668" y="163" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">动物活动线索</text><text x="400" y="445" font-size="23" fill="#596b6d" font-weight="400" text-anchor="middle">记录形态和环境，不能单凭外观断定动物种类</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">动物或昆虫活动可能改变遗体表</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">面及周边物品。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">浅表缺损可能与其他损伤形态相</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">似。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">形态、环境与其他记录需结合专</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">业检验。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">不能只凭一种表面图案确定动物种类或形成时刻。</text>
+</g></svg>

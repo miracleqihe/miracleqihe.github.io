@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">糖尿病酮症酸中毒：多系统信号</title>
+<desc id="desc">口渴、腹部不适及呼吸变化可能并存</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">糖尿病酮症酸中毒：多系统信号</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">口渴、腹部不适及呼吸变化可能并存</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<g transform="translate(230 105) scale(1.05)"><circle cx="0" cy="0" r="29" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M-34 42 Q0 29 34 42 L44 145 L29 160 L23 278 L7 278 L0 168 L-7 278 L-23 278 L-29 160 L-44 145 Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-35 52 L-69 150 M35 52 L69 150" fill="none" stroke="#b49284" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/></g><circle cx="230" cy="185" r="18" fill="#a7835a" stroke="none" stroke-width="3"/><g transform="translate(230 210) scale(0.5)"><path d="M0 5 C-32 -17 -62 4 -70 43 Q-82 105 -21 108 L0 85 M0 5 C32 -17 62 4 70 43 Q82 105 21 108 L0 85" fill="#e4c5bf" stroke="#b68b83" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -65 V43 M0 23 L-38 58 M0 23 L38 58" fill="none" stroke="#668f98" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></g><path d="M205 290 q25-15 50 0" fill="none" stroke="#af7072" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><line x1="230" y1="110" x2="405" y2="110" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="230" cy="110" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="413" y="118" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">口渴、疲倦</text><line x1="230" y1="220" x2="405" y2="205" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="230" cy="220" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="413" y="213" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">深而快的呼吸</text><line x1="230" y1="285" x2="405" y2="300" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="230" cy="285" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="413" y="308" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">恶心或腹痛</text><text x="405" y="397" font-size="25" fill="#596b6d" font-weight="400" text-anchor="start">胰岛素不足可伴酮体累积</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">可有多尿、口渴、疲倦、恶心和</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">腹痛。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">呼吸深快、嗜睡或持续呕吐需要</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">紧急评估。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">可发生在尚未确诊糖尿病的人。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">呼气气味并非必有，不能靠气味单独诊断。</text>
+</g></svg>

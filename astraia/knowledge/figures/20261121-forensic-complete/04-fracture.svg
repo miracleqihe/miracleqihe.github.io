@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">骨折与表面伤口</title>
+<desc id="desc">皮肤、软组织与骨折处的相对关系</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">骨折与表面伤口</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">皮肤、软组织与骨折处的相对关系</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M50 150 Q220 120 400 150 V360 Q220 389 50 360Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M76 245 H195 l18-18 19 30 18-12 H372" fill="none" stroke="#fff9e9" stroke-width="35" stroke-linecap="round" stroke-linejoin="round"/><path d="M76 245 H195 l18-18 19 30 18-12 H372" fill="none" stroke="#bba895" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M442 150 Q612 120 792 150 V360 Q612 389 442 360Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M468 245 H587 l18-18 19 30 18-12 H764" fill="none" stroke="#fff9e9" stroke-width="35" stroke-linecap="round" stroke-linejoin="round"/><path d="M468 245 H587 l18-18 19 30 18-12 H764" fill="none" stroke="#bba895" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M442 150 H570 l12 28 15-38 18 22 18-12 H792" fill="none" stroke="#af7072" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M600 161 L602 224" fill="none" stroke="#af7072" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><text x="226" y="104" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">闭合性：表面完整</text><text x="620" y="104" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">开放性：伤口可能相通</text><line x1="199" y1="246" x2="273" y2="309" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="199" cy="246" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="281" y="317" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">骨折处</text><line x1="601" y1="205" x2="652" y2="323" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="601" cy="205" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="660" y="331" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">伤口通道</text><text x="426" y="458" font-size="25" fill="#596b6d" font-weight="400" text-anchor="middle">皮肤、软组织和骨的纵切示意</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">表皮完整也可能发生深部骨折。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">开放性骨折的伤口可能与骨折处</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">相通，骨头不一定外露。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">保持伤处原位，不自行拉直、复</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">位。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">明显肢体发凉、麻木或大量出血，立即呼叫急救。</text>
+</g></svg>

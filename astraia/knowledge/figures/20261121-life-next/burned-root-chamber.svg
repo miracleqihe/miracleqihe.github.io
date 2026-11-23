@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">火烧地的树桩：表层灰下可能有空洞</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">燃烧后的树根可留下看不见的空腔，树木也可能倒落。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 55 325 Q 230 305 400 325 Q 545 340 710 325 L 710 425 L 55 425 Z" fill="#d5cabc" stroke="#9b9185" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 70 325 Q 250 308 405 325 T 710 325" fill="none" stroke="#6c716e" stroke-width="12" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="270" y="180" width="70" height="145" rx="3" fill="#635b52" stroke="#4d4943" stroke-width="3"/>
+<path d="M 272 325 Q 245 355 170 365 M 338 325 Q 365 360 442 385" fill="none" stroke="#57504a" stroke-width="15" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 250 335 Q 210 372 135 380 M 350 335 Q 390 377 475 397" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 6"/>
+<line x1="510" y1="255" x2="405" y2="345" stroke="#a94d37" stroke-width="3"/>
+<path d="M 409.8 332.9 L 405 345 L 417.7 342.1" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="510" y="245" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">空腔和余热</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">遵守封闭和开放公告</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">绕开烧焦树桩与松动边坡</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">不踩厚灰覆盖的未知地面</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">雨后还需防洪水和落石</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">危险可持续到明火熄灭之后；实际空腔形状不同。</text>
+</svg>

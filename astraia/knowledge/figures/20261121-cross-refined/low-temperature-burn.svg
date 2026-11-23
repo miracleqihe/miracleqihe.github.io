@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">低温烫伤：接触温度与持续时间共同作用</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">热水袋、暖贴或电热毯即使摸着只是温热，长时间接触仍可能损伤皮肤。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 120 330 L 570 330 L 570 400 L 120 400 Z" fill="#f0dace" stroke="#b29786" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="220" y="225" width="250" height="90" rx="30" fill="#f4d2b9" stroke="#bb8c70" stroke-width="3"/>
+<line x1="345" y1="320" x2="345" y2="350" stroke="#a94d37" stroke-width="4"/>
+<path d="M 339.0 338.5 L 345 350 L 351.0 338.5" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="345" y="185" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">温热物体</text>
+<text x="345" y="443" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">皮肤表面</text>
+<text x="680" y="195" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">睡眠或感觉迟钝时更要留意</text>
+<text x="680" y="250" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">隔着衣物，避免长时间固定</text>
+<text x="680" y="305" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">出现发红、疼痛或水疱时停用</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">皮肤发白、破损、面积较大或持续疼痛时及时就医。</text>
+</svg>

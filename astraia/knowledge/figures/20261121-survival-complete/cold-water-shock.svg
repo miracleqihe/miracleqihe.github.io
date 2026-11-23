@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">落入冷水：先稳住呼吸，再寻找漂浮和出口</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">骤然浸水可引起喘气和呼吸失控，先让口鼻保持在水面上。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 50 280 Q 200 265 350 280 T 650 280 L 650 420 L 50 420 Z" fill="#d3e9ec" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="270" cy="235" r="35" fill="#f1dccd" stroke="#263b3e" stroke-width="3"/>
+<path d="M 235 270 L 305 270 L 320 325 L 220 325 Z" fill="#f1d29b" stroke="#bb8737" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 225 290 L 180 275 M 315 290 L 360 275" fill="none" stroke="#263b3e" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="380" y1="245" x2="480" y2="245" stroke="#326f80" stroke-width="3"/>
+<path d="M 468.5 251.0 L 480 245 L 468.5 239.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="530" y="240" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">抓住漂浮物</text>
+<text x="740" y="185" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">先稳住呼吸</text>
+<text x="740" y="235" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">设法呼救并寻找近处出口</text>
+<text x="740" y="285" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">上岸后防风保暖并寻求评估</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">施救者先呼叫救援，优先从岸上递物或抛投漂浮物。</text>
+</svg>

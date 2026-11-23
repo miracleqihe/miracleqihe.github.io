@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">家用清洁剂：不同产品不要混合</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">含氯漂白剂与酸性清洁剂、氨类清洁剂混合可产生危险气体。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="90" y="166" width="145" height="210" rx="12" fill="#f4f0df" stroke="#a5a08e" stroke-width="3"/>
+<rect x="130" y="130" width="65" height="36" rx="3" fill="#e7e3d6" stroke="#a5a08e" stroke-width="2"/>
+<text x="162" y="260" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="26" font-weight="700" text-anchor="middle">含氯</text>
+<text x="162" y="295" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">漂白剂</text>
+<path d="M 278 256 L 368 256 M 323 211 L 323 301" fill="none" stroke="#a94d37" stroke-width="7" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="415" y="166" width="145" height="210" rx="12" fill="#eef0e8" stroke="#9daa9f" stroke-width="3"/>
+<rect x="455" y="130" width="65" height="36" rx="3" fill="#dde5db" stroke="#9daa9f" stroke-width="2"/>
+<text x="487" y="250" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="26" font-weight="700" text-anchor="middle">其他</text>
+<text x="487" y="285" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">清洁剂</text>
+<path d="M 278 183 L 370 329 M 370 183 L 278 329" fill="none" stroke="#a94d37" stroke-width="7" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="600" y1="260" x2="690" y2="260" stroke="#326f80" stroke-width="4"/>
+<path d="M 678.5 266.0 L 690 260 L 678.5 254.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 760 315 Q 720 280 750 247 Q 740 205 785 194 Q 820 158 853 194 Q 905 192 920 238 Q 959 268 920 310 Z" fill="#e9e1d2" stroke="#b7aa92" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="840" y="266" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">刺激性气体</text>
+<text x="1010" y="205" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">酸性产品</text>
+<text x="1010" y="248" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">氨类产品</text>
+<text x="1010" y="291" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">其他消毒剂</text>
+<text x="600" y="457" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">闻到刺激气味或发生混用：离开污染区域，到新鲜空气处求助。</text>
+</svg>

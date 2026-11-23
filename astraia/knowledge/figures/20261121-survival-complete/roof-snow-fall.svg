@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">屋檐积雪：下方通道可能被整块滑雪击中</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">雪可能在气温、阳光或载荷变化时滑落，未必先有明显声响。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 90 330 L 90 235 L 300 125 L 510 235 L 510 330 Z" fill="#eae5dc" stroke="#9c9487" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 105 224 L 300 125 L 515 228" fill="none" stroke="#b4d4db" stroke-width="18" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 460 220 Q 505 225 530 250 Q 550 270 580 320" fill="none" stroke="#326f80" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 490 350 L 675 350 L 700 390 L 470 390 Z" fill="#f2d8d0" stroke="#a94d37" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<text x="585" y="376" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="700" text-anchor="middle">可能落雪区</text>
+<line x1="770" y1="300" x2="870" y2="300" stroke="#326f80" stroke-width="4"/>
+<path d="M 858.5 306.0 L 870 300 L 858.5 294.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="825" y="255" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">绕开屋檐下方</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">提醒周围人远离危险区域，清理积雪由具备条件的人员处理。</text>
+</svg>

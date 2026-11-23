@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">河道倒木：水可穿过，人却可能被困</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">俯视图；树枝、根系和桥墩残骸都可能形成类似障碍。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 60 165 Q 365 100 740 165 L 740 360 Q 365 425 60 360 Z" fill="#d8edf0" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="100" y1="200" x2="430" y2="200" stroke="#326f80" stroke-width="4"/>
+<path d="M 418.5 206.0 L 430 200 L 418.5 194.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="100" y1="265" x2="430" y2="265" stroke="#326f80" stroke-width="4"/>
+<path d="M 418.5 271.0 L 430 265 L 418.5 259.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="100" y1="330" x2="430" y2="330" stroke="#326f80" stroke-width="4"/>
+<path d="M 418.5 336.0 L 430 330 L 418.5 324.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 560 125 L 475 390 M 505 250 L 380 215 M 520 220 L 410 160 M 500 290 L 390 315 M 480 350 L 410 385" fill="none" stroke="#846a52" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="530" y1="190" x2="680" y2="190" stroke="#326f80" stroke-width="3"/>
+<path d="M 668.5 196.0 L 680 190 L 668.5 184.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="490" y1="270" x2="685" y2="270" stroke="#326f80" stroke-width="3"/>
+<path d="M 673.5 276.0 L 685 270 L 673.5 264.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="460" y1="340" x2="675" y2="340" stroke="#326f80" stroke-width="3"/>
+<path d="M 663.5 346.0 L 675 340 L 663.5 334.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="810" y="195" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">水继续穿过枝杈</text>
+<text x="810" y="247" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">人或船可能被水流压住</text>
+<text x="810" y="300" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">及早靠岸绕开，避免接近</text>
+<text x="600" y="475" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">观察河面与下游路线；遇险时从安全位置呼救，不贸然下水。</text>
+</svg>

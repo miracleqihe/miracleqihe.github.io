@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">放射性碳测年：样本、实验结果与年代校正</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">样本的形成时间、污染和所采用的校正曲线都会影响解释。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 65 175 Q 300 160 630 175 L 630 395 L 65 395 Z" fill="#eadbc5" stroke="#ae987d" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 65 245 Q 300 230 630 245 M 65 315 Q 300 300 630 315" fill="none" stroke="#a78e76" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="260" y="255" width="85" height="35" rx="8" fill="#806b55" stroke="#5a4c3f" stroke-width="2"/>
+<line x1="350" y1="270" x2="470" y2="205" stroke="#326f80" stroke-width="3"/>
+<path d="M 462.7 215.8 L 470 205 L 457.0 205.2" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="470" y="198" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="700" text-anchor="start">记录原位与层位</text>
+<path d="M 85 196 L 170 196 L 170 215 L 85 215 Z" fill="#d5c4ae" stroke="#a28f78" stroke-width="1" stroke-linejoin="round" stroke-linecap="round" />
+<text x="145" y="235" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="middle">较新沉积</text>
+<text x="350" y="362" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="middle">较早沉积</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">记录材料、位置与取样过程</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">实验室测得放射性碳年龄</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">使用适合的曲线校正到日历年代</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">报告可能的年代范围与不确定度</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">木炭形成时间与遗迹使用时间可能并不完全相同。</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">火山泥流：沿谷底奔流，向侧坡高处避险</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">收到预警或发现泥流征兆时，尽快离开河谷底部。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 55 350 L 195 145 L 300 300 L 430 205 L 710 375 L 710 420 L 55 420 Z" fill="#dce6d6" stroke="#60816a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 195 145 L 163 198 L 195 183 L 220 200 Z" fill="#f7f7ef" stroke="#aab4a9" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 186 207 Q 230 285 325 322 Q 420 365 695 400" fill="none" stroke="#a98765" stroke-width="25" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="280" y1="306" x2="420" y2="354" stroke="#a94d37" stroke-width="5"/>
+<path d="M 407.1 355.9 L 420 354 L 411.0 344.6" fill="none" stroke="#a94d37" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="440" y1="340" x2="498" y2="273" stroke="#326f80" stroke-width="4"/>
+<path d="M 495.0 285.6 L 498 273 L 485.9 277.8" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="470" y="252" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">侧坡高处</text>
+<text x="210" y="390" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">河谷通道</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">预先识别官方危险区</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">远离河道、桥下和低洼地</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">向最近可达的侧坡高处移动</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">遵从警报与既定撤离路线</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">泥流速度快，安全高度取决于地形及事件规模。</text>
+</svg>

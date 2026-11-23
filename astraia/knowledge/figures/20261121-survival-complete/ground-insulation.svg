@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">保暖先隔地：减少身体向地面的失热</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">潮湿、压实的衣物和地面接触会增加散热；寻找干燥的隔热层。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 90 365 L 680 365 L 680 425 L 90 425 Z" fill="#d7cbb7" stroke="#a99a80" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 120 335 L 650 335 L 650 365 L 120 365 Z" fill="#c4dace" stroke="#60816a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="190" cy="300" r="27" fill="#f2ddce" stroke="#263b3e" stroke-width="3"/>
+<path d="M 220 303 Q 330 275 470 303 L 560 325 L 220 325 Z" fill="#d9bd9a" stroke="#947f6a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="390" y1="285" x2="390" y2="328" stroke="#a94d37" stroke-width="4"/>
+<path d="M 384.0 316.5 L 390 328 L 396.0 316.5" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="410" y="305" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">热量向下传递</text>
+<line x1="520" y1="352" x2="740" y2="352" stroke="#326f80" stroke-width="3"/>
+<path d="M 728.5 358.0 L 740 352 L 728.5 346.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="760" y="358" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">睡垫或干燥隔热材料</text>
+<text x="790" y="195" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">覆盖身体并避风</text>
+<text x="790" y="245" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">身下隔层尽量厚且干燥</text>
+<text x="790" y="295" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">意识异常或持续发抖时求助</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">低体温者应减少继续受冷，必要时及时求助。</text>
+</svg>

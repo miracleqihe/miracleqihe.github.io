@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">家庭火灾：先辨别出口，再选择路线</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">这是底层户型示意；真实路线须根据楼层、烟火和当地规定预先演练。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="80" y="125" width="660" height="285" rx="0" fill="#f3f2e9" stroke="#85978e" stroke-width="5"/>
+<line x1="455" y1="125" x2="510" y2="125" stroke="#f3f2e9" stroke-width="8"/>
+<line x1="310" y1="125" x2="310" y2="286" stroke="#263b3e" stroke-width="5"/>
+<line x1="310" y1="340" x2="310" y2="410" stroke="#263b3e" stroke-width="5"/>
+<line x1="520" y1="125" x2="520" y2="230" stroke="#263b3e" stroke-width="5"/>
+<line x1="520" y1="290" x2="520" y2="410" stroke="#263b3e" stroke-width="5"/>
+<path d="M 645 260 Q 670 215 692 259 Q 715 220 725 264 Z" fill="#e1a77b" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="170" cy="245" r="18" fill="#e5c3af" stroke="#263b3e" stroke-width="2"/>
+<path d="M 170 263 L 170 302 L 145 335 M 170 302 L 195 335" fill="none" stroke="#263b3e" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="205" y1="260" x2="276" y2="305" stroke="#326f80" stroke-width="5"/>
+<path d="M 263.0 303.9 L 276 305 L 269.5 293.8" fill="none" stroke="#326f80" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="330" y1="305" x2="490" y2="260" stroke="#326f80" stroke-width="5"/>
+<path d="M 480.5 268.9 L 490 260 L 477.3 257.3" fill="none" stroke="#326f80" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="485" y1="260" x2="485" y2="150" stroke="#60816a" stroke-width="5"/>
+<path d="M 491.0 161.5 L 485 150 L 479.0 161.5" fill="none" stroke="#60816a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 520 260 L 645 260" fill="none" stroke="#a94d37" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 8"/>
+<text x="180" y="178" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">卧室</text>
+<text x="410" y="360" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">通道</text>
+<text x="635" y="360" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">烟火区</text>
+<text x="485" y="110" fill="#60816a" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">可用出口</text>
+<text x="820" y="170" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">先试门和门缝</text>
+<text x="820" y="208" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">热或有烟：换路线</text>
+<text x="820" y="267" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">必须穿过烟时</text>
+<text x="820" y="305" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">压低身体，尽快离开</text>
+<text x="820" y="363" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">无法逃离：关门求救</text>
+<text x="600" y="482" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">离开后在室外会合并报警，不返回火场取物。</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">雨水收集：先看接触面，再处理水</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">清澈不等于可饮用；屋面、容器与储存都会影响水质。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 55 245 L 215 125 L 375 245 Z" fill="#decbb1" stroke="#9b8069" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="65" y1="245" x2="385" y2="245" stroke="#263b3e" stroke-width="3"/>
+<path d="M 360 245 L 415 245 L 415 360 L 485 360" fill="none" stroke="#326f80" stroke-width="7" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="475" y="300" width="170" height="125" rx="12" fill="#dbecee" stroke="#326f80" stroke-width="3"/>
+<path d="M 485 345 Q 555 330 635 345" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="140" y1="145" x2="131" y2="173" stroke="#326f80" stroke-width="3"/>
+<line x1="215" y1="115" x2="206" y2="143" stroke="#326f80" stroke-width="3"/>
+<line x1="290" y1="150" x2="281" y2="178" stroke="#326f80" stroke-width="3"/>
+<text x="185" y="292" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="start">接水面</text>
+<text x="560" y="455" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">清洁、可盖的容器</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">避开明显污染的接水面</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">收集后防止动物和污物进入</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">按用途处理微生物风险</text>
+<text x="755" y="301" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">化学污染需寻找替代水源</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">屋顶材料、鸟粪与空气沉降物都可能污染雨水。</text>
+</svg>

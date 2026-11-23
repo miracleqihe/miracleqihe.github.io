@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="660" viewBox="0 0 1400 660" role="img" aria-labelledby="title desc">
+<title id="title">相似纤维怎样到达另一处？</title>
+<desc id="desc">以衣物与公共座椅为例，比较不同路径</desc>
+<rect x="1" y="1" width="1398" height="658" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="32" y="47" fill="#293b43" font-size="38" font-weight="700" text-anchor="start">相似纤维怎样到达另一处？</text>
+<text x="33" y="85" fill="#52636a" font-size="24" font-weight="400" text-anchor="start">以衣物与公共座椅为例，比较不同路径</text>
+<rect x="26" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="242" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">路径一：直接接触</text>
+<g transform="translate(112 172)">
+<path d="M25 25 l-18 13 8 22 12-6 v53 h56 v-53 l12 6 8-22 -18-13 -13 5 h-20z" fill="#cad7d5" stroke="#718e90" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="55" cy="70" r="4" fill="#a5655d" stroke="none" stroke-width="2"/><circle cx="67" cy="82" r="3" fill="#a5655d" stroke="none" stroke-width="2"/><line x1="105" y1="68" x2="152" y2="68" stroke="#83999b" stroke-width="4" stroke-linecap="round"/><path d="M 140 59 L 152 68 L 140 77" fill="none" stroke="#83999b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M180 25 l-18 13 8 22 12-6 v53 h56 v-53 l12 6 8-22 -18-13 -13 5 h-20z" fill="#cad7d5" stroke="#718e90" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="210" cy="70" r="4" fill="#a5655d" stroke="none" stroke-width="2"/><circle cx="222" cy="82" r="3" fill="#a5655d" stroke="none" stroke-width="2"/>
+</g>
+<text x="51" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">两件衣物接触时，纤维可能</text>
+<text x="51" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">从一件转到另一件上。数量</text>
+<text x="51" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">受织物、接触和后续活动影</text>
+<text x="51" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">响。</text>
+<rect x="484" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="700" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">路径二：经过座椅</text>
+<g transform="translate(570 172)">
+<path d="M17 30 l-18 13 8 22 12-6 v53 h56 v-53 l12 6 8-22 -18-13 -13 5 h-20z" fill="#cad7d5" stroke="#718e90" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="47" cy="75" r="4" fill="#a5655d" stroke="none" stroke-width="2"/><circle cx="59" cy="87" r="3" fill="#a5655d" stroke="none" stroke-width="2"/><line x1="85" y1="72" x2="108" y2="72" stroke="#83999b" stroke-width="4" stroke-linecap="round"/><path d="M 96 63 L 108 72 L 96 81" fill="none" stroke="#83999b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><rect x="112" y="42" width="50" height="54" rx="5" fill="#d9e4e1" stroke="#718e90" stroke-width="3"/><circle cx="138" cy="68" r="4" fill="#a5655d" stroke="none" stroke-width="2"/><line x1="166" y1="72" x2="188" y2="72" stroke="#83999b" stroke-width="4" stroke-linecap="round"/><path d="M 176 63 L 188 72 L 176 81" fill="none" stroke="#83999b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M201 30 l-18 13 8 22 12-6 v53 h56 v-53 l12 6 8-22 -18-13 -13 5 h-20z" fill="#cad7d5" stroke="#718e90" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="231" cy="75" r="4" fill="#a5655d" stroke="none" stroke-width="2"/><circle cx="243" cy="87" r="3" fill="#a5655d" stroke="none" stroke-width="2"/>
+</g>
+<text x="509" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">衣物先接触座椅，另一人随</text>
+<text x="509" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">后接触同一处，也可能带走</text>
+<text x="509" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">纤维。图示仅说明一种可能</text>
+<text x="509" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">经过。</text>
+<rect x="942" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="1158" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">路径三：环境背景</text>
+<g transform="translate(1028 172)">
+<rect x="15" y="28" width="100" height="73" rx="5" fill="#d9e4e1" stroke="#718e90" stroke-width="3"/><circle cx="55" cy="57" r="4" fill="#a5655d" stroke="none" stroke-width="2"/><circle cx="81" cy="79" r="4" fill="#a5655d" stroke="none" stroke-width="2"/><text x="65" y="20" fill="#52636a" font-size="18" font-weight="400" text-anchor="middle">座椅</text><line x1="122" y1="66" x2="151" y2="66" stroke="#83999b" stroke-width="4" stroke-linecap="round"/><path d="M 139 57 L 151 66 L 139 75" fill="none" stroke="#83999b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M180 25 l-18 13 8 22 12-6 v53 h56 v-53 l12 6 8-22 -18-13 -13 5 h-20z" fill="#cad7d5" stroke="#718e90" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="210" cy="70" r="4" fill="#a5655d" stroke="none" stroke-width="2"/><circle cx="222" cy="82" r="3" fill="#a5655d" stroke="none" stroke-width="2"/>
+</g>
+<text x="967" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">座椅原有或来自其他人的纤</text>
+<text x="967" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">维，也可能与待检材料相</text>
+<text x="967" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">似。采样和处理也要考虑交</text>
+<text x="967" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">叉污染。</text>
+<rect x="26" y="558" width="1348" height="81" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="44" y="590" fill="#785334" font-size="25" font-weight="400" text-anchor="start">记录检出位置、接触史、参照物和采样过程，再比较颜色、形态与成分。</text>
+<text x="44" y="622" fill="#785334" font-size="25" font-weight="400" text-anchor="start">未检出和特征相似各有解释范围，不能据此直接还原唯一经过。</text>
+</g></svg>

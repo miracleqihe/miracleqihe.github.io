@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">普通话声调：四种单字调值示意</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">五度记号表示相对音高，5 为高、1 为低；曲线不是实际录音。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="55" y="125" width="250" height="265" rx="8" fill="#ffffff" stroke="#c6d6cf" stroke-width="2"/>
+<text x="180" y="160" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">阴平 55</text>
+<line x1="103" y1="345" x2="275" y2="345" stroke="#263b3e" stroke-width="2"/>
+<path d="M 263.5 351.0 L 275 345 L 263.5 339.0" fill="none" stroke="#263b3e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="103" y1="345" x2="103" y2="185" stroke="#263b3e" stroke-width="2"/>
+<path d="M 109.0 196.5 L 103 185 L 97.0 196.5" fill="none" stroke="#263b3e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<text x="90" y="335" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="18" font-weight="400" text-anchor="end">1</text>
+<line x1="103" y1="330" x2="275" y2="330" stroke="#dce5df" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="90" y="271" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="18" font-weight="400" text-anchor="end">3</text>
+<line x1="103" y1="266" x2="275" y2="266" stroke="#dce5df" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="90" y="207" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="18" font-weight="400" text-anchor="end">5</text>
+<line x1="103" y1="202" x2="275" y2="202" stroke="#dce5df" stroke-width="1" stroke-dasharray="4 4"/>
+<path d="M 112.0 202.0 L 257.0 202.0" fill="none" stroke="#326f80" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<text x="185" y="373" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="middle">音节时间</text>
+<rect x="335" y="125" width="250" height="265" rx="8" fill="#ffffff" stroke="#c6d6cf" stroke-width="2"/>
+<text x="460" y="160" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">阳平 35</text>
+<line x1="383" y1="345" x2="555" y2="345" stroke="#263b3e" stroke-width="2"/>
+<path d="M 543.5 351.0 L 555 345 L 543.5 339.0" fill="none" stroke="#263b3e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="383" y1="345" x2="383" y2="185" stroke="#263b3e" stroke-width="2"/>
+<path d="M 389.0 196.5 L 383 185 L 377.0 196.5" fill="none" stroke="#263b3e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<text x="370" y="335" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="18" font-weight="400" text-anchor="end">1</text>
+<line x1="383" y1="330" x2="555" y2="330" stroke="#dce5df" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="370" y="271" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="18" font-weight="400" text-anchor="end">3</text>
+<line x1="383" y1="266" x2="555" y2="266" stroke="#dce5df" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="370" y="207" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="18" font-weight="400" text-anchor="end">5</text>
+<line x1="383" y1="202" x2="555" y2="202" stroke="#dce5df" stroke-width="1" stroke-dasharray="4 4"/>
+<path d="M 392.0 266.0 L 537.0 202.0" fill="none" stroke="#326f80" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<text x="465" y="373" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="middle">音节时间</text>
+<rect x="615" y="125" width="250" height="265" rx="8" fill="#ffffff" stroke="#c6d6cf" stroke-width="2"/>
+<text x="740" y="160" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">上声 214</text>
+<line x1="663" y1="345" x2="835" y2="345" stroke="#263b3e" stroke-width="2"/>
+<path d="M 823.5 351.0 L 835 345 L 823.5 339.0" fill="none" stroke="#263b3e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="663" y1="345" x2="663" y2="185" stroke="#263b3e" stroke-width="2"/>
+<path d="M 669.0 196.5 L 663 185 L 657.0 196.5" fill="none" stroke="#263b3e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<text x="650" y="335" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="18" font-weight="400" text-anchor="end">1</text>
+<line x1="663" y1="330" x2="835" y2="330" stroke="#dce5df" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="650" y="271" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="18" font-weight="400" text-anchor="end">3</text>
+<line x1="663" y1="266" x2="835" y2="266" stroke="#dce5df" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="650" y="207" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="18" font-weight="400" text-anchor="end">5</text>
+<line x1="663" y1="202" x2="835" y2="202" stroke="#dce5df" stroke-width="1" stroke-dasharray="4 4"/>
+<path d="M 672.0 298.0 L 737.2 330.0 L 817.0 234.0" fill="none" stroke="#326f80" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<text x="745" y="373" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="middle">音节时间</text>
+<rect x="895" y="125" width="250" height="265" rx="8" fill="#ffffff" stroke="#c6d6cf" stroke-width="2"/>
+<text x="1020" y="160" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">去声 51</text>
+<line x1="943" y1="345" x2="1115" y2="345" stroke="#263b3e" stroke-width="2"/>
+<path d="M 1103.5 351.0 L 1115 345 L 1103.5 339.0" fill="none" stroke="#263b3e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="943" y1="345" x2="943" y2="185" stroke="#263b3e" stroke-width="2"/>
+<path d="M 949.0 196.5 L 943 185 L 937.0 196.5" fill="none" stroke="#263b3e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<text x="930" y="335" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="18" font-weight="400" text-anchor="end">1</text>
+<line x1="943" y1="330" x2="1115" y2="330" stroke="#dce5df" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="930" y="271" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="18" font-weight="400" text-anchor="end">3</text>
+<line x1="943" y1="266" x2="1115" y2="266" stroke="#dce5df" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="930" y="207" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="18" font-weight="400" text-anchor="end">5</text>
+<line x1="943" y1="202" x2="1115" y2="202" stroke="#dce5df" stroke-width="1" stroke-dasharray="4 4"/>
+<path d="M 952.0 202.0 L 1097.0 330.0" fill="none" stroke="#a94d37" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<text x="1025" y="373" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="middle">音节时间</text>
+<text x="600" y="450" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">连续语流中，上声常省去上升段；声调还会受相邻音节和句子语调影响。</text>
+</svg>

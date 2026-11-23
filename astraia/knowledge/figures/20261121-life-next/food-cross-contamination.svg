@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">厨房交叉污染：生食与即食物分区</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">刀具、砧板和容器分开；接触生肉后先清洗双手与用具。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="60" y="190" width="260" height="190" rx="8" fill="#f4dfd8" stroke="#c3aaa0" stroke-width="3"/>
+<rect x="400" y="190" width="260" height="190" rx="8" fill="#e3efe1" stroke="#a5bda5" stroke-width="3"/>
+<path d="M 125 280 Q 180 220 255 265 Q 275 305 210 325 Q 150 335 125 280 Z" fill="#d8a594" stroke="#a94d37" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="460" cy="270" r="18" fill="#a9c78c" stroke="#60816a" stroke-width="2"/>
+<circle cx="515" cy="250" r="18" fill="#a9c78c" stroke="#60816a" stroke-width="2"/>
+<circle cx="560" cy="300" r="18" fill="#a9c78c" stroke="#60816a" stroke-width="2"/>
+<circle cx="600" cy="255" r="18" fill="#a9c78c" stroke="#60816a" stroke-width="2"/>
+<path d="M 140 170 L 250 135 L 270 145 L 165 180 Z" fill="#c8cecb" stroke="#263b3e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 475 170 L 585 135 L 605 145 L 500 180 Z" fill="#c8cecb" stroke="#263b3e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="335" y1="210" x2="385" y2="260" stroke="#a94d37" stroke-width="5"/>
+<line x1="385" y1="210" x2="335" y2="260" stroke="#a94d37" stroke-width="5"/>
+<text x="190" y="414" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">生肉、禽类</text>
+<text x="530" y="414" fill="#60816a" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">即食或洗净食物</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">分开砧板、刀具和容器</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">生食接触后及时洗手</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">清洗工作台与餐具</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">需要冷藏的食物及时冷藏</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">不能靠外观判断生肉上的微生物。</text>
+</svg>

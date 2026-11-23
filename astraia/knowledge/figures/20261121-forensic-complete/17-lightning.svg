@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">雷电伤人：侧闪与地面电流</title>
+<desc id="desc">电流路径为示意，雷电也可能直接击中人体</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">雷电伤人：侧闪与地面电流</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">电流路径为示意，雷电也可能直接击中人体</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M95 360 H755" fill="none" stroke="#a7835a" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path d="M160 360 V160 M160 160 q-65 10-55-65 q40-55 78-20 q66-11 70 42 q3 43-93 43" fill="none" stroke="#719481" stroke-width="13" stroke-linecap="round" stroke-linejoin="round"/><g transform="translate(345 240) scale(0.45)"><circle cx="0" cy="0" r="29" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M-34 42 Q0 29 34 42 L44 145 L29 160 L23 278 L7 278 L0 168 L-7 278 L-23 278 L-29 160 L-44 145 Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-35 52 L-69 150 M35 52 L69 150" fill="none" stroke="#b49284" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(600 240) scale(0.45)"><circle cx="0" cy="0" r="29" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M-34 42 Q0 29 34 42 L44 145 L29 160 L23 278 L7 278 L0 168 L-7 278 L-23 278 L-29 160 L-44 145 Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-35 52 L-69 150 M35 52 L69 150" fill="none" stroke="#b49284" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/></g><path d="M220 28 l-45 65 30-5-35 65" fill="none" stroke="#c99a3e" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M162 194 l50 30-28 7 42 30" fill="none" stroke="#c99a3e" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><line x1="182" y1="369" x2="585" y2="369" stroke="#c99a3e" stroke-width="5" stroke-linecap="round"/><path d="M 573.6 375.2 L 585 369 L 573.6 362.8" fill="none" stroke="#c99a3e" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><text x="120" y="60" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">击中树木</text><text x="259" y="185" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">侧闪</text><text x="489" y="418" font-size="25" fill="#293e44" font-weight="400" text-anchor="middle">地面电流可向外传播</text><text x="470" y="85" font-size="25" fill="#596b6d" font-weight="400" text-anchor="start">雷暴时尽快进入安全建筑</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">雷击树木后可发生侧闪，地面电</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">流可向周围传播。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">雷雨时尽快进入坚固建筑或硬顶</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">金属车。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">雷击者不会持续带电，安全条件</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">下可实施急救。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">救助者先避开持续雷暴及其他现场危险。</text>
+</g></svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">树井与深雪：树干周围可能有松散空隙</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">雪中的空隙从表面不一定看得出来，头朝下陷入后容易被雪埋住。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 50 300 Q 230 295 355 305 Q 420 350 470 305 Q 605 295 760 300 L 760 420 L 50 420 Z" fill="#edf5f6" stroke="#adced4" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 405 105 L 405 355 M 405 150 L 325 205 M 405 175 L 490 235 M 405 210 L 335 255 M 405 235 L 490 280" fill="none" stroke="#816a55" stroke-width="13" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 345 305 Q 355 390 405 400 Q 455 390 470 305" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 7"/>
+<line x1="250" y1="225" x2="325" y2="305" stroke="#a94d37" stroke-width="4"/>
+<path d="M 312.7 300.7 L 325 305 L 321.5 292.5" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="200" y="210" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">可能头朝下陷入</text>
+<text x="825" y="185" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">远离树干周围松雪</text>
+<text x="825" y="235" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">结伴并保持视线联系</text>
+<text x="825" y="285" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">同伴失踪立即呼救</text>
+<text x="825" y="335" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">确认自身安全后及时救援</text>
+<text x="600" y="483" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">树井并非规则的洞；图示突出位置关系，积雪形态随地形变化。</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">骨骼评估：生长板与骨表面</title>
+<desc id="desc">不同骨骼结构可以用于不同的年龄估计方法</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">骨骼评估：生长板与骨表面</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">不同骨骼结构可以用于不同的年龄估计方法</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M100 110 Q155 82 210 110 L198 160 Q155 180 112 160Z" fill="#e9e0d2" stroke="#af9e8d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M112 180 Q155 194 198 180 L185 330 Q155 350 125 330Z" fill="#e9e0d2" stroke="#af9e8d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M112 164 Q155 178 198 164 L198 178 Q155 193 112 178Z" fill="#8db3a7" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/><path d="M420 110 Q480 80 540 110 Q550 150 515 170 L515 290 Q480 330 445 290 L445 170 Q410 150 420 110Z" fill="#e9e0d2" stroke="#af9e8d" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M445 225 Q480 205 515 225" fill="none" stroke="#a7835a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><line x1="155" y1="172" x2="60" y2="380" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="155" cy="172" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="68" y="388" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">生长板</text><line x1="480" y1="225" x2="520" y2="350" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="480" cy="225" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="528" y="358" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">骨表面特征</text><text x="155" y="75" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">生长中的骨端</text><text x="480" y="75" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">骨表面与年龄估计</text><text x="390" y="455" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">不同年龄段的估计方法与不确定范围不同</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">生长中的骨端与成人骨表面信息</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">各有适用范围。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">个体差异、损伤和保存状况影响</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">估计。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">骨骼来源、年龄与身份是需要分</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">别回答的问题。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">年龄通常以范围表达，单一骨骼外观不能确认身份。</text>
+</g></svg>

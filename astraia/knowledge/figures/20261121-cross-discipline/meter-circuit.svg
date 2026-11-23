@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">简单直流电路：电流表串联，电压表并联</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">仅作低压电路示意；测量前选择合适量程与插孔。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 205 190 L 325 190 M 395 190 L 760 190 L 760 340 L 205 340 L 205 275 M 205 235 L 205 190" fill="none" stroke="#263b3e" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="360" cy="190" r="35" fill="#ffffff" stroke="#326f80" stroke-width="4"/>
+<text x="360" y="200" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="28" font-weight="700" text-anchor="middle">A</text>
+<rect x="520" y="170" width="120" height="40" rx="3" fill="#fff5df" stroke="#bb8737" stroke-width="3"/>
+<text x="580" y="199" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">负载</text>
+<path d="M 490 190 L 490 265 L 670 265 L 670 190" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="580" cy="265" r="30" fill="#ffffff" stroke="#326f80" stroke-width="4"/>
+<text x="580" y="275" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="27" font-weight="700" text-anchor="middle">V</text>
+<line x1="180" y1="235" x2="230" y2="235" stroke="#263b3e" stroke-width="4"/>
+<line x1="190" y1="275" x2="220" y2="275" stroke="#263b3e" stroke-width="7"/>
+<text x="142" y="233" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="400" text-anchor="start">+</text>
+<text x="142" y="279" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="400" text-anchor="start">−</text>
+<line x1="820" y1="190" x2="995" y2="190" stroke="#a94d37" stroke-width="4"/>
+<path d="M 983.5 196.0 L 995 190 L 983.5 184.0" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="1010" y="198" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">约定电流</text>
+<line x1="995" y1="230" x2="820" y2="230" stroke="#326f80" stroke-width="4"/>
+<path d="M 831.5 224.0 L 820 230 L 831.5 236.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="1010" y="238" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">电子运动</text>
+<text x="600" y="412" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="400" text-anchor="middle">电流表接入电流路径；电压表跨接被测部件两端。</text>
+<text x="600" y="482" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">不要将电流挡直接跨接电源；市电测量应由合格人员进行。</text>
+</svg>

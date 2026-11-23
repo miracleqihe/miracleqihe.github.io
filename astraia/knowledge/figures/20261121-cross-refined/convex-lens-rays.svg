@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">凸透镜成像：两条主光线定位像</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">示例中物体位于两倍焦距以外；图形只适用于薄透镜近轴近似。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<line x1="90" y1="300" x2="1100" y2="300" stroke="#263b3e" stroke-width="3"/>
+<path d="M 590 135 Q 635 300 590 465 Q 545 300 590 135 Z" fill="#e0eff1" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="260" y1="300" x2="260" y2="200" stroke="#a94d37" stroke-width="5"/>
+<path d="M 266.0 211.5 L 260 200 L 254.0 211.5" fill="none" stroke="#a94d37" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="833" y1="300" x2="833" y2="374" stroke="#60816a" stroke-width="5"/>
+<path d="M 827.0 362.5 L 833 374 L 839.0 362.5" fill="none" stroke="#60816a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="260" y1="200" x2="590" y2="200" stroke="#a94d37" stroke-width="3"/>
+<line x1="590" y1="200" x2="833" y2="374" stroke="#a94d37" stroke-width="3"/>
+<line x1="260" y1="200" x2="833" y2="374" stroke="#bb8737" stroke-width="3"/>
+<line x1="310" y1="292" x2="310" y2="308" stroke="#263b3e" stroke-width="3"/>
+<text x="310" y="337" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">2F</text>
+<line x1="450" y1="292" x2="450" y2="308" stroke="#263b3e" stroke-width="3"/>
+<text x="450" y="337" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">F</text>
+<line x1="730" y1="292" x2="730" y2="308" stroke="#263b3e" stroke-width="3"/>
+<text x="730" y="337" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">F</text>
+<line x1="870" y1="292" x2="870" y2="308" stroke="#263b3e" stroke-width="3"/>
+<text x="870" y="346" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">2F</text>
+<text x="260" y="175" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">物</text>
+<text x="833" y="410" fill="#60816a" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">倒立实像</text>
+<text x="600" y="485" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">一条平行光线经焦点；一条过光心的光线近似不偏折。</text>
+</svg>

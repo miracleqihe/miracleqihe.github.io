@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">气胸：空气进入肺与胸壁之间</title>
+<desc id="desc">胸腔横断面概念图，间隙经放大表示</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">气胸：空气进入肺与胸壁之间</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">胸腔横断面概念图，间隙经放大表示</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<ellipse cx="215" cy="235" rx="135" ry="155" fill="#e9d5cd" stroke="#ac8e82" stroke-width="5"/><ellipse cx="590" cy="235" rx="135" ry="155" fill="#e9d5cd" stroke="#ac8e82" stroke-width="5"/><ellipse cx="215" cy="235" rx="100" ry="125" fill="#d5e5df" stroke="#8aaba2" stroke-width="3"/><ellipse cx="565" cy="235" rx="68" ry="110" fill="#d5e5df" stroke="#8aaba2" stroke-width="3"/><path d="M634 125 Q700 230 634 346" fill="none" stroke="#668f98" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="649" cy="211" r="6" fill="#668f98" stroke="none" stroke-width="3"/><circle cx="660" cy="246" r="5" fill="#668f98" stroke="none" stroke-width="3"/><circle cx="645" cy="270" r="7" fill="#668f98" stroke="none" stroke-width="3"/><text x="215" y="70" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">正常位置示意</text><text x="590" y="70" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">胸膜腔进入空气</text><line x1="215" y1="235" x2="110" y2="423" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="215" cy="235" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="118" y="431" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">肺</text><line x1="659" y1="238" x2="653" y2="406" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="659" cy="238" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="661" y="414" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">空气</text><text x="410" y="470" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">肺与胸壁之间的相对空间被放大表示</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">胸壁或肺受损后，空气可能进入</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">胸膜腔。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">肺可能受压，出现胸痛或呼吸困</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">难。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">外伤后气短加重或意识异常应立</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">即急救。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">气胸也可能由其他原因发生，需由医护检查判断。</text>
+</g></svg>

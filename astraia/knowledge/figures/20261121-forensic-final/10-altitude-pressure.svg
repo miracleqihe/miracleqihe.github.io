@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">高海拔：氧气比例与分压</title>
+<desc id="desc">柱高表示气压变化；红色所占比例示意氧气比例</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">高海拔：氧气比例与分压</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">柱高表示气压变化；红色所占比例示意氧气比例</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<line x1="85" y1="380" x2="725" y2="380" stroke="#293e44" stroke-width="4" stroke-linecap="round"/><rect x="135" y="105" width="170" height="275" rx="0" fill="#dce8e0" stroke="#96ac9c" stroke-width="3"/><rect x="135" y="322" width="170" height="58" rx="0" fill="#c98e89" stroke="none" stroke-width="0"/><rect x="480" y="200" width="170" height="180" rx="0" fill="#dce8e0" stroke="#96ac9c" stroke-width="3"/><rect x="480" y="342" width="170" height="38" rx="0" fill="#c98e89" stroke="none" stroke-width="0"/><text x="220" y="68" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">较低海拔</text><text x="565" y="164" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">较高海拔</text><text x="220" y="425" font-size="25" fill="#293e44" font-weight="400" text-anchor="middle">总气压较高</text><text x="565" y="425" font-size="25" fill="#293e44" font-weight="400" text-anchor="middle">总气压下降</text><line x1="220" y1="350" x2="55" y2="470" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="220" cy="350" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="63" y="478" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">氧气约占同样比例</text><line x1="565" y1="360" x2="485" y2="470" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="565" cy="360" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="493" y="478" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">氧分压随总压下降</text><text x="410" y="500" font-size="23" fill="#596b6d" font-weight="400" text-anchor="middle">高度和柱高仅作概念示意</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">空气中的氧气比例大致保持在 21</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">%。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">海拔升高时总气压降低，氧分压</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">随之下降。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">适应时间、上升速度和个人状况</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">影响反应。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">图中柱高不对应具体海拔或实际测量值。</text>
+</g></svg>

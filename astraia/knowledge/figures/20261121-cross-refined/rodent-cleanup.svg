@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">鼠迹清理：先润湿，再拾取</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">戴手套；大量污染或封闭空间先咨询当地专业机构。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 80 365 L 730 365" fill="none" stroke="#a4b3aa" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="260" cy="352" rx="13" ry="6" fill="#8d7468" stroke="#8d7468" stroke-width="1"/>
+<ellipse cx="290" cy="347" rx="13" ry="6" fill="#8d7468" stroke="#8d7468" stroke-width="1"/>
+<ellipse cx="315" cy="354" rx="13" ry="6" fill="#8d7468" stroke="#8d7468" stroke-width="1"/>
+<ellipse cx="343" cy="350" rx="13" ry="6" fill="#8d7468" stroke="#8d7468" stroke-width="1"/>
+<path d="M 120 205 L 185 205 L 195 300 L 110 300 Z" fill="#e4efed" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 139 205 L 139 182 L 175 182 M 175 182 L 195 196" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="225" cy="235" r="3" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<circle cx="245" cy="253" r="3" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<circle cx="270" cy="271" r="3" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<circle cx="290" cy="292" r="3" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<line x1="365" y1="280" x2="455" y2="280" stroke="#326f80" stroke-width="4"/>
+<path d="M 443.5 286.0 L 455 280 L 443.5 274.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 510 300 L 625 300 L 595 360 L 480 360 Z" fill="#f4f0df" stroke="#aa9e87" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="540" y="405" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">按标签浸湿后用纸巾拾取</text>
+<text x="835" y="180" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">先通风，再戴手套</text>
+<text x="835" y="230" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">不要干扫或直接吸尘</text>
+<text x="835" y="280" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">清理后洗手</text>
+<text x="600" y="478" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">消毒剂按标签使用，不要与其他清洁剂混合。</text>
+</svg>

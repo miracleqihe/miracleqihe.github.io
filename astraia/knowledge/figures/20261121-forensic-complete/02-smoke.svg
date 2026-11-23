@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">烟气接触：鼻口和深部气道</title>
+<desc id="desc">表面和气道内部的位置需分别记录</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">烟气接触：鼻口和深部气道</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">表面和气道内部的位置需分别记录</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M150 70 Q85 72 88 145 Q85 177 73 190 L90 197 Q90 236 135 246 L143 317 L235 317 L235 200 Q225 90 170 72Z" fill="#ead7cd" stroke="#b49284" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><line x1="175" y1="202" x2="175" y2="330" stroke="#668f98" stroke-width="9" stroke-linecap="round"/><g transform="translate(175 358) scale(0.85)"><path d="M0 5 C-32 -17 -62 4 -70 43 Q-82 105 -21 108 L0 85 M0 5 C32 -17 62 4 70 43 Q82 105 21 108 L0 85" fill="#e4c5bf" stroke="#b68b83" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M0 -95 V43 M0 23 L-38 58 M0 23 L38 58 M-26 46 L-47 42 M26 46 L47 42" fill="none" stroke="#668f98" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/></g><circle cx="91" cy="184" r="4" fill="#535954" stroke="none" stroke-width="3"/><circle cx="99" cy="188" r="5" fill="#535954" stroke="none" stroke-width="3"/><circle cx="104" cy="210" r="4" fill="#535954" stroke="none" stroke-width="3"/><circle cx="115" cy="210" r="3" fill="#535954" stroke="none" stroke-width="3"/><circle cx="170" cy="240" r="3" fill="#535954" stroke="none" stroke-width="3"/><circle cx="176" cy="258" r="3" fill="#535954" stroke="none" stroke-width="3"/><circle cx="168" cy="280" r="3" fill="#535954" stroke="none" stroke-width="3"/><circle cx="173" cy="320" r="3" fill="#535954" stroke="none" stroke-width="3"/><line x1="99" y1="189" x2="360" y2="112" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="99" cy="189" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="368" y="120" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">鼻口表面</text><line x1="173" y1="260" x2="360" y2="205" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="173" cy="260" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="368" y="213" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">较深气道</text><path d="M345 325 q40-35 82 0 M345 348 q40-35 82 0" fill="none" stroke="#818785" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><text x="465" y="340" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">环境烟尘与燃烧气体</text><text x="365" y="405" font-size="25" fill="#596b6d" font-weight="400" text-anchor="start">外表和内部位置分开记录</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">鼻口颗粒提示曾接触烟尘。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">内部有无烟灰需要专业检查，外</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">表不能代替内部观察。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">咳嗽、声嘶、呼吸困难或意识异</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">常应尽快求救。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">离开危险烟气后观察症状，不为寻找线索返回火场。</text>
+</g></svg>

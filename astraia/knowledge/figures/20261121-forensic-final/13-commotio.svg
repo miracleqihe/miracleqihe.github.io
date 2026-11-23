@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">胸部撞击后倒地：心律与急救</title>
+<desc id="desc">心律线只是示意，不对应某一病人的心电图</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">胸部撞击后倒地：心律与急救</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">心律线只是示意，不对应某一病人的心电图</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<g transform="translate(220 110) scale(1.05)"><circle cx="0" cy="0" r="29" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M-34 42 Q0 29 34 42 L44 145 L29 160 L23 278 L7 278 L0 168 L-7 278 L-23 278 L-29 160 L-44 145 Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-35 52 L-69 150 M35 52 L69 150" fill="none" stroke="#b49284" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(220 195) scale(0.3)"><path d="M0 20 C-50 -36 -94 2 -75 50 C-60 83 -25 106 0 130 C25 106 60 83 75 50 C94 2 50 -36 0 20Z" fill="#d99c98" stroke="#ae7475" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g><path d="M410 165 h55 l18-35 18 80 20-45 h90" fill="none" stroke="#af7072" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M410 240 q15-25 30 0 q15 25 30 0 q15-25 30 0 q15 25 30 0 q15-25 30 0" fill="none" stroke="#af7072" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><rect x="440" y="310" width="165" height="90" rx="10" fill="#edf4eb" stroke="#91aa99" stroke-width="4"/><text x="522" y="365" font-size="34" fill="#719481" font-weight="700" text-anchor="middle">AED</text><line x1="220" y1="210" x2="315" y2="85" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="220" cy="210" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="323" y="93" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">胸部撞击后倒地</text><text x="410" y="115" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">心律示意：可能异常</text><text x="522" y="445" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">立即呼救、按指导复苏并取 AED</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">胸部受击后突然无反应，可能发</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">生心脏骤停。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">无正常呼吸时立即呼叫急救并按</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">指导复苏。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">请旁人取 AED，拿到后按设备语</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">音提示使用。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">外表伤痕轻微也不能排除危及生命的心律异常。</text>
+</g></svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">合同阅读：先确认对象、内容和凭据</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">图示帮助定位条款；实际权利义务以合同、适用法律和具体事实为准。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="370" y="115" width="450" height="310" rx="4" fill="#fff" stroke="#b9c9c1" stroke-width="3"/>
+<line x1="420" y1="175" x2="770" y2="175" stroke="#c8d4cc" stroke-width="3"/>
+<line x1="420" y1="220" x2="770" y2="220" stroke="#c8d4cc" stroke-width="3"/>
+<line x1="420" y1="265" x2="770" y2="265" stroke="#c8d4cc" stroke-width="3"/>
+<line x1="420" y1="310" x2="770" y2="310" stroke="#c8d4cc" stroke-width="3"/>
+<line x1="420" y1="355" x2="770" y2="355" stroke="#c8d4cc" stroke-width="3"/>
+<text x="410" y="158" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="27" font-weight="700" text-anchor="start">协议</text>
+<circle cx="450" cy="220" r="8" fill="#326f80" stroke="#326f80" stroke-width="2"/>
+<circle cx="450" cy="265" r="8" fill="#bb8737" stroke="#bb8737" stroke-width="2"/>
+<circle cx="450" cy="310" r="8" fill="#a94d37" stroke="#a94d37" stroke-width="2"/>
+<circle cx="450" cy="355" r="8" fill="#60816a" stroke="#60816a" stroke-width="2"/>
+<line x1="245" y1="170" x2="410" y2="210" stroke="#326f80" stroke-width="3"/>
+<path d="M 397.4 213.1 L 410 210 L 400.2 201.4" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="80" y="165" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">双方身份</text>
+<line x1="245" y1="260" x2="410" y2="265" stroke="#bb8737" stroke-width="3"/>
+<path d="M 398.3 270.7 L 410 265 L 398.7 258.7" fill="none" stroke="#bb8737" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="80" y="254" fill="#bb8737" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">标的与价格</text>
+<line x1="950" y1="255" x2="790" y2="310" stroke="#a94d37" stroke-width="3"/>
+<path d="M 799.0 300.6 L 790 310 L 802.9 311.9" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="966" y="250" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">期限与违约</text>
+<line x1="950" y1="355" x2="790" y2="355" stroke="#60816a" stroke-width="3"/>
+<path d="M 801.5 349.0 L 790 355 L 801.5 361.0" fill="none" stroke="#60816a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="966" y="351" fill="#60816a" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">签署与留存</text>
+<text x="600" y="482" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">保存完整文本、付款及沟通记录；争议情形及时咨询专业人员。</text>
+</svg>

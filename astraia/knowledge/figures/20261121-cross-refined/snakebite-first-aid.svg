@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">疑似蛇咬伤：减少活动，尽快就医</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">不要靠近或抓蛇；在安全距离拍照可供医护参考。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 90 290 Q 245 250 380 295 L 520 310 L 520 360 Q 365 335 240 350 Q 150 360 90 340 Z" fill="#eddbcf" stroke="#a58b7f" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="345" cy="301" r="5" fill="#a94d37" stroke="#a94d37" stroke-width="2"/>
+<circle cx="362" cy="304" r="5" fill="#a94d37" stroke="#a94d37" stroke-width="2"/>
+<rect x="230" y="350" width="230" height="18" rx="2" fill="#d6be94" stroke="#a48c67" stroke-width="2"/>
+<text x="305" y="417" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">安置伤肢，取下手表和戒指</text>
+<text x="670" y="190" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">立刻求助并减少行走</text>
+<text x="670" y="247" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">不要切开、吸吮或电击</text>
+<text x="670" y="300" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">不要用止血带阻断血流</text>
+<text x="670" y="353" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">记录时间，按当地急救指引处理</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">包扎方法因蛇种和地区不同，以当地急救机构指导为准。</text>
+</svg>

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">熟食温度计：测食物最厚处的中心</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">颜色和外表不能可靠说明内部是否达到安全温度。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 90 370 Q 95 220 300 220 Q 500 220 510 370 Z" fill="#dbb59d" stroke="#987967" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="300" y1="150" x2="300" y2="300" stroke="#263b3e" stroke-width="6"/>
+<rect x="255" y="115" width="90" height="48" rx="6" fill="#edf1e9" stroke="#8fa399" stroke-width="3"/>
+<circle cx="300" cy="300" r="7" fill="#a94d37" stroke="#a94d37" stroke-width="2"/>
+<text x="300" y="414" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">探头进入最厚处，避开骨头</text>
+<text x="640" y="180" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="start">温度示例</text>
+<text x="640" y="230" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">禽肉中心达到 74°C</text>
+<text x="640" y="278" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">整块牛肉 63°C 后静置 3 分钟</text>
+<text x="640" y="328" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">各类食物和本地标准可能不同</text>
+<text x="600" y="475" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">不同部位可分别测量；使用后按说明清洁温度计。</text>
+</svg>

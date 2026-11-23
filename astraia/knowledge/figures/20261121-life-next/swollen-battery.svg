@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">锂电池鼓包：停止使用，避开挤压与热源</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">异常发热、异味、冒烟或鼓包都需要认真处理。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="100" y="140" width="270" height="290" rx="24" fill="#e7e9e5" stroke="#7d8783" stroke-width="3"/>
+<rect x="120" y="165" width="230" height="220" rx="10" fill="#faf8f1" stroke="#b4bbb4" stroke-width="2"/>
+<path d="M 175 220 Q 235 185 295 220 L 295 325 Q 235 360 175 325 Z" fill="#dbc5a6" stroke="#a4815d" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="375" y1="255" x2="450" y2="255" stroke="#a94d37" stroke-width="4"/>
+<path d="M 438.5 261.0 L 450 255 L 438.5 249.0" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="470" y="262" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">外壳翘起</text>
+<line x1="525" y1="300" x2="615" y2="390" stroke="#a94d37" stroke-width="5"/>
+<line x1="615" y1="300" x2="525" y2="390" stroke="#a94d37" stroke-width="5"/>
+<text x="570" y="428" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">勿刺穿、挤压</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">停止充电和继续使用</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">不要刺穿、折压或自行拆解</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">依当地规定联系专业回收</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">冒烟起火时远离并呼叫消防</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">使用合适的充电器并定期检查电池及导线。</text>
+</svg>

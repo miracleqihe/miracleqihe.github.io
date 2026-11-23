@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">基率与筛查：用一万人作假想例子</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">假设患病率 1%，灵敏度 90%，特异度 95%；不是实际疾病参数。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="70" y="130" width="1060" height="240" rx="8" fill="#ffffff" stroke="#d3e0d9" stroke-width="2"/>
+<text x="600" y="172" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="28" font-weight="700" text-anchor="middle">10 000 人</text>
+<line x1="390" y1="182" x2="270" y2="222" stroke="#326f80" stroke-width="3"/>
+<path d="M 279.0 212.7 L 270 222 L 282.8 224.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="810" y1="182" x2="930" y2="222" stroke="#326f80" stroke-width="3"/>
+<path d="M 917.2 224.0 L 930 222 L 921.0 212.7" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="270" y="245" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">患病 100 人</text>
+<text x="930" y="245" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">未患病 9 900 人</text>
+<text x="195" y="290" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">阳性 90</text>
+<text x="345" y="290" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">阴性 10</text>
+<text x="850" y="290" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">阳性 495</text>
+<text x="1015" y="290" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">阴性 9 405</text>
+<text x="600" y="411" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">阳性共 585 人，其中真正患病 90 人：90 ÷ 585 ≈ 15.4%</text>
+<text x="600" y="479" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">预测值会随患病率和检测性能变化，结果应结合专业评估。</text>
+</svg>

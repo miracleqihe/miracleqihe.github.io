@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">疑似饮品被投物：陪伴与求助</title>
+<desc id="desc">停止饮用，联系可信任的人和医护</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">疑似饮品被投物：陪伴与求助</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">停止饮用，联系可信任的人和医护</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<g transform="translate(245 130) scale(0.8)"><circle cx="0" cy="0" r="29" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M-34 42 Q0 29 34 42 L44 145 L29 160 L23 278 L7 278 L0 168 L-7 278 L-23 278 L-29 160 L-44 145 Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-35 52 L-69 150 M35 52 L69 150" fill="none" stroke="#b49284" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(420 130) scale(0.8)"><circle cx="0" cy="0" r="29" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M-34 42 Q0 29 34 42 L44 145 L29 160 L23 278 L7 278 L0 168 L-7 278 L-23 278 L-29 160 L-44 145 Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-35 52 L-69 150 M35 52 L69 150" fill="none" stroke="#b49284" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/></g><path d="M220 138 q25-15 50 0" fill="none" stroke="#af7072" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M145 335 h65 l-10 70 h-45Z" fill="#dce9e0" stroke="#8ca899" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M150 365 h55" fill="none" stroke="#668f98" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="590" y="145" width="75" height="120" rx="10" fill="#e3eee5" stroke="#94aa9a" stroke-width="4"/><circle cx="628" cy="244" r="5" fill="#719481" stroke="none" stroke-width="3"/><line x1="452" y1="220" x2="570" y2="210" stroke="#719481" stroke-width="4" stroke-linecap="round"/><path d="M 559.2 217.2 L 570 210 L 558.1 204.8" fill="none" stroke="#719481" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="175" y="438" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">停止饮用</text><text x="338" y="438" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">可信任的人陪伴</text><text x="628" y="302" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">联系急救或医护</text><text x="570" y="363" font-size="24" fill="#af7072" font-weight="700" text-anchor="start">叫不醒或呼吸异常：急救</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">突然头晕、走不稳或异常困倦应</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">尽快求助。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">叫不醒、呼吸异常或抽搐时立即</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">急救。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">有人陪伴并告知医护可能接触不</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">明物质。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">饮料气味、颜色和味道没有变化也无法排除投物。</text>
+</g></svg>

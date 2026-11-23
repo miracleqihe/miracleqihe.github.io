@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">日出方向随季节变化：正东并非每天都适用</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">以北半球中纬度、无遮挡地平线为例；南半球季节方向相反。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<circle cx="320" cy="275" r="135" fill="#f5f2e7" stroke="#a5b1a6" stroke-width="3"/>
+<text x="320" y="115" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">北</text>
+<text x="480" y="282" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">东</text>
+<text x="320" y="452" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">南</text>
+<text x="158" y="282" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">西</text>
+<line x1="320" y1="275" x2="445" y2="175" stroke="#bb8737" stroke-width="4"/>
+<path d="M 439.7 186.9 L 445 175 L 432.2 177.5" fill="none" stroke="#bb8737" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="320" y1="275" x2="455" y2="275" stroke="#326f80" stroke-width="4"/>
+<path d="M 443.5 281.0 L 455 275 L 443.5 269.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="320" y1="275" x2="445" y2="375" stroke="#a94d37" stroke-width="4"/>
+<path d="M 432.2 372.5 L 445 375 L 439.7 363.1" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="505" y="175" fill="#bb8737" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">夏季日出偏北</text>
+<text x="505" y="282" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">春分、秋分附近接近正东</text>
+<text x="505" y="385" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">冬季日出偏南</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">山脊高度、纬度与日期会改变观测方位；高纬还可能出现极昼极夜。</text>
+</svg>

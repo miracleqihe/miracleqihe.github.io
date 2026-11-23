@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">冻伤：容易暴露的部位</title>
+<desc id="desc">指、趾、鼻和耳需结合感觉及颜色变化观察</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">冻伤：容易暴露的部位</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">指、趾、鼻和耳需结合感觉及颜色变化观察</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<g transform="translate(250 110) scale(1.05)"><circle cx="0" cy="0" r="29" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M-34 42 Q0 29 34 42 L44 145 L29 160 L23 278 L7 278 L0 168 L-7 278 L-23 278 L-29 160 L-44 145 Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-35 52 L-69 150 M35 52 L69 150" fill="none" stroke="#b49284" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/></g><circle cx="250" cy="95" r="12" fill="none" stroke="#668f98" stroke-width="3"/><circle cx="177" cy="270" r="12" fill="none" stroke="#668f98" stroke-width="3"/><circle cx="323" cy="270" r="12" fill="none" stroke="#668f98" stroke-width="3"/><circle cx="227" cy="410" r="12" fill="none" stroke="#668f98" stroke-width="3"/><circle cx="273" cy="410" r="12" fill="none" stroke="#668f98" stroke-width="3"/><line x1="250" y1="95" x2="405" y2="115" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="250" cy="95" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="413" y="123" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">鼻、耳</text><line x1="177" y1="270" x2="405" y2="215" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="177" cy="270" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="413" y="223" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">手指</text><line x1="273" y1="410" x2="405" y2="315" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="273" cy="410" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="413" y="323" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">足趾</text><text x="405" y="405" font-size="25" fill="#596b6d" font-weight="400" text-anchor="start">麻木、皮肤发白或蜡样</text><path d="M100 90 l-20 18 M130 65 l-20 18 M90 145 l-20 18" fill="none" stroke="#668f98" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">皮肤可能发白、灰黄、麻木或有</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">蜡样感觉。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">全身发抖、动作笨拙或意识迟钝</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">还要警惕失温。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">尽快避寒并寻求医疗帮助，防止</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">再次冻结。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">不要揉搓冻伤部位；具体复温按医护指导进行。</text>
+</g></svg>

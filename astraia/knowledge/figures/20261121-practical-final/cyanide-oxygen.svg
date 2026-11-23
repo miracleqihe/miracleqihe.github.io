@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">氰化物暴露：从供氧到细胞利用</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">可见线索因人而异；有暴露史时立即求助。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 70 300 Q 132 190 204 238 Q 259 290 320 237" fill="none" stroke="#a94d37" stroke-width="9" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 70 328 Q 132 218 204 266 Q 259 318 320 265" fill="none" stroke="#326f80" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="130" cy="299" r="18" fill="#d07364" stroke="#a94d37" stroke-width="2"/>
+<circle cx="214" cy="285" r="18" fill="#d07364" stroke="#a94d37" stroke-width="2"/>
+<text x="193" y="389" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="middle">血液把氧输送到组织</text>
+<line x1="333" y1="254" x2="420" y2="254" stroke="#326f80" stroke-width="4"/>
+<path d="M 408.5 260.0 L 420 254 L 408.5 248.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="545" cy="254" rx="107" ry="82" fill="#e6f0e4" stroke="#60816a" stroke-width="3"/>
+<path d="M 485 251 Q 512 204 539 252 Q 561 294 590 249" fill="none" stroke="#60816a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<text x="545" y="365" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">细胞利用氧受阻</text>
+<line x1="666" y1="254" x2="735" y2="254" stroke="#a94d37" stroke-width="4"/>
+<path d="M 723.5 260.0 L 735 254 L 723.5 248.0" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="761" y="145" width="352" height="234" rx="8" fill="#fff" stroke="#d3e0d9" stroke-width="2"/>
+<text x="783" y="186" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">头晕、呼吸异常</text>
+<text x="783" y="229" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">可出现意识改变或抽搐</text>
+<text x="783" y="274" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">苦杏仁味、樱红色并非必有</text>
+<text x="783" y="319" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">不要靠近主动嗅闻</text>
+<text x="600" y="485" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">迅速离开污染处并呼救；误食不要催吐，向医护说明暴露。</text>
+</svg>

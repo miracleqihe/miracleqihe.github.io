@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">高压喷流伤：小孔与深部组织</title>
+<desc id="desc">皮肤表面与潜在深部受累范围示意</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">高压喷流伤：小孔与深部组织</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">皮肤表面与潜在深部受累范围示意</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<rect x="95" y="130" width="570" height="250" rx="0" fill="#f0dcd0" stroke="#bb9e91" stroke-width="3"/><rect x="95" y="130" width="570" height="20" rx="0" fill="#d1aaa0" stroke="none" stroke-width="0"/><rect x="95" y="250" width="570" height="130" rx="0" fill="#e5d5b1" stroke="none" stroke-width="0"/><line x1="95" y1="250" x2="665" y2="250" stroke="#ceb99a" stroke-width="2" stroke-linecap="round"/><circle cx="290" cy="130" r="7" fill="#af7072" stroke="none" stroke-width="3"/><path d="M290 140 Q310 186 356 214 Q415 241 480 245 Q425 258 390 270 Q338 243 318 225 Q300 200 290 140Z" fill="#b9d4d7" stroke="#7aa4ab" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><line x1="290" y1="130" x2="110" y2="87" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="290" cy="130" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="118" y="95" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">外表小孔</text><line x1="410" y1="245" x2="490" y2="315" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="410" cy="245" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="498" y="323" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">深部受累范围</text><text x="380" y="440" font-size="25" fill="#596b6d" font-weight="400" text-anchor="middle">外口大小不能反映深部波及范围</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">手指或手掌的外口可能很小。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">喷流可能把液体带入深部，早期</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">疼痛也可能不明显。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">发生后尽快急诊，告知接触的物</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">质和设备。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">不要等待肿胀扩大才就医，深部范围需专业评估。</text>
+</g></svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">离线地图：误差圈与地形一起看</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">示例为一座假想山丘；定位圆圈内的实际位置仍有不确定性。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<ellipse cx="275" cy="275" rx="205" ry="152" fill="none" stroke="#a99472" stroke-width="2"/>
+<ellipse cx="275" cy="275" rx="166" ry="122" fill="none" stroke="#a99472" stroke-width="2"/>
+<ellipse cx="275" cy="275" rx="126" ry="91" fill="none" stroke="#a99472" stroke-width="2"/>
+<ellipse cx="275" cy="275" rx="86" ry="60" fill="none" stroke="#a99472" stroke-width="2"/>
+<ellipse cx="275" cy="275" rx="43" ry="29" fill="none" stroke="#a99472" stroke-width="2"/>
+<path d="M 70 398 Q 183 358 260 313 Q 353 256 471 135" fill="none" stroke="#bb8737" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<circle cx="260" cy="303" r="64" fill="none" stroke="#326f80" stroke-width="3"/>
+<circle cx="260" cy="303" r="7" fill="#326f80" stroke="#326f80" stroke-width="2"/>
+<line x1="90" y1="177" x2="90" y2="125" stroke="#263b3e" stroke-width="3"/>
+<path d="M 96.0 136.5 L 90 125 L 84.0 136.5" fill="none" stroke="#263b3e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="90" y="119" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="700" text-anchor="middle">北</text>
+<text x="402" y="204" fill="#bb8737" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="start">等高线</text>
+<text x="118" y="426" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="start">虚线：假想步道</text>
+<text x="310" y="348" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="start">定位误差圈</text>
+<line x1="550" y1="120" x2="550" y2="443" stroke="#d9e5df" stroke-width="2"/>
+<path d="M 585 362 Q 652 359 699 302 Q 760 225 824 181 Q 883 230 932 307 Q 990 360 1110 362" fill="#e1ebdd" stroke="#60816a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="589" y1="362" x2="1110" y2="362" stroke="#263b3e" stroke-width="3"/>
+<text x="827" y="162" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">山顶</text>
+<text x="829" y="412" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">另一个山丘的侧面示意</text>
+<text x="600" y="485" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">定位误差圈为估计范围，实际位置仍可能在圈外。</text>
+</svg>

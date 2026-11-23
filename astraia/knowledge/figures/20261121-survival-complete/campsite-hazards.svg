@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">选营地：从上方、脚下到退路</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">优先使用允许露营的既有营地；天气和地形变化时及时转移。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 45 385 Q 185 355 310 375 Q 490 320 650 350 L 735 385" fill="none" stroke="#9caa98" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 105 360 L 180 230 L 255 360 Z" fill="#ecdfbe" stroke="#a38b66" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="180" y1="230" x2="180" y2="360" stroke="#a38b66" stroke-width="3"/>
+<path d="M 400 365 Q 470 335 550 365 Q 620 395 700 370" fill="none" stroke="#326f80" stroke-width="7" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 360 140 L 360 310 M 360 175 L 285 145 M 360 175 L 420 135" fill="none" stroke="#7d6e5f" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="390" y1="150" x2="450" y2="185" stroke="#a94d37" stroke-width="3"/>
+<path d="M 437.0 184.4 L 450 185 L 443.1 174.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="465" y="185" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">留意枯枝和落石</text>
+<line x1="560" y1="270" x2="620" y2="330" stroke="#a94d37" stroke-width="3"/>
+<path d="M 607.6 326.1 L 620 330 L 616.1 317.6" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="555" y="255" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">避开沟谷与洪水线</text>
+<line x1="225" y1="365" x2="305" y2="365" stroke="#326f80" stroke-width="3"/>
+<path d="M 293.5 371.0 L 305 365 L 293.5 359.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="120" y="423" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">选择平整、不积水的位置</text>
+<text x="815" y="195" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">检查上方悬枝</text>
+<text x="815" y="247" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">预留远离河道的退路</text>
+<text x="815" y="295" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">同时避开高峰和崖边</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">地势、天气与管理规定会改变选址；图示不是万能营地。</text>
+</svg>

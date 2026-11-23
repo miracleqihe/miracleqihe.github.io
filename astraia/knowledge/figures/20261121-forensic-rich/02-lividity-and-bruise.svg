@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="660" viewBox="0 0 1400 660" role="img" aria-labelledby="title desc">
+<title id="title">尸斑、受压区与挫伤：看分布，也看组织</title>
+<desc id="desc">下图是组织结构示意；体表颜色可能相近</desc>
+<rect x="1" y="1" width="1398" height="658" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="32" y="47" fill="#293b43" font-size="38" font-weight="700" text-anchor="start">尸斑、受压区与挫伤：看分布，也看组织</text>
+<text x="33" y="85" fill="#52636a" font-size="24" font-weight="400" text-anchor="start">下图是组织结构示意；体表颜色可能相近</text>
+<rect x="26" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="242" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">尸斑：低位血管内</text>
+<g transform="translate(112 172)">
+<rect x="15" y="25" width="230" height="75" rx="3" fill="#ead8d6" stroke="#bca8a5" stroke-width="2"/><rect x="30" y="62" width="200" height="24" rx="3" fill="#a77788" stroke="#80596a" stroke-width="2"/><circle cx="48" cy="74" r="6" fill="#694753" stroke="none" stroke-width="2"/><circle cx="78" cy="74" r="6" fill="#694753" stroke="none" stroke-width="2"/><circle cx="108" cy="74" r="6" fill="#694753" stroke="none" stroke-width="2"/><circle cx="138" cy="74" r="6" fill="#694753" stroke="none" stroke-width="2"/><circle cx="168" cy="74" r="6" fill="#694753" stroke="none" stroke-width="2"/><circle cx="198" cy="74" r="6" fill="#694753" stroke="none" stroke-width="2"/><text x="130" y="122" fill="#52636a" font-size="19" font-weight="400" text-anchor="middle">示意：血管内</text>
+</g>
+<text x="51" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">血液多聚集在身体低位血</text>
+<text x="51" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">管。体表可见暗红或紫红色</text>
+<text x="51" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">斑片。低位并非就是最低的</text>
+<text x="51" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">接触点。</text>
+<rect x="484" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="700" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">受压区：接触位置</text>
+<g transform="translate(570 172)">
+<rect x="15" y="25" width="230" height="75" rx="3" fill="#ead8d6" stroke="#bca8a5" stroke-width="2"/><rect x="17" y="64" width="74" height="33" rx="0" fill="#aa7e90" stroke="none" stroke-width="0"/><rect x="169" y="64" width="74" height="33" rx="0" fill="#aa7e90" stroke="none" stroke-width="0"/><line x1="92" y1="98" x2="169" y2="98" stroke="#6e5d56" stroke-width="7" stroke-linecap="round"/><path d="M105 3 v18 m-7-6 7 6 7-6 M155 3 v18 m-7-6 7 6 7-6" fill="none" stroke="#a1665b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="130" y="122" fill="#52636a" font-size="19" font-weight="400" text-anchor="middle">浅色接触区</text>
+</g>
+<text x="509" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">肩胛、臀部等支撑点可较</text>
+<text x="509" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">浅。衣领或衣带也可能造成</text>
+<text x="509" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">压迫。实际形状取决于体位</text>
+<text x="509" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">与物体。</text>
+<rect x="942" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="1158" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">挫伤：血管外组织</text>
+<g transform="translate(1028 172)">
+<rect x="15" y="25" width="230" height="75" rx="3" fill="#ead8d6" stroke="#bca8a5" stroke-width="2"/><path d="M30 68 h55 m90 0 h55 M30 88 h55 m90 0 h55" fill="none" stroke="#80596a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="105" cy="57" r="6" fill="#a75967" stroke="none" stroke-width="2"/><circle cx="125" cy="48" r="6" fill="#a75967" stroke="none" stroke-width="2"/><circle cx="145" cy="57" r="6" fill="#a75967" stroke="none" stroke-width="2"/><circle cx="118" cy="75" r="6" fill="#a75967" stroke="none" stroke-width="2"/><circle cx="143" cy="88" r="6" fill="#a75967" stroke="none" stroke-width="2"/><circle cx="100" cy="91" r="6" fill="#a75967" stroke="none" stroke-width="2"/><text x="130" y="122" fill="#52636a" font-size="19" font-weight="400" text-anchor="middle">示意：血管外</text>
+</g>
+<text x="967" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">血液进入皮肤或更深组织。</text>
+<text x="967" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">可伴局部肿胀或擦伤，也可</text>
+<text x="967" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">不明显。与周围颜色、位置</text>
+<text x="967" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">一并记录。</text>
+<rect x="26" y="558" width="1348" height="81" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="44" y="590" fill="#785334" font-size="25" font-weight="400" text-anchor="start">外观存在重叠；法医结合深层组织、显微检查及抢救记录判断。</text>
+<text x="44" y="622" fill="#785334" font-size="25" font-weight="400" text-anchor="start">旁人不按压、切开或翻动；有生命迹象不明时立即呼救。</text>
+</g></svg>

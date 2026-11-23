@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">玻璃体钾：样本位置与解释因素</title>
+<desc id="desc">眼球剖面和影响检验结果的部分条件</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">玻璃体钾：样本位置与解释因素</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">眼球剖面和影响检验结果的部分条件</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<circle cx="235" cy="220" r="150" fill="#e8f1eb" stroke="#9cb4a9" stroke-width="4"/><path d="M96 164 Q40 220 96 276" fill="none" stroke="#668f98" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path d="M124 135 Q140 220 124 305" fill="none" stroke="#719481" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><ellipse cx="145" cy="220" rx="33" ry="65" fill="#f1e7ce" stroke="#bdaa8a" stroke-width="3"/><circle cx="245" cy="220" r="70" fill="#d9e8e8" stroke="#b2cbcb" stroke-width="2"/><text x="244" y="228" font-size="25" fill="#293e44" font-weight="700" text-anchor="middle">玻璃体</text><line x1="245" y1="220" x2="440" y2="132" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="245" cy="220" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="448" y="140" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">样本位置</text><text x="465" y="210" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">温度</text><text x="465" y="258" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">年龄与身体状态</text><text x="465" y="306" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">采样和检验方式</text><path d="M433 338 H715" fill="none" stroke="#c8d5cf" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="465" y="386" font-size="24" fill="#596b6d" font-weight="400" text-anchor="start">多项因素影响解释范围</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">玻璃体是眼内的凝胶状组织。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">死亡后钾浓度常随时间变化，但</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">个体差异很大。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">温度、身体状况、采样和检验方</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">法影响结果。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">一个浓度读数不能直接换算成准确死亡时刻。</text>
+</g></svg>

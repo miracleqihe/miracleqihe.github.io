@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820" role="img" aria-labelledby="title desc">
+<title id="title">毛发：毛根、毛干与比较材料</title>
+<desc id="desc">形态与 DNA 检验回答的问题不同</desc>
+<rect x="1" y="1" width="1598" height="818" rx="15" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="36" y="53" font-size="42" font-weight="700" fill="#263d43" text-anchor="start">毛发：毛根、毛干与比较材料</text>
+<text x="38" y="94" font-size="29" font-weight="400" fill="#5b6d70" text-anchor="start">形态与 DNA 检验回答的问题不同</text>
+<rect x="28" y="120" width="920" height="595" rx="12" fill="#f3f6f2" stroke="#dce6df" stroke-width="2"/>
+<g transform="translate(35 130)">
+<path d="M93 255 Q112 211 165 233 L548 233 L548 275 L165 275 Q112 295 93 255Z" fill="#9e7c65" stroke="#725844" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M548 233 h180 v42 H548" fill="#b5957e" stroke="#725844" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M124 235 q-18-12-29 4 M120 265 q-18 12-29-4" fill="none" stroke="#b89b91" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><line x1="160" y1="219" x2="160" y2="147" stroke="#608994" stroke-width="4" stroke-linecap="round"/><text x="160" y="123" font-size="26" font-weight="400" fill="#263d43" text-anchor="middle">毛根及附着组织</text><line x1="557" y1="217" x2="557" y2="147" stroke="#608994" stroke-width="4" stroke-linecap="round"/><text x="557" y="123" font-size="26" font-weight="400" fill="#263d43" text-anchor="middle">毛干</text><circle cx="585" cy="407" r="78" fill="#b4947e" stroke="#6e5444" stroke-width="3"/><circle cx="585" cy="407" r="62" fill="#d3baa4" stroke="#846d59" stroke-width="3"/><circle cx="585" cy="407" r="19" fill="#826653" stroke="none" stroke-width="3"/><text x="585" y="514" font-size="24" font-weight="400" fill="#263d43" text-anchor="middle">横截面：外层、皮质与髓质</text><circle cx="55" cy="248" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="55" y="256" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">1</text><circle cx="734" cy="250" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="734" y="258" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">2</text><circle cx="681" cy="400" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="681" y="408" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">3</text>
+</g>
+<line x1="971" y1="132" x2="971" y2="706" stroke="#e3e8e2" stroke-width="2" stroke-linecap="round"/>
+<text x="1005" y="164" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">① 毛根</text>
+<text x="1005" y="204" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">附着组织的毛根可能适合核 DNA 分</text>
+<text x="1005" y="241" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">析。</text>
+<text x="1005" y="299" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">② 毛干</text>
+<text x="1005" y="339" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">毛干有时可检测线粒体 DNA，部分方</text>
+<text x="1005" y="376" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">法也能分析核 DNA。</text>
+<text x="1005" y="434" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">③ 结构</text>
+<text x="1005" y="474" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">表层、皮质与髓质可供显微观察，取</text>
+<text x="1005" y="511" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">决于样本。</text>
+<text x="1005" y="569" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">④ 局限</text>
+<text x="1005" y="609" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">形态相似不能唯一确定个人；线粒体</text>
+<text x="1005" y="646" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">类型可能被多人共享。</text>
+<rect x="28" y="735" width="1544" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="45" y="773" font-size="29" font-weight="400" fill="#785334" text-anchor="start">是否得到可解释结果受样本状况、参照材料和实验室方法影响。</text>
+</g></svg>

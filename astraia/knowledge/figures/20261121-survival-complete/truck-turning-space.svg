@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">大货车转弯：为盲区和车辆扫过的空间留余地</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">俯视示意，不同车辆、车速及转弯角度的盲区与轨迹不同。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="240" y="180" width="440" height="120" rx="5" fill="#dce7e2" stroke="#859d90" stroke-width="3"/>
+<rect x="145" y="190" width="95" height="100" rx="5" fill="#cddbd4" stroke="#859d90" stroke-width="3"/>
+<circle cx="200" cy="305" r="15" fill="#555" stroke="#263b3e" stroke-width="2"/>
+<circle cx="605" cy="305" r="15" fill="#555" stroke="#263b3e" stroke-width="2"/>
+<path d="M 270 325 Q 330 405 500 405 L 760 405" fill="none" stroke="#a94d37" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="10 8"/>
+<line x1="550" y1="340" x2="700" y2="400" stroke="#a94d37" stroke-width="4"/>
+<path d="M 687.1 401.3 L 700 400 L 691.5 390.1" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="740" y="410" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">转弯内侧要留空</text>
+<path d="M 680 175 L 780 145 L 780 325 L 680 295 Z" fill="#f3dfd7" stroke="#a94d37" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<text x="880" y="200" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">不要贴近车身穿行</text>
+<text x="880" y="250" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">停车确认后再通过</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">阴影是示意；能看到驾驶员不一定代表对方已注意到你。</text>
+</svg>

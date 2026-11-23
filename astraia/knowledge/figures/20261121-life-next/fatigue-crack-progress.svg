@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">疲劳裂纹：从起始到扩展，再到剩余截面断裂</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">循环载荷可能使小裂纹扩展；具体原因需要材料和工况证据。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="65" y="155" width="260" height="220" rx="10" fill="#e1e5e1" stroke="#9daaa3" stroke-width="3"/>
+<path d="M 205 158 L 205 235 L 180 250 L 210 275" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="15" y1="260" x2="65" y2="260" stroke="#326f80" stroke-width="3"/>
+<path d="M 53.5 266.0 L 65 260 L 53.5 254.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="325" y1="260" x2="375" y2="260" stroke="#326f80" stroke-width="3"/>
+<path d="M 363.5 266.0 L 375 260 L 363.5 254.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="535" cy="265" r="100" fill="#e4e9e5" stroke="#85968d" stroke-width="3"/>
+<path d="M 455 254 Q 511 243 557 265" fill="none" stroke="#9aaea4" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 455 244 Q 521 223 577 265" fill="none" stroke="#9aaea4" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 455 234 Q 531 203 597 265" fill="none" stroke="#9aaea4" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 455 225 Q 540 185 615 265" fill="none" stroke="#9aaea4" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 535 265 L 620 215 L 630 305 L 580 350 Z" fill="#d4bdac" stroke="#a94d37" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<text x="195" y="410" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">受循环载荷构件</text>
+<text x="535" y="410" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">断口的简化示意</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">裂纹可能从局部缺陷开始</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">循环使裂纹逐渐扩展</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">剩余截面不足时可发生断裂</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">断口形貌需要专业鉴定</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">图中线条仅表示扩展区域；实际断口不一定出现这种图案。</text>
+</svg>

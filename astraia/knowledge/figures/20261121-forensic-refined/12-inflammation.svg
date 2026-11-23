@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">损伤组织：出血与细胞反应</title>
+<desc id="desc">血管与周围组织的简化显微示意</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">损伤组织：出血与细胞反应</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">血管与周围组织的简化显微示意</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<rect x="90" y="120" width="590" height="260" rx="8" fill="#f4ded8" stroke="#c7aaa3" stroke-width="3"/><path d="M120 265 h490 v55 H120z" fill="#c99091" stroke="#a9686c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="150" cy="291" r="12" fill="#a95f67" stroke="none" stroke-width="3"/><circle cx="202" cy="291" r="12" fill="#a95f67" stroke="none" stroke-width="3"/><circle cx="254" cy="291" r="12" fill="#a95f67" stroke="none" stroke-width="3"/><circle cx="306" cy="291" r="12" fill="#a95f67" stroke="none" stroke-width="3"/><circle cx="358" cy="291" r="12" fill="#a95f67" stroke="none" stroke-width="3"/><circle cx="410" cy="291" r="12" fill="#a95f67" stroke="none" stroke-width="3"/><circle cx="462" cy="291" r="12" fill="#a95f67" stroke="none" stroke-width="3"/><circle cx="514" cy="291" r="12" fill="#a95f67" stroke="none" stroke-width="3"/><circle cx="566" cy="291" r="12" fill="#a95f67" stroke="none" stroke-width="3"/><circle cx="255" cy="237" r="11" fill="#a95f67" stroke="none" stroke-width="3"/><circle cx="310" cy="210" r="11" fill="#a95f67" stroke="none" stroke-width="3"/><circle cx="360" cy="242" r="11" fill="#a95f67" stroke="none" stroke-width="3"/><circle cx="470" cy="293" r="16" fill="#f6f2e6" stroke="#8fa69c" stroke-width="3"/><circle cx="470" cy="238" r="16" fill="#f6f2e6" stroke="#8fa69c" stroke-width="3"/><line x1="470" y1="268" x2="470" y2="255" stroke="#6f9580" stroke-width="4" stroke-linecap="round"/><path d="M 476.9 268.3 L 470 255 L 463.1 268.3" fill="none" stroke="#6f9580" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="385" y="425" font-size="26" fill="#596b6d" font-weight="400" text-anchor="middle">血管内外的细胞分布示意</text><circle cx="222" cy="232" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/><circle cx="510" cy="236" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">红细胞可进入受损血管外的组</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">织。</text>
+<circle cx="985" cy="314" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">炎症细胞迁移及修复变化可提供</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">生前反应线索。</text>
+<circle cx="985" cy="469" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">受伤部位、身体状况、治疗和保</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">存都影响检查。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">单项染色或有无出血，不能直接换算受伤的具体时刻。</text>
+</g></svg>

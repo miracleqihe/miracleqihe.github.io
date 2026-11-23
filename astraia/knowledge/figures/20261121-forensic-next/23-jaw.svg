@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">颌面伤：牙齿、咬合与呼吸</title>
+<desc id="desc">脸部正面示意，观察口腔和下颌变化</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">颌面伤：牙齿、咬合与呼吸</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">脸部正面示意，观察口腔和下颌变化</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M260 70 Q145 68 145 180 Q145 280 220 330 Q260 355 300 330 Q375 280 375 180 Q375 68 260 70Z" fill="#ead7cd" stroke="#b49284" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M180 230 Q260 275 340 230" fill="none" stroke="#a58275" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path d="M200 220 Q260 245 320 220 L320 240 Q260 265 200 240Z" fill="#fff9ed" stroke="#ae9284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><line x1="215" y1="226" x2="215" y2="244" stroke="#c8b5a4" stroke-width="2" stroke-linecap="round"/><line x1="235" y1="226" x2="235" y2="244" stroke="#c8b5a4" stroke-width="2" stroke-linecap="round"/><line x1="255" y1="226" x2="255" y2="244" stroke="#c8b5a4" stroke-width="2" stroke-linecap="round"/><line x1="275" y1="226" x2="275" y2="244" stroke="#c8b5a4" stroke-width="2" stroke-linecap="round"/><line x1="295" y1="226" x2="295" y2="244" stroke="#c8b5a4" stroke-width="2" stroke-linecap="round"/><line x1="315" y1="226" x2="315" y2="244" stroke="#c8b5a4" stroke-width="2" stroke-linecap="round"/><line x1="260" y1="235" x2="455" y2="140" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="260" cy="235" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="463" y="148" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">牙齿与咬合</text><line x1="295" y1="320" x2="455" y2="235" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="295" cy="320" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="463" y="243" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">下颌与张口</text><text x="455" y="335" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">出血、呼吸费力需急救</text><text x="260" y="440" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">外伤可同时影响口腔与面部</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">牙齿松动、咬合改变或张口困难</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">可见于颌面伤。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">持续出血、呼吸费力或意识异常</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">需要急救。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">可能合并头颈伤，避免不必要搬</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">动。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">口腔深部和骨性损伤需由医疗人员检查。</text>
+</g></svg>

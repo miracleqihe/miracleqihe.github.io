@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">延迟、抖动与丢包：三种不同现象</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">下图是虚构测量序列，时间越短不一定表示网络越稳定。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<text x="115" y="155" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">时间</text>
+<line x1="195" y1="150" x2="1070" y2="150" stroke="#263b3e" stroke-width="2"/>
+<path d="M 1058.5 156.0 L 1070 150 L 1058.5 144.0" fill="none" stroke="#263b3e" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<text x="115" y="211" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="start">延迟</text>
+<circle cx="260" cy="205" r="5" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<line x1="260" y1="205" x2="305" y2="205" stroke="#a94d37" stroke-width="3"/>
+<path d="M 293.5 211.0 L 305 205 L 293.5 199.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="430" cy="205" r="5" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<line x1="430" y1="205" x2="475" y2="205" stroke="#a94d37" stroke-width="3"/>
+<path d="M 463.5 211.0 L 475 205 L 463.5 199.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="600" cy="205" r="5" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<line x1="600" y1="205" x2="645" y2="205" stroke="#a94d37" stroke-width="3"/>
+<path d="M 633.5 211.0 L 645 205 L 633.5 199.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="770" cy="205" r="5" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<line x1="770" y1="205" x2="815" y2="205" stroke="#a94d37" stroke-width="3"/>
+<path d="M 803.5 211.0 L 815 205 L 803.5 199.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="115" y="291" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="start">抖动</text>
+<circle cx="260" cy="285" r="5" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<line x1="260" y1="285" x2="284" y2="285" stroke="#a94d37" stroke-width="3"/>
+<path d="M 272.5 291.0 L 284 285 L 272.5 279.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="430" cy="285" r="5" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<line x1="430" y1="285" x2="490" y2="285" stroke="#a94d37" stroke-width="3"/>
+<path d="M 478.5 291.0 L 490 285 L 478.5 279.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="600" cy="285" r="5" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<line x1="600" y1="285" x2="634" y2="285" stroke="#a94d37" stroke-width="3"/>
+<path d="M 622.5 291.0 L 634 285 L 622.5 279.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="770" cy="285" r="5" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<line x1="770" y1="285" x2="845" y2="285" stroke="#a94d37" stroke-width="3"/>
+<path d="M 833.5 291.0 L 845 285 L 833.5 279.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="115" y="371" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="start">丢包</text>
+<circle cx="260" cy="365" r="5" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<line x1="260" y1="365" x2="305" y2="365" stroke="#a94d37" stroke-width="3"/>
+<path d="M 293.5 371.0 L 305 365 L 293.5 359.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="430" cy="365" r="5" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<text x="440" y="373" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">×</text>
+<circle cx="600" cy="365" r="5" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<line x1="600" y1="365" x2="645" y2="365" stroke="#a94d37" stroke-width="3"/>
+<path d="M 633.5 371.0 L 645 365 L 633.5 359.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="770" cy="365" r="5" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<line x1="770" y1="365" x2="815" y2="365" stroke="#a94d37" stroke-width="3"/>
+<path d="M 803.5 371.0 L 815 365 L 803.5 359.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="940" y="210" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">往返需要时间</text>
+<text x="940" y="290" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">时间波动大小</text>
+<text x="940" y="370" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">部分数据未到达</text>
+<text x="600" y="475" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">排查时记录设备、网络路径、测试时段与对照结果。</text>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">受热裂口与周围组织</title>
+<desc id="desc">分别记录裂口边缘、热损伤范围和深部变化</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">受热裂口与周围组织</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">分别记录裂口边缘、热损伤范围和深部变化</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<text x="207" y="78" font-size="28" fill="#293e44" font-weight="700" text-anchor="middle">受热区裂开</text><text x="610" y="78" font-size="28" fill="#293e44" font-weight="700" text-anchor="middle">同时检查周围组织</text><rect x="45" y="160" width="320" height="210" rx="0" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><rect x="45" y="137" width="320" height="28" rx="0" fill="#725f59" stroke="#725f59" stroke-width="2"/><rect x="450" y="160" width="320" height="210" rx="0" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><rect x="450" y="137" width="320" height="28" rx="0" fill="#725f59" stroke="#725f59" stroke-width="2"/><path d="M160 137 l25 40 15-27 22 40 24-53" fill="none" stroke="#514743" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path d="M565 137 l23 51 25-32 23 47 25-66" fill="none" stroke="#514743" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><circle cx="611" cy="222" r="15" fill="#af7072" stroke="none" stroke-width="3"/><circle cx="582" cy="247" r="12" fill="#af7072" stroke="none" stroke-width="3"/><circle cx="634" cy="265" r="10" fill="#af7072" stroke="none" stroke-width="3"/><line x1="202" y1="172" x2="75" y2="255" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="202" cy="172" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="83" y="263" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">干硬裂缘</text><line x1="611" y1="222" x2="670" y2="280" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="611" cy="222" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="678" y="288" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">深部改变</text><text x="425" y="435" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">受热造成的裂口与其他损伤可同时存在</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">高温可使皮肤和软组织收缩、裂</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">开。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">受热裂口可能与其他损伤同时存</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">在。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">专业人员结合裂口深部、衣物与</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">现场信息检查。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">热作用可发生在生前或死后，外观不能单独确定时间。</text>
+</g></svg>

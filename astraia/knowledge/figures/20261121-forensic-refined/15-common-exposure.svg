@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">多人不适：共同活动与出现时间</title>
+<desc id="desc">场景为虚构示意，症状可能来自多种原因</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">多人不适：共同活动与出现时间</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">场景为虚构示意，症状可能来自多种原因</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<rect x="115" y="95" width="560" height="300" rx="8" fill="#edf3ee" stroke="#a7b9ac" stroke-width="3"/><g transform="translate(225 155) scale(0.45)"><circle cx="0" cy="0" r="30" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M -35 40 Q 0 30 35 40 L 45 145 L 29 164 L 23 290 L 5 290 L 0 170 L -5 290 L -23 290 L -29 164 L -45 145 Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M -34 49 L -72 155 M 34 49 L 72 155" fill="none" stroke="#b49284" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(385 155) scale(0.45)"><circle cx="0" cy="0" r="30" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M -35 40 Q 0 30 35 40 L 45 145 L 29 164 L 23 290 L 5 290 L 0 170 L -5 290 L -23 290 L -29 164 L -45 145 Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M -34 49 L -72 155 M 34 49 L 72 155" fill="none" stroke="#b49284" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/></g><g transform="translate(545 155) scale(0.45)"><circle cx="0" cy="0" r="30" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M -35 40 Q 0 30 35 40 L 45 145 L 29 164 L 23 290 L 5 290 L 0 170 L -5 290 L -23 290 L -29 164 L -45 145 Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M -34 49 L -72 155 M 34 49 L 72 155" fill="none" stroke="#b49284" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/></g><text x="225" y="346" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">A：头痛</text><text x="385" y="346" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">B：恶心</text><text x="545" y="346" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">C：头晕</text><path d="M135 118 h110 v55 H135z" fill="#f7eee0" stroke="#c2aa8b" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="190" y="153" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">共同空间</text><line x1="665" y1="245" x2="745" y2="245" stroke="#6f9580" stroke-width="4" stroke-linecap="round"/><path d="M 731.7 251.9 L 745 245 L 731.7 238.1" fill="none" stroke="#6f9580" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="746" y="206" font-size="26" fill="#293e44" font-weight="700" text-anchor="start">撤离</text><circle cx="250" cy="124" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/><circle cx="606" cy="139" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/><circle cx="735" cy="295" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">先撤至安全、新鲜空气处并呼叫</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">急救。</text>
+<circle cx="985" cy="314" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">分别记录各人症状、开始时间和</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">共同活动。</text>
+<circle cx="985" cy="469" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">可能的空气、食物、饮水或药品</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">线索交给专业人员。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">不要进入疑似有毒区域，也不要打开不明容器或自行混合样品。</text>
+</g></svg>

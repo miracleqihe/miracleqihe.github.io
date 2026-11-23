@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">衣物与身体：穿着和破损的位置</title>
+<desc id="desc">比较衣物、身体和现场接触面的空间关系</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">衣物与身体：穿着和破损的位置</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">比较衣物、身体和现场接触面的空间关系</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<g transform="translate(240 100) scale(1.1)"><circle cx="0" cy="0" r="29" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M-34 42 Q0 29 34 42 L44 145 L29 160 L23 278 L7 278 L0 168 L-7 278 L-23 278 L-29 160 L-44 145 Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-35 52 L-69 150 M35 52 L69 150" fill="none" stroke="#b49284" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/></g><path d="M205 160 Q240 140 275 160 L289 270 L191 270Z" fill="#d6e2d7" stroke="#8ba797" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M238 190 l12 12 -8 14 11 12" fill="none" stroke="#af7072" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="248" cy="215" r="8" fill="#af7072" stroke="none" stroke-width="3"/><line x1="248" y1="215" x2="410" y2="120" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="248" cy="215" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="418" y="128" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">衣物破损</text><line x1="273" y1="270" x2="410" y2="220" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="273" cy="270" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="418" y="228" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">穿着与相对位置</text><path d="M445 330 l35 40 M480 330 l-35 40" fill="none" stroke="#a7835a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="445" cy="330" r="8" fill="none" stroke="#a7835a" stroke-width="3"/><circle cx="480" cy="330" r="8" fill="none" stroke="#a7835a" stroke-width="3"/><text x="510" y="360" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">救治剪裁需记录</text><text x="410" y="435" font-size="24" fill="#596b6d" font-weight="400" text-anchor="start">移动和剪衣都可能改变位置关系</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">记录整体穿着、破损和附着物位</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">置。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">衣物可能在移动、救治和搬运中</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">发生移位。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">剪衣等救治活动应告知现场调查</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">人员。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">医疗救助优先，不为保留衣物耽误处理。</text>
+</g></svg>

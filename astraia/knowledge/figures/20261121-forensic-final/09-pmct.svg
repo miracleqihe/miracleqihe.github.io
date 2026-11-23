@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">死后影像：体位、沉降与积气</title>
+<desc id="desc">仰卧胸部横断面和血管分层的概念图</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">死后影像：体位、沉降与积气</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">仰卧胸部横断面和血管分层的概念图</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<ellipse cx="240" cy="230" rx="165" ry="135" fill="#e3d5ca" stroke="#a48d82" stroke-width="4"/><ellipse cx="180" cy="235" rx="55" ry="88" fill="#d7e5df" stroke="#93b0a6" stroke-width="3"/><ellipse cx="298" cy="235" rx="55" ry="88" fill="#d7e5df" stroke="#93b0a6" stroke-width="3"/><path d="M130 275 Q180 305 230 275 M248 275 Q298 305 348 275" fill="none" stroke="#af7072" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/><text x="240" y="70" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">仰卧时的胸部横断面</text><line x1="240" y1="95" x2="240" y2="125" stroke="#a7835a" stroke-width="4" stroke-linecap="round"/><path d="M 233.8 113.6 L 240 125 L 246.2 113.6" fill="none" stroke="#a7835a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="240" y="415" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">背侧为受重力影响的一侧</text><circle cx="570" cy="235" r="108" fill="#e6d2c8" stroke="#a7897e" stroke-width="4"/><path d="M475 255 H665 Q655 310 570 329 Q485 310 475 255Z" fill="#be9390" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/><circle cx="552" cy="208" r="9" fill="#f8f7ee" stroke="#668f98" stroke-width="2"/><circle cx="580" cy="185" r="7" fill="#f8f7ee" stroke="#668f98" stroke-width="2"/><line x1="200" y1="292" x2="60" y2="360" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="200" cy="292" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="68" y="368" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">肺部沉降可能出现</text><line x1="570" y1="290" x2="650" y2="340" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="570" cy="290" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="658" y="348" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">血管内分层示意</text><line x1="552" y1="208" x2="655" y2="145" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="552" cy="208" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="663" y="153" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">气体可能出现</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">肺部靠近受重力影响的一侧可出</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">现沉降改变。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">血液分层与血管或组织内气体也</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">可能出现。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">体位、死亡经过、复苏和腐败影</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">响影像解释。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">此图不是 CT 扫描，影像须与尸检和病史综合判断。</text>
+</g></svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">相关性中的共同原因</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">假想例子：炎热天气可能同时改变冰品购买和游泳活动。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<circle cx="600" cy="170" r="57" fill="#f9eac8" stroke="#bb8737" stroke-width="4"/>
+<text x="600" y="177" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">炎热</text>
+<rect x="130" y="300" width="270" height="80" rx="8" fill="#edf4f1" stroke="#bfd3ca" stroke-width="2"/>
+<text x="265" y="350" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="400" text-anchor="middle">冰品购买增加</text>
+<rect x="485" y="300" width="270" height="80" rx="8" fill="#edf4f1" stroke="#bfd3ca" stroke-width="2"/>
+<text x="620" y="350" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="400" text-anchor="middle">游泳活动增加</text>
+<rect x="840" y="300" width="270" height="80" rx="8" fill="#f8ebe5" stroke="#e3c9bd" stroke-width="2"/>
+<text x="975" y="350" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="400" text-anchor="middle">溺水风险变化</text>
+<line x1="555" y1="216" x2="320" y2="292" stroke="#326f80" stroke-width="4"/>
+<path d="M 329.1 282.7 L 320 292 L 332.8 294.2" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="600" y1="230" x2="615" y2="290" stroke="#326f80" stroke-width="4"/>
+<path d="M 606.4 280.3 L 615 290 L 618.0 277.4" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="755" y1="340" x2="830" y2="340" stroke="#a94d37" stroke-width="4"/>
+<path d="M 818.5 346.0 L 830 340 L 818.5 334.0" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 270 399 Q 615 460 970 399" fill="none" stroke="#b6c4bc" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="7 7"/>
+<text x="620" y="456" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">观察到的相关关系，不能单独证明冰品导致溺水</text>
+</svg>

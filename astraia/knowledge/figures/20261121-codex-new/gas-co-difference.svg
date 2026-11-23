@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
+<title id="title">燃气泄漏与一氧化碳风险</title><desc id="desc">燃气可能添加臭味剂；一氧化碳无色无味且可由燃料燃烧产生。怀疑泄漏时及时离开，在安全处报警。</desc>
+<rect x="1" y="1" width="1198" height="398" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif" fill="#293b34">
+<text x="28" y="43" font-size="30" font-weight="700">燃气泄漏与一氧化碳：两类风险</text>
+<rect x="25" y="66" width="560" height="258" rx="12" fill="#f8f1e9" stroke="#e4d8cb" stroke-width="1.5"/><rect x="615" y="66" width="560" height="258" rx="12" fill="#eef3f4" stroke="#d6e0e3" stroke-width="1.5"/>
+<g stroke-linecap="round" stroke-linejoin="round"><path d="M98 191 q-22-18-3-41 q8-11 8-21 q30 20 18 36 q19-3 12 16 q-8 23-35 10z" fill="#e1a76e" stroke="#a97850" stroke-width="4"/><circle cx="696" cy="162" r="41" fill="#f8faf8" stroke="#6e8992" stroke-width="4"/><path d="M675 161 h42 M696 140 v42" stroke="#6e8992" stroke-width="5"/></g>
+<g fill="#343e38"><text x="171" y="127" font-size="28" font-weight="700">可燃气体泄漏</text><text x="171" y="174" font-size="24">许多供气添加臭味剂</text><text x="171" y="212" font-size="24">异味或报警时及时撤离</text><text x="171" y="258" font-size="21" fill="#635e54">不能只靠气味确认安全</text>
+<text x="760" y="127" font-size="28" font-weight="700">一氧化碳（CO）</text><text x="760" y="174" font-size="24">无色无味，可由燃烧产生</text><text x="760" y="212" font-size="24">头痛、头晕、恶心等不特异</text><text x="760" y="258" font-size="21" fill="#58676b">报警器应核对检测对象</text></g>
+<rect x="25" y="341" width="1150" height="38" rx="7" fill="#f7eee0"/><text x="43" y="368" font-size="22" fill="#785334">立即离开，在安全处报警；怀疑燃气泄漏时不要点火或操作电器开关。</text>
+</g></svg>

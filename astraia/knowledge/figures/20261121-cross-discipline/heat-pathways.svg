@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">热传递的三条路径</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">同一环境中常有多种传热方式同时发生。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="60" y="112" width="1080" height="328" rx="8" fill="#fff" stroke="#d3e0d9" stroke-width="2"/>
+<path d="M 270 190 L 510 190 L 495 333 Q 390 365 285 333 Z" fill="#d8e8e8" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 283 235 Q 390 252 497 235" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="330" y1="320" x2="445" y2="320" stroke="#bb8737" stroke-width="6"/>
+<line x1="445" y1="320" x2="610" y2="320" stroke="#bb8737" stroke-width="6"/>
+<line x1="355" y1="305" x2="425" y2="305" stroke="#a94d37" stroke-width="4"/>
+<path d="M 413.5 311.0 L 425 305 L 413.5 299.0" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="465" y1="305" x2="540" y2="305" stroke="#a94d37" stroke-width="4"/>
+<path d="M 528.5 311.0 L 540 305 L 528.5 299.0" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 340 300 Q 320 270 345 251 M 345 251 L 335 257 M 345 251 L 344 264" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 448 250 Q 470 276 449 299 M 449 299 L 459 293 M 449 299 L 450 286" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="550" y1="230" x2="700" y2="200" stroke="#a94d37" stroke-width="3"/>
+<path d="M 689.9 208.1 L 700 200 L 687.5 196.4" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="550" y1="255" x2="700" y2="255" stroke="#a94d37" stroke-width="3"/>
+<path d="M 688.5 261.0 L 700 255 L 688.5 249.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="550" y1="280" x2="700" y2="310" stroke="#a94d37" stroke-width="3"/>
+<path d="M 687.5 313.6 L 700 310 L 689.9 301.9" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="105" y="174" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="start">杯中水</text>
+<text x="620" y="357" fill="#bb8737" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">金属勺</text>
+<text x="745" y="177" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="26" font-weight="700" text-anchor="start">辐射</text>
+<text x="745" y="207" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">热物体向周围发射电磁波</text>
+<text x="745" y="255" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="26" font-weight="700" text-anchor="start">对流</text>
+<text x="745" y="285" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">流体运动带走或带来热量</text>
+<text x="745" y="333" fill="#bb8737" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="26" font-weight="700" text-anchor="start">传导</text>
+<text x="745" y="363" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">接触物体之间传递热量</text>
+<text x="600" y="484" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">图中箭头表示热量转移或流动方向，不代表温度分布。</text>
+</svg>

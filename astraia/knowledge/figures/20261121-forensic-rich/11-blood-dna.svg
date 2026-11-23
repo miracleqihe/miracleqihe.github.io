@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="660" viewBox="0 0 1400 660" role="img" aria-labelledby="title desc">
+<title id="title">疑似血迹：每一步回答什么问题</title>
+<desc id="desc">检验项目和先后由实验室按样本条件确定</desc>
+<rect x="1" y="1" width="1398" height="658" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="32" y="47" fill="#293b43" font-size="38" font-weight="700" text-anchor="start">疑似血迹：每一步回答什么问题</text>
+<text x="33" y="85" fill="#52636a" font-size="24" font-weight="400" text-anchor="start">检验项目和先后由实验室按样本条件确定</text>
+<rect x="26" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="242" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">现场：记录外观</text>
+<g transform="translate(112 172)">
+<path d="M130 11 Q103 46 103 65 A27 27 0 0 0 157 65 Q157 46 130 11Z" fill="#ad6b69" stroke="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="130" y="124" fill="#52636a" font-size="19" font-weight="400" text-anchor="middle">红褐色污迹</text>
+</g>
+<text x="51" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">红褐色点、条或片可见于血</text>
+<text x="51" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">迹，也可能来自锈、饮料或</text>
+<text x="51" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">油漆。记位置和表面，避免</text>
+<text x="51" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">擦拭。</text>
+<rect x="484" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="700" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">实验室：初筛</text>
+<g transform="translate(570 172)">
+<path d="M95 14 v72 q0 20 35 20 t35-20 v-72 M89 14 h82" fill="none" stroke="#778e91" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M101 64 h58 v19 q0 16-29 16 t-29-16z" fill="#c5a3a0" stroke="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="130" y="125" fill="#52636a" font-size="19" font-weight="400" text-anchor="middle">实验室初筛</text>
+</g>
+<text x="509" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">初筛帮助判断是否可能有</text>
+<text x="509" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">血。结果受方法及其他物质</text>
+<text x="509" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">干扰；阳性提示需要结合后</text>
+<text x="509" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">续检查。</text>
+<rect x="942" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="1158" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">确认与 DNA 比较</text>
+<g transform="translate(1028 172)">
+<rect x="20" y="15" width="92" height="90" rx="5" fill="#fffdf8" stroke="#8ca1a1" stroke-width="3"/><rect x="148" y="15" width="92" height="90" rx="5" fill="#fffdf8" stroke="#8ca1a1" stroke-width="3"/><text x="66" y="54" fill="#293b43" font-size="20" font-weight="700" text-anchor="middle">体液</text><text x="66" y="81" fill="#52636a" font-size="18" font-weight="400" text-anchor="middle">性质</text><text x="194" y="54" fill="#293b43" font-size="20" font-weight="700" text-anchor="middle">DNA</text><text x="194" y="81" fill="#52636a" font-size="18" font-weight="400" text-anchor="middle">比较</text>
+</g>
+<text x="967" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">是否为血、是否为人血，以</text>
+<text x="967" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">及 DNA 是否可比较，是不同</text>
+<text x="967" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">问题，要核对采样位置。</text>
+<rect x="26" y="558" width="1348" height="81" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="44" y="590" fill="#785334" font-size="25" font-weight="400" text-anchor="start">即使同处检出人血和某人 DNA，也要看采样与检验设计，不能自动合并推论。</text>
+<text x="44" y="622" fill="#785334" font-size="25" font-weight="400" text-anchor="start">只有经授权人员按适用流程取样；紧急救助优先。</text>
+</g></svg>

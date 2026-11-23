@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">太阳年与朔望月：历法为什么需要闰置</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">朔望月是从一次新月到下一次新月的平均间隔。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<ellipse cx="340" cy="208" rx="116" ry="72" fill="none" stroke="#8aaba0" stroke-width="3"/>
+<circle cx="442" cy="174" r="17" fill="#326f80" stroke="#326f80" stroke-width="2"/>
+<circle cx="340" cy="208" r="35" fill="#f2cf7d" stroke="#bb8737" stroke-width="3"/>
+<text x="340" y="216" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="middle">太阳</text>
+<text x="340" y="310" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="400" text-anchor="middle">太阳年约 365.24 天</text>
+<circle cx="743" cy="203" r="44" fill="#789f9b" stroke="#326f80" stroke-width="3"/>
+<ellipse cx="743" cy="203" rx="115" ry="83" fill="none" stroke="#a7bbb3" stroke-width="2"/>
+<circle cx="630" cy="203" r="15" fill="#dfd6bd" stroke="#263b3e" stroke-width="2"/>
+<circle cx="854" cy="203" r="15" fill="#dfd6bd" stroke="#263b3e" stroke-width="2"/>
+<line x1="940" y1="202" x2="1000" y2="202" stroke="#bb8737" stroke-width="3"/>
+<path d="M 988.5 208.0 L 1000 202 L 988.5 196.0" fill="none" stroke="#bb8737" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="1008" y="210" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">太阳方向</text>
+<text x="743" y="310" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="400" text-anchor="middle">朔望月平均约 29.53 天</text>
+<text x="600" y="386" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">12 个朔望月约 354 天，比太阳年短约 11 天。</text>
+<text x="600" y="464" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">阴阳合历通过置闰协调季节与月相；不同历法规则各异。</text>
+</svg>

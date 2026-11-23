@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">钙通道阻滞剂误服：心脏与血管</title>
+<desc id="desc">过量时心脏活动和血管状态都可能受到影响</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">钙通道阻滞剂误服：心脏与血管</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">过量时心脏活动和血管状态都可能受到影响</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<g transform="translate(210 120) scale(1)"><path d="M0 20 C-50 -36 -94 2 -75 50 C-60 83 -25 106 0 130 C25 106 60 83 75 50 C94 2 50 -36 0 20Z" fill="#d99c98" stroke="#ae7475" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g><path d="M190 115 V82 Q210 58 230 82 V115" fill="none" stroke="#668f98" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><path d="M200 190 L224 170 L210 205 L230 220" fill="none" stroke="#f3e6bf" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><circle cx="535" cy="210" r="118" fill="#e8d5ca" stroke="#aa8c80" stroke-width="4"/><circle cx="535" cy="210" r="67" fill="#f1f3e9" stroke="#95ae9d" stroke-width="4"/><path d="M420 318 Q535 350 650 318" fill="none" stroke="#af7072" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><line x1="210" y1="200" x2="75" y2="350" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="210" cy="200" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="83" y="358" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">心律和泵血</text><line x1="535" y1="210" x2="550" y2="355" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="535" cy="210" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="558" y="363" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">血管与血压</text><text x="210" y="80" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">心脏</text><text x="535" y="65" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">血管横断面</text><text x="410" y="455" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">过量时心率可快可慢</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">可能头晕、乏力、嗜睡、心跳异</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">常或血压下降。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">不同药物和剂型表现不同，心率</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">可快可慢。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">怀疑误服过量时立即寻求医疗帮</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">助。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">带上药盒和用药信息，不等待症状加重。</text>
+</g></svg>

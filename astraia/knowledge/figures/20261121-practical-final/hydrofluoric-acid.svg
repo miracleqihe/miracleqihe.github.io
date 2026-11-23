@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">氢氟酸接触：表面变化可能迟到</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">发现接触便处理，不等疼痛。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="72" y="206" width="335" height="97" rx="40" fill="#f2dece" stroke="#c59b86" stroke-width="2"/>
+<circle cx="225" cy="257" r="22" fill="#d88d78" stroke="#a94d37" stroke-width="2"/>
+<path d="M 188 164 Q 215 110 243 164 Z" fill="#b4d9e3" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="225" y1="186" x2="225" y2="225" stroke="#326f80" stroke-width="4"/>
+<path d="M 219.0 213.5 L 225 225 L 231.0 213.5" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="239" y="356" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="middle">脱去污染衣物，流动清水冲洗</text>
+<line x1="428" y1="250" x2="493" y2="250" stroke="#326f80" stroke-width="4"/>
+<path d="M 481.5 256.0 L 493 250 L 481.5 244.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="510" y="160" width="239" height="196" rx="8" fill="#f7eee7" stroke="#d7c1b2" stroke-width="2"/>
+<line x1="530" y1="205" x2="727" y2="205" stroke="#be9584" stroke-width="4"/>
+<line x1="530" y1="268" x2="727" y2="268" stroke="#be9584" stroke-width="4"/>
+<line x1="622" y1="202" x2="622" y2="299" stroke="#a94d37" stroke-width="4"/>
+<path d="M 616.0 287.5 L 622 299 L 628.0 287.5" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="629" y="339" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="700" text-anchor="middle">可向深部组织扩散</text>
+<line x1="763" y1="250" x2="823" y2="250" stroke="#326f80" stroke-width="4"/>
+<path d="M 811.5 256.0 L 823 250 L 811.5 244.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="843" y="170" width="270" height="183" rx="8" fill="#f1f6f4" stroke="#c7d8d1" stroke-width="2"/>
+<text x="978" y="213" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">立即呼叫急救</text>
+<text x="978" y="256" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">告诉医护产品名称</text>
+<text x="978" y="300" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">不要自行注射或中和</text>
+<text x="600" y="485" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">眼睛溅入应持续冲洗并就医；皮肤用凝胶不可自行涂入眼内。</text>
+</svg>

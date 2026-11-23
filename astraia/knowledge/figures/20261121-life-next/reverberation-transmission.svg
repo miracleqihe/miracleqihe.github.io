@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">室内混响与隔声：声音遇到不同边界</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">反射影响房间内听感；透过墙体则影响相邻空间。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="65" y="155" width="490" height="245" rx="0" fill="#f4f4ee" stroke="#9fa9a0" stroke-width="4"/>
+<rect x="555" y="155" width="155" height="245" rx="0" fill="#e5e4da" stroke="#9fa9a0" stroke-width="4"/>
+<circle cx="170" cy="280" r="25" fill="#f5dbbc" stroke="#263b3e" stroke-width="2"/>
+<path d="M 195 260 L 225 245 L 225 315 L 195 300 Z" fill="#c9dbd5" stroke="#60816a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="230" y1="275" x2="420" y2="275" stroke="#326f80" stroke-width="3"/>
+<path d="M 408.5 281.0 L 420 275 L 408.5 269.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="420" y1="230" x2="475" y2="170" stroke="#bb8737" stroke-width="3"/>
+<path d="M 471.6 182.6 L 475 170 L 462.8 174.4" fill="none" stroke="#bb8737" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="475" y1="170" x2="520" y2="245" stroke="#bb8737" stroke-width="3"/>
+<path d="M 508.9 238.2 L 520 245 L 519.2 232.0" fill="none" stroke="#bb8737" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="500" y1="310" x2="625" y2="310" stroke="#a94d37" stroke-width="3"/>
+<path d="M 613.5 316.0 L 625 310 L 613.5 304.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="310" y="230" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="start">直达声</text>
+<text x="355" y="173" fill="#bb8737" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="start">反射声</text>
+<text x="620" y="350" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">透射声</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">室内吸声可减弱部分反射</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">混响时间与空间、材料有关</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">隔声还取决于墙和缝隙</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">两种问题要分别测量与处理</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">箭头表示传播路径；声波也可经结构、门窗或通风口传播。</text>
+</svg>

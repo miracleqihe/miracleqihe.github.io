@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">耳部结构与受伤观察</title>
+<desc id="desc">耳廓、外耳道、鼓膜、中耳和内耳示意</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">耳部结构与受伤观察</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">耳廓、外耳道、鼓膜、中耳和内耳示意</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M105 100 Q45 100 70 194 Q75 240 116 254 Q146 250 150 220 Q120 218 120 190 Q120 160 151 165 Q154 125 105 100Z" fill="#ead7cd" stroke="#b49284" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M120 177 L345 177 L345 226 L120 226" fill="#edddd0" stroke="#b49284" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><line x1="344" y1="169" x2="344" y2="233" stroke="#af7072" stroke-width="6" stroke-linecap="round"/><path d="M360 168 Q404 146 422 175 Q408 204 444 216 Q414 242 363 233Z" fill="#e1d8c8" stroke="#a99a86" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="538" cy="202" r="68" fill="#d7e7df" stroke="#88a698" stroke-width="4"/><path d="M490 187 q42-42 78 0 q-36 40-78 0 M497 222 q38-30 65 0" fill="none" stroke="#88a698" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><line x1="115" y1="134" x2="80" y2="75" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="115" cy="134" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="88" y="83" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">耳廓</text><line x1="234" y1="202" x2="195" y2="305" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="234" cy="202" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="203" y="313" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">外耳道</text><line x1="344" y1="202" x2="345" y2="355" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="344" cy="202" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="353" y="363" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">鼓膜</text><line x1="410" y1="202" x2="442" y2="110" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="410" cy="202" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="450" y="118" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">中耳</text><line x1="538" y1="202" x2="596" y2="300" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="538" cy="202" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="604" y="308" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">内耳</text><text x="429" y="440" font-size="25" fill="#596b6d" font-weight="400" text-anchor="middle">流液时不要堵住耳道</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">耳痛、听力下降、耳鸣或眩晕可</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">见于不同耳部损伤。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">头伤后耳朵流血或清液需紧急评</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">估。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">耳道流液不要堵住，也不要往耳</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">里塞棉签或清洗。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">外耳看似完整，仍需医护检查鼓膜和听力。</text>
+</g></svg>

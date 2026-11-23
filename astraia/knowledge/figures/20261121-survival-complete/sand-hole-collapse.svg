@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">沙坑与沙洞：坑壁可以突然垮塌</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">松散沙粒缺乏稳定支撑，塌落后会迅速压住人和呼吸道。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 65 200 L 270 200 Q 300 205 315 250 L 350 380 L 515 380 L 550 250 Q 565 205 595 200 L 740 200 L 740 425 L 65 425 Z" fill="#e6d5ad" stroke="#b29a6a" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 270 200 Q 285 250 315 280 L 350 320" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="300" y1="235" x2="350" y2="300" stroke="#a94d37" stroke-width="4"/>
+<path d="M 338.2 294.5 L 350 300 L 347.7 287.2" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="165" y="165" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">坑壁突然下滑</text>
+<text x="820" y="185" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">不要挖深坑或隧道</text>
+<text x="820" y="235" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">看护儿童远离坑壁</text>
+<text x="820" y="285" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">塌方时立即呼叫救援</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">不要继续站在不稳定的坑边；遵循当地海滩安全指引。</text>
+</svg>

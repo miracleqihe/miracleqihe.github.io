@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">亲权比较：两个来源与多个位点</title>
+<desc id="desc">以假设的一个遗传位点说明等位基因传递</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">亲权比较：两个来源与多个位点</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">以假设的一个遗传位点说明等位基因传递</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<text x="180" y="75" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">生物学母亲</text><text x="610" y="75" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">生物学父亲</text><text x="395" y="300" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">子代</text><rect x="150" y="125" width="35" height="75" rx="12" fill="#719481" stroke="none" stroke-width="0"/><text x="167" y="235" font-size="25" fill="#293e44" font-weight="700" text-anchor="middle">A</text><rect x="210" y="125" width="35" height="75" rx="12" fill="#668f98" stroke="none" stroke-width="0"/><text x="227" y="235" font-size="25" fill="#293e44" font-weight="700" text-anchor="middle">B</text><rect x="580" y="125" width="35" height="75" rx="12" fill="#af7072" stroke="none" stroke-width="0"/><text x="597" y="235" font-size="25" fill="#293e44" font-weight="700" text-anchor="middle">C</text><rect x="640" y="125" width="35" height="75" rx="12" fill="#a7835a" stroke="none" stroke-width="0"/><text x="657" y="235" font-size="25" fill="#293e44" font-weight="700" text-anchor="middle">D</text><rect x="360" y="345" width="35" height="75" rx="12" fill="#668f98" stroke="none" stroke-width="0"/><text x="377" y="455" font-size="25" fill="#293e44" font-weight="700" text-anchor="middle">B</text><rect x="420" y="345" width="35" height="75" rx="12" fill="#af7072" stroke="none" stroke-width="0"/><text x="437" y="455" font-size="25" fill="#293e44" font-weight="700" text-anchor="middle">C</text><line x1="228" y1="235" x2="370" y2="325" stroke="#668f98" stroke-width="4" stroke-linecap="round"/><path d="M 357.0 324.2 L 370 325 L 363.7 313.6" fill="none" stroke="#668f98" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><line x1="590" y1="235" x2="438" y2="325" stroke="#af7072" stroke-width="4" stroke-linecap="round"/><path d="M 444.6 313.8 L 438 325 L 451.0 324.6" fill="none" stroke="#af7072" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="395" y="485" font-size="23" fill="#596b6d" font-weight="400" text-anchor="middle">字母表示一个假设位点，判断需比较多个位点</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">一般情况下每个常染色体位点各</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">从父母获得一份。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">多个位点共同支持或排除特定亲</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">缘关系。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">突变、样本身份和检测误差需分</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">别核对。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">图中字母为教学示意，单个位点不足以确认亲权。</text>
+</g></svg>

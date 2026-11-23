@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">砂土液化：地震摇晃与孔隙水压力</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">松散、饱水的砂或粉砂在强烈摇晃下，可能暂时失去承载能力。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 50 230 L 685 230 L 685 415 L 50 415 Z" fill="#e6d8ad" stroke="#b2a277" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 50 300 L 685 300" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 7"/>
+<text x="75" y="291" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="start">地下水位</text>
+<circle cx="110" cy="340" r="8" fill="#c3a873" stroke="#9b845f" stroke-width="1"/>
+<circle cx="170" cy="360" r="8" fill="#c3a873" stroke="#9b845f" stroke-width="1"/>
+<circle cx="225" cy="329" r="8" fill="#c3a873" stroke="#9b845f" stroke-width="1"/>
+<circle cx="280" cy="374" r="8" fill="#c3a873" stroke="#9b845f" stroke-width="1"/>
+<circle cx="340" cy="343" r="8" fill="#c3a873" stroke="#9b845f" stroke-width="1"/>
+<circle cx="390" cy="382" r="8" fill="#c3a873" stroke="#9b845f" stroke-width="1"/>
+<circle cx="455" cy="335" r="8" fill="#c3a873" stroke="#9b845f" stroke-width="1"/>
+<circle cx="510" cy="365" r="8" fill="#c3a873" stroke="#9b845f" stroke-width="1"/>
+<circle cx="570" cy="342" r="8" fill="#c3a873" stroke="#9b845f" stroke-width="1"/>
+<circle cx="630" cy="387" r="8" fill="#c3a873" stroke="#9b845f" stroke-width="1"/>
+<rect x="205" y="144" width="135" height="86" rx="2" fill="#f0ebe1" stroke="#91897e" stroke-width="3"/>
+<path d="M 195 144 L 273 110 L 350 144" fill="none" stroke="#91897e" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="390" y1="245" x2="430" y2="245" stroke="#a94d37" stroke-width="4"/>
+<path d="M 418.5 251.0 L 430 245 L 418.5 239.0" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="430" y1="270" x2="390" y2="270" stroke="#a94d37" stroke-width="4"/>
+<path d="M 401.5 264.0 L 390 270 L 401.5 276.0" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="555" y1="370" x2="555" y2="264" stroke="#326f80" stroke-width="4"/>
+<path d="M 561.0 275.5 L 555 264 L 549.0 275.5" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="573" y="325" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">水压力上升</text>
+<text x="770" y="180" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="start">松散饱水颗粒</text>
+<text x="770" y="225" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">摇晃使孔隙水压力升高</text>
+<text x="770" y="278" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">颗粒间支撑减弱</text>
+<text x="770" y="330" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">可能沉降、倾斜或喷砂</text>
+<text x="600" y="478" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">液化风险还取决于土层、水位、摇晃强度及工程条件。</text>
+</svg>

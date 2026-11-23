@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">北纬 40°、春分附近：记录竖杆影尖</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">示例以太阳时为准；实地时刻需结合经度、日期和时区。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<line x1="105" y1="330" x2="525" y2="330" stroke="#c4d6d0" stroke-width="2"/>
+<line x1="292" y1="127" x2="292" y2="428" stroke="#c4d6d0" stroke-width="2"/>
+<line x1="292" y1="160" x2="292" y2="123" stroke="#263b3e" stroke-width="3"/>
+<path d="M 298.0 134.5 L 292 123 L 286.0 134.5" fill="none" stroke="#263b3e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="306" y="139" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">北</text>
+<text x="520" y="356" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">东</text>
+<path d="M 77.2 250.3 L 220.4 250.3 L 292.0 250.3 L 363.6 250.3 L 506.8 250.3" fill="none" stroke="#bb8737" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="292" y1="330" x2="77.20198377904421" y2="250.2855350381584" stroke="#326f80" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="77.20198377904421" cy="250.2855350381584" r="6" fill="#a94d37" stroke="#a94d37" stroke-width="1"/>
+<text x="77.20198377904421" y="238.2855350381584" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="middle">8时</text>
+<line x1="292" y1="330" x2="220.40066125968139" y2="250.2855350381584" stroke="#326f80" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="220.40066125968139" cy="250.2855350381584" r="6" fill="#a94d37" stroke="#a94d37" stroke-width="1"/>
+<text x="220.40066125968139" y="238.2855350381584" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="middle">10时</text>
+<line x1="292" y1="330" x2="292.0" y2="250.2855350381584" stroke="#326f80" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="292.0" cy="250.2855350381584" r="6" fill="#a94d37" stroke="#a94d37" stroke-width="1"/>
+<text x="292.0" y="238.2855350381584" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="middle">12时</text>
+<line x1="292" y1="330" x2="363.5993387403186" y2="250.2855350381584" stroke="#326f80" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="363.5993387403186" cy="250.2855350381584" r="6" fill="#a94d37" stroke="#a94d37" stroke-width="1"/>
+<text x="363.5993387403186" y="238.2855350381584" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="middle">14时</text>
+<line x1="292" y1="330" x2="506.7980162209558" y2="250.2855350381584" stroke="#326f80" stroke-width="2" stroke-dasharray="5 4"/>
+<circle cx="506.7980162209558" cy="250.2855350381584" r="6" fill="#a94d37" stroke="#a94d37" stroke-width="1"/>
+<text x="506.7980162209558" y="238.2855350381584" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="middle">16时</text>
+<circle cx="292" cy="330" r="7" fill="#263b3e" stroke="#263b3e" stroke-width="2"/>
+<text x="310" y="344" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="start">杆脚</text>
+<line x1="633" y1="365" x2="1077" y2="365" stroke="#263b3e" stroke-width="3"/>
+<line x1="743" y1="365" x2="743" y2="236" stroke="#263b3e" stroke-width="6"/>
+<line x1="743" y1="365" x2="851" y2="365" stroke="#326f80" stroke-width="8"/>
+<line x1="743" y1="236" x2="851" y2="365" stroke="#bb8737" stroke-width="3"/>
+<circle cx="680" cy="160" r="24" fill="#f8e8b8" stroke="#bb8737" stroke-width="2"/>
+<text x="665" y="128" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">太阳正午</text>
+<text x="835" y="408" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">正午影较短</text>
+<text x="600" y="485" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">相同影长在上午和下午可能出现；不可由单次影长直接断定钟点。</text>
+</svg>

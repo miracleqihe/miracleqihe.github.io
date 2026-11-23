@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">严重过敏：观察部位与应急用药</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">暴露后出现呼吸困难、喉部肿胀、晕厥等，立即呼叫急救。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<circle cx="275" cy="180" r="52" fill="#f0ddce" stroke="#263b3e" stroke-width="3"/>
+<circle cx="255" cy="173" r="4" fill="#263b3e" stroke="#263b3e" stroke-width="2"/>
+<circle cx="295" cy="173" r="4" fill="#263b3e" stroke="#263b3e" stroke-width="2"/>
+<path d="M 252 200 Q 275 211 298 200" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 215 246 Q 275 225 335 246 L 350 346 L 310 365 L 295 430 L 255 430 L 240 365 L 200 346 Z" fill="#e9f0eb" stroke="#6a8478" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="228" cy="269" r="5" fill="#d87e74" stroke="#d87e74" stroke-width="1"/>
+<circle cx="246" cy="285" r="5" fill="#d87e74" stroke="#d87e74" stroke-width="1"/>
+<circle cx="301" cy="276" r="5" fill="#d87e74" stroke="#d87e74" stroke-width="1"/>
+<circle cx="325" cy="307" r="5" fill="#d87e74" stroke="#d87e74" stroke-width="1"/>
+<rect x="306" y="343" width="22" height="70" rx="8" fill="#f6ce9f" stroke="#a94d37" stroke-width="2"/>
+<line x1="332" y1="376" x2="392" y2="376" stroke="#a94d37" stroke-width="3"/>
+<path d="M 380.5 382.0 L 392 376 L 380.5 370.0" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="425" y="182" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="start">脸与喉部</text>
+<text x="425" y="216" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">嘴唇或舌头肿、声音嘶哑</text>
+<text x="425" y="272" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="start">皮肤与循环</text>
+<text x="425" y="306" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">荨麻疹、头晕、虚弱或晕厥</text>
+<text x="425" y="362" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="start">大腿外侧</text>
+<text x="425" y="396" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">若有处方自动注射器，按说明使用</text>
+<text x="600" y="484" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">严重过敏不一定先出现皮疹；注射后仍需急救和医疗观察。</text>
+</svg>

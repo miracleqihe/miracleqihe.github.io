@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">挤压伤：局部肌肉与全身影响</title>
+<desc id="desc">示意受损肌肉释放物质进入循环</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">挤压伤：局部肌肉与全身影响</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">示意受损肌肉释放物质进入循环</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M85 230 Q120 195 200 202 L285 212 L285 300 L200 311 Q120 316 85 280Z" fill="#ead7cd" stroke="#b49284" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M115 240 Q170 218 256 232 L256 280 Q180 295 115 272Z" fill="#cf9993" stroke="#b68279" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M192 191 v123" fill="none" stroke="#af7072" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><line x1="300" y1="255" x2="405" y2="255" stroke="#af7072" stroke-width="4" stroke-linecap="round"/><path d="M 393.6 261.2 L 405 255 L 393.6 248.8" fill="none" stroke="#af7072" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><g transform="translate(500 110) scale(0.55)"><path d="M0 20 C-50 -36 -94 2 -75 50 C-60 83 -25 106 0 130 C25 106 60 83 75 50 C94 2 50 -36 0 20Z" fill="#d99c98" stroke="#ae7475" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/></g><path d="M460 318 Q470 270 510 280 Q540 300 515 338 Q490 360 470 337Z" fill="#bea69c" stroke="#9e8378" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><line x1="500" y1="200" x2="500" y2="265" stroke="#668f98" stroke-width="4" stroke-linecap="round"/><path d="M 493.8 253.6 L 500 265 L 506.2 253.6" fill="none" stroke="#668f98" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="175" y="360" font-size="25" fill="#293e44" font-weight="400" text-anchor="middle">受损肌肉</text><text x="500" y="385" font-size="25" fill="#293e44" font-weight="400" text-anchor="middle">血液循环与肾脏</text><text x="500" y="444" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">压迫解除后仍需医疗监测</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">重物压迫可导致肿胀、疼痛、麻</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">木或无力。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">肌肉损伤可影响肾功能和血液中</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">的电解质。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">压迫解除后仍需医疗观察，严重</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">情况呼叫急救。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">先确保救援现场安全，按急救人员指导处理。</text>
+</g></svg>

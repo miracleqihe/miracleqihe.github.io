@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">纸色谱：样点与溶剂前沿</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">以示意色带说明分离；实际展开效果随样品、固定相和溶剂改变。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="115" y="137" width="225" height="255" rx="8" fill="#fff" stroke="#9eb6ae" stroke-width="3"/>
+<rect x="185" y="153" width="85" height="209" rx="0" fill="#f8f4e8" stroke="#ddcfb3" stroke-width="1"/>
+<line x1="185" y1="320" x2="270" y2="320" stroke="#af9c89" stroke-width="2" stroke-dasharray="5 4"/>
+<rect x="125" y="342" width="205" height="36" rx="0" fill="#dceef1" stroke="#dceef1" stroke-width="1"/>
+<rect x="460" y="137" width="225" height="255" rx="8" fill="#fff" stroke="#9eb6ae" stroke-width="3"/>
+<rect x="530" y="153" width="85" height="209" rx="0" fill="#f8f4e8" stroke="#ddcfb3" stroke-width="1"/>
+<line x1="530" y1="320" x2="615" y2="320" stroke="#af9c89" stroke-width="2" stroke-dasharray="5 4"/>
+<rect x="470" y="342" width="205" height="36" rx="0" fill="#dceef1" stroke="#dceef1" stroke-width="1"/>
+<rect x="805" y="137" width="225" height="255" rx="8" fill="#fff" stroke="#9eb6ae" stroke-width="3"/>
+<rect x="875" y="153" width="85" height="209" rx="0" fill="#f8f4e8" stroke="#ddcfb3" stroke-width="1"/>
+<line x1="875" y1="320" x2="960" y2="320" stroke="#af9c89" stroke-width="2" stroke-dasharray="5 4"/>
+<rect x="815" y="342" width="205" height="36" rx="0" fill="#dceef1" stroke="#dceef1" stroke-width="1"/>
+<circle cx="227" cy="320" r="7" fill="#6a9271" stroke="#6a9271" stroke-width="2"/>
+<circle cx="572" cy="320" r="7" fill="#6a9271" stroke="#6a9271" stroke-width="2"/>
+<ellipse cx="917" cy="260" rx="14" ry="6" fill="#d4b357" stroke="#d4b357" stroke-width="1"/>
+<ellipse cx="917" cy="285" rx="14" ry="6" fill="#73986b" stroke="#73986b" stroke-width="1"/>
+<ellipse cx="917" cy="307" rx="14" ry="6" fill="#6d8196" stroke="#6d8196" stroke-width="1"/>
+<line x1="875" y1="225" x2="960" y2="225" stroke="#a94d37" stroke-width="2" stroke-dasharray="5 4"/>
+<line x1="360" y1="245" x2="430" y2="245" stroke="#326f80" stroke-width="4"/>
+<path d="M 418.5 251.0 L 430 245 L 418.5 239.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="705" y1="245" x2="775" y2="245" stroke="#326f80" stroke-width="4"/>
+<path d="M 763.5 251.0 L 775 245 L 763.5 239.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="227" y="420" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">点样：起始线高于液面</text>
+<text x="572" y="420" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">溶剂沿纸向上移动</text>
+<text x="917" y="420" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">不同组分移动距离不同</text>
+<text x="1000" y="229" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="start">溶剂前沿</text>
+<text x="1000" y="327" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="start">起始线</text>
+<text x="600" y="482" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">色带颜色不能单独证明物质身份；定性需对照标准及其他检测。</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">抽搐发作：保护头部、计时、守在身旁</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">先移开附近危险物；安全时协助侧卧，让呼吸道保持通畅。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 80 370 L 610 370" fill="none" stroke="#9fb4aa" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="125" y="330" width="115" height="35" rx="15" fill="#e2ebe5" stroke="#9fb4aa" stroke-width="2"/>
+<circle cx="180" cy="298" r="37" fill="#f0ddce" stroke="#263b3e" stroke-width="3"/>
+<path d="M 221 320 Q 300 293 363 326 L 485 337 L 540 360 M 285 318 L 322 363 M 375 335 L 435 365" fill="none" stroke="#263b3e" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" />
+<text x="310" y="422" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">垫护头部，移开周围硬物</text>
+<circle cx="760" cy="210" r="55" fill="#f7f1df" stroke="#bb8737" stroke-width="3"/>
+<line x1="760" y1="210" x2="760" y2="175" stroke="#263b3e" stroke-width="4"/>
+<line x1="760" y1="210" x2="788" y2="222" stroke="#263b3e" stroke-width="4"/>
+<text x="870" y="181" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="start">记录开始时间</text>
+<text x="870" y="219" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">超过 5 分钟、首次发作</text>
+<text x="870" y="251" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">反复发作或受伤时急救</text>
+<text x="760" y="323" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">不要强行按住</text>
+<text x="985" y="323" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">不要往嘴里塞物</text>
+<text x="600" y="482" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">发作后持续观察呼吸；无反应且没有正常呼吸时按急救指引进行心肺复苏。</text>
+</svg>

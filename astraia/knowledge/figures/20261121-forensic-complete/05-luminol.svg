@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">可疑发光区域与后续检验</title>
+<desc id="desc">用位置记录和实验室结果回答不同问题</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">可疑发光区域与后续检验</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">用位置记录和实验室结果回答不同问题</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M55 150 L420 120 L470 300 L95 335 Z" fill="#e4e9de" stroke="#a6b6aa" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M76 214 L440 184 M87 276 L454 244 M178 142 L210 320 M300 132 L332 310" fill="none" stroke="#c2cec3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M203 190 q35-25 70 0 q18 32-32 35 q-40 9-38-35Z" fill="#bae0e6" stroke="#74a9b3" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><circle cx="229" cy="200" r="47" fill="none" stroke="#9bc4cc" stroke-width="3"/><text x="255" y="382" font-size="25" fill="#293e44" font-weight="400" text-anchor="middle">现场：记录可疑反应位置</text><line x1="469" y1="220" x2="539" y2="220" stroke="#668f98" stroke-width="4" stroke-linecap="round"/><path d="M 527.6 226.2 L 539 220 L 527.6 213.8" fill="none" stroke="#668f98" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="620" cy="205" r="42" fill="#e8d9b7" stroke="#a88864" stroke-width="3"/><path d="M600 248 L589 330 L651 330 L640 248Z" fill="#e1ebe4" stroke="#91a99b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M592 297 H648" fill="none" stroke="#91a99b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="620" y="385" font-size="25" fill="#293e44" font-weight="400" text-anchor="middle">进一步实验室检验</text><text x="615" y="443" font-size="25" fill="#596b6d" font-weight="400" text-anchor="middle">血液？人源？DNA？</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">某些血液成分可引起发光反应。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">漂白剂、金属及其他物质也可能</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">引起类似反应。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">是否是血液、人源及 DNA 信息需</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">要分别检验。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">发光指向需要进一步检查的区域，不应自行喷洒现场。</text>
+</g></svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">浓雾或雪地：看不清时先保护已知路线</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">标记、脚印与定位可能同时失效，陡坡和水域更难辨认。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="55" y="125" width="650" height="300" rx="8" fill="#e6eff0" stroke="#bdcfd1" stroke-width="2"/>
+<path d="M 55 345 Q 160 320 250 340 T 470 335 Q 570 315 705 350 L 705 425 L 55 425 Z" fill="#f9fbfb" stroke="#b1c1c2" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 95 185 q 50 -22 105 0" fill="none" stroke="#c4d6d8" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 170 220 q 50 -22 105 0" fill="none" stroke="#c4d6d8" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 260 155 q 50 -22 105 0" fill="none" stroke="#c4d6d8" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 390 190 q 50 -22 105 0" fill="none" stroke="#c4d6d8" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 510 150 q 50 -22 105 0" fill="none" stroke="#c4d6d8" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 600 220 q 50 -22 105 0" fill="none" stroke="#c4d6d8" stroke-width="10" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="285" cy="268" r="9.600000000000001" fill="#f2ddce" stroke="#263b3e" stroke-width="2"/>
+<path d="M 285 277.6 L 285 303.2 M 285 285.6 L 271.4 295.2 M 285 285.6 L 298.6 295.2 M 285 303.2 L 273.8 322.4 M 285 303.2 L 296.2 322.4" fill="none" stroke="#263b3e" stroke-width="3.2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 210 390 Q 245 380 280 370" fill="none" stroke="#bb8737" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="8 8"/>
+<path d="M 520 355 L 580 425" fill="none" stroke="#a94d37" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<text x="550" y="324" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="start">地形突变</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">停在远离崖边与水流的位置</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">对照最近可靠的路线标记</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">无法确认时求援并减少移动</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">做好避风与防湿保暖</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">积雪可掩盖岩缝和水流；图中地形只是示意。</text>
+</svg>

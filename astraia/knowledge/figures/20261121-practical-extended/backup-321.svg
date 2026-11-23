@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">备份 3—2—1：把恢复练习也安排进去</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">数字是组织副本的起点；重要数据还应有离线或不可变副本。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="120" y="155" width="260" height="220" rx="8" fill="#ffffff" stroke="#c6d6cf" stroke-width="2"/>
+<rect x="470" y="155" width="260" height="220" rx="8" fill="#ffffff" stroke="#c6d6cf" stroke-width="2"/>
+<rect x="820" y="155" width="260" height="220" rx="8" fill="#ffffff" stroke="#c6d6cf" stroke-width="2"/>
+<text x="250" y="205" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="middle">3 份</text>
+<text x="250" y="255" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">原件与两份备份</text>
+<text x="600" y="205" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="middle">2 种介质</text>
+<text x="600" y="255" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">避免同类故障全损</text>
+<text x="950" y="205" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="middle">1 份异地</text>
+<text x="950" y="255" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">应对同址灾害</text>
+<line x1="385" y1="265" x2="463" y2="265" stroke="#326f80" stroke-width="3"/>
+<path d="M 451.5 271.0 L 463 265 L 451.5 259.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="735" y1="265" x2="813" y2="265" stroke="#326f80" stroke-width="3"/>
+<path d="M 801.5 271.0 L 813 265 L 801.5 259.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="600" y="437" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">定期抽取文件实际恢复，核对内容、权限和恢复耗时。</text>
+<text x="600" y="485" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">同步文件夹可能同步误删；备份应有独立历史版本。</text>
+</svg>

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">电池状态：剩余电量与容量衰减</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">荷电状态描述当前电量；健康状态常以现有容量相对额定容量表示。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="110" y="180" width="360" height="110" rx="8" fill="#fff" stroke="#8d9c94" stroke-width="3"/>
+<rect x="470" y="210" width="20" height="50" rx="3" fill="#8d9c94" stroke="#8d9c94" stroke-width="2"/>
+<rect x="125" y="195" width="180" height="80" rx="4" fill="#a9cfc1" stroke="#60816a" stroke-width="2"/>
+<text x="290" y="145" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">当前可用电量</text>
+<text x="290" y="350" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">例：目前还有约 50%</text>
+<line x1="530" y1="235" x2="610" y2="235" stroke="#326f80" stroke-width="4"/>
+<path d="M 598.5 241.0 L 610 235 L 598.5 229.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="670" y="180" width="360" height="110" rx="8" fill="#fff" stroke="#8d9c94" stroke-width="3"/>
+<rect x="1030" y="210" width="20" height="50" rx="3" fill="#8d9c94" stroke="#8d9c94" stroke-width="2"/>
+<rect x="685" y="195" width="280" height="80" rx="4" fill="#e8d0a2" stroke="#bb8737" stroke-width="2"/>
+<text x="850" y="145" fill="#bb8737" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">相对新电池的容量</text>
+<text x="850" y="350" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">例：健康状态约 80%</text>
+<text x="600" y="475" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">示例数字仅用于理解概念；实际值依赖测试条件和设备算法。</text>
+</svg>

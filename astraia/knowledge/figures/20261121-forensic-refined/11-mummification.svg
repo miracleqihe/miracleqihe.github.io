@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">干燥与尸蜡：局部微环境</title>
+<desc id="desc">两种外观过程可能出现在同一遗体的不同部位</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">干燥与尸蜡：局部微环境</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">两种外观过程可能出现在同一遗体的不同部位</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M100 340 Q190 280 280 340 T460 340 T640 340" fill="none" stroke="#a07e59" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="190" cy="120" r="45" fill="#f5d994" stroke="#c09d64" stroke-width="3"/><path d="M165 236 Q225 180 287 236 L265 326 Q225 350 185 326 Z" fill="#bd987e" stroke="#886b58" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M470 235 Q530 183 594 235 L575 326 Q530 348 490 326 Z" fill="#dfd8ba" stroke="#a7a082" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M 613 91 Q 596 114 598 123 Q 613 141 628 123 Q 630 114 613 91 Z" fill="#6b929b" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/><text x="225" y="422" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">干燥：皱缩、变硬</text><text x="535" y="422" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">湿润：蜡样改变</text><circle cx="100" cy="245" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/><circle cx="660" cy="245" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">暴露、易失水处可发生皱缩、变</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">硬等干燥改变。</text>
+<circle cx="985" cy="314" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">潮湿和局部缺氧等条件可促进脂</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">肪形成蜡样物。</text>
+<circle cx="985" cy="469" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">衣物与包裹可使局部微环境不同</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">于室外环境。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">过程受温度、水分和身体条件影响，不能据此套用固定时间。</text>
+</g></svg>

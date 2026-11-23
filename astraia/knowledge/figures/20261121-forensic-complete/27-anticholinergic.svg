@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">抗胆碱样中毒：观察身体变化</title>
+<desc id="desc">不同症状可能同时出现，也可能缺少部分表现</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">抗胆碱样中毒：观察身体变化</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">不同症状可能同时出现，也可能缺少部分表现</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<g transform="translate(265 130) scale(1.1)"><circle cx="0" cy="0" r="29" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M-34 42 Q0 29 34 42 L44 145 L29 160 L23 278 L7 278 L0 168 L-7 278 L-23 278 L-29 160 L-44 145 Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-35 52 L-69 150 M35 52 L69 150" fill="none" stroke="#b49284" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/></g><circle cx="253" cy="127" r="5" fill="#293e44" stroke="none" stroke-width="3"/><circle cx="277" cy="127" r="7" fill="#293e44" stroke="none" stroke-width="3"/><circle cx="277" cy="127" r="12" fill="none" stroke="#af7072" stroke-width="2"/><path d="M256 146 q9-5 18 0" fill="none" stroke="#af7072" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M243 280 q22-14 44 0" fill="none" stroke="#a7835a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><line x1="277" y1="127" x2="430" y2="110" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="277" cy="127" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="438" y="118" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">瞳孔可能扩大</text><line x1="265" y1="146" x2="430" y2="197" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="265" cy="146" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="438" y="205" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">口干</text><line x1="310" y1="250" x2="430" y2="280" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="310" cy="250" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="438" y="288" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">皮肤干热</text><line x1="264" y1="280" x2="430" y2="365" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="264" cy="280" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="438" y="373" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">排尿困难</text><text x="430" y="431" font-size="24" fill="#596b6d" font-weight="400" text-anchor="start">也可能烦躁或意识混乱</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">可能口干、皮肤干热、瞳孔扩大</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">或排尿困难。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">有的人会烦躁、意识混乱、心跳</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">快或发热。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">意识异常、抽搐或明显高热时立</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">即呼救。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">单个表现不能确定毒物；就医时提供药物和接触信息。</text>
+</g></svg>

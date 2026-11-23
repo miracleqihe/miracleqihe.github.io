@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">浸水皮肤：变白、膨胀与起皱</title>
+<desc id="desc">手部是常见观察部位，图示并非死亡标志</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">浸水皮肤：变白、膨胀与起皱</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">手部是常见观察部位，图示并非死亡标志</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M120 345 L145 230 Q152 195 172 205 L176 130 Q180 105 194 111 Q208 115 207 135 L206 210 L226 117 Q232 94 247 101 Q258 107 253 128 L240 218 L269 139 Q277 119 291 127 Q301 134 293 153 L265 250 L294 218 Q315 202 324 216 Q330 228 315 244 L270 320 L249 345Z" fill="#ead7cd" stroke="#b49284" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M440 345 L465 230 Q472 195 492 205 L496 130 Q500 105 514 111 Q528 115 527 135 L526 210 L546 117 Q552 94 567 101 Q578 107 573 128 L560 218 L589 139 Q597 119 611 127 Q621 134 613 153 L585 250 L614 218 Q635 202 644 216 Q650 228 635 244 L590 320 L569 345Z" fill="#ead7cd" stroke="#b49284" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M482 228 q9-9 18 0 M514 182 q9-9 18 0 M546 164 q9-9 18 0 M577 189 q9-9 18 0 M503 277 q16-12 32 0" fill="none" stroke="#af9189" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="220" y="420" font-size="25" fill="#293e44" font-weight="400" text-anchor="middle">水接触前示意</text><text x="540" y="420" font-size="25" fill="#293e44" font-weight="400" text-anchor="middle">起皱、变白可能出现</text><circle cx="220" cy="98" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/><circle cx="540" cy="84" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">浸水后手掌、手指或足底可变白</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">并起皱。</text>
+<circle cx="985" cy="314" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">水温、手套、皮肤状况与浸泡条</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">件影响外观。</text>
+<circle cx="985" cy="469" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">活人浸水也会起皱，不能据此推</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">断死亡原因。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">皱纹出现的时间差异很大，不能直接计算死亡时间。</text>
+</g></svg>

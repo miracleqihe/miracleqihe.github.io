@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="880" viewBox="0 0 1600 880" role="img">
+<title>地震发生时和被困后</title><desc>地震摇晃时趴下、掩护、抓牢；被困后保护呼吸道并持续发出求救信号。</desc>
+<rect width="1600" height="880" rx="24" fill="#fbf9f3" stroke="#d9d5c8" stroke-width="3"/>
+<g font-family="Microsoft YaHei, Noto Sans SC, sans-serif" fill="#26343b" stroke-linecap="round" stroke-linejoin="round">
+<text x="60" y="75" font-size="36" font-weight="700" fill="#a84f42" text-anchor="start">03</text>
+<text x="145" y="76" font-size="53" font-weight="700" fill="#26343b" text-anchor="start">地震：摇晃时与被困后</text>
+<text x="145" y="124" font-size="32" font-weight="400" fill="#58696c" text-anchor="start">先保护头颈；震后留意余震与坠落物</text>
+<line x1="60" y1="148" x2="1540" y2="148" stroke="#e1ded2" stroke-width="2"/>
+<rect x="60" y="170" width="720" height="580" rx="20" fill="#ebf1ea" stroke="none" stroke-width="1"/>
+<rect x="820" y="170" width="720" height="580" rx="20" fill="#f4eee4" stroke="none" stroke-width="1"/>
+<text x="94" y="225" font-size="41" font-weight="700" fill="#4f6e57" text-anchor="start">摇晃时</text>
+<text x="855" y="225" font-size="41" font-weight="700" fill="#997357" text-anchor="start">被困后</text>
+<rect x="165" y="340" width="500" height="35" rx="5" fill="#aa8562" stroke="#26343b" stroke-width="4"/>
+<rect x="185" y="375" width="25" height="235" rx="3" fill="#aa8562" stroke="#26343b" stroke-width="4"/>
+<rect x="477" y="375" width="15" height="235" rx="3" fill="#aa8562" stroke="#26343b" stroke-width="4"/>
+<rect x="615" y="375" width="25" height="235" rx="3" fill="#aa8562" stroke="#26343b" stroke-width="4"/>
+<line x1="130" y1="615" x2="700" y2="615" stroke="#26343b" stroke-width="5"/>
+<circle cx="385" cy="420" r="35" fill="#f5e7d4" stroke="#26343b" stroke-width="5"/>
+<path d="M 365 452 Q 315 470 305 525 L 375 540 M 375 540 L 445 575 M 375 540 L 330 585" fill="none" stroke="#26343b" stroke-width="8"/>
+<path d="M 406 456 L 452 475 L 477 415" fill="none" stroke="#26343b" stroke-width="8"/>
+<path d="M 354 459 L 330 438 L 352 409" fill="none" stroke="#26343b" stroke-width="8"/>
+<text x="112" y="730" font-size="40" font-weight="700" fill="#26343b" text-anchor="start">趴下 · 掩护 · 抓牢</text>
+<path d="M 865 600 L 925 540 L 975 565 L 1035 493 L 1110 540 L 1172 475 L 1245 535 L 1310 490 L 1480 600" fill="#eadfcd" stroke="#997357" stroke-width="8"/>
+<circle cx="1095" cy="587" r="30" fill="#f5e7d4" stroke="#26343b" stroke-width="5"/>
+<path d="M 1065 616 Q 1020 645 1010 685 M 1125 617 Q 1160 635 1180 675" fill="none" stroke="#26343b" stroke-width="8"/>
+<rect x="1077" y="586" width="35" height="20" rx="6" fill="#b7c9c8" stroke="#26343b" stroke-width="2"/>
+<path d="M 1240 625 L 1280 625 M 1300 605 L 1335 593 M 1305 645 L 1340 658" fill="none" stroke="#a84f42" stroke-width="7"/>
+<text x="859" y="730" font-size="40" font-weight="700" fill="#26343b" text-anchor="start">遮住口鼻，敲击求救</text>
+<rect x="60" y="782" width="1480" height="58" rx="12" fill="#f0eee6" stroke="none" stroke-width="1"/>
+<text x="85" y="823" font-size="33" font-weight="400" fill="#58696c" text-anchor="start">被困时可每隔几分钟敲击坚实处三下；安全时再选择撤离。</text>
+</g></svg>

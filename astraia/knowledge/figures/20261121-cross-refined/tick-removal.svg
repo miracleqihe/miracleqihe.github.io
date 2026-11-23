@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">发现附着的蜱：贴近皮肤夹住，平稳向上拔</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">使用细尖镊子；不要用手指挤压虫体。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 70 345 Q 310 320 545 345 L 545 415 L 70 415 Z" fill="#f0d8ca" stroke="#ac8e81" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="305" cy="300" rx="45" ry="35" fill="#9a7965" stroke="#263b3e" stroke-width="3"/>
+<circle cx="305" cy="332" r="10" fill="#775b4a" stroke="#263b3e" stroke-width="2"/>
+<line x1="270" y1="285" x2="235" y2="270" stroke="#263b3e" stroke-width="3"/>
+<line x1="270" y1="305" x2="235" y2="315" stroke="#263b3e" stroke-width="3"/>
+<line x1="340" y1="285" x2="375" y2="270" stroke="#263b3e" stroke-width="3"/>
+<line x1="340" y1="305" x2="375" y2="315" stroke="#263b3e" stroke-width="3"/>
+<path d="M 210 165 L 293 334 M 400 165 L 317 334" fill="none" stroke="#9ca7a5" stroke-width="7" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="305" y1="170" x2="305" y2="125" stroke="#326f80" stroke-width="4"/>
+<path d="M 311.0 136.5 L 305 125 L 299.0 136.5" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="305" y="457" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">夹在靠近皮肤的口器处，匀速向上</text>
+<text x="660" y="190" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">取下后清洗皮肤和双手</text>
+<text x="660" y="245" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">记录时间、地点与症状</text>
+<text x="660" y="300" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">出现发热或皮疹时就医说明</text>
+<text x="600" y="488" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">不要用热源、油或指甲油刺激蜱虫。</text>
+</svg>

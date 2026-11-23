@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">肢体急性缺血：血流与外观</title>
+<desc id="desc">比较两侧，动脉血流减少只是可能机制之一</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">肢体急性缺血：血流与外观</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">比较两侧，动脉血流减少只是可能机制之一</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M145 85 Q130 160 145 250 L137 380 Q158 406 187 386 L199 255 Q211 160 195 85Z" fill="#ead7cd" stroke="#b49284" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M440 85 Q425 160 440 250 L432 380 Q453 406 482 386 L494 255 Q506 160 490 85Z" fill="#d8ddd2" stroke="#a7ada1" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M169 100 V350 M464 100 V210" fill="none" stroke="#af7072" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="464" cy="217" r="11" fill="#a7835a" stroke="none" stroke-width="3"/><path d="M464 227 V350" fill="none" stroke="#aebbb4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><text x="170" y="445" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">一侧可突然疼痛、发冷</text><text x="464" y="445" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">血流受阻示意</text><line x1="465" y1="217" x2="600" y2="180" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="465" cy="217" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="608" y="188" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">动脉血流减少</text><text x="600" y="275" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">麻木、苍白或无力</text><text x="600" y="335" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">应立即急救评估</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">一侧手脚突然剧痛、发白、发冷</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">或麻木需警惕。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">活动困难或症状迅速加重时立即</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">呼叫急救。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">表现不一定全部出现，由医护检</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">查血流。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">不要按摩或热敷来观察能否恢复，尽快医疗评估。</text>
+</g></svg>

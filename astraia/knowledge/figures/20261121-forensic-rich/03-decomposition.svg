@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="660" viewBox="0 0 1400 660" role="img" aria-labelledby="title desc">
+<title id="title">尸后变化：记录位置、外观与环境</title>
+<desc id="desc">三类现象可以重叠；出现快慢随环境及个体不同</desc>
+<rect x="1" y="1" width="1398" height="658" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="32" y="47" fill="#293b43" font-size="38" font-weight="700" text-anchor="start">尸后变化：记录位置、外观与环境</text>
+<text x="33" y="85" fill="#52636a" font-size="24" font-weight="400" text-anchor="start">三类现象可以重叠；出现快慢随环境及个体不同</text>
+<rect x="26" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="242" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">局部色变</text>
+<g transform="translate(112 172)">
+<path d="M 68 6 Q 130 -1 192 6 L 188 112 Q 130 125 72 112 Z" fill="#eadbd1" stroke="#a8897c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M 88 58 Q 110 42 133 55 Q 139 72 116 81 Q 96 84 88 58 Z" fill="#aab397" stroke="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="51" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">腹部局部可出现灰绿或暗</text>
+<text x="51" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">色。记下部位、范围及周围</text>
+<text x="51" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">颜色。光线和肤色会影响观</text>
+<text x="51" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">察。</text>
+<rect x="484" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="700" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">网纹与表皮变化</text>
+<g transform="translate(570 172)">
+<path d="M 68 6 Q 130 -1 192 6 L 188 112 Q 130 125 72 112 Z" fill="#eadbd1" stroke="#a8897c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M82 25 Q108 53 99 99 M100 48 Q137 45 158 78 M160 18 Q140 47 175 99" fill="none" stroke="#8b737f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="144" cy="84" r="9" fill="none" stroke="#ac8c86" stroke-width="2"/>
+</g>
+<text x="509" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">部分区域可见深色网纹。也</text>
+<text x="509" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">可能出现水疱或表皮脱落。</text>
+<text x="509" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">与衣物接触处要一并记录。</text>
+<rect x="942" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="1158" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">胀气与口鼻液体</text>
+<g transform="translate(1028 172)">
+<path d="M 68 6 Q 130 -1 192 6 L 188 112 Q 130 125 72 112 Z" fill="#eadbd1" stroke="#a8897c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M82 57 Q130 28 178 57 Q180 103 130 111 Q80 103 82 57Z" fill="#e0c8bf" stroke="#a8897c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M208 78 q15 15 0 28 q-15-13 0-28z" fill="#a87878" stroke="none" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="967" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">腹部、面部或其他软组织可</text>
+<text x="967" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">胀起。口鼻可能出现褐色或</text>
+<text x="967" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">血色液体。液体也可能来自</text>
+<text x="967" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">其他原因。</text>
+<rect x="26" y="558" width="1348" height="81" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="44" y="590" fill="#785334" font-size="25" font-weight="400" text-anchor="start">温度、冷藏、衣物、通风和昆虫都会改变外观与进程。</text>
+<text x="44" y="622" fill="#785334" font-size="25" font-weight="400" text-anchor="start">不要按颜色、气味或其中一项现象推断固定死亡时间或原因。</text>
+</g></svg>

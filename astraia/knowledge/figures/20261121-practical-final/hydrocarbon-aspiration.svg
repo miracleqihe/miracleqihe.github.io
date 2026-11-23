@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">误饮汽油或灯油：液体进入气道的风险</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">儿童出现呛咳或呼吸异常，应尽快接受医疗评估。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="73" y="190" width="110" height="168" rx="12" fill="#e5ebe1" stroke="#263b3e" stroke-width="3"/>
+<rect x="105" y="164" width="46" height="30" rx="8" fill="#a8b5ac" stroke="#263b3e" stroke-width="2"/>
+<text x="128" y="278" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">灯油</text>
+<line x1="200" y1="259" x2="270" y2="259" stroke="#326f80" stroke-width="4"/>
+<path d="M 258.5 265.0 L 270 259 L 258.5 253.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="390" cy="186" r="45" fill="#eed8c6" stroke="#263b3e" stroke-width="3"/>
+<path d="M 365 223 Q 310 248 316 344 L 460 344 Q 466 250 416 223" fill="none" stroke="#263b3e" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 380 225 L 380 274 M 405 225 L 405 274" fill="none" stroke="#263b3e" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 380 274 Q 338 274 342 325 Q 365 348 384 306 M 405 274 Q 447 274 443 325 Q 420 348 401 306" fill="#d8e8e8" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="384" y1="233" x2="384" y2="300" stroke="#a94d37" stroke-width="4"/>
+<path d="M 378.0 288.5 L 384 300 L 390.0 288.5" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="389" y="397" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="middle">呛入气道可引起肺部炎症</text>
+<line x1="535" y1="120" x2="535" y2="443" stroke="#d9e5df" stroke-width="2"/>
+<text x="570" y="169" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">立即联系中毒急救或急诊</text>
+<text x="570" y="218" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">不要催吐或自行抽吸</text>
+<text x="570" y="267" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">说明产品、进食时间及呛咳</text>
+<text x="570" y="316" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">呼吸困难或意识异常：呼救</text>
+<text x="600" y="485" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">燃料放在带原标签的容器内，上锁并远离火源。</text>
+</svg>

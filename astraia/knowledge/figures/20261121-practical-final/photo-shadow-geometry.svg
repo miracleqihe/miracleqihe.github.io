@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">平地杆影：从长度求太阳高度</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">此图是假设竖杆和水平地面；照片斜拍时需先校正透视。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<line x1="80" y1="375" x2="628" y2="375" stroke="#263b3e" stroke-width="4"/>
+<line x1="201" y1="375" x2="201" y2="218" stroke="#263b3e" stroke-width="7"/>
+<line x1="201" y1="375" x2="515" y2="375" stroke="#326f80" stroke-width="9"/>
+<line x1="201" y1="218" x2="515" y2="375" stroke="#bb8737" stroke-width="3"/>
+<path d="M 475 375 A 40 40 0 0 0 480 357" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="151" y="300" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">1 米</text>
+<text x="358" y="414" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">2 米</text>
+<text x="456" y="352" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">26.6°</text>
+<line x1="125" y1="180" x2="177" y2="206" stroke="#bb8737" stroke-width="4"/>
+<path d="M 164.0 206.2 L 177 206 L 169.4 195.5" fill="none" stroke="#bb8737" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="85" cy="160" r="24" fill="#f8e8b8" stroke="#bb8737" stroke-width="2"/>
+<text x="55" y="126" fill="#bb8737" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">太阳方向</text>
+<line x1="680" y1="120" x2="680" y2="443" stroke="#d9e5df" stroke-width="2"/>
+<text x="716" y="156" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">高度角 = arctan(杆高 ÷ 影长)</text>
+<text x="716" y="204" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">影子与太阳的地面方向相反</text>
+<text x="716" y="252" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">地理北向要另找可靠参照</text>
+<text x="716" y="300" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">还需日期、地点才能推时刻</text>
+<text x="716" y="348" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">上午与下午可能各有候选</text>
+<text x="600" y="485" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">坡面、墙面、镜像和广角变形都会影响直接测量。</text>
+</svg>

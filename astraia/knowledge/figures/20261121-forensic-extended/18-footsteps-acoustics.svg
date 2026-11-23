@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820" role="img" aria-labelledby="title desc">
+<title id="title">脚步声：节奏、地面与空间</title>
+<desc id="desc">听到的声音同时受到行动、传播与环境影响</desc>
+<rect x="1" y="1" width="1598" height="818" rx="15" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="36" y="53" font-size="42" font-weight="700" fill="#263d43" text-anchor="start">脚步声：节奏、地面与空间</text>
+<text x="38" y="94" font-size="29" font-weight="400" fill="#5b6d70" text-anchor="start">听到的声音同时受到行动、传播与环境影响</text>
+<rect x="28" y="120" width="920" height="595" rx="12" fill="#f3f6f2" stroke="#dce6df" stroke-width="2"/>
+<g transform="translate(35 130)">
+<line x1="75" y1="363" x2="740" y2="363" stroke="#9baea9" stroke-width="8" stroke-linecap="round"/><path d="M 155 317 q25-16 48 0 q15 18-5 29 q-27 12-43-29z" fill="#bbcbc5" stroke="#7d9790" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M 280 309 q25-16 48 0 q15 18-5 29 q-27 12-43-29z" fill="#bbcbc5" stroke="#7d9790" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M 370 194 Q 430 146 490 194 M 380 224 Q 430 185 480 224 M 392 252 Q 430 223 468 252" fill="none" stroke="#608994" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M 550 158 v250 M 650 158 v250" fill="none" stroke="#b4aaa0" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><path d="M 545 174 Q 495 110 430 155" fill="none" stroke="#b7c5bc" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M735 220 q42-10 45 32 q4 35-20 47 q-15 8-15 25 q-4 10-16 6 M742 245 q20-5 20 15 q0 13-12 20" fill="none" stroke="#a68d82" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><text x="765" y="402" font-size="25" font-weight="400" fill="#263d43" text-anchor="middle">听者</text><text x="600" y="453" font-size="25" font-weight="400" fill="#263d43" text-anchor="middle">墙面与空间</text><text x="240" y="431" font-size="25" font-weight="400" fill="#263d43" text-anchor="middle">脚步与地面</text><text x="425" y="105" font-size="25" font-weight="400" fill="#263d43" text-anchor="middle">传播与反射</text><circle cx="170" cy="240" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="170" y="248" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">1</text><circle cx="425" cy="300" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="425" y="308" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">2</text><circle cx="815" cy="215" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="815" y="223" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">3</text>
+</g>
+<line x1="971" y1="132" x2="971" y2="706" stroke="#e3e8e2" stroke-width="2" stroke-linecap="round"/>
+<text x="1005" y="164" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">① 声源</text>
+<text x="1005" y="204" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">鞋、步速、步态和地面都会改变声响</text>
+<text x="1005" y="241" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">与节奏。</text>
+<text x="1005" y="299" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">② 传播</text>
+<text x="1005" y="339" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">墙面反射、遮挡和背景噪声可改变听</text>
+<text x="1005" y="376" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">到的方向与强度。</text>
+<text x="1005" y="434" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">③ 熟悉感</text>
+<text x="1005" y="474" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">熟悉节奏可能提供线索，同一人的脚</text>
+<text x="1005" y="511" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">步也会变化。</text>
+<text x="1005" y="569" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">④ 行动</text>
+<text x="1005" y="609" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">关注变化并寻找安全出口；必要时联</text>
+<text x="1005" y="646" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">系他人或报警。</text>
+<rect x="28" y="735" width="1544" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="45" y="773" font-size="29" font-weight="400" fill="#785334" text-anchor="start">单凭声响不能可靠确定人数、体型、身份或距离。</text>
+</g></svg>

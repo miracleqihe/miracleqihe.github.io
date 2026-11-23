@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">土壤比较：颗粒组成与背景变化</title>
+<desc id="desc">图中颗粒是教学符号，并非真实检材</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">土壤比较：颗粒组成与背景变化</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">图中颗粒是教学符号，并非真实检材</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<rect x="100" y="145" width="265" height="240" rx="8" fill="#efe8d9" stroke="#b9aa92" stroke-width="3"/><rect x="430" y="145" width="265" height="240" rx="8" fill="#eee6d7" stroke="#b9aa92" stroke-width="3"/><circle cx="145" cy="185" r="12" fill="#b6a082" stroke="none" stroke-width="3"/><circle cx="203" cy="213" r="19" fill="#c0b399" stroke="none" stroke-width="3"/><circle cx="303" cy="176" r="10" fill="#997b64" stroke="none" stroke-width="3"/><circle cx="268" cy="275" r="14" fill="#a6a492" stroke="none" stroke-width="3"/><circle cx="180" cy="319" r="8" fill="#9f825f" stroke="none" stroke-width="3"/><circle cx="470" cy="184" r="12" fill="#b6a082" stroke="none" stroke-width="3"/><circle cx="525" cy="211" r="19" fill="#c0b399" stroke="none" stroke-width="3"/><circle cx="630" cy="178" r="10" fill="#997b64" stroke="none" stroke-width="3"/><circle cx="578" cy="275" r="14" fill="#a6a492" stroke="none" stroke-width="3"/><circle cx="625" cy="320" r="8" fill="#718f7c" stroke="none" stroke-width="3"/><text x="235" y="435" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">样本 A</text><text x="565" y="435" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">样本 B</text><text x="400" y="493" font-size="25" fill="#596b6d" font-weight="400" text-anchor="middle">颗粒和组合示意</text><circle cx="112" cy="125" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/><circle cx="439" cy="125" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">观察颗粒大小、颜色及可见矿物</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">或有机物。</text>
+<circle cx="985" cy="314" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">同一地点不同位置和深度可能有</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">差异。</text>
+<circle cx="985" cy="469" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">不同地点可能相似，转移过程还</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">可能混入新颗粒。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">颜色相似不等于唯一来源，参照与检验方法都影响结论。</text>
+</g></svg>

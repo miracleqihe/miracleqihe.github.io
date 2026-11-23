@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">口服补液：先看意识，再按产品说明配制</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">腹泻与呕吐时，应留意脱水程度和能否安全吞咽。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 105 205 L 270 205 L 250 370 L 125 370 Z" fill="#d9edf0" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 118 270 Q 185 280 256 270" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="335" y="175" width="170" height="190" rx="7" fill="#f7f1df" stroke="#bb8737" stroke-width="3"/>
+<text x="420" y="260" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">口服补液盐</text>
+<line x1="300" y1="235" x2="270" y2="235" stroke="#326f80" stroke-width="3"/>
+<path d="M 281.5 229.0 L 270 235 L 281.5 241.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="190" y="415" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">安全饮水</text>
+<text x="420" y="415" fill="#bb8737" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">按包装配水</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">清醒、可安全吞咽时少量多次</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">按产品说明使用安全水</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">精神差、持续呕吐或尿少需就医</text>
+<text x="755" y="301" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">昏迷者不要强灌液体</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">婴幼儿、老年人和有基础疾病者需尽早咨询医护。</text>
+</svg>

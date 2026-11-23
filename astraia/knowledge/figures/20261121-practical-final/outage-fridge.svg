@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">停电后的冰箱：记录时间、尽量关门</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">以下是原本正常制冷且始终关门时的参考值。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="80" y="123" width="310" height="300" rx="12" fill="#e8f0ed" stroke="#263b3e" stroke-width="3"/>
+<line x1="80" y1="242" x2="390" y2="242" stroke="#263b3e" stroke-width="3"/>
+<rect x="104" y="143" width="120" height="58" rx="8" fill="#d5e8ed" stroke="#326f80" stroke-width="2"/>
+<path d="M 120 198 L 120 150 L 208 150 L 208 198" fill="none" stroke="#326f80" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="251" y="143" width="105" height="58" rx="8" fill="#d5e8ed" stroke="#326f80" stroke-width="2"/>
+<text x="235" y="229" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">冷冻室</text>
+<line x1="100" y1="293" x2="370" y2="293" stroke="#526d6e" stroke-width="3"/>
+<line x1="100" y1="356" x2="370" y2="356" stroke="#526d6e" stroke-width="3"/>
+<ellipse cx="156" cy="280" rx="25" ry="13" fill="#e2bcaa" stroke="#a94d37" stroke-width="2"/>
+<rect x="231" y="258" width="42" height="30" rx="8" fill="#e8e1c5" stroke="#bb8737" stroke-width="2"/>
+<path d="M 142 340 Q 180 303 217 340 Z" fill="#d6dfb5" stroke="#60816a" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="290" y="304" width="34" height="45" rx="8" fill="#ffffff" stroke="#326f80" stroke-width="2"/>
+<text x="235" y="397" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="middle">冷藏室（剖视）</text>
+<text x="447" y="167" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">满载冷冻</text>
+<text x="653" y="167" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">约 48 小时</text>
+<text x="447" y="211" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">半满冷冻</text>
+<text x="653" y="211" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">约 24 小时</text>
+<text x="447" y="255" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">冷藏室</text>
+<text x="653" y="255" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">约 4 小时</text>
+<line x1="445" y1="283" x2="1095" y2="283" stroke="#d7e5de" stroke-width="2"/>
+<text x="447" y="322" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">肉、奶、熟食等需看温度与放置时间</text>
+<text x="447" y="362" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">仍有冰晶或不高于 4℃，再按类别判断</text>
+<text x="447" y="402" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">不要依靠气味、外观或尝味确认安全</text>
+<text x="600" y="485" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">开门、室温与装载会影响实际保冷；准备温度计更便于判断。</text>
+</svg>

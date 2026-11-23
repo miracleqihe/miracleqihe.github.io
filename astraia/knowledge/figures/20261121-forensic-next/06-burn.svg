@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">烧烫伤：不同深度的皮肤层</title>
+<desc id="desc">从表皮到深部皮肤的剖面概念图</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">烧烫伤：不同深度的皮肤层</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">从表皮到深部皮肤的剖面概念图</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<rect x="40" y="165" width="220" height="180" rx="0" fill="#f0dcd0" stroke="#bb9e91" stroke-width="3"/><rect x="40" y="165" width="220" height="20" rx="0" fill="#d1aaa0" stroke="none" stroke-width="0"/><rect x="40" y="285" width="220" height="60" rx="0" fill="#e5d5b1" stroke="none" stroke-width="0"/><line x1="40" y1="285" x2="260" y2="285" stroke="#ceb99a" stroke-width="2" stroke-linecap="round"/><rect x="305" y="165" width="220" height="180" rx="0" fill="#f0dcd0" stroke="#bb9e91" stroke-width="3"/><rect x="305" y="165" width="220" height="20" rx="0" fill="#d1aaa0" stroke="none" stroke-width="0"/><rect x="305" y="285" width="220" height="60" rx="0" fill="#e5d5b1" stroke="none" stroke-width="0"/><line x1="305" y1="285" x2="525" y2="285" stroke="#ceb99a" stroke-width="2" stroke-linecap="round"/><rect x="570" y="165" width="220" height="180" rx="0" fill="#f0dcd0" stroke="#bb9e91" stroke-width="3"/><rect x="570" y="165" width="220" height="20" rx="0" fill="#d1aaa0" stroke="none" stroke-width="0"/><rect x="570" y="285" width="220" height="60" rx="0" fill="#e5d5b1" stroke="none" stroke-width="0"/><line x1="570" y1="285" x2="790" y2="285" stroke="#ceb99a" stroke-width="2" stroke-linecap="round"/><path d="M40 165 H260" fill="none" stroke="#af7072" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><path d="M305 165 H365 Q380 128 405 165 H525" fill="none" stroke="#af7072" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><path d="M305 165 H525 V215 H305Z" fill="#d7a4a0" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/><path d="M570 165 H790 V285 H570Z" fill="#cba59a" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/><text x="150" y="105" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">表浅</text><text x="415" y="105" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">部分皮层</text><text x="680" y="105" font-size="27" fill="#293e44" font-weight="700" text-anchor="middle">较深层</text><text x="150" y="390" font-size="23" fill="#293e44" font-weight="400" text-anchor="middle">表层发红疼痛</text><text x="415" y="390" font-size="23" fill="#293e44" font-weight="400" text-anchor="middle">可见水疱</text><text x="680" y="390" font-size="23" fill="#293e44" font-weight="400" text-anchor="middle">可苍白或感觉减退</text><text x="410" y="455" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">相邻部位深度可以不同</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">表浅损伤常有发红和疼痛，部分</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">皮层可出现水疱。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">较深区域可能苍白或发黑，感觉</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">也可能变迟钝。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">相邻部位深浅不同，严重程度需</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">医疗评估。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">流动凉水冷却；不要用冰直接敷，也不要自行挑破水疱。</text>
+</g></svg>

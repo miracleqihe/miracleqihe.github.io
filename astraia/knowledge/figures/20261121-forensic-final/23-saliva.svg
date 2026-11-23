@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">唾液筛查：淀粉酶、斑迹与 DNA</title>
+<desc id="desc">从口腔分泌物到物体斑迹及实验室检测</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">唾液筛查：淀粉酶、斑迹与 DNA</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">从口腔分泌物到物体斑迹及实验室检测</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M110 110 Q75 150 105 200 Q135 230 180 220 Q220 210 230 170 Q220 110 165 100Z" fill="#ead7cd" stroke="#b49284" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M145 190 Q170 180 195 190" fill="none" stroke="#af7072" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="135" cy="155" r="12" fill="#a7835a" stroke="none" stroke-width="3"/><circle cx="202" cy="155" r="12" fill="#a7835a" stroke="none" stroke-width="3"/><line x1="225" y1="165" x2="320" y2="165" stroke="#a7835a" stroke-width="4" stroke-linecap="round"/><path d="M 308.6 171.2 L 320 165 L 308.6 158.8" fill="none" stroke="#a7835a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M340 115 L470 105 L490 240 L350 250Z" fill="#e9e4d8" stroke="#b3a997" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M380 170 q25-25 55 0 q-15 30-55 0Z" fill="#d7c39f" stroke="#b39b77" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><line x1="490" y1="170" x2="545" y2="170" stroke="#668f98" stroke-width="4" stroke-linecap="round"/><path d="M 533.6 176.2 L 545 170 L 533.6 163.8" fill="none" stroke="#668f98" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="620" cy="165" r="55" fill="#f1eadf" stroke="#b9aaa0" stroke-width="3"/><path d="M605 135 q40 30 0 60 M635 135 q-40 30 0 60" fill="none" stroke="#668f98" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><text x="160" y="77" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">唾液腺与口腔</text><text x="415" y="300" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">附着在物体上的样本</text><text x="620" y="270" font-size="24" fill="#293e44" font-weight="400" text-anchor="middle">淀粉酶与 DNA</text><text x="400" y="420" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">筛查反应与遗传检验回答不同问题</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">淀粉酶可作筛查线索，其他体液</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">也可能含有。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">DNA 检验与体液筛查回答不同问</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">题。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">混合、背景物质与样本保存影响</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">检验结果。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">筛查阳性不单独确认体液来源或接触经过。</text>
+</g></svg>

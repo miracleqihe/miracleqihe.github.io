@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">水厂常见处理过程</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">各地工艺因水源与污染物而异；处理后还需满足当地水质标准。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="55" y="150" width="185" height="190" rx="8" fill="#fff" stroke="#c6d6cf" stroke-width="2"/>
+<text x="147" y="190" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="27" font-weight="700" text-anchor="middle">混凝</text>
+<circle cx="90" cy="265" r="3" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<circle cx="120" cy="285" r="3" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<circle cx="150" cy="261" r="3" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<circle cx="180" cy="280" r="3" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<circle cx="130" cy="320" r="3" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<circle cx="195" cy="315" r="3" fill="#326f80" stroke="#326f80" stroke-width="1"/>
+<text x="147" y="379" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">细粒聚集</text>
+<line x1="244" y1="246" x2="269" y2="246" stroke="#326f80" stroke-width="3"/>
+<path d="M 257.5 252.0 L 269 246 L 257.5 240.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="275" y="150" width="185" height="190" rx="8" fill="#fff" stroke="#c6d6cf" stroke-width="2"/>
+<text x="367" y="190" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="27" font-weight="700" text-anchor="middle">絮凝</text>
+<circle cx="323" cy="270" r="7" fill="#60816a" stroke="#60816a" stroke-width="1"/>
+<circle cx="385" cy="285" r="10" fill="#60816a" stroke="#60816a" stroke-width="1"/>
+<circle cx="350" cy="320" r="8" fill="#60816a" stroke="#60816a" stroke-width="1"/>
+<circle cx="417" cy="315" r="6" fill="#60816a" stroke="#60816a" stroke-width="1"/>
+<text x="367" y="379" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">慢速形成絮体</text>
+<line x1="464" y1="246" x2="489" y2="246" stroke="#326f80" stroke-width="3"/>
+<path d="M 477.5 252.0 L 489 246 L 477.5 240.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="495" y="150" width="185" height="190" rx="8" fill="#fff" stroke="#c6d6cf" stroke-width="2"/>
+<text x="587" y="190" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="27" font-weight="700" text-anchor="middle">沉淀</text>
+<line x1="515" y1="285" x2="660" y2="285" stroke="#bb8737" stroke-width="9"/>
+<line x1="580" y1="225" x2="580" y2="270" stroke="#bb8737" stroke-width="3"/>
+<path d="M 574.0 258.5 L 580 270 L 586.0 258.5" fill="none" stroke="#bb8737" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="587" y="379" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">较重颗粒下沉</text>
+<line x1="684" y1="246" x2="709" y2="246" stroke="#326f80" stroke-width="3"/>
+<path d="M 697.5 252.0 L 709 246 L 697.5 240.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="715" y="150" width="185" height="190" rx="8" fill="#fff" stroke="#c6d6cf" stroke-width="2"/>
+<text x="807" y="190" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="27" font-weight="700" text-anchor="middle">过滤</text>
+<rect x="745" y="240" width="125" height="22" rx="0" fill="#e0cfaa" stroke="#e0cfaa" stroke-width="1"/>
+<rect x="745" y="266" width="125" height="22" rx="0" fill="#a9b2a3" stroke="#a9b2a3" stroke-width="1"/>
+<rect x="745" y="292" width="125" height="22" rx="0" fill="#6b817c" stroke="#6b817c" stroke-width="1"/>
+<text x="807" y="379" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">介质截留颗粒</text>
+<line x1="904" y1="246" x2="929" y2="246" stroke="#326f80" stroke-width="3"/>
+<path d="M 917.5 252.0 L 929 246 L 917.5 240.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="935" y="150" width="185" height="190" rx="8" fill="#fff" stroke="#c6d6cf" stroke-width="2"/>
+<text x="1027" y="190" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="27" font-weight="700" text-anchor="middle">消毒</text>
+<circle cx="1027" cy="263" r="32" fill="#edf3db" stroke="#60816a" stroke-width="3"/>
+<path d="M 1008 263 L 1022 278 L 1049 248" fill="none" stroke="#60816a" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<text x="1027" y="379" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">降低病原微生物</text>
+<text x="600" y="473" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">常规消毒不能可靠去除全部溶解化学污染物；特殊污染需专门处理。</text>
+</svg>

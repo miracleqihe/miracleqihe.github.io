@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">落地电线与积水：保持距离，等待专业处置</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">电线可能仍带电；积水、金属护栏及车辆也可能成为危险路径。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 80 350 L 1050 350" fill="none" stroke="#9eaeaa" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 110 120 L 110 325 M 80 160 L 145 160 M 145 160 Q 280 180 410 300 Q 460 340 500 345" fill="none" stroke="#263b3e" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 380 355 Q 505 315 660 355 Q 520 385 380 355 Z" fill="#d1e9eb" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="855" cy="240" r="23" fill="#f0ddce" stroke="#263b3e" stroke-width="3"/>
+<path d="M 855 263 L 855 315 M 855 280 L 820 300 M 855 280 L 885 300 M 855 315 L 830 355 M 855 315 L 880 355" fill="none" stroke="#263b3e" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="670" y1="260" x2="775" y2="260" stroke="#a94d37" stroke-width="4"/>
+<path d="M 763.5 266.0 L 775 260 L 763.5 254.0" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="740" y="215" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">远离并阻止他人靠近</text>
+<text x="920" y="403" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="middle">从安全位置报警</text>
+<text x="600" y="479" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">不要碰触电线或尝试用物体移开；具体安全距离遵循当地电力部门指引。</text>
+</svg>

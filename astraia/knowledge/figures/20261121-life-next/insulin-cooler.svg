@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">停电带药：让胰岛素保持凉爽而不冻结</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">药物存放条件以具体产品标签和医护建议为准。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 100 190 L 630 190 L 610 405 L 120 405 Z" fill="#eadbc3" stroke="#a99175" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 130 215 L 600 215 L 580 375 L 150 375 Z" fill="#f8f7f0" stroke="#c8c6b9" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="155" y="245" width="75" height="105" rx="8" fill="#badbe4" stroke="#326f80" stroke-width="2"/>
+<rect x="500" y="245" width="75" height="105" rx="8" fill="#badbe4" stroke="#326f80" stroke-width="2"/>
+<rect x="300" y="275" width="130" height="75" rx="8" fill="#eee5d7" stroke="#cbb89d" stroke-width="2"/>
+<rect x="335" y="240" width="28" height="85" rx="6" fill="#e2edf0" stroke="#326f80" stroke-width="2"/>
+<rect x="336" y="230" width="26" height="14" rx="2" fill="#b8cfcd" stroke="#263b3e" stroke-width="1"/>
+<text x="190" y="390" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="middle">冷源</text>
+<text x="365" y="390" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="400" text-anchor="middle">药品与隔层</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">隔开冰袋与药品，避免冻结</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">避光、避热并尽量监测温度</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">记录停电及温度异常的时间</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">尽早联系药师或医疗机构</text>
+<text x="600" y="486" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">冰冻或过热可能损害胰岛素；不要自行更换剂型或剂量。</text>
+</svg>

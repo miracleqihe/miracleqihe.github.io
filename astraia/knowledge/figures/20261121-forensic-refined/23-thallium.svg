@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">铊暴露：胃肠、神经与毛发</title>
+<desc id="desc">各人出现的表现、顺序和严重程度可能不同</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">铊暴露：胃肠、神经与毛发</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">各人出现的表现、顺序和严重程度可能不同</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<g transform="translate(250 85) scale(1.15)"><circle cx="0" cy="0" r="30" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M -35 40 Q 0 30 35 40 L 45 145 L 29 164 L 23 290 L 5 290 L 0 170 L -5 290 L -23 290 L -29 164 L -45 145 Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M -34 49 L -72 155 M 34 49 L 72 155" fill="none" stroke="#b49284" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/></g><path d="M220 290 q30-20 60 0 q-30 30-60 0Z" fill="none" stroke="#a07e59" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M230 425 l-18 22 M270 425 l18 22" fill="none" stroke="#a96d70" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M220 55 q30-35 60 0" fill="none" stroke="#8a746a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><circle cx="330" cy="273" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/><circle cx="330" cy="421" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/><circle cx="330" cy="62" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/><text x="460" y="122" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">毛发变化可较晚出现</text><text x="460" y="258" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">胃肠道不适</text><text x="460" y="401" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">手足刺痛或麻木</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">恶心、腹痛、呕吐或腹泻可较早</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">出现。</text>
+<circle cx="985" cy="314" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">手足疼痛、麻木和无力可能随后</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">或同时出现。</text>
+<circle cx="985" cy="469" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">脱发可较晚发生，不应等到脱发</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">才求助。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">不明胃肠症状伴明显神经症状时就医并说明可能接触。</text>
+</g></svg>

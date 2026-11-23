@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="880" viewBox="0 0 1600 880" role="img">
+<title>井窖有人倒下时</title><desc>目击井窖或有限空间中有人倒下，留在外部，报警并等待具备防护能力的专业救援。</desc>
+<rect width="1600" height="880" rx="24" fill="#fbf9f3" stroke="#d9d5c8" stroke-width="3"/>
+<g font-family="Microsoft YaHei, Noto Sans SC, sans-serif" fill="#26343b" stroke-linecap="round" stroke-linejoin="round">
+<text x="60" y="75" font-size="36" font-weight="700" fill="#a84f42" text-anchor="start">02</text>
+<text x="145" y="76" font-size="53" font-weight="700" fill="#26343b" text-anchor="start">井窖有人倒下时</text>
+<text x="145" y="124" font-size="32" font-weight="400" fill="#58696c" text-anchor="start">先留在外面：避免再次发生人员伤亡</text>
+<line x1="60" y1="148" x2="1540" y2="148" stroke="#e1ded2" stroke-width="2"/>
+<rect x="60" y="170" width="680" height="580" rx="20" fill="#e8f0f1" stroke="none" stroke-width="1"/>
+<path d="M 90 395 L 690 395" fill="none" stroke="#26343b" stroke-width="8"/>
+<rect x="255" y="395" width="250" height="283" rx="8" fill="#d2dfe0" stroke="#26343b" stroke-width="6"/>
+<path d="M 245 395 Q 380 350 515 395" fill="#e4ecec" stroke="#26343b" stroke-width="7"/>
+<path d="M 255 395 Q 380 425 505 395" fill="none" stroke="#26343b" stroke-width="5"/>
+<path d="M 300 520 Q 330 500 360 520 T 420 520" fill="none" stroke="#4d7e8b" stroke-width="5" stroke-dasharray="10 12"/>
+<path d="M 300 564 Q 330 544 360 564 T 420 564" fill="none" stroke="#4d7e8b" stroke-width="5" stroke-dasharray="10 12"/>
+<circle cx="170" cy="283" r="27" fill="#f8f2e7" stroke="#26343b" stroke-width="5"/>
+<path d="M 170 310 L 170 365 M 170 330 L 140 355 M 170 330 L 200 352 M 170 365 L 145 395 M 170 365 L 193 395" fill="none" stroke="#26343b" stroke-width="7"/>
+<rect x="520" y="485" width="150" height="100" rx="12" fill="#fff8f3" stroke="#a84f42" stroke-width="4"/>
+<path d="M 550 555 L 595 495 L 640 555 Z" fill="#fff5e9" stroke="#a84f42" stroke-width="5"/>
+<line x1="595" y1="518" x2="595" y2="536" stroke="#a84f42" stroke-width="6"/>
+<circle cx="595" cy="545" r="4" fill="#a84f42" stroke="none" stroke-width="1"/>
+<text x="92" y="716" font-size="33" font-weight="400" fill="#58696c" text-anchor="start">井、窖、化粪池及下水道</text>
+<text x="790" y="245" font-size="43" font-weight="700" fill="#26343b" text-anchor="start">①  留在空间外</text>
+<text x="834" y="298" font-size="37" font-weight="400" fill="#58696c" text-anchor="start">不要下井，也不要探身施救。</text>
+<text x="790" y="394" font-size="43" font-weight="700" fill="#26343b" text-anchor="start">②  呼叫消防与急救</text>
+<text x="834" y="447" font-size="37" font-weight="400" fill="#58696c" text-anchor="start">说明地点及可能存在的气体危险。</text>
+<text x="790" y="542" font-size="43" font-weight="700" fill="#26343b" text-anchor="start">③  等待专业救援</text>
+<text x="834" y="595" font-size="37" font-weight="400" fill="#58696c" text-anchor="start">由专业人员检测、采取防护和救援。</text>
+<rect x="60" y="782" width="1480" height="58" rx="12" fill="#f0eee6" stroke="none" stroke-width="1"/>
+<text x="85" y="823" font-size="33" font-weight="400" fill="#58696c" text-anchor="start">闻不到异味、戴普通口罩或短暂通风，都不能证明空气安全。</text>
+</g></svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">触电现场：电源、设备与伤者</title>
+<desc id="desc">断电和救援环境的空间关系示意</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">触电现场：电源、设备与伤者</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">断电和救援环境的空间关系示意</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<rect x="80" y="100" width="175" height="200" rx="5" fill="#e1e8df" stroke="#98aa9d" stroke-width="4"/><rect x="105" y="135" width="125" height="90" rx="3" fill="#faf8ef" stroke="#a2b2a3" stroke-width="3"/><path d="M135 180 H192 M192 180 L212 155" fill="none" stroke="#719481" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><line x1="255" y1="205" x2="395" y2="205" stroke="#a7835a" stroke-width="7" stroke-linecap="round"/><path d="M395 205 V300" fill="none" stroke="#a7835a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><path d="M435 230 Q475 190 515 220" fill="none" stroke="#a8aaa2" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/><g transform="translate(575 150) scale(0.8)"><circle cx="0" cy="0" r="29" fill="#ead7cd" stroke="#b49284" stroke-width="3"/><path d="M-34 42 Q0 29 34 42 L44 145 L29 160 L23 278 L7 278 L0 168 L-7 278 L-23 278 L-29 160 L-44 145 Z" fill="#ead7cd" stroke="#b49284" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><path d="M-35 52 L-69 150 M35 52 L69 150" fill="none" stroke="#b49284" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/></g><circle cx="525" cy="270" r="12" fill="#af7072" stroke="none" stroke-width="3"/><line x1="170" y1="175" x2="60" y2="65" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="170" cy="175" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="68" y="73" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">能安全操作时断电</text><line x1="400" y1="200" x2="405" y2="115" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="400" cy="200" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="413" y="123" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">电源线与设备</text><line x1="525" y1="270" x2="490" y2="340" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="525" cy="270" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="498" y="348" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">未断电前不要接触</text><text x="570" y="445" font-size="25" fill="#596b6d" font-weight="400" text-anchor="middle">确认安全后评估呼吸并呼救</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">能安全操作时先断开电源，同时</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">呼叫急救。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">未确认断电前不要触碰伤者或导</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">线。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">高压线及附近地面危险，远离并</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">等待专业人员。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">脱离电源后无正常呼吸，按调度指导复苏。</text>
+</g></svg>

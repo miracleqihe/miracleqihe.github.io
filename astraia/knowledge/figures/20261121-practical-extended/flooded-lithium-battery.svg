@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">水淹锂电池：退水后仍要观察</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">浸水、变形或受损的电池可能延迟发热或起火。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="105" y="165" width="240" height="205" rx="12" fill="#ecf0ef" stroke="#829990" stroke-width="3"/>
+<rect x="183" y="151" width="84" height="15" rx="2" fill="#d5e1db" stroke="#829990" stroke-width="2"/>
+<path d="M 125 270 Q 155 258 185 270 Q 215 282 245 270 Q 275 258 325 270" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="225" y="422" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">浸水或外壳受损</text>
+<line x1="370" y1="270" x2="460" y2="270" stroke="#326f80" stroke-width="4"/>
+<path d="M 448.5 276.0 L 460 270 L 448.5 264.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="470" y="155" width="260" height="220" rx="8" fill="#fff" stroke="#c6d6cf" stroke-width="2"/>
+<text x="600" y="200" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="middle">留意异常</text>
+<text x="600" y="247" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">发热、鼓胀</text>
+<text x="600" y="286" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">冒烟、异味、嘶响</text>
+<line x1="740" y1="270" x2="830" y2="270" stroke="#326f80" stroke-width="4"/>
+<path d="M 818.5 276.0 L 830 270 L 818.5 264.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<rect x="840" y="155" width="275" height="220" rx="8" fill="#fff" stroke="#c6d6cf" stroke-width="2"/>
+<text x="977" y="200" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="middle">拉开距离</text>
+<text x="977" y="247" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">安全时停止使用</text>
+<text x="977" y="286" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="middle">冒烟时撤离并报警</text>
+<text x="600" y="483" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">不要给浸水或受损设备充电；按当地消防及回收机构指导处理。</text>
+</svg>

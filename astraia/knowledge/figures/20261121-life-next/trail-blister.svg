@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">徒步水疱：摩擦部位、覆盖和减压</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">及时停下处理摩擦来源，保持清洁并观察感染迹象。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 90 350 Q 190 305 275 322 L 370 320 Q 440 325 475 362 L 480 390 L 110 390 Z" fill="#ead0bb" stroke="#9e7d69" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<ellipse cx="310" cy="327" rx="32" ry="19" fill="#efc1a5" stroke="#a94d37" stroke-width="2"/>
+<circle cx="310" cy="327" r="42" fill="none" stroke="#bb8737" stroke-width="3"/>
+<rect x="520" y="145" width="150" height="110" rx="8" fill="#f7f0df" stroke="#bb8737" stroke-width="2"/>
+<circle cx="595" cy="200" r="30" fill="#fbfaf6" stroke="#bb8737" stroke-width="10"/>
+<line x1="350" y1="295" x2="510" y2="225" stroke="#326f80" stroke-width="3"/>
+<path d="M 501.8 235.1 L 510 225 L 497.0 224.1" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="595" y="290" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">环形减压垫</text>
+<text x="755" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="start">检查鞋袜的摩擦与潮湿</text>
+<text x="755" y="217" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">覆盖并降低局部压力</text>
+<text x="755" y="259" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">不要随意弄破完整水疱</text>
+<text x="755" y="301" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">红肿扩散、发热或流脓需就医</text>
+<text x="600" y="486" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">糖尿病、循环障碍等情况应及早咨询医护。</text>
+</svg>

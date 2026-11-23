@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">亚硝酸盐：血红蛋白携氧能力下降</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">食物、饮水和暴露史要与症状一起向医护报告。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<rect x="72" y="170" width="220" height="190" rx="8" fill="#f2f3ef" stroke="#c7d4cc" stroke-width="2"/>
+<path d="M 135 231 L 228 231 L 215 314 L 148 314 Z" fill="#f0e5cb" stroke="#bb8737" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<text x="182" y="400" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="middle">误食或污染的食物</text>
+<line x1="305" y1="256" x2="393" y2="256" stroke="#326f80" stroke-width="4"/>
+<path d="M 381.5 262.0 L 393 256 L 381.5 250.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="504" cy="255" r="78" fill="#d97569" stroke="#a94d37" stroke-width="3"/>
+<ellipse cx="504" cy="255" rx="39" ry="23" fill="#edb4a7" stroke="#a94d37" stroke-width="2"/>
+<text x="504" y="263" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="700" text-anchor="middle">Fe²⁺</text>
+<text x="504" y="371" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="middle">Fe²⁺ 可结合氧</text>
+<line x1="598" y1="256" x2="694" y2="256" stroke="#a94d37" stroke-width="4"/>
+<path d="M 682.5 262.0 L 694 256 L 682.5 250.0" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="799" cy="255" r="78" fill="#91685e" stroke="#754c45" stroke-width="3"/>
+<ellipse cx="799" cy="255" rx="39" ry="23" fill="#b98c79" stroke="#754c45" stroke-width="2"/>
+<text x="799" y="263" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="19" font-weight="700" text-anchor="middle">Fe³⁺</text>
+<text x="799" y="371" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="700" text-anchor="middle">Fe³⁺ 不能结合氧</text>
+<line x1="892" y1="255" x2="946" y2="255" stroke="#326f80" stroke-width="4"/>
+<path d="M 934.5 261.0 L 946 255 L 934.5 249.0" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="966" y="224" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">可能青灰</text>
+<text x="966" y="270" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">气短头晕</text>
+<text x="966" y="316" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">意识异常</text>
+<text x="600" y="485" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">疑似中毒立即求助；呼吸困难或意识异常立即急救，不催吐。</text>
+</svg>

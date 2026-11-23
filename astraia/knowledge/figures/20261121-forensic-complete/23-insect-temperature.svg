@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">昆虫发育：温度历史与积温</title>
+<desc id="desc">曲线、温度基准和累加面积均为虚构示意</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">昆虫发育：温度历史与积温</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">曲线、温度基准和累加面积均为虚构示意</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<line x1="110" y1="370" x2="725" y2="370" stroke="#293e44" stroke-width="3" stroke-linecap="round"/><line x1="110" y1="370" x2="110" y2="90" stroke="#293e44" stroke-width="3" stroke-linecap="round"/><line x1="110" y1="278" x2="725" y2="278" stroke="#a7835a" stroke-width="3" stroke-linecap="round" stroke-dasharray="9 7"/><path d="M110 278 L190 230 L270 255 L350 190 L430 215 L510 145 L590 230 L670 200 L725 255 L725 278 L110 278 Z" fill="#dbe8d6" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/><path d="M110 278 L190 230 L270 255 L350 190 L430 215 L510 145 L590 230 L670 200 L725 255" fill="none" stroke="#719481" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><text x="94" y="75" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">温度</text><text x="724" y="408" font-size="25" fill="#293e44" font-weight="400" text-anchor="end">时间</text><text x="116" y="269" font-size="24" fill="#a7835a" font-weight="400" text-anchor="start">模型基准</text><text x="432" y="139" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">高于基准的面积</text><text x="432" y="176" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">用于累加热量单位</text><text x="410" y="455" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">曲线是虚构示意；基准依物种和模型变化</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">在模型适用范围内，可累计高于</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">基准的温度与时间。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">物种、发育阶段和基准取自相应</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">研究。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">幼虫聚集可使局部温度与气象站</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">记录不同。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">极冷或极热下线性关系可能不再适用。</text>
+</g></svg>

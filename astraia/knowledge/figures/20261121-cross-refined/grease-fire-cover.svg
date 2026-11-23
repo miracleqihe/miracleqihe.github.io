@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">油锅起火：盖住小火源，无法控制就撤离</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">只有火势很小且靠近安全出口时，才在确保自身安全的前提下处理。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 105 320 L 330 320 L 305 370 L 130 370 Z" fill="#d9d8d1" stroke="#263b3e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 145 320 Q 165 265 190 302 Q 210 250 235 300 Q 260 270 285 320 Z" fill="#efba79" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 90 255 Q 215 215 340 255 L 340 266 L 90 266 Z" fill="#d4d9d6" stroke="#263b3e" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="215" y1="195" x2="215" y2="239" stroke="#326f80" stroke-width="4"/>
+<path d="M 209.0 227.5 L 215 239 L 221.0 227.5" fill="none" stroke="#326f80" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="215" y="421" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">平移锅盖，关火后保持盖住</text>
+<path d="M 610 195 Q 580 252 610 295 Q 640 252 610 195 Z" fill="#cde9eb" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="560" y1="180" x2="660" y2="320" stroke="#a94d37" stroke-width="6"/>
+<line x1="660" y1="180" x2="560" y2="320" stroke="#a94d37" stroke-width="6"/>
+<text x="610" y="365" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">不要往油火上泼水</text>
+<text x="830" y="220" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">火势扩大或退路受阻</text>
+<text x="830" y="265" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">离开房间、关门并报警</text>
+<text x="600" y="481" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">不要搬动起火的锅；熄灭后仍需等待油温下降。</text>
+</svg>

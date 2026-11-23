@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">眼部出血：表面与前房</title>
+<desc id="desc">左为正面，右为眼球局部侧剖面</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">眼部出血：表面与前房</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">左为正面，右为眼球局部侧剖面</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<ellipse cx="229" cy="238" rx="155" ry="120" fill="#fffdf8" stroke="#9daea9" stroke-width="4"/><circle cx="230" cy="238" r="67" fill="#cce1dc" stroke="#6f9890" stroke-width="4"/><circle cx="230" cy="238" r="30" fill="#293e44" stroke="none" stroke-width="3"/><path d="M105 243 q35 18 60 7 q-13 40-48 25Z" fill="#af7072" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/><text x="230" y="408" font-size="25" fill="#293e44" font-weight="700" text-anchor="middle">眼白表面红斑</text><path d="M512 115 Q459 235 512 355 Q630 390 719 310 Q751 235 719 160 Q630 80 512 115Z" fill="#edf3ec" stroke="#9daea9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M512 115 Q465 235 512 355" fill="none" stroke="#668f98" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/><path d="M550 153 Q550 235 550 317" fill="none" stroke="#739788" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><path d="M511 275 Q530 282 548 274 L548 315 Q529 324 513 309Z" fill="#af7072" stroke="none" stroke-width="0" stroke-linecap="round" stroke-linejoin="round"/><line x1="512" y1="174" x2="548" y2="95" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="512" cy="174" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="556" y="103" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">角膜</text><line x1="529" y1="298" x2="615" y2="360" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="529" cy="298" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="623" y="368" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">前房积血</text><line x1="550" y1="215" x2="615" y2="185" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="550" cy="215" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="623" y="193" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">虹膜</text><text x="620" y="426" font-size="25" fill="#293e44" font-weight="700" text-anchor="middle">眼球侧面剖面</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">眼白表面红斑与眼内前房积血的</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">位置不同。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">前房积血位于角膜后、虹膜前；</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">少量时可能看不见。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">外伤后视力变化、剧痛或眼内见</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">血应紧急就医。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">不要按压受伤眼球；具体情况由医护检查。</text>
+</g></svg>

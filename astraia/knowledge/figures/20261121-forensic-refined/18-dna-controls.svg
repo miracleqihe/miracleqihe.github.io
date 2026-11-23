@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">DNA 检验：样本与实验对照</title>
+<desc id="desc">峰线仅为教学示意，不是实际检验结果</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">DNA 检验：样本与实验对照</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">峰线仅为教学示意，不是实际检验结果</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<text x="122" y="116" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">待检样本</text><text x="122" y="230" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">空白对照</text><text x="122" y="344" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">阳性对照</text><line x1="305" y1="125" x2="700" y2="125" stroke="#9caeaa" stroke-width="3" stroke-linecap="round"/><line x1="305" y1="240" x2="700" y2="240" stroke="#9caeaa" stroke-width="3" stroke-linecap="round"/><line x1="305" y1="355" x2="700" y2="355" stroke="#9caeaa" stroke-width="3" stroke-linecap="round"/><path d="M365 125 l18-48 18 48 M470 125 l18-65 18 65" fill="none" stroke="#a96d70" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M365 355 l18-48 18 48 M470 355 l18-65 18 65" fill="none" stroke="#6f9580" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="505" y="225" font-size="24" fill="#596b6d" font-weight="400" text-anchor="start">预期不出现目标信号</text><text x="505" y="404" font-size="24" fill="#596b6d" font-weight="400" text-anchor="start">预期检出已知信号</text><circle cx="80" cy="106" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/><circle cx="80" cy="220" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/><circle cx="80" cy="335" r="7" fill="#fffdf8" stroke="#a07e59" stroke-width="2"/>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">待检样本的可见信号受数量、降</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">解和抑制物影响。</text>
+<circle cx="985" cy="314" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">空白对照用于监测不应出现的目</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">标 DNA 等污染。</text>
+<circle cx="985" cy="469" r="5" fill="#a07e59" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">阳性对照用于检查系统对已知材</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">料的预期反应。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">对照异常时实验室按方法程序调查；不能凭单个峰自行确定身份。</text>
+</g></svg>

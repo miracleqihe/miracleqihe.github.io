@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">哮喘发作：气道肿胀与收窄</title>
+<desc id="desc">气道横断面比较正常与收窄的示意</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">哮喘发作：气道肿胀与收窄</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">气道横断面比较正常与收窄的示意</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<circle cx="225" cy="230" r="130" fill="#ead5cc" stroke="#b18f82" stroke-width="4"/><circle cx="580" cy="230" r="130" fill="#ead5cc" stroke="#b18f82" stroke-width="4"/><circle cx="225" cy="230" r="83" fill="#eff7ef" stroke="#8dab98" stroke-width="4"/><circle cx="580" cy="230" r="43" fill="#eff7ef" stroke="#8dab98" stroke-width="4"/><path d="M470 135 q25-30 50 0 M640 135 q25-30 50 0 M480 325 q25 30 50 0" fill="none" stroke="#af7072" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/><text x="225" y="70" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">气道较通畅</text><text x="580" y="70" font-size="26" fill="#293e44" font-weight="700" text-anchor="middle">气道肿胀、收窄</text><line x1="580" y1="230" x2="490" y2="405" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="580" cy="230" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="498" y="413" font-size="25" fill="#293e44" font-weight="400" text-anchor="start">气流通道变窄</text><text x="410" y="464" font-size="24" fill="#596b6d" font-weight="400" text-anchor="middle">横断面概念图；症状与严重程度因人而异</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">咳嗽、喘鸣、胸闷和呼吸费力可</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">能出现。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">气短到难以说完整句、明显发青</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">或意识异常时急救。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">按个人急救计划及接线员指导使</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">用处方吸入药。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">喘鸣减弱或听不到并不等于呼吸已经恢复。</text>
+</g></svg>

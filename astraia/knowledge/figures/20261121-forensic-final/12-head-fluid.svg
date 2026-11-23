@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="760" viewBox="0 0 1500 760" role="img" aria-labelledby="title desc">
+<title id="title">头部撞击：鼻、耳和意识变化</title>
+<desc id="desc">侧面示意耳道及鼻部，不能凭颜色判断液体来源</desc>
+<rect x="1" y="1" width="1498" height="758" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="35" y="49" font-size="40" fill="#293e44" font-weight="700" text-anchor="start">头部撞击：鼻、耳和意识变化</text>
+<text x="37" y="87" font-size="27" fill="#596b6d" font-weight="400" text-anchor="start">侧面示意耳道及鼻部，不能凭颜色判断液体来源</text>
+<rect x="25" y="110" width="900" height="545" rx="10" fill="#f1f5f2" stroke="#d8e3db" stroke-width="2"/>
+<g transform="translate(45 120)">
+<path d="M170 70 Q100 80 95 165 Q90 180 74 195 L95 202 Q97 235 140 250 L160 270 Q210 285 255 250 L275 200 Q270 110 210 80Z" fill="#ead7cd" stroke="#b49284" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M108 185 Q145 175 180 185" fill="none" stroke="#a78b80" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><path d="M145 112 Q210 75 250 135 Q262 165 245 185" fill="none" stroke="#a79a8d" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/><circle cx="235" cy="190" r="22" fill="#cfe1da" stroke="#8da99c" stroke-width="3"/><path d="M100 213 l-9 20 12 5 M255 215 l9 20-12 5" fill="none" stroke="#668f98" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/><line x1="95" y1="220" x2="350" y2="110" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="95" cy="220" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="358" y="118" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">鼻部流血或清液</text><line x1="250" y1="225" x2="350" y2="215" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="250" cy="225" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="358" y="223" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">耳部流血或清液</text><line x1="235" y1="190" x2="350" y2="320" stroke="#a7835a" stroke-width="2" stroke-linecap="round"/><circle cx="235" cy="190" r="4" fill="#a7835a" stroke="none" stroke-width="3"/><text x="358" y="328" font-size="26" fill="#293e44" font-weight="400" text-anchor="start">耳道及鼓膜</text><text x="350" y="420" font-size="24" fill="#596b6d" font-weight="400" text-anchor="start">新发听力变化或意识异常需紧急评估</text>
+</g>
+<line x1="949" y1="120" x2="949" y2="650" stroke="#dfe6df" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="159" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="168" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">耳鼻流血或清水样液体需要紧急</text>
+<text x="1005" y="205" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">医学评估。</text>
+<circle cx="985" cy="314" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="323" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">听力变化、反复呕吐或意识恶化</text>
+<text x="1005" y="360" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">也需重视。</text>
+<circle cx="985" cy="469" r="5" fill="#a7835a" stroke="none" stroke-width="3"/>
+<text x="1005" y="478" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">怀疑颈背受伤时减少不必要搬</text>
+<text x="1005" y="515" font-size="30" fill="#293e44" font-weight="400" text-anchor="start">动。</text>
+<rect x="25" y="676" width="1450" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="42" y="714" font-size="27" fill="#785334" font-weight="400" text-anchor="start">不要堵住流液，也不要往耳道内塞入物品。</text>
+</g></svg>

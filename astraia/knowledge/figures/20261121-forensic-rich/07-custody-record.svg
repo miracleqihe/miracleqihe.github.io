@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="660" viewBox="0 0 1400 660" role="img" aria-labelledby="title desc">
+<title id="title">证据交接：一个物件与两个分样</title>
+<desc id="desc">示例编号仅用于说明原件、分样和交接记录的关系</desc>
+<rect x="1" y="1" width="1398" height="658" rx="14" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="32" y="47" fill="#293b43" font-size="38" font-weight="700" text-anchor="start">证据交接：一个物件与两个分样</text>
+<text x="33" y="85" fill="#52636a" font-size="24" font-weight="400" text-anchor="start">示例编号仅用于说明原件、分样和交接记录的关系</text>
+<rect x="26" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="242" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">原件：A-01</text>
+<g transform="translate(112 172)">
+<path d="M 55 20 H 205 V 111 H 55 Z M 55 34 H205" fill="#f7f3e9" stroke="#a69177" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><rect x="87" y="52" width="84" height="38" rx="4" fill="#fffdf8" stroke="#c4b29a" stroke-width="2"/><text x="129" y="78" fill="#293b43" font-size="18" font-weight="700" text-anchor="middle">A-01</text>
+</g>
+<text x="51" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">物件与其发现位置建立对</text>
+<text x="51" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">应。记录采集人、时间、包</text>
+<text x="51" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">装与封口。原标签和现场记</text>
+<text x="51" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">录应可核对。</text>
+<rect x="484" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="700" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">交接：谁交给谁</text>
+<g transform="translate(570 172)">
+<rect x="20" y="17" width="220" height="92" rx="5" fill="#fffdf8" stroke="#8ca1a1" stroke-width="3"/><text x="37" y="45" fill="#293b43" font-size="20" font-weight="400" text-anchor="start">交接人  →  接收人</text><text x="37" y="73" fill="#52636a" font-size="19" font-weight="400" text-anchor="start">时间 / 地点 / 封口状态</text><line x1="37" y1="92" x2="221" y2="92" stroke="#a9b8b4" stroke-width="2" stroke-linecap="round"/>
+</g>
+<text x="509" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">记发送人、接收人、时间与</text>
+<text x="509" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">地点。接收时查看并记录封</text>
+<text x="509" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">口状态。有破损或重封应留</text>
+<text x="509" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">下说明。</text>
+<rect x="942" y="108" width="432" height="435" rx="12" fill="#f0f5f3" stroke="#d5dfdc" stroke-width="1.5"/>
+<text x="1158" y="151" fill="#293b43" font-size="30" font-weight="700" text-anchor="middle">分样：连接母样</text>
+<g transform="translate(1028 172)">
+<rect x="15" y="25" width="70" height="75" rx="5" fill="#f7f3e9" stroke="#a69177" stroke-width="3"/><text x="50" y="69" fill="#293b43" font-size="20" font-weight="700" text-anchor="middle">A</text><line x1="91" y1="62" x2="125" y2="62" stroke="#83999b" stroke-width="4" stroke-linecap="round"/><path d="M 113 53 L 125 62 L 113 71" fill="none" stroke="#83999b" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><rect x="135" y="10" width="100" height="45" rx="5" fill="#f7f3e9" stroke="#a69177" stroke-width="3"/><rect x="135" y="69" width="100" height="45" rx="5" fill="#f7f3e9" stroke="#a69177" stroke-width="3"/><text x="185" y="40" fill="#293b43" font-size="18" font-weight="700" text-anchor="middle">A-1</text><text x="185" y="99" fill="#293b43" font-size="18" font-weight="700" text-anchor="middle">A-2</text>
+</g>
+<text x="967" y="345" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">从原件分出 A-1 和 A-2 </text>
+<text x="967" y="378" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">时，分别记取样位置与操作</text>
+<text x="967" y="411" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">者。编号变化需能追溯回母</text>
+<text x="967" y="444" fill="#293b43" font-size="29" font-weight="400" text-anchor="start">样。</text>
+<rect x="26" y="558" width="1348" height="81" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="44" y="590" fill="#785334" font-size="25" font-weight="400" text-anchor="start">编号不一致时保留原始记录，核对标签、照片和交接经过。</text>
+<text x="44" y="622" fill="#785334" font-size="25" font-weight="400" text-anchor="start">更正按适用程序留痕，无法确认的间断应如实标明。</text>
+</g></svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="820" viewBox="0 0 1600 820" role="img" aria-labelledby="title desc">
+<title id="title">一氧化碳：从吸入到血液检测</title>
+<desc id="desc">气体、血红蛋白与组织反应的简化关系</desc>
+<rect x="1" y="1" width="1598" height="818" rx="15" fill="#fffdf8" stroke="#ded8c9" stroke-width="2"/>
+<g font-family="Microsoft YaHei,Noto Sans SC,sans-serif">
+<text x="36" y="53" font-size="42" font-weight="700" fill="#263d43" text-anchor="start">一氧化碳：从吸入到血液检测</text>
+<text x="38" y="94" font-size="29" font-weight="400" fill="#5b6d70" text-anchor="start">气体、血红蛋白与组织反应的简化关系</text>
+<rect x="28" y="120" width="920" height="595" rx="12" fill="#f3f6f2" stroke="#dce6df" stroke-width="2"/>
+<g transform="translate(35 130)">
+<path d="M130 150 Q93 170 105 250 Q121 313 174 306 L205 280 L205 157 Q175 130 130 150Z" fill="#e6c9c4" stroke="#ad8987" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M280 150 Q317 170 305 250 Q289 313 236 306 L205 280 L205 157 Q235 130 280 150Z" fill="#e6c9c4" stroke="#ad8987" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="205" y="344" font-size="26" font-weight="400" fill="#263d43" text-anchor="middle">吸入</text><line x1="328" y1="232" x2="380" y2="232" stroke="#608994" stroke-width="4" stroke-linecap="round"/><path d="M 366.7 238.9 L 380 232 L 366.7 225.1" fill="none" stroke="#608994" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><circle cx="455" cy="232" r="60" fill="#c78385" stroke="#a66066" stroke-width="4"/><text x="455" y="241" font-size="28" font-weight="700" fill="#fffdf8" text-anchor="middle">Hb</text><circle cx="395" cy="152" r="30" fill="#f7e7d9" stroke="#9a7554" stroke-width="3"/><text x="395" y="161" font-size="24" font-weight="700" fill="#9a7554" text-anchor="middle">CO</text><line x1="406" y1="177" x2="424" y2="197" stroke="#9a7554" stroke-width="4" stroke-linecap="round"/><path d="M 410.0 191.7 L 424 197 L 420.2 182.5" fill="none" stroke="#9a7554" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><line x1="526" y1="232" x2="585" y2="232" stroke="#608994" stroke-width="4" stroke-linecap="round"/><path d="M 571.7 238.9 L 585 232 L 571.7 225.1" fill="none" stroke="#608994" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><path d="M 610 180 h95 v100 h-95z" fill="#d7e6dd" stroke="#83a99a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/><text x="657" y="240" font-size="26" font-weight="700" fill="#263d43" text-anchor="middle">组织</text><text x="490" y="350" font-size="25" font-weight="400" fill="#263d43" text-anchor="start">氧输送与利用受影响</text><path d="M580 390 h130 v80 h-130z" fill="#edf3f3" stroke="#8ea6a7" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/><text x="645" y="438" font-size="22" font-weight="400" fill="#263d43" text-anchor="middle">普通血氧仪</text><circle cx="338" cy="140" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="338" y="148" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">1</text><circle cx="532" cy="160" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="532" y="168" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">2</text><circle cx="744" cy="420" r="18" fill="#fffdf8" stroke="#9a7554" stroke-width="3"/><text x="744" y="428" font-size="23" font-weight="700" fill="#9a7554" text-anchor="middle">3</text>
+</g>
+<line x1="971" y1="132" x2="971" y2="706" stroke="#e3e8e2" stroke-width="2" stroke-linecap="round"/>
+<text x="1005" y="164" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">① 吸入</text>
+<text x="1005" y="204" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">一氧化碳无色无味，可随燃烧废气进</text>
+<text x="1005" y="241" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">入肺部。</text>
+<text x="1005" y="299" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">② 血液</text>
+<text x="1005" y="339" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">CO 与血红蛋白结合，影响携氧与组织</text>
+<text x="1005" y="376" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">氧供应。</text>
+<text x="1005" y="434" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">③ 读数</text>
+<text x="1005" y="474" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">普通双波长指夹血氧仪不能可靠区分</text>
+<text x="1005" y="511" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">碳氧血红蛋白。</text>
+<text x="1005" y="569" font-size="34" font-weight="700" fill="#263d43" text-anchor="start">④ 现场</text>
+<text x="1005" y="609" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">尽快离开污染环境并呼救；专业检测</text>
+<text x="1005" y="646" font-size="31" font-weight="400" fill="#263d43" text-anchor="start">结合采样和供氧时间。</text>
+<rect x="28" y="735" width="1544" height="57" rx="7" fill="#f7eee0" stroke="#f7eee0" stroke-width="0"/>
+<text x="45" y="773" font-size="29" font-weight="400" fill="#785334" text-anchor="start">头痛、头晕、恶心或意识变化都需结合环境，不能靠普通血氧值排除。</text>
+</g></svg>

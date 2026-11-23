@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">薄冰落水：岸上递物或抛投，避免二次落水</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">先呼叫当地救援；除受训救援人员外，不贸然走上薄冰。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 60 300 L 260 300 L 260 400 L 60 400 Z" fill="#dfd5bf" stroke="#a69a80" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 260 300 L 760 300 L 760 400 L 260 400 Z" fill="#d8e9ec" stroke="#326f80" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 470 300 Q 510 270 550 300" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="160" cy="175" r="20" fill="#f2ddce" stroke="#263b3e" stroke-width="3"/>
+<path d="M 160 195 L 160 240 M 160 210 L 135 227 M 160 210 L 183 225 M 160 240 L 137 275 M 160 240 L 183 275" fill="none" stroke="#263b3e" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="515" cy="280" r="22" fill="#f1ddce" stroke="#263b3e" stroke-width="2"/>
+<line x1="180" y1="245" x2="470" y2="285" stroke="#9e8058" stroke-width="8"/>
+<text x="325" y="233" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">在岸上递长物</text>
+<text x="800" y="185" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="700" text-anchor="start">立即呼叫救援</text>
+<text x="800" y="235" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">递长杆、绳或漂浮物</text>
+<text x="800" y="285" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="400" text-anchor="start">上岸后防风保暖并就医</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">保持救助者站在安全处；冰层外观不能保证承重。</text>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">山坡出现新变化：及早离开可能滑动的区域</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">持续降雨、地震或坡体扰动后，更要留意异常并服从当地预警。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 55 375 L 460 155 L 755 375 Z" fill="#e6ddc8" stroke="#a69b7d" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 135 331 L 160 323 L 171 333 L 188 321 M 225 285 L 240 279 L 252 290" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 375 211 L 348 151 M 348 151 L 324 145 M 348 151 L 357 126" fill="none" stroke="#60816a" stroke-width="8" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 330 281 Q 375 259 420 250" fill="none" stroke="#326f80" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="270" y1="149" x2="178" y2="290" stroke="#a94d37" stroke-width="3"/>
+<path d="M 179.3 277.1 L 178 290 L 189.3 283.6" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="145" y="145" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">新裂缝</text>
+<line x1="480" y1="137" x2="360" y2="163" stroke="#a94d37" stroke-width="3"/>
+<path d="M 370.0 154.7 L 360 163 L 372.5 166.4" fill="none" stroke="#a94d37" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="478" y="132" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">树木突然倾斜</text>
+<text x="855" y="192" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="24" font-weight="700" text-anchor="start">还可能出现</text>
+<text x="855" y="238" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">新渗水或地面鼓起</text>
+<text x="855" y="277" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">墙体开裂、门窗卡住</text>
+<text x="855" y="316" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">异常响动或泥水浑浊</text>
+<text x="600" y="468" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">发现变化应尽早撤离并报告；避开沟谷、坡脚和已在移动的坡体。</text>
+</svg>

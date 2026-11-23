@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">湿鞋袜与浸渍足：观察颜色、疼痛和肿胀</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">长期潮湿可伤及皮肤和神经，气温不必降到冰点。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 165 150 L 275 150 L 275 290 Q 330 305 370 345 Q 375 380 330 385 L 165 385 Z" fill="#eddbce" stroke="#a88e7d" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 180 340 Q 245 325 300 350" fill="none" stroke="#a94d37" stroke-width="5" stroke-linejoin="round" stroke-linecap="round" />
+<circle cx="215" cy="270" r="6" fill="#a94d37" stroke="#a94d37" stroke-width="1"/>
+<circle cx="245" cy="285" r="6" fill="#a94d37" stroke="#a94d37" stroke-width="1"/>
+<circle cx="270" cy="320" r="6" fill="#a94d37" stroke="#a94d37" stroke-width="1"/>
+<line x1="370" y1="275" x2="480" y2="275" stroke="#326f80" stroke-width="3"/>
+<path d="M 468.5 281.0 L 480 275 L 468.5 269.0" fill="none" stroke="#326f80" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="515" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">麻木、刺痛或沉重感</text>
+<text x="515" y="225" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">皮肤苍白、发红或肿胀</text>
+<text x="515" y="275" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">移到干燥处，清洁并轻柔擦干</text>
+<text x="515" y="325" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="start">换干袜；疑似浸渍足时就医</text>
+<text x="600" y="480" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">避免搓揉、暴晒或靠近高温热源；颜色变化并非都由同一原因造成。</text>
+</svg>

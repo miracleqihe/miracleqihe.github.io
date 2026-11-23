@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">描述腹痛：先说位置，再说变化</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">左右以患者本人为准；相同位置的疼痛可以来自不同原因。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 175 135 Q 320 110 465 135 L 455 383 Q 320 418 185 383 Z" fill="#f1dfd1" stroke="#a88d7c" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="320" y1="141" x2="320" y2="394" stroke="#263b3e" stroke-width="3"/>
+<line x1="180" y1="260" x2="460" y2="260" stroke="#263b3e" stroke-width="3"/>
+<circle cx="320" cy="260" r="5" fill="#263b3e" stroke="#263b3e" stroke-width="1"/>
+<text x="245" y="205" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="middle">右上腹</text>
+<text x="395" y="205" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="middle">左上腹</text>
+<text x="245" y="330" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="middle">右下腹</text>
+<text x="395" y="330" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="25" font-weight="700" text-anchor="middle">左下腹</text>
+<text x="320" y="448" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="20" font-weight="400" text-anchor="middle">面对患者时，图左是患者右侧</text>
+<text x="575" y="175" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="27" font-weight="700" text-anchor="start">说清楚四件事</text>
+<text x="575" y="226" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">① 何时开始、突然还是逐渐</text>
+<text x="575" y="272" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">② 疼痛位置、是否移动或扩散</text>
+<text x="575" y="318" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">③ 伴随发热、呕吐、出血等</text>
+<text x="575" y="364" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="start">④ 持续加重或晕厥，立即求助</text>
+<text x="600" y="492" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">区域定位用于沟通，不能凭部位自行排除急症。</text>
+</svg>

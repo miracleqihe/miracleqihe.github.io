@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520">
+<rect width="1200" height="520" rx="16" fill="#fbfaf6"/>
+<text x="40" y="44" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="30" font-weight="700" text-anchor="start">涨潮截断退路：先看能否回到岸上</text>
+<text x="40" y="79" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="start">出发前查当地潮汐和天气，确认退路并留足返回时间。</text>
+<line x1="40" y1="93" x2="1160" y2="93" stroke="#dce6df" stroke-width="2"/>
+<path d="M 80 380 L 80 170 L 250 170 L 250 380 Z" fill="#d6cfbd" stroke="#a49b88" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" />
+<text x="165" y="280" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="23" font-weight="400" text-anchor="middle">岸壁</text>
+<path d="M 250 365 L 480 365 L 480 335 L 660 335 L 660 365 L 1030 365" fill="none" stroke="#c3ae82" stroke-width="7" stroke-linejoin="round" stroke-linecap="round" />
+<path d="M 430 300 Q 530 280 630 300 L 630 365 L 430 365 Z" fill="#c8e4e7" stroke="#326f80" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" />
+<text x="530" y="333" fill="#326f80" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">水道</text>
+<circle cx="850" cy="300" r="18" fill="#f1ddcf" stroke="#263b3e" stroke-width="3"/>
+<path d="M 850 318 L 850 355 M 850 328 L 825 340 M 850 328 L 875 340" fill="none" stroke="#263b3e" stroke-width="6" stroke-linejoin="round" stroke-linecap="round" />
+<line x1="785" y1="335" x2="690" y2="335" stroke="#a94d37" stroke-width="4"/>
+<path d="M 701.5 329.0 L 690 335 L 701.5 341.0" fill="none" stroke="#a94d37" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" />
+<text x="755" y="264" fill="#a94d37" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="22" font-weight="700" text-anchor="middle">退路可能先被淹没</text>
+<text x="600" y="432" fill="#263b3e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">被困时留在安全高处，联系当地海上救援或紧急服务，说明位置。</text>
+<text x="600" y="484" fill="#526d6e" font-family="Microsoft YaHei, Noto Sans SC, sans-serif" font-size="21" font-weight="400" text-anchor="middle">不要贸然穿越水深不明、水流强或已经漫过的通道。</text>
+</svg>
