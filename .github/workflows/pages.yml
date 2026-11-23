@@ -34,6 +34,7 @@ jobs:
           mkdir _site
           cp index.html friends.html styles.css script.js friends.js content.js robots.txt sitemap.xml .nojekyll _site/
           cp -R assets _site/assets
+          cp -R astraia _site/astraia
 
       - name: Upload site
         uses: actions/upload-pages-artifact@v3

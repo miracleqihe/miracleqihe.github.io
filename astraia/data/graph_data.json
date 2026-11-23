@@ -1,0 +1,950 @@
+{
+  "links": [
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [
+        {
+          "code": "754",
+          "system": "ocm_codes"
+        }
+      ],
+      "note": null,
+      "origin": "standard",
+      "source": "case_china_soulstealers_1768",
+      "status": null,
+      "target": "index_ocm_754",
+      "type": "TAGGED_OCM",
+      "weight": 0.85
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [
+        {
+          "code": "776",
+          "system": "ocm_codes"
+        }
+      ],
+      "note": null,
+      "origin": "standard",
+      "source": "case_egypt_jinn_sleep_paralysis",
+      "status": null,
+      "target": "index_ocm_776",
+      "type": "TAGGED_OCM",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "文章以受访者回忆和问卷记录发作为依据，个别发作缺少同步睡眠生理记录。",
+      "origin": "mechanism",
+      "source": "case_egypt_jinn_sleep_paralysis",
+      "status": "unverified",
+      "target": "mech_sleep_paralysis",
+      "type": "EXPLAINED_BY",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "归入近代早期猎巫档案的苏格兰组。",
+      "origin": "explicit",
+      "source": "case_north_berwick_1590",
+      "status": null,
+      "target": "corpus_early_modern_witch_hunts",
+      "type": "PART_OF_MACRO_TREND",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [
+        {
+          "code": "754",
+          "system": "ocm_codes"
+        }
+      ],
+      "note": null,
+      "origin": "standard",
+      "source": "case_north_berwick_1590",
+      "status": null,
+      "target": "index_ocm_754",
+      "type": "TAGGED_OCM",
+      "weight": 0.85
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "可对照两地的地方巫术指控如何进入司法程序。",
+      "origin": "explicit",
+      "source": "case_salem_1692",
+      "status": null,
+      "target": "case_china_soulstealers_1768",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "在近代早期猎巫档案中保留新英格兰殖民地的司法背景。",
+      "origin": "explicit",
+      "source": "case_salem_1692",
+      "status": null,
+      "target": "corpus_early_modern_witch_hunts",
+      "type": "PART_OF_MACRO_TREND",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [
+        {
+          "code": "754",
+          "system": "ocm_codes"
+        }
+      ],
+      "note": null,
+      "origin": "standard",
+      "source": "case_salem_1692",
+      "status": null,
+      "target": "index_ocm_754",
+      "type": "TAGGED_OCM",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [
+        {
+          "code": "776",
+          "system": "ocm_codes"
+        }
+      ],
+      "note": null,
+      "origin": "standard",
+      "source": "case_salem_1692",
+      "status": null,
+      "target": "index_ocm_776",
+      "type": "TAGGED_OCM",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "Spanos 与 Gottlieb 重审了症状及档案证据，指出原假说的证据选择无法支持其对塞勒姆案的归因。",
+      "origin": "mechanism",
+      "source": "case_salem_1692",
+      "status": "refuted",
+      "target": "mech_salem_ergotism",
+      "type": "EXPLAINED_BY",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "实验中记录的发作显示觉醒相关的脑电活动与肌张力抑制可以同时出现。结论适用于记录到的发作。",
+      "origin": "mechanism",
+      "source": "case_sleep_paralysis_lab_1992",
+      "status": "confirmed",
+      "target": "mech_sleep_paralysis",
+      "type": "EXPLAINED_BY",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [
+        {
+          "code": "754",
+          "system": "ocm_codes"
+        }
+      ],
+      "note": null,
+      "origin": "standard",
+      "source": "corpus_early_modern_witch_hunts",
+      "status": null,
+      "target": "index_ocm_754",
+      "type": "TAGGED_OCM",
+      "weight": 0.85
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [
+        {
+          "code": "776",
+          "system": "ocm_codes"
+        }
+      ],
+      "note": null,
+      "origin": "standard",
+      "source": "corpus_popol_vuh",
+      "status": null,
+      "target": "index_ocm_776",
+      "type": "TAGGED_OCM",
+      "weight": 0.85
+    }
+  ],
+  "nodes": [
+    {
+      "aliases": [
+        "The Chinese Sorcery Scare of 1768",
+        "叫魂案"
+      ],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-22",
+        "is_sample": true,
+        "reviewed_by_human": false
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "historical_archive",
+      "id": "case_china_soulstealers_1768",
+      "is_fictional_quarantine": false,
+      "markdown": "\n## 历史研究\n\n孔飞力根据清代档案重建了 1768 年的叫魂恐慌及官方追查。个案收录的是人们如何报告、传播并处理妖术指控，以及这些指控如何引发进一步调查。\n\n## 地理范围\n\n本卡用长江下游地区标记早期地方指控的区域背景。案件涉及多地，后续可按可定位的文书逐条建立地点卡。\n",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 1,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "relations": [],
+      "source_path": "01_cases/case_china_soulstealers_1768.md",
+      "sources": [
+        {
+          "citation": "Kuhn, P. A. (1990). Soulstealers: The Chinese Sorcery Scare of 1768. Harvard University Press.",
+          "doi": null,
+          "type": "monograph",
+          "url": "https://www.jstor.org/stable/j.ctv125js8t"
+        }
+      ],
+      "spatial": {
+        "culture_region": "East Asia · Lower Yangtze",
+        "lat": null,
+        "lng": null,
+        "location_name": "中国长江下游地区",
+        "precision": "culture_region"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [
+          "754"
+        ],
+        "thompson_motifs": []
+      },
+      "temporal": {
+        "era_label": "清代乾隆时期",
+        "uncertainty_note": null,
+        "year_end": 1768,
+        "year_start": 1768
+      },
+      "title": "乾隆三十三年叫魂案（1768）",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [
+        "Jinn attributions for sleep paralysis in Cairo"
+      ],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-22",
+        "is_sample": true,
+        "reviewed_by_human": false
+      },
+      "credibility_tier": "S",
+      "credibility_weight": 1.0,
+      "genre": "memorate",
+      "id": "case_egypt_jinn_sleep_paralysis",
+      "is_fictional_quarantine": false,
+      "markdown": "\n## 访谈记录\n\n研究比较了开罗普通受访者、开罗美国大学学生和哥本哈根受访者对睡眠瘫痪的解释。部分开罗普通受访者用伊斯兰传统中的精灵（jinn）来理解自己的经历。\n\n## 标引范围\n\nOCM 776 指向口述中的精灵形象。问卷记录提供了受访者的解释，可与实验研究中直接记录的发作状态对读。\n",
+      "mechanisms": [
+        {
+          "evidence_note": "文章以受访者回忆和问卷记录发作为依据，个别发作缺少同步睡眠生理记录。",
+          "status": "unverified",
+          "target_id": "mech_sleep_paralysis"
+        }
+      ],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 2
+      },
+      "node_type": "case",
+      "relations": [],
+      "source_path": "01_cases/case_egypt_jinn_sleep_paralysis.md",
+      "sources": [
+        {
+          "citation": "Jalal, B., Simons-Rudolph, J., Jalal, B., & Hinton, D. E. (2014). Explanations of sleep paralysis among Egyptian college students and the general population in Egypt and Denmark. Transcultural Psychiatry, 51(2), 158–175.",
+          "doi": "10.1177/1363461513503378",
+          "type": "peer_reviewed",
+          "url": "https://journals.sagepub.com/doi/abs/10.1177/1363461513503378"
+        }
+      ],
+      "spatial": {
+        "culture_region": "North Africa · Egypt",
+        "lat": 30.04,
+        "lng": 31.24,
+        "location_name": "埃及开罗（受访地点）",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [
+          "776"
+        ],
+        "thompson_motifs": []
+      },
+      "temporal": {
+        "era_label": "当代访谈研究",
+        "uncertainty_note": "论文发表于 2014 年，受访者回忆的发作时间各异。",
+        "year_end": null,
+        "year_start": null
+      },
+      "title": "开罗睡眠瘫痪访谈中的精灵解释",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [
+        "North Berwick witch trials",
+        "北贝里克猎巫"
+      ],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-22",
+        "is_sample": true,
+        "reviewed_by_human": false
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "historical_archive",
+      "id": "case_north_berwick_1590",
+      "is_fictional_quarantine": false,
+      "markdown": "\n## 档案入口\n\n爱丁堡大学的苏格兰猎巫调查库汇集了相关司法与教会记录。项目介绍用小册子《苏格兰新闻》（*Newes from Scotland*）的木刻展示了北贝里克案中流传的巫术聚会叙述。\n\n## 阅读线索\n\n个案地图以北贝里克镇帮助定位。阅读时可将小册子的叙述与司法记录对照，追踪哪些指控见于证词，哪些细节见于面向读者的印刷出版物。\n",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 2
+      },
+      "node_type": "case",
+      "relations": [
+        {
+          "note": "归入近代早期猎巫档案的苏格兰组。",
+          "status": null,
+          "target": "corpus_early_modern_witch_hunts",
+          "type": "PART_OF_MACRO_TREND",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "01_cases/case_north_berwick_1590.md",
+      "sources": [
+        {
+          "citation": "University of Edinburgh. The Survey of Scottish Witchcraft, 1563–1736. About the project.",
+          "doi": null,
+          "type": "scholarly_database",
+          "url": "https://witches.hca.ed.ac.uk/about/"
+        },
+        {
+          "citation": "University of Edinburgh. The Survey of Scottish Witchcraft. List of sources.",
+          "doi": null,
+          "type": "archival_catalogue",
+          "url": "https://witches.hca.ed.ac.uk/sources/"
+        },
+        {
+          "citation": "Gazetteer of British Place Names. North Berwick, East Lothian.",
+          "doi": null,
+          "type": "gazetteer",
+          "url": "https://gazetteer.org.uk/place/North_Berwick%2C_East_Lothian_32990"
+        }
+      ],
+      "spatial": {
+        "culture_region": "Europe · Scotland",
+        "lat": 56.06,
+        "lng": -2.72,
+        "location_name": "英国苏格兰北贝里克",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [
+          "754"
+        ],
+        "thompson_motifs": []
+      },
+      "temporal": {
+        "era_label": "近代早期",
+        "uncertainty_note": null,
+        "year_end": 1591,
+        "year_start": 1590
+      },
+      "title": "苏格兰北贝里克猎巫案（1590–1591）",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [
+        "Salem Witch Trials",
+        "塞勒姆女巫审判"
+      ],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-22",
+        "is_sample": true,
+        "reviewed_by_human": false
+      },
+      "credibility_tier": "S",
+      "credibility_weight": 1.0,
+      "genre": "historical_archive",
+      "id": "case_salem_1692",
+      "is_fictional_quarantine": false,
+      "markdown": "\n## 司法档案\n\n弗吉尼亚大学图书馆的项目收录了塞勒姆猎巫事件的司法文书、转录和历史地图。第 125 号案卷记载了蒂图芭在讯问中对魔鬼等超自然角色的陈述，可据此分别索引巫术指控和证词中的超自然角色。\n\n## 地图锚点\n\n坐标以今日塞勒姆市作参考。查找个别询问、居住或拘禁地点时，可用案卷和档案项目的历史地图继续定位。地图筛选中的年代覆盖审理过程。\n",
+      "mechanisms": [
+        {
+          "evidence_note": "Spanos 与 Gottlieb 重审了症状及档案证据，指出原假说的证据选择无法支持其对塞勒姆案的归因。",
+          "status": "refuted",
+          "target_id": "mech_salem_ergotism"
+        }
+      ],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 5
+      },
+      "node_type": "case",
+      "relations": [
+        {
+          "note": "在近代早期猎巫档案中保留新英格兰殖民地的司法背景。",
+          "status": null,
+          "target": "corpus_early_modern_witch_hunts",
+          "type": "PART_OF_MACRO_TREND",
+          "weight": 1.0
+        },
+        {
+          "note": "可对照两地的地方巫术指控如何进入司法程序。",
+          "status": null,
+          "target": "case_china_soulstealers_1768",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "01_cases/case_salem_1692.md",
+      "sources": [
+        {
+          "citation": "University of Virginia Library. Salem Witch Trials Documentary Archive and Transcription Project.",
+          "doi": null,
+          "type": "primary_archive",
+          "url": "https://salem.lib.virginia.edu/home.html"
+        },
+        {
+          "citation": "The Salem Witchcraft Papers, No. 125: Tituba. University of Virginia Library.",
+          "doi": null,
+          "type": "primary_archive",
+          "url": "https://salem.lib.virginia.edu/n125.html"
+        },
+        {
+          "citation": "Spanos, N. P., & Gottlieb, J. (1976). Ergotism and the Salem Village witch trials. Science, 194(4272), 1390–1394.",
+          "doi": "10.1126/science.795029",
+          "type": "peer_reviewed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/795029/"
+        }
+      ],
+      "spatial": {
+        "culture_region": "North America · Colonial New England",
+        "lat": 42.52,
+        "lng": -70.9,
+        "location_name": "美国马萨诸塞州塞勒姆",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [
+          "754",
+          "776"
+        ],
+        "thompson_motifs": []
+      },
+      "temporal": {
+        "era_label": "近代早期",
+        "uncertainty_note": null,
+        "year_end": 1693,
+        "year_start": 1692
+      },
+      "title": "塞勒姆猎巫审判（1692–1693）",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [
+        "Isolated Sleep Paralysis Elicited by Sleep Interruption"
+      ],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-22",
+        "is_sample": true,
+        "reviewed_by_human": false
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "academic_model",
+      "id": "case_sleep_paralysis_lab_1992",
+      "is_fictional_quarantine": false,
+      "markdown": "\n## 实验记录\n\n研究团队采用睡眠中断方案诱发孤立性睡眠瘫痪，记录参与者的主观体验及发作过程中的多导睡眠图。两类记录可以对照，观察运动能力恢复前的清醒感与肌张力变化。\n\n## 关联范围\n\n这张卡连接到实验所支持的睡眠生理机制。它为比较访谈中的发作回忆和实验中同步观察到的发作提供了参照。\n",
+      "mechanisms": [
+        {
+          "evidence_note": "实验中记录的发作显示觉醒相关的脑电活动与肌张力抑制可以同时出现。结论适用于记录到的发作。",
+          "status": "confirmed",
+          "target_id": "mech_sleep_paralysis"
+        }
+      ],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "relations": [],
+      "source_path": "01_cases/case_sleep_paralysis_lab_1992.md",
+      "sources": [
+        {
+          "citation": "Takeuchi, T., Miyasita, A., Sasaki, Y., Inugami, M., & Fukuda, K. (1992). Isolated sleep paralysis elicited by sleep interruption. Sleep, 15(3), 217–225.",
+          "doi": "10.1093/sleep/15.3.217",
+          "type": "peer_reviewed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/1621022/"
+        }
+      ],
+      "spatial": null,
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": {
+        "era_label": "当代实验研究",
+        "uncertainty_note": "年份指论文发表时间。",
+        "year_end": 1992,
+        "year_start": 1992
+      },
+      "title": "睡眠中断实验记录的孤立性睡眠瘫痪",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [
+        "Slender Man",
+        "瘦长人"
+      ],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-22",
+        "is_sample": true,
+        "reviewed_by_human": false
+      },
+      "credibility_tier": "F",
+      "credibility_weight": 0.0,
+      "genre": "creepypasta_ostension",
+      "id": "case_slender_man_2009",
+      "is_fictional_quarantine": true,
+      "markdown": "\n## 虚构作品的来历\n\n2009 年，使用 Victor Surge 网名的创作者在 Something Awful 论坛发表配有故事的合成图像。其他用户随后参与续写和改编。Tolbert 据此讨论了网络社群如何借用传说的讲述方式共同塑造虚构角色。\n",
+      "mechanisms": [],
+      "metrics": null,
+      "node_type": "case",
+      "relations": [],
+      "source_path": "05_quarantine_fiction/case_slender_man_2009.md",
+      "sources": [
+        {
+          "citation": "Tolbert, J. A. (2013). “The Sort of Story That Has You Covering Your Mirrors”: The Case of Slender Man. Semiotic Review, 2.",
+          "doi": "10.71743/g5pn4v44",
+          "type": "peer_reviewed",
+          "url": "https://doi.org/10.71743/g5pn4v44"
+        }
+      ],
+      "spatial": {
+        "culture_region": null,
+        "lat": null,
+        "lng": null,
+        "location_name": "Something Awful 网络论坛",
+        "precision": "global"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": {
+        "era_label": "互联网民俗",
+        "uncertainty_note": "年份指最早一批创作帖的发布时间。",
+        "year_end": 2009,
+        "year_start": 2009
+      },
+      "title": "Slender Man（2009 年网络共创起点）",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [
+        "Early modern witch-hunt archives"
+      ],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-22",
+        "is_sample": true,
+        "reviewed_by_human": false
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "historical_archive",
+      "id": "corpus_early_modern_witch_hunts",
+      "is_fictional_quarantine": false,
+      "markdown": "\n## 档案组范围\n\n档案组以苏格兰北贝里克与英属新英格兰塞勒姆为入口，关注地方巫术指控如何被教会、司法和出版材料记录。各地的司法制度、证据规则与卷宗类型可沿成员卡片回查。\n",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 2,
+        "out_degree": 1
+      },
+      "node_type": "myth_corpus",
+      "relations": [],
+      "source_path": "02_myth_corpora/corpus_early_modern_witch_hunts.md",
+      "sources": [
+        {
+          "citation": "University of Edinburgh. The Survey of Scottish Witchcraft, 1563–1736.",
+          "doi": null,
+          "type": "scholarly_database",
+          "url": "https://witches.hca.ed.ac.uk/about/"
+        },
+        {
+          "citation": "University of Virginia Library. Salem Witch Trials Documentary Archive and Transcription Project.",
+          "doi": null,
+          "type": "primary_archive",
+          "url": "https://salem.lib.virginia.edu/home.html"
+        }
+      ],
+      "spatial": null,
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [
+          "754"
+        ],
+        "thompson_motifs": []
+      },
+      "temporal": {
+        "era_label": "近代早期",
+        "uncertainty_note": "各地审理起止时间由对应个案记录。",
+        "year_end": null,
+        "year_start": null
+      },
+      "title": "近代早期猎巫档案组",
+      "z": 120,
+      "z_layer": 2
+    },
+    {
+      "aliases": [
+        "Popol Vuh",
+        "Popol Wuj",
+        "Kʼicheʼ Maya creation account"
+      ],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-22",
+        "is_sample": true,
+        "reviewed_by_human": false
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "myth",
+      "id": "corpus_popol_vuh",
+      "is_fictional_quarantine": false,
+      "markdown": "\n## 文本传统\n\n《波波尔·乌》收录基切玛雅的创世叙事、起源传统和历史记忆。纽伯里图书馆所藏抄本由弗朗西斯科·希梅内斯在危地马拉奇奇卡斯特南戈转录，并附有西班牙语译文。\n\n## 标引范围\n\nOCM 776 用于索引典籍中参与创世的神灵。坐标指向抄本转录地点，可在地图上追查版本的文献来历。\n",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "myth_corpus",
+      "relations": [],
+      "source_path": "02_myth_corpora/corpus_popol_vuh.md",
+      "sources": [
+        {
+          "citation": "Newberry Library. Popol Vuh research guide. Francisco Ximénez transcription and collection history.",
+          "doi": null,
+          "type": "archival_catalogue",
+          "url": "https://www.newberry.org/collection/research-guide/popol-vuh"
+        },
+        {
+          "citation": "University of North Texas Digital Library. Chichicastenango place record.",
+          "doi": null,
+          "type": "gazetteer",
+          "url": "https://digital.library.unt.edu/explore/locations/p09996/"
+        }
+      ],
+      "spatial": {
+        "culture_region": "Mesoamerica · Kʼicheʼ Maya",
+        "lat": 14.94,
+        "lng": -91.11,
+        "location_name": "危地马拉奇奇卡斯特南戈（抄本转录地点）",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [
+          "776"
+        ],
+        "thompson_motifs": []
+      },
+      "temporal": {
+        "era_label": "神话时代",
+        "uncertainty_note": "纽伯里图书馆研究指南将现存抄本的转录置于 1700–1715 年。创世叙事的时间保持未定。",
+        "year_end": null,
+        "year_start": null
+      },
+      "title": "《波波尔·乌》创世叙事",
+      "z": 120,
+      "z_layer": 2
+    },
+    {
+      "aliases": [
+        "OCM 754 Sorcery",
+        "Outline of Cultural Materials 754"
+      ],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-22",
+        "is_sample": true,
+        "reviewed_by_human": false
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "academic_model",
+      "id": "index_ocm_754",
+      "is_fictional_quarantine": false,
+      "markdown": "\n## 主题范围\n\n耶鲁 HRAF 用 OCM 754 标引巫术观念、被归于施术者的行为以及群体对巫术指控的反应。猎巫有关资料也在该主题的范围内。\n\n编译时，同样标记此代码的案例会连入这个枢纽。沿入边可回查各案的指控与档案语境。\n",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "case_in_degree": 3,
+        "culture_region_entropy_bits": 1.584962500721156,
+        "in_degree": 4,
+        "out_degree": 0
+      },
+      "node_type": "motif_index",
+      "relations": [],
+      "source_path": "03_motifs_standards/index_ocm_754.md",
+      "sources": [
+        {
+          "citation": "Human Relations Area Files, Yale University. Outline of Cultural Materials 754: Sorcery.",
+          "doi": null,
+          "type": "official_standard",
+          "url": "https://hraf.yale.edu/ocm/terms/754"
+        }
+      ],
+      "spatial": null,
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [
+          "754"
+        ],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "OCM 754 · 巫术",
+      "z": 240,
+      "z_layer": 3
+    },
+    {
+      "aliases": [
+        "OCM 776 Spirits and Gods",
+        "Outline of Cultural Materials 776"
+      ],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-22",
+        "is_sample": true,
+        "reviewed_by_human": false
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "academic_model",
+      "id": "index_ocm_776",
+      "is_fictional_quarantine": false,
+      "markdown": "\n## 主题范围\n\nOCM 776 涉及神祇、精灵与其他超自然存在的形象和作用。试用库以它索引开罗访谈中的精灵、塞勒姆供词中的魔鬼，以及《波波尔·乌》创世传统中的神灵。\n\n入边记录各份材料采用了同一索引主题。角色在各自叙事中的身份应回到对应文本辨认。\n",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "case_in_degree": 2,
+        "culture_region_entropy_bits": 1.0,
+        "in_degree": 3,
+        "out_degree": 0
+      },
+      "node_type": "motif_index",
+      "relations": [],
+      "source_path": "03_motifs_standards/index_ocm_776.md",
+      "sources": [
+        {
+          "citation": "Human Relations Area Files, Yale University. Outline of Cultural Materials 776: Spirits and Gods.",
+          "doi": null,
+          "type": "official_standard",
+          "url": "https://hraf.yale.edu/ocm/terms/776"
+        }
+      ],
+      "spatial": null,
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [
+          "776"
+        ],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "OCM 776 · 精灵与神祇",
+      "z": 240,
+      "z_layer": 3
+    },
+    {
+      "aliases": [
+        "Ergotism hypothesis for Salem"
+      ],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-22",
+        "is_sample": true,
+        "reviewed_by_human": false
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "academic_model",
+      "id": "mech_salem_ergotism",
+      "is_fictional_quarantine": false,
+      "markdown": "\n## 假说与反驳\n\nCaporael 提出，麦角污染可能解释塞勒姆猎巫案中记录的部分症状。Spanos 与 Gottlieb 随后重审历史材料，质疑症状和其他档案观察对该归因的支持。\n\n图谱把反驳状态挂在该假说与塞勒姆个案之间的边上，以便回看两份论文提出的论据。\n",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 1,
+        "out_degree": 0
+      },
+      "node_type": "mechanism",
+      "relations": [],
+      "source_path": "04_mechanisms_theories/mech_salem_ergotism.md",
+      "sources": [
+        {
+          "citation": "Caporael, L. R. (1976). Ergotism: The satan loosed in Salem? Science, 192(4234), 21–26.",
+          "doi": "10.1126/science.769159",
+          "type": "peer_reviewed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/769159/"
+        },
+        {
+          "citation": "Spanos, N. P., & Gottlieb, J. (1976). Ergotism and the Salem Village witch trials. Science, 194(4272), 1390–1394.",
+          "doi": "10.1126/science.795029",
+          "type": "peer_reviewed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/795029/"
+        }
+      ],
+      "spatial": null,
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": {
+        "era_label": "当代史学争论",
+        "uncertainty_note": "年份指假说与反驳的发表时间。",
+        "year_end": 1976,
+        "year_start": 1976
+      },
+      "title": "塞勒姆案的麦角中毒假说",
+      "z": 360,
+      "z_layer": 4
+    },
+    {
+      "aliases": [
+        "Sleep paralysis",
+        "REM atonia during sleep–wake transitions"
+      ],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-22",
+        "is_sample": true,
+        "reviewed_by_human": false
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "academic_model",
+      "id": "mech_sleep_paralysis",
+      "is_fictional_quarantine": false,
+      "markdown": "\n## 可观察的机制\n\n睡眠瘫痪可发生在入睡或醒来的过渡期。人在产生清醒感时仍暂时难以自主活动，多导睡眠记录可用来观察脑电活动和肌张力抑制的并存状态。\n\n## 证据状态\n\n关系状态随个案材料而定。有同步记录的实验与仅有事后回忆的访谈分别标注，便于追溯每条解释所依赖的证据。\n",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 2,
+        "out_degree": 0
+      },
+      "node_type": "mechanism",
+      "relations": [],
+      "source_path": "04_mechanisms_theories/mech_sleep_paralysis.md",
+      "sources": [
+        {
+          "citation": "Takeuchi, T., Miyasita, A., Sasaki, Y., Inugami, M., & Fukuda, K. (1992). Isolated sleep paralysis elicited by sleep interruption. Sleep, 15(3), 217–225.",
+          "doi": "10.1093/sleep/15.3.217",
+          "type": "peer_reviewed",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/1621022/"
+        },
+        {
+          "citation": "Mainieri, G., et al. (2021). Are sleep paralysis and false awakenings different from REM sleep and from lucid REM sleep? A spectral EEG analysis. Journal of Clinical Sleep Medicine, 17(4), 719–727.",
+          "doi": "10.5664/jcsm.9056",
+          "type": "peer_reviewed",
+          "url": "https://doi.org/10.5664/jcsm.9056"
+        }
+      ],
+      "spatial": null,
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "睡眠瘫痪中的肌张力抑制",
+      "z": 360,
+      "z_layer": 4
+    }
+  ],
+  "schema_version": 1,
+  "snapshot_id": "56bd537f1651980d4f9bfe2f75ac7df0520c78fb1d2e09e3d46d9179a2b69a0f",
+  "stats": {
+    "betweenness_sample_size": null,
+    "excluded_drafts": 0,
+    "excluded_fiction": 0,
+    "isolated_node_ids": [
+      "case_slender_man_2009"
+    ],
+    "unmatched_standard_codes": [],
+    "vault_cards": 12,
+    "visible_links": 13,
+    "visible_nodes": 12
+  },
+  "visibility": {
+    "exclude_fiction": false,
+    "include_samples": true
+  }
+}
