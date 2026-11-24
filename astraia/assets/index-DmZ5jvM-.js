@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["assets/scene-reference-DPxt8tCG.js","assets/OrbitControls-BDL9E-7U.js","assets/three.core-1m8GTIKY.js","assets/styles-OVW-278d.js","assets/styles-DZvvRw1d.css"])))=>i.map(i=>d[i]);
+import{i,_ as o}from"./styles-OVW-278d.js";i();o(()=>import("./scene-reference-DPxt8tCG.js"),__vite__mapDeps([0,1,2,3,4])).catch(t=>{console.error("Syzygy initialization failed",t);const e=document.getElementById("syzygy-loading");e&&(e.setAttribute("role","alert"),e.textContent=`朔望叠影暂时无法载入：${t instanceof Error?t.message:"请刷新重试。"}`)});
