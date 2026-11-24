@@ -673,6 +673,17 @@
       "matched_codes": [],
       "note": "同题并列阅读，不推断传播或共同起源。",
       "origin": "explicit",
+      "source": "case_cn_beijing_beihai_water_figure_2016",
+      "status": null,
+      "target": "corpus_cn_beijing_ghostlore_solovyova_2019",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
       "source": "case_cn_beijing_dormitory_window_eyes",
       "status": null,
       "target": "text_cn_ma_xingyu_campus_horror_2016",
@@ -684,9 +695,31 @@
       "matched_codes": [],
       "note": "同题并列阅读，不推断传播或共同起源。",
       "origin": "explicit",
+      "source": "case_cn_beijing_school_pool_decorations_2014",
+      "status": null,
+      "target": "corpus_cn_beijing_ghostlore_solovyova_2019",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
       "source": "case_cn_beijing_school_wheelchair",
       "status": null,
       "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_beijing_weasel_grandfather_2012",
+      "status": null,
+      "target": "corpus_cn_beijing_ghostlore_solovyova_2019",
       "type": "COMPARED_WITH",
       "weight": 1.0
     },
@@ -9499,6 +9532,17 @@
       "status": null,
       "target": "corpus_cn_sd_yutai_mirror",
       "type": "PART_OF_MACRO_TREND",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_shanghai_abandoned_school_exploration_2012",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
       "weight": 1.0
     },
     {
@@ -21066,6 +21110,28 @@
       "matched_codes": [],
       "note": "同题并列阅读，不推断传播或共同起源。",
       "origin": "explicit",
+      "source": "case_id_banjarmasin_bank_guard_double",
+      "status": null,
+      "target": "corpus_id_banjarmasin_nasrullah_2018",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_id_banjarmasin_mall_cctv",
+      "status": null,
+      "target": "corpus_id_banjarmasin_nasrullah_2018",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
       "source": "case_id_jakarta_ancol_bridge",
       "status": null,
       "target": "motif_urban_ostension_liminal",
@@ -21169,6 +21235,17 @@
       "status": null,
       "target": "motif_urban_ostension_liminal",
       "type": "HAS_MOTIF",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_id_yogyakarta_silent_lecturer_2016",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
       "weight": 1.0
     },
     {
@@ -21532,6 +21609,17 @@
       "status": "unverified",
       "target": "mech_sleep_paralysis",
       "type": "EXPLAINED_BY",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_kh_kampong_chhnang_ghost_house",
+      "status": null,
+      "target": "motif_urban_ostension_liminal",
+      "type": "COMPARED_WITH",
       "weight": 1.0
     },
     {
@@ -25970,6 +26058,28 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_la_vientiane_spirit_house_toy_cars",
+      "status": null,
+      "target": "corpus_la_tappe_ghosts_war_business",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_la_xieng_khouang_brother_in_doorway",
+      "status": null,
+      "target": "corpus_la_tappe_ghosts_war_business",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "同属馆藏目录；不表示单篇故事或同一叙事发生地。",
       "origin": "explicit",
       "source": "case_mm_bl_ior_s_2_3_01",
@@ -26350,6 +26460,72 @@
       "status": null,
       "target": "corpus_mm_bl_ior_s_2_3",
       "type": "PART_OF_MACRO_TREND",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_mm_mandalay_airport_invisible_man",
+      "status": null,
+      "target": "corpus_seasia_airport_ferguson_2014",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_mm_yangon_airport_autostart",
+      "status": null,
+      "target": "corpus_seasia_airport_ferguson_2014",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_mm_yangon_latha_dry_shower",
+      "status": null,
+      "target": "corpus_mm_yangon_ghostlore_long_2014",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_mm_yangon_latha_pingpong",
+      "status": null,
+      "target": "corpus_mm_yangon_ghostlore_long_2014",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_mm_yangon_office_high_heels",
+      "status": null,
+      "target": "corpus_mm_yangon_ghostlore_long_2014",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_mm_yangon_office_yellow_woman",
+      "status": null,
+      "target": "corpus_mm_yangon_ghostlore_long_2014",
+      "type": "COMPARED_WITH",
       "weight": 1.0
     },
     {
@@ -37826,6 +38002,28 @@
       "source": "case_spr_borley_rectory",
       "status": null,
       "target": "motif_poltergeist_500_cluster",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_th_bangkok_airport_column",
+      "status": null,
+      "target": "corpus_seasia_airport_ferguson_2014",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_th_bangkok_airport_hundred_eggs",
+      "status": null,
+      "target": "corpus_seasia_airport_ferguson_2014",
       "type": "COMPARED_WITH",
       "weight": 1.0
     },
@@ -349000,6 +349198,50 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_cn_beijing_ghostlore_solovyova_2019",
+      "status": null,
+      "target": "case_cn_beijing_dormitory_window_eyes",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_cn_beijing_ghostlore_solovyova_2019",
+      "status": null,
+      "target": "case_cn_beijing_ghost_bus",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_cn_beijing_ghostlore_solovyova_2019",
+      "status": null,
+      "target": "case_cn_beijing_school_wheelchair",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_cn_beijing_ghostlore_solovyova_2019",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "同属项目筛查范围，不表示故事、版本或演述存在关联。",
       "origin": "explicit",
       "source": "corpus_cn_bl_eap081_001",
@@ -349962,6 +350204,17 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_id_banjarmasin_nasrullah_2018",
+      "status": null,
+      "target": "corpus_seasia_airport_ferguson_2014",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "同一馆方馆藏组的折本；每册可能包含多件作品。",
       "origin": "explicit",
       "source": "corpus_kh_bl_or16131_01",
@@ -350166,6 +350419,17 @@
       "status": null,
       "target": "corpus_kh_nitean_folktales",
       "type": "PART_OF_MACRO_TREND",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_la_tappe_ghosts_war_business",
+      "status": null,
+      "target": "corpus_seasia_airport_ferguson_2014",
+      "type": "COMPARED_WITH",
       "weight": 1.0
     },
     {
@@ -355154,6 +355418,28 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_mm_yangon_ghostlore_long_2014",
+      "status": null,
+      "target": "corpus_seasia_airport_ferguson_2014",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_mm_yangon_ghostlore_long_2014",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "同一馆藏的目录条目，不表示同一故事、演述或采录地点。",
       "origin": "explicit",
       "source": "corpus_my_temiar_wolp_01",
@@ -355336,6 +355622,17 @@
       "target": "index_ocm_754",
       "type": "TAGGED_OCM",
       "weight": 0.85
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_seasia_airport_ferguson_2014",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
     },
     {
       "is_fictional_quarantine": false,
@@ -455210,6 +455507,85 @@
       },
       "credibility_tier": "A",
       "credibility_weight": 0.85,
+      "genre": "memorate",
+      "id": "case_cn_beijing_beihai_water_figure_2016",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "点位取北海公园公共区域的参考坐标；访谈没有指明具体岸边。",
+        "map_label": "中国北京 · 北海公园参考点",
+        "paragraphs": [
+          "一位受访者回忆，自己在北海散步时，看见水边有个动作缓慢、说不清年龄和性别的身影。对方望了过来，随后跳入水中，不见了。",
+          "他害怕地打电话给朋友，猜测自己遇见了水鬼。朋友们的反应各不相同：有人建议他看医生，有人建议去寺庙问问。研究者于 2016 年记录了这段自述，故事发生的确切日期没有交代。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_cn_beijing_ghostlore_solovyova_2019",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_beijing_beihai_water_figure_2016",
+      "sources": [
+        {
+          "citation": "Alevtina Solovyova, “Ghostlore of Contemporary Beijing”, 2019。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "第 275—284 页，2012—2016 年访谈",
+          "type": "institutional_account",
+          "url": "https://www.academia.edu/61013635/Ghostlore_of_Contemporary_Beijing"
+        }
+      ],
+      "spatial": {
+        "culture_region": "中国 · 华北",
+        "lat": 39.925,
+        "lng": 116.389,
+        "location_name": "中国北京 · 北海公园参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "北京北海｜湖边慢慢移动的身影",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
       "genre": "urban_legend",
       "id": "case_cn_beijing_dormitory_window_eyes",
       "is_fictional_quarantine": false,
@@ -455217,7 +455593,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 0,
+        "in_degree": 1,
         "out_degree": 1
       },
       "node_type": "case",
@@ -455304,7 +455680,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 1,
+        "in_degree": 2,
         "out_degree": 0
       },
       "node_type": "case",
@@ -455393,13 +455769,92 @@
       "credibility_tier": "A",
       "credibility_weight": 0.85,
       "genre": "urban_legend",
-      "id": "case_cn_beijing_school_wheelchair",
+      "id": "case_cn_beijing_school_pool_decorations_2014",
       "is_fictional_quarantine": false,
       "markdown": "",
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
         "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "讲述者没有记住学校名称，地图只定位到北京。",
+        "map_label": "中国北京 · 城市参考点",
+        "paragraphs": [
+          "一位受访者讲过一则学校传闻：校园为庆祝活动挂上传统装饰，之后学生开始议论听到和看到奇怪的东西。故事又说，一名男孩在泳池遇险，被救上来时腿上留下了痕迹。",
+          "传闻把这些事与装饰的使用联系起来，还说校方后来请人处理。2014 年的访谈保留了讲述者从报纸听来的版本，学校和具体事件均未在文中核定。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_cn_beijing_ghostlore_solovyova_2019",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_beijing_school_pool_decorations_2014",
+      "sources": [
+        {
+          "citation": "Alevtina Solovyova, “Ghostlore of Contemporary Beijing”, 2019。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "第 275—284 页，2012—2016 年访谈",
+          "type": "institutional_account",
+          "url": "https://www.academia.edu/61013635/Ghostlore_of_Contemporary_Beijing"
+        }
+      ],
+      "spatial": {
+        "culture_region": "中国 · 华北",
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "location_name": "中国北京 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "北京校园｜节庆装饰与泳池传闻",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_cn_beijing_school_wheelchair",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 1,
         "out_degree": 1
       },
       "node_type": "case",
@@ -455452,6 +455907,85 @@
       },
       "temporal": null,
       "title": "北京校园｜门外响起轮椅声",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "memorate",
+      "id": "case_cn_beijing_weasel_grandfather_2012",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "访谈未提供住址，地图使用北京城市参考点。",
+        "map_label": "中国北京 · 城市参考点",
+        "paragraphs": [
+          "一位北京受访者说，长辈相信黄鼠狼夜里会发出像孩子哭泣一样的声音，还会拿走小东西。遇到它，家里人要出去大声喝骂。",
+          "他记得祖父曾经跑出去这样做，之后它就没有再来。研究者在 2012 年记录了这段家族回忆；故事保留的是讲述者对动物和家宅的民间观念。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_cn_beijing_ghostlore_solovyova_2019",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_beijing_weasel_grandfather_2012",
+      "sources": [
+        {
+          "citation": "Alevtina Solovyova, “Ghostlore of Contemporary Beijing”, 2019。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "第 275—284 页，2012—2016 年访谈",
+          "type": "institutional_account",
+          "url": "https://www.academia.edu/61013635/Ghostlore_of_Contemporary_Beijing"
+        }
+      ],
+      "spatial": {
+        "culture_region": "中国 · 华北",
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "location_name": "中国北京 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "北京院子｜祖父骂走的黄鼠狼",
       "z": 0,
       "z_layer": 1
     },
@@ -541502,6 +542036,85 @@
       },
       "temporal": null,
       "title": "山东方志镜像 · 工匠对诗",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "memorate",
+      "id": "case_cn_shanghai_abandoned_school_exploration_2012",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "报道描述上海一处旧校附近的聚集；地图使用城市参考点，旧建筑现状未核定。",
+        "map_label": "中国上海 · 城市参考点",
+        "paragraphs": [
+          "2012 年，上海年轻人之间流传一所废弃学校在凌晨三点会发生怪事。学生从网上看见帖子，又听同伴说有人拍到了照片，于是相约到现场。",
+          "记者记录到百余人在傍晚聚集，门卫则说最近常有人翻墙、敲门和砸窗。报道没有找到传说的可靠起点；它记录了一个故事如何从网络进入真实的城市生活。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_shanghai_abandoned_school_exploration_2012",
+      "sources": [
+        {
+          "citation": "程怡、周柏伊：〈听传说找刺激，废弃地成探险园〉，《新闻晚报》，2012 年 11 月 7 日。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "记者现场观察及门卫、参加者访谈",
+          "type": "institutional_account",
+          "url": "https://news.sina.com.cn/o/2012-11-07/140025529737.shtml"
+        }
+      ],
+      "spatial": {
+        "culture_region": "中国 · 华东",
+        "lat": 31.2304,
+        "lng": 121.4737,
+        "location_name": "中国上海 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "上海｜凌晨三点的废校传闻",
       "z": 0,
       "z_layer": 1
     },
@@ -647629,6 +648242,164 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "memorate",
+      "id": "case_id_banjarmasin_bank_guard_double",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "原文没有给出可公开定位的银行地址，地图使用城市参考点。",
+        "map_label": "印尼班贾尔马辛 · 城市参考点",
+        "paragraphs": [
+          "银行有两名警卫值夜，一人到后方休息时，看见像同事的人也在那里。他叫了对方，对方却没有回应。",
+          "后来他问起这件事，同事说自己一直留在前面，从未到过后方。2018 年论文记录的是一位技术人员转述的警卫故事；双重身份是当事人给出的解释。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_id_banjarmasin_nasrullah_2018",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_id_banjarmasin_bank_guard_double",
+      "sources": [
+        {
+          "citation": "Nasrullah, “Hantu di Tengah Keramaian Kota Banjarmasin”, Khazanah 16(1), 2018, 23–48。",
+          "content_sha256": null,
+          "doi": "10.18592/khazanah.v16i1.2154",
+          "local_path": null,
+          "locator": "第 33—36 页，商场员工和警卫的讲述",
+          "type": "institutional_account",
+          "url": "https://jurnal.uin-antasari.ac.id/index.php/khazanah/article/download/2154/1619"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 印度尼西亚",
+        "lat": -3.3194,
+        "lng": 114.5908,
+        "location_name": "印尼班贾尔马辛 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "班贾尔马辛银行｜没有离岗的同事",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "memorate",
+      "id": "case_id_banjarmasin_mall_cctv",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "论文指出班贾尔马辛的 Duta Mall；地图使用城市参考点，不标示内部座位。",
+        "map_label": "印尼班贾尔马辛 · 城市参考点",
+        "paragraphs": [
+          "一名在商场工作的技术人员回忆，自己常回看夜间监控。有一次，他在画面中看到一个长发女子坐在顾客平常休息的长椅上，并把这段影像与同事讲过的怪事联系起来。",
+          "2018 年的田野论文记下了他的说法，也记录商场员工对异样经历的不同讲述。论文没有刊出监控视频，无法据此确认画中人的身份。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_id_banjarmasin_nasrullah_2018",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_id_banjarmasin_mall_cctv",
+      "sources": [
+        {
+          "citation": "Nasrullah, “Hantu di Tengah Keramaian Kota Banjarmasin”, Khazanah 16(1), 2018, 23–48。",
+          "content_sha256": null,
+          "doi": "10.18592/khazanah.v16i1.2154",
+          "local_path": null,
+          "locator": "第 33—36 页，商场员工和警卫的讲述",
+          "type": "institutional_account",
+          "url": "https://jurnal.uin-antasari.ac.id/index.php/khazanah/article/download/2154/1619"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 印度尼西亚",
+        "lat": -3.3194,
+        "lng": 114.5908,
+        "location_name": "印尼班贾尔马辛 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "班贾尔马辛商场｜监控里的长发女子",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "巴龙与克里斯舞传说",
         "巴龙对决兰达",
@@ -648645,6 +649416,85 @@
         "year_start": 2000
       },
       "title": "三宝垄千门楼地下室的白色身影",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "urban_legend",
+      "id": "case_id_yogyakarta_silent_lecturer_2016",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "网传故事指向日惹一所大学；不标示具体教室，坐标为城市参考点。",
+        "map_label": "印尼日惹 · 城市参考点",
+        "paragraphs": [
+          "网传消息里，一名教师走进教室后始终不说话。班长随后收到真正教师的短信，说课程取消；他借着掉笔往桌下看，发现来人的脚不对劲。",
+          "班长让同学从后往前悄悄离开，最后自己被那名“教师”叫住。2016 年媒体联系大学核查，校方表示这是虚假消息；这则记录保留它作为流传故事的情节与辟谣结果。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_id_yogyakarta_silent_lecturer_2016",
+      "sources": [
+        {
+          "citation": "Sukma Indah Permana, “Cerita tentang Dosen Gaib di UAD Yogya yang Bikin Merinding”, detikNews, 2016 年 10 月 24 日。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "连锁消息全文、大学公关回应与报道结论",
+          "type": "institutional_account",
+          "url": "https://news.detik.com/berita/d-3327648/cerita-tentang-dosen-gaib-di-uad-yogya-yang-bikin-merinding"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 印度尼西亚",
+        "lat": -7.7956,
+        "lng": 110.3695,
+        "location_name": "印尼日惹 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "日惹校园｜沉默的代课老师",
       "z": 0,
       "z_layer": 1
     },
@@ -652419,6 +653269,85 @@
         "year_start": 2005
       },
       "title": "柬埔寨侨民的“鬼压住人”访谈",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "urban_legend",
+      "id": "case_kh_kampong_chhnang_ghost_house",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "传说与磅清扬省 5 号公路沿线一处房屋相关，省会坐标仅用于区域定位。",
+        "map_label": "柬埔寨磅清扬省 · 省会参考点",
+        "paragraphs": [
+          "磅清扬的一则传说讲，一户人家梦见神秘客人提出以黄金买房。主人答应后发现门外果然有黄金，却仍留在屋内；后来有一天，他们醒来发现自己和行李都在附近的田地里。",
+          "这座被称作“鬼屋”的房子后来成为地方传说和电影题材。不同报道对交易细节各有讲法；这里保留共同的故事轮廓，不把梦中交易当成已核实的房产记录。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "motif_urban_ostension_liminal",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_kh_kampong_chhnang_ghost_house",
+      "sources": [
+        {
+          "citation": "“7 scariest haunted places in Asia”, Free Malaysia Today, 2019 年 10 月 31 日。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "第 5 则，Ghost House of Kampong Chhnang",
+          "type": "institutional_account",
+          "url": "https://www.freemalaysiatoday.com/category/leisure/2019/10/31/7-scariest-haunted-places-in-asia"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 柬埔寨",
+        "lat": 12.25,
+        "lng": 104.6667,
+        "location_name": "柬埔寨磅清扬省 · 省会参考点",
+        "precision": "province"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "磅清扬｜梦里买下房子的客人",
       "z": 0,
       "z_layer": 1
     },
@@ -694612,6 +695541,164 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "memorate",
+      "id": "case_la_vientiane_spirit_house_toy_cars",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "研究涉及私人住宅，地图只给出万象城市参考点。",
+        "map_label": "老挝万象 · 城市参考点",
+        "paragraphs": [
+          "2014 年，一名万象商人向研究者讲述自己经历过生意受挫，后来求助灵媒。灵媒认为他的住宅位于旧宫址，于是他在花园里建了一座精致的神龛。",
+          "神龛前摆着水果、花和两辆玩具汽车。商人觉得之后境况转好，还邀请研究者参加感谢仪式。论文保留的是他的解释和仪式观察，未确认住宅曾是宫址。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_la_tappe_ghosts_war_business",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_la_vientiane_spirit_house_toy_cars",
+      "sources": [
+        {
+          "citation": "Oliver Tappe, “Bombs and Business: Interactions with Spirits in Laos”, Global Modernities and the (Re-)Emergence of Ghosts。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "〈Bombs and Business〉，2010 年川圹省与 2014 年万象田野叙述",
+          "type": "institutional_account",
+          "url": "https://www.academia.edu/117514071/Global_Modernities_and_the_Re_Emergence_of_Ghosts"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 老挝",
+        "lat": 17.9757,
+        "lng": 102.6331,
+        "location_name": "老挝万象 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "万象｜神龛前的两辆玩具车",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "memorate",
+      "id": "case_la_xieng_khouang_brother_in_doorway",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "讲述者在川圹省丰沙湾附近道路经过爆炸现场；过夜地点未明确，标记为省会参考点。",
+        "map_label": "老挝川圹省 · 丰沙湾参考点",
+        "paragraphs": [
+          "一名老挝男子童年时失去兄弟。多年以后，他在川圹省陪同摄影师出行，车辆刚经过一处地方，路边遗留的炸弹便发生爆炸，旧日记忆随之涌上来。",
+          "那天夜里，他醒来时觉得胸口受压，看见门口有一道人形，片刻后消失。他把它理解为兄弟前来保护自己的身影，并向人类学者讲述了这段经历。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_la_tappe_ghosts_war_business",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_la_xieng_khouang_brother_in_doorway",
+      "sources": [
+        {
+          "citation": "Oliver Tappe, “Bombs and Business: Interactions with Spirits in Laos”, Global Modernities and the (Re-)Emergence of Ghosts。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "〈Bombs and Business〉，2010 年川圹省与 2014 年万象田野叙述",
+          "type": "institutional_account",
+          "url": "https://www.academia.edu/117514071/Global_Modernities_and_the_Re_Emergence_of_Ghosts"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 老挝",
+        "lat": 19.45,
+        "lng": 103.2167,
+        "location_name": "老挝川圹省 · 丰沙湾参考点",
+        "precision": "province"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "川圹省｜夜里站在门口的兄弟",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "狮子岩空中王宫",
         "锡吉里耶天女壁画",
@@ -699281,6 +700368,85 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "memorate",
+      "id": "case_mm_mandalay_airport_invisible_man",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "原访谈指曼德勒机场入境区域；为避免把未知柜台当作确切点位，使用曼德勒城市参考点。",
+        "map_label": "缅甸曼德勒 · 城市参考点",
+        "paragraphs": [
+          "机场员工 Ma Khin 说，她和同事在入境柜台附近工作时，看到一个男人站在旁边看着她。她向他示意，对方也点了点头；同事却问她在向谁打招呼。",
+          "她认为自己看见了当地所谓的 thayay，并在工作文件夹里放了一份经文。人类学者 Ferguson 将这段口述收入 2014 年的机场研究，原文没有交代具体日期。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_seasia_airport_ferguson_2014",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_mm_mandalay_airport_invisible_man",
+      "sources": [
+        {
+          "citation": "Jane M. Ferguson, “Terminally Haunted”, The Asia Pacific Journal of Anthropology 15(1), 2014, 47–64。",
+          "content_sha256": null,
+          "doi": "10.1080/14442213.2013.872698",
+          "local_path": null,
+          "locator": "第 53—61 页，机场员工访谈与参与观察",
+          "type": "institutional_account",
+          "url": "https://www.academia.edu/5974036/Terminally_Haunted_Aviation_Ghosts_Hybrid_Buddhist_Practices_and_Disaster_Aversion_Strategies_Amongst_Airport_Workers_in_Myanmar_and_Thailand"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 缅甸",
+        "lat": 21.9588,
+        "lng": 96.0891,
+        "location_name": "缅甸曼德勒 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "曼德勒机场｜柜台前只有一人看见的旅客",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "敏诃其利与大山的妹妹",
         "波帕山三十七纳特起源",
@@ -699368,6 +700534,401 @@
         "year_start": 1044
       },
       "title": "曼德勒波帕山｜铁匠兄妹蒙冤焚身化作护国纳特神灵传说",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "memorate",
+      "id": "case_mm_yangon_airport_autostart",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "访谈发生在仰光机场工作环境；航班与机位不详，地图使用仰光城市参考点。",
+        "map_label": "缅甸仰光 · 城市参考点",
+        "paragraphs": [
+          "仰光机场的一位塔台工作人员向研究者转述，两次有飞行员进入驾驶舱时，发现自动启动装置已经处于开启状态，而他们说自己还没有碰过仪表。",
+          "原文记载，两次航班后来都按计划完成。研究者把它作为机场员工讲述的一则异常经历，并未提供可独立核验的航班记录或技术故障结论。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_seasia_airport_ferguson_2014",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_mm_yangon_airport_autostart",
+      "sources": [
+        {
+          "citation": "Jane M. Ferguson, “Terminally Haunted”, The Asia Pacific Journal of Anthropology 15(1), 2014, 47–64。",
+          "content_sha256": null,
+          "doi": "10.1080/14442213.2013.872698",
+          "local_path": null,
+          "locator": "第 53—61 页，机场员工访谈与参与观察",
+          "type": "institutional_account",
+          "url": "https://www.academia.edu/5974036/Terminally_Haunted_Aviation_Ghosts_Hybrid_Buddhist_Practices_and_Disaster_Aversion_Strategies_Amongst_Airport_Workers_in_Myanmar_and_Thailand"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 缅甸",
+        "lat": 16.8409,
+        "lng": 96.1735,
+        "location_name": "缅甸仰光 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "仰光机场｜进入驾驶舱前已启动的装置",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_mm_yangon_latha_dry_shower",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "采访提及拉达区一所学校；点位为仰光城市参考点，不指向浴室。",
+        "map_label": "缅甸仰光 · 拉达区城市参考点",
+        "paragraphs": [
+          "仰光一所寄宿学校的旧生记得，新生会从高年级学生那里听到一个故事：凌晨三点，浴室传出淋浴的水声；有人循声去看，隔间却完全干着。",
+          "她在 1970 年入学时就听说过这个故事。另一位约在 1980 年就读的校友也记得相似版本；到那时，学校已不再允许学生留宿。两人的回忆由《缅甸时报》于 2014 年刊出。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_mm_yangon_ghostlore_long_2014",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_mm_yangon_latha_dry_shower",
+      "sources": [
+        {
+          "citation": "Douglas Long, “Ghosts are everywhere in Myanmar”, The Myanmar Times, 2014 年 10 月 27 日—11 月 2 日。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "报纸第 48—50 页，仰光居民与校友访谈",
+          "type": "institutional_account",
+          "url": "https://uzo.sakura.ne.jp/burma/mmt/mmt_data/mmt_2014/mmt_10_2014/mmt_752-05_10_2014.pdf"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 缅甸",
+        "lat": 16.8409,
+        "lng": 96.1735,
+        "location_name": "缅甸仰光 · 拉达区城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "仰光校园｜凌晨三点仍然干燥的浴室",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_mm_yangon_latha_pingpong",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "地点为拉达区学校传闻；地图使用仰光城市参考点。",
+        "map_label": "缅甸仰光 · 拉达区城市参考点",
+        "paragraphs": [
+          "夜里，学校值夜的人听见空房间里传来乒乓球弹跳的声音。她走进去，看见球慢慢停下，便用手帕把它捡起来；隔着手帕，东西却有些温热。",
+          "她打开手帕，发现里面并不是乒乓球。这则带有惊悚结尾的校园故事由旧生转述，2014 年刊出的报道说明，它在 1970 年前后已经流传。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_mm_yangon_ghostlore_long_2014",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_mm_yangon_latha_pingpong",
+      "sources": [
+        {
+          "citation": "Douglas Long, “Ghosts are everywhere in Myanmar”, The Myanmar Times, 2014 年 10 月 27 日—11 月 2 日。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "报纸第 48—50 页，仰光居民与校友访谈",
+          "type": "institutional_account",
+          "url": "https://uzo.sakura.ne.jp/burma/mmt/mmt_data/mmt_2014/mmt_10_2014/mmt_752-05_10_2014.pdf"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 缅甸",
+        "lat": 16.8409,
+        "lng": 96.1735,
+        "location_name": "缅甸仰光 · 拉达区城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "仰光校园｜空房里滚出的乒乓球",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "memorate",
+      "id": "case_mm_yangon_office_high_heels",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "报道只说是市中心的办公室，地图使用仰光城市参考点。",
+        "map_label": "缅甸仰光 · 城市参考点",
+        "paragraphs": [
+          "四名员工下班后留在办公室刷 Facebook，听见清楚的高跟鞋声在水泥地上绕着桌子走。声音停了一会儿，又从头沿着相同的路线响起。",
+          "在场的人当时都没有穿高跟鞋。《缅甸时报》2014 年整理了这则城市见闻，没有给出声音来源或办公室名称。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_mm_yangon_ghostlore_long_2014",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_mm_yangon_office_high_heels",
+      "sources": [
+        {
+          "citation": "Douglas Long, “Ghosts are everywhere in Myanmar”, The Myanmar Times, 2014 年 10 月 27 日—11 月 2 日。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "报纸第 48—50 页，仰光居民与校友访谈",
+          "type": "institutional_account",
+          "url": "https://uzo.sakura.ne.jp/burma/mmt/mmt_data/mmt_2014/mmt_10_2014/mmt_752-05_10_2014.pdf"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 缅甸",
+        "lat": 16.8409,
+        "lng": 96.1735,
+        "location_name": "缅甸仰光 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "仰光办公室｜绕着桌子转的高跟鞋声",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "memorate",
+      "id": "case_mm_yangon_office_yellow_woman",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "采访没有公开办公室地址，地图使用仰光城市参考点。",
+        "map_label": "缅甸仰光 · 城市参考点",
+        "paragraphs": [
+          "一位杂志编辑来到办公室，隔着窗看见一个穿黄色传统服装的女子坐在桌边。门却从外面锁着，照她的理解，同事们都还没有到。",
+          "她再往里面看时，那个身影已经不见了。她在 2014 年的采访中谈到这次经历，也说自己更害怕活人；报道没有留下足以核对现场的地址。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_mm_yangon_ghostlore_long_2014",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_mm_yangon_office_yellow_woman",
+      "sources": [
+        {
+          "citation": "Douglas Long, “Ghosts are everywhere in Myanmar”, The Myanmar Times, 2014 年 10 月 27 日—11 月 2 日。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "报纸第 48—50 页，仰光居民与校友访谈",
+          "type": "institutional_account",
+          "url": "https://uzo.sakura.ne.jp/burma/mmt/mmt_data/mmt_2014/mmt_10_2014/mmt_752-05_10_2014.pdf"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 缅甸",
+        "lat": 16.8409,
+        "lng": 96.1735,
+        "location_name": "缅甸仰光 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "仰光办公室｜窗边穿黄衣的女子",
       "z": 0,
       "z_layer": 1
     },
@@ -777274,6 +778835,164 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_th_bangkok_airport_column",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "点位是素万那普机场公共区域参考坐标，不标示海关内部柱子的实际位置。",
+        "map_label": "泰国曼谷 · 素万那普机场参考点",
+        "paragraphs": [
+          "素万那普机场员工之间流传，一根混凝土柱子与一位施工时遇难的缅甸女工有关。夜班人员有人声称在附近见过长发女子，后来也有人在柱旁留下供品。",
+          "这是一则关于施工与夜班见闻的地方传闻。受访的海关负责人说自己没有见过那个身影；人类学论文没有独立证实传说中的死亡经过。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_seasia_airport_ferguson_2014",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_th_bangkok_airport_column",
+      "sources": [
+        {
+          "citation": "Jane M. Ferguson, “Terminally Haunted”, The Asia Pacific Journal of Anthropology 15(1), 2014, 47–64。",
+          "content_sha256": null,
+          "doi": "10.1080/14442213.2013.872698",
+          "local_path": null,
+          "locator": "第 53—61 页，机场员工访谈与参与观察",
+          "type": "institutional_account",
+          "url": "https://www.academia.edu/5974036/Terminally_Haunted_Aviation_Ghosts_Hybrid_Buddhist_Practices_and_Disaster_Aversion_Strategies_Amongst_Airport_Workers_in_Myanmar_and_Thailand"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 泰国",
+        "lat": 13.69,
+        "lng": 100.7501,
+        "location_name": "泰国曼谷 · 素万那普机场参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "曼谷机场｜海关大厅的柱子",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "memorate",
+      "id": "case_th_bangkok_airport_hundred_eggs",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "神龛位于机场工作人员活动区域；地图只给出机场公共参考点。",
+        "map_label": "泰国曼谷 · 素万那普机场参考点",
+        "paragraphs": [
+          "一名机场员工出行前向守护神许愿，希望旅途顺利。回来后，他带着朋友走到员工食堂附近的神龛，摆出一百枚鸡蛋，履行自己的承诺。",
+          "研究者在现场观察到这次仪式，也听见同伴提醒朋友尊重他人的信仰。与机场里的惊险传闻相比，这是同一工作空间里更日常的一种守护习俗。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_seasia_airport_ferguson_2014",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_th_bangkok_airport_hundred_eggs",
+      "sources": [
+        {
+          "citation": "Jane M. Ferguson, “Terminally Haunted”, The Asia Pacific Journal of Anthropology 15(1), 2014, 47–64。",
+          "content_sha256": null,
+          "doi": "10.1080/14442213.2013.872698",
+          "local_path": null,
+          "locator": "第 53—61 页，机场员工访谈与参与观察",
+          "type": "institutional_account",
+          "url": "https://www.academia.edu/5974036/Terminally_Haunted_Aviation_Ghosts_Hybrid_Buddhist_Practices_and_Disaster_Aversion_Strategies_Amongst_Airport_Workers_in_Myanmar_and_Thailand"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 泰国",
+        "lat": 13.69,
+        "lng": 100.7501,
+        "location_name": "泰国曼谷 · 素万那普机场参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "曼谷机场｜平安归来的百枚鸡蛋",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "Sathorn Unique",
         "Ghost Tower",
@@ -777395,7 +779114,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 0.0,
+        "betweenness": 7.149066617862372e-07,
         "in_degree": 1,
         "out_degree": 1
       },
@@ -855354,7 +857073,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.164144887666208e-07,
+        "betweenness": 7.149066617862372e-07,
         "in_degree": 32,
         "out_degree": 1
       },
@@ -1052414,6 +1054133,98 @@
       "aliases": [],
       "audit": {
         "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "academic_model",
+      "id": "corpus_cn_beijing_ghostlore_solovyova_2019",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 3,
+        "out_degree": 4
+      },
+      "node_type": "myth_corpus",
+      "reading": {
+        "kind": "research",
+        "paragraphs": [
+          "民俗研究者 Alevtina Solovyova 根据北京的访谈，将宿舍、学校、夜路与公园里的故事放在一起阅读。有人说自己在湖边见到异样身影，也有人讲祖辈如何对待黄鼠狼；同一座城市里，传统观念与现代生活并行。",
+          "这些记述最有价值的地方，是保留谁在何时讲了什么，以及亲友如何解释。它们与末班车、宿舍窗户和校园轮椅声并列，呈现故事在私人经历与共同传闻之间如何流动。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "case_cn_beijing_dormitory_window_eyes",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        },
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "case_cn_beijing_school_wheelchair",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        },
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "case_cn_beijing_ghost_bus",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        },
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/corpus_cn_beijing_ghostlore_solovyova_2019",
+      "sources": [
+        {
+          "citation": "Alevtina Solovyova, “Ghostlore of Contemporary Beijing”, 2019。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "第 275—284 页，2012—2016 年访谈",
+          "type": "institutional_account",
+          "url": "https://www.academia.edu/61013635/Ghostlore_of_Contemporary_Beijing"
+        }
+      ],
+      "spatial": null,
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "北京城市鬼故事｜日常空间中的讲述",
+      "z": 120,
+      "z_layer": 2
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
         "created_at": "2026-11-22",
         "is_sample": false,
         "public_content_sha256": null,
@@ -1067885,7 +1069696,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.164144887666208e-07,
+        "betweenness": 7.149066617862372e-07,
         "in_degree": 23,
         "out_degree": 1
       },
@@ -1068167,7 +1069978,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.164144887666208e-07,
+        "betweenness": 7.149066617862372e-07,
         "in_degree": 28,
         "out_degree": 1
       },
@@ -1068543,7 +1070354,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 1.4328289775332416e-06,
+        "betweenness": 1.4298133235724744e-06,
         "in_degree": 19,
         "out_degree": 1
       },
@@ -1068731,7 +1070542,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.164144887666208e-07,
+        "betweenness": 7.149066617862372e-07,
         "in_degree": 26,
         "out_degree": 1
       },
@@ -1069107,7 +1070918,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.164144887666208e-07,
+        "betweenness": 7.149066617862372e-07,
         "in_degree": 26,
         "out_degree": 1
       },
@@ -1069201,7 +1071012,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 1.4328289775332416e-06,
+        "betweenness": 1.4298133235724744e-06,
         "in_degree": 31,
         "out_degree": 1
       },
@@ -1069295,7 +1071106,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 1.4328289775332416e-06,
+        "betweenness": 1.4298133235724744e-06,
         "in_degree": 39,
         "out_degree": 1
       },
@@ -1069483,7 +1071294,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.164144887666208e-07,
+        "betweenness": 7.149066617862372e-07,
         "in_degree": 30,
         "out_degree": 1
       },
@@ -1069577,7 +1071388,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.164144887666208e-07,
+        "betweenness": 7.149066617862372e-07,
         "in_degree": 49,
         "out_degree": 1
       },
@@ -1069859,7 +1071670,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.164144887666208e-07,
+        "betweenness": 7.149066617862372e-07,
         "in_degree": 40,
         "out_degree": 1
       },
@@ -1071433,6 +1073244,77 @@
       "z_layer": 2
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "academic_model",
+      "id": "corpus_id_banjarmasin_nasrullah_2018",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 2,
+        "out_degree": 1
+      },
+      "node_type": "myth_corpus",
+      "reading": {
+        "kind": "research",
+        "paragraphs": [
+          "Nasrullah 于 2018 年发表的研究记录印尼班贾尔马辛的城市鬼故事。受访者提到商场监控里坐着的长发女子，也转述夜班警卫在银行看见同事，却得知同事从未离开岗位。",
+          "论文保留的是受访者与旁人的解释，监控影像及故事中的超自然解释并未由研究者独立证实。将办公室、商场和机场并读，可看到故事如何进入现代工作场所。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_seasia_airport_ferguson_2014",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/corpus_id_banjarmasin_nasrullah_2018",
+      "sources": [
+        {
+          "citation": "Nasrullah, “Hantu di Tengah Keramaian Kota Banjarmasin”, Khazanah 16(1), 2018, 23–48。",
+          "content_sha256": null,
+          "doi": "10.18592/khazanah.v16i1.2154",
+          "local_path": null,
+          "locator": "第 33—36 页，商场员工和警卫的讲述",
+          "type": "institutional_account",
+          "url": "https://jurnal.uin-antasari.ac.id/index.php/khazanah/article/download/2154/1619"
+        }
+      ],
+      "spatial": null,
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "班贾尔马辛｜商场与工作场所的鬼故事",
+      "z": 120,
+      "z_layer": 2
+    },
+    {
       "aliases": [
         "Intelligent Search Engine for Belief Legends",
         "Meertens"
@@ -1072495,7 +1074377,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.164144887666208e-07,
+        "betweenness": 7.149066617862372e-07,
         "in_degree": 34,
         "out_degree": 1
       },
@@ -1072799,7 +1074681,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 0.0,
+        "betweenness": 7.149066617862372e-07,
         "in_degree": 19,
         "out_degree": 1
       },
@@ -1072875,7 +1074757,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.164144887666208e-07,
+        "betweenness": 0.0,
         "in_degree": 20,
         "out_degree": 1
       },
@@ -1073182,6 +1075064,77 @@
       },
       "temporal": null,
       "title": "韩国首尔道峰区口碑目录 · AKS",
+      "z": 120,
+      "z_layer": 2
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "academic_model",
+      "id": "corpus_la_tappe_ghosts_war_business",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 2,
+        "out_degree": 1
+      },
+      "node_type": "myth_corpus",
+      "reading": {
+        "kind": "research",
+        "paragraphs": [
+          "人类学者 Oliver Tappe 记录一位老挝朋友的两段经历：在川圹省经过爆炸现场之后，他在夜里看见身影，想到多年前身亡的兄弟；几年后，他又在万象为生意上的不顺寻求仪式帮助。",
+          "同一个人的叙述把战争留下的伤痛、家人的记忆和城市生活连接起来。研究呈现的是讲述者的理解与研究者的观察，不把仪式与后来际遇之间的关系写成已证明的因果。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_seasia_airport_ferguson_2014",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/corpus_la_tappe_ghosts_war_business",
+      "sources": [
+        {
+          "citation": "Oliver Tappe, “Bombs and Business: Interactions with Spirits in Laos”, Global Modernities and the (Re-)Emergence of Ghosts。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "〈Bombs and Business〉，2010 年川圹省与 2014 年万象田野叙述",
+          "type": "institutional_account",
+          "url": "https://www.academia.edu/117514071/Global_Modernities_and_the_Re_Emergence_of_Ghosts"
+        }
+      ],
+      "spatial": null,
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "老挝的两段田野｜战争记忆与城市生意",
       "z": 120,
       "z_layer": 2
     },
@@ -1111064,6 +1113017,84 @@
       "aliases": [],
       "audit": {
         "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "academic_model",
+      "id": "corpus_mm_yangon_ghostlore_long_2014",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 4,
+        "out_degree": 2
+      },
+      "node_type": "myth_corpus",
+      "reading": {
+        "kind": "research",
+        "paragraphs": [
+          "2014 年，《缅甸时报》采访仰光居民和校友，整理他们记住的办公室见闻与寄宿学校故事。干燥的浴室、空房里的乒乓球声，以及深夜绕着桌子移动的鞋声，都是在熟悉环境里突然出现的不协调细节。",
+          "报道同时区分本人讲述与高年级学生转述的校园传说。将其与中国和日本的学校故事并读，可以看见不同城市如何用相似的空间叙述恐惧。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        },
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_seasia_airport_ferguson_2014",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/corpus_mm_yangon_ghostlore_long_2014",
+      "sources": [
+        {
+          "citation": "Douglas Long, “Ghosts are everywhere in Myanmar”, The Myanmar Times, 2014 年 10 月 27 日—11 月 2 日。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "报纸第 48—50 页，仰光居民与校友访谈",
+          "type": "institutional_account",
+          "url": "https://uzo.sakura.ne.jp/burma/mmt/mmt_data/mmt_2014/mmt_10_2014/mmt_752-05_10_2014.pdf"
+        }
+      ],
+      "spatial": null,
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "仰光的夜间传闻｜校舍与办公室",
+      "z": 120,
+      "z_layer": 2
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
         "created_at": "2026-11-22",
         "is_sample": false,
         "public_content_sha256": null,
@@ -1112843,6 +1114874,77 @@
       },
       "temporal": null,
       "title": "印尼 Palu’e 口述资料馆藏 · 目录筛查",
+      "z": 120,
+      "z_layer": 2
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "academic_model",
+      "id": "corpus_seasia_airport_ferguson_2014",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 7,
+        "out_degree": 1
+      },
+      "node_type": "myth_corpus",
+      "reading": {
+        "kind": "research",
+        "paragraphs": [
+          "人类学者 Jane Ferguson 在曼德勒、仰光和曼谷机场记录员工的故事：有人说入境柜台前有一位旁人看不见的男子；塔台工作人员转述过驾驶舱的异常；也有员工在平安出行后到神龛献上鸡蛋。",
+          "研究把机场视为工作的地方：安全、赶航班、危险记忆与地方信仰在此相遇。相似故事可以并读，不能因此断定彼此传播，或把个人解释当作事故原因。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/corpus_seasia_airport_ferguson_2014",
+      "sources": [
+        {
+          "citation": "Jane M. Ferguson, “Terminally Haunted”, The Asia Pacific Journal of Anthropology 15(1), 2014, 47–64。",
+          "content_sha256": null,
+          "doi": "10.1080/14442213.2013.872698",
+          "local_path": null,
+          "locator": "第 53—61 页，机场员工访谈与参与观察",
+          "type": "institutional_account",
+          "url": "https://www.academia.edu/5974036/Terminally_Haunted_Aviation_Ghosts_Hybrid_Buddhist_Practices_and_Disaster_Aversion_Strategies_Amongst_Airport_Workers_in_Myanmar_and_Thailand"
+        }
+      ],
+      "spatial": null,
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "机场里的故事｜航站楼、飞机与守护仪式",
       "z": 120,
       "z_layer": 2
     },
@@ -1119423,7 +1121525,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 0.0,
+        "betweenness": 1.4298133235724744e-06,
         "in_degree": 5,
         "out_degree": 1
       },
@@ -1329253,7 +1331355,7 @@
         "betweenness": 0.0,
         "case_in_degree": 26,
         "culture_region_entropy_bits": 4.253915084508907,
-        "in_degree": 36,
+        "in_degree": 37,
         "out_degree": 0
       },
       "node_type": "motif_index",
@@ -1699058,7 +1701160,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 22,
+        "in_degree": 27,
         "out_degree": 1
       },
       "node_type": "myth_corpus",
@@ -1699606,7 +1701708,7 @@
     }
   ],
   "schema_version": 1,
-  "snapshot_id": "45e8868a8a5b43c68ef8b2ad54ea11674d6a4b4d55b5f0b7f5b84066532b111c",
+  "snapshot_id": "90ad14ff89a3f176c0947a76c19543bb5645afa15c27f7400d99267fd506e23e",
   "stats": {
     "betweenness_sample_size": 128,
     "excluded_drafts": 0,
@@ -1699856,9 +1701958,9 @@
       "theory_witzel_mythology_phylogeny"
     ],
     "unmatched_standard_codes": [],
-    "vault_cards": 10915,
-    "visible_links": 39285,
-    "visible_nodes": 10915
+    "vault_cards": 10938,
+    "visible_links": 39312,
+    "visible_nodes": 10938
   },
   "visibility": {
     "exclude_fiction": false,
