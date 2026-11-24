@@ -355,9 +355,9 @@
       pointer-events: none;
     }
   </style>
-  <script type="module" crossorigin src="/astraia/assets/index-DmZ5jvM-.js"></script>
-  <link rel="modulepreload" crossorigin href="/astraia/assets/styles-OVW-278d.js">
-  <link rel="stylesheet" crossorigin href="/astraia/assets/styles-DZvvRw1d.css">
+  <script type="module" crossorigin src="/astraia/assets/index-CMbjF6r5.js"></script>
+  <link rel="modulepreload" crossorigin href="/astraia/assets/engraving-DXXoZXPm.js">
+  <link rel="stylesheet" crossorigin href="/astraia/assets/engraving-DiJwgmlA.css">
   <link rel="stylesheet" crossorigin href="/astraia/assets/index-CQXT2Htc.css">
 </head>
 <body>
@@ -400,7 +400,7 @@
   <header id="syzygy-header" class="fixed top-0 left-0 right-0 h-[50px] z-30 flex items-center justify-between px-3.5 lg:px-6 bg-[#04060b]/90 backdrop-blur-md border-b border-[#d6b678]/25">
     <!-- Left Brand -->
     <a href="../" class="syzygy-brand flex items-center gap-2.5 shrink-0" aria-label="返回 Astraia 主图谱">
-      <span class="text-[#d6b678] text-base leading-none">◈</span>
+      <svg class="engraving-brand-mark" viewBox="0 0 64 64" aria-hidden="true"><rect x="3" y="3" width="58" height="58" fill="none" stroke="currentColor"/><rect x="7" y="7" width="50" height="50" fill="none" stroke="currentColor" stroke-width=".8"/><path d="M12 12 Q32 27 52 12 Q37 32 52 52 Q32 37 12 52 Q27 32 12 12Z M3 32H61 M32 3V61" fill="none" stroke="currentColor" stroke-width="1.1"/><path d="M32 27L37 32L32 37L27 32Z" fill="currentColor"/></svg>
       <span class="font-cinzel tracking-[0.26em] text-sm md:text-base font-semibold text-[#f5eedc]">ASTRAIA</span>
       <span class="hidden xl:inline-block font-mono-tech text-[9.5px] tracking-[0.18em] text-[#d6b678]/70 border-l border-[#d6b678]/25 pl-2.5 uppercase">
         PHYSIS × MYTHOS COSMOGRAPHY
@@ -469,7 +469,7 @@
   </button>
 
   <!-- 7. LEFT COLLAPSIBLE PANEL: 星域目录 · ATLAS INDEX -->
-  <aside id="left-drawer" class="drawer-anim fixed top-[64px] bottom-[76px] left-3.5 w-[246px] z-20 celestial-panel astrolabe-corners flex flex-col">
+  <aside id="left-drawer" class="drawer-anim fixed top-[64px] bottom-[76px] left-3.5 w-[246px] z-20 celestial-panel astrolabe-corners engraving-panel flex flex-col">
     <span class="corner-bl">+</span><span class="corner-br">+</span>
 
     <!-- Header -->
@@ -534,7 +534,7 @@
   </aside>
 
   <!-- 8. RIGHT COLLAPSIBLE PANEL: 朔望手卷 · SYZYGY CODEX -->
-  <aside id="right-drawer" class="drawer-anim fixed top-[64px] bottom-[76px] right-3.5 w-[412px] max-w-[calc(100vw-1.75rem)] z-20 celestial-panel astrolabe-corners flex flex-col">
+  <aside id="right-drawer" class="drawer-anim fixed top-[64px] bottom-[76px] right-3.5 w-[412px] max-w-[calc(100vw-1.75rem)] z-20 celestial-panel astrolabe-corners engraving-panel flex flex-col">
     <span class="corner-bl">+</span><span class="corner-br">+</span>
 
     <!-- Top Scroll Bar: Dual-Theme Pill & Collapse -->
@@ -542,8 +542,8 @@
       <div class="flex items-center gap-2">
         <span class="font-mono-tech text-[9.5px] tracking-[0.16em] t-gold text-[#d6b678] uppercase">SYZYGY CODEX</span>
         <div class="inline-flex rounded-[3px] p-0.5 border border-[#d6b678]/30 bg-black/25 text-[11px]">
-          <button id="theme-btn-dark" class="px-2 py-0.5 rounded-[2px] bg-[#d6b678]/25 text-[#fff4d8] font-medium transition">深空星卷</button>
-          <button id="theme-btn-parchment" class="px-2 py-0.5 rounded-[2px] text-[#9e9688] hover:text-white transition">羊皮典籍</button>
+          <button id="theme-btn-dark" type="button" aria-pressed="true" class="engraving-theme-btn">深空金错</button>
+          <button id="theme-btn-parchment" type="button" aria-pressed="false" class="engraving-theme-btn">古拓羊皮</button>
         </div>
       </div>
       <button id="btn-close-right" class="text-[11px] t-muted text-[#9e9688] hover:text-[#d6b678] transition">收起 ▸</button>
