@@ -671,6 +671,28 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_beijing_dormitory_window_eyes",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_beijing_school_wheelchair",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "两则不同年代的故事都借助北新桥与地下空间展开。",
       "origin": "explicit",
       "source": "case_cn_beixinqiao_dragon_well",
@@ -2057,6 +2079,17 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_hk_cuhk_braid",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "比较香港和开罗用当地词语表述睡眠体验的差异。",
       "origin": "explicit",
       "source": "case_cn_hk_ghost_oppression_wing_1994",
@@ -2095,6 +2128,28 @@
       "source": "case_cn_hk_high_street_haunted_house",
       "status": null,
       "target": "case_sg_old_changi_hospital_legend",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_hk_hku_lotus_pool",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_hk_polyu_pool_child",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
       "type": "COMPARED_WITH",
       "weight": 1.0
     },
@@ -2150,6 +2205,17 @@
       "source": "case_cn_hk_tat_tak_old_school",
       "status": null,
       "target": "text_japan_toilet_yokai_db",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_hk_ust_reverse_peephole",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
       "type": "COMPARED_WITH",
       "weight": 1.0
     },
@@ -9493,6 +9559,17 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_tw_changhua_head_football",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "对读新媒体里红衣身影与较早的山野迷路口述。",
       "origin": "explicit",
       "source": "case_cn_tw_dakeng_red_girl",
@@ -9517,9 +9594,31 @@
       "matched_codes": [],
       "note": "同题并列阅读，不推断传播或共同起源。",
       "origin": "explicit",
+      "source": "case_cn_tw_hsinchu_ghost_playground",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
       "source": "case_cn_tw_keelung_zhongyuan",
       "status": null,
       "target": "corpus_theme_ancestor_returns",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_tw_kenting_babao",
+      "status": null,
+      "target": "corpus_theme_between_life_death",
       "type": "COMPARED_WITH",
       "weight": 1.0
     },
@@ -9608,6 +9707,28 @@
       "source": "case_cn_tw_tainan_chen_shouniang_record",
       "status": null,
       "target": "case_cn_tw_lintoujie_gezaixi",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_tw_taipei_xinhai_taxi",
+      "status": null,
+      "target": "text_vanishing_hitchhiker_1981",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_tw_yilan_xiaohong",
+      "status": null,
+      "target": "motif_urban_ostension_liminal",
       "type": "COMPARED_WITH",
       "weight": 1.0
     },
@@ -11501,6 +11622,28 @@
       "status": null,
       "target": "corpus_cn_yongning_na_pangloss",
       "type": "PART_OF_MACRO_TREND",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_yongzhou_liuzijie_cave",
+      "status": null,
+      "target": "corpus_theme_between_life_death",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_yongzhou_liuzijie_snake",
+      "status": null,
+      "target": "corpus_theme_between_life_death",
+      "type": "COMPARED_WITH",
       "weight": 1.0
     },
     {
@@ -20921,6 +21064,28 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_id_jakarta_ancol_bridge",
+      "status": null,
+      "target": "motif_urban_ostension_liminal",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_id_jakarta_jeruk_purut",
+      "status": null,
+      "target": "motif_urban_ostension_liminal",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "可比较本地电影和原有城市怪谈的互相扩散。",
       "origin": "explicit",
       "source": "case_id_jakarta_jeruk_purut_headless_pastor",
@@ -20938,6 +21103,17 @@
       "status": null,
       "target": "motif_urban_ostension_liminal",
       "type": "HAS_MOTIF",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_id_jakarta_kolor_ijo",
+      "status": null,
+      "target": "motif_urban_ostension_liminal",
+      "type": "COMPARED_WITH",
       "weight": 1.0
     },
     {
@@ -37348,6 +37524,17 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_sg_bishan_last_train",
+      "status": null,
+      "target": "text_vanishing_hitchhiker_1981",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "同出古典史书《马来纪年》，借奇异情节寄寓规谏君王的马来宫廷传统。",
       "origin": "explicit",
       "source": "case_sg_bukitmerah_swordfish_boy",
@@ -37370,12 +37557,45 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_sg_ntu_extra_floor",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_sg_ntu_lounge_shadow",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "旧病房、停用走廊以及现代到访构成阈限空间的地方叙述。",
       "origin": "explicit",
       "source": "case_sg_old_changi_hospital_legend",
       "status": null,
       "target": "motif_urban_ostension_liminal",
       "type": "HAS_MOTIF",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_sg_pasir_ris_red_house",
+      "status": null,
+      "target": "motif_urban_ostension_liminal",
+      "type": "COMPARED_WITH",
       "weight": 1.0
     },
     {
@@ -46997,6 +47217,17 @@
       "matched_codes": [],
       "note": "同题并列阅读，不推断传播或共同起源。",
       "origin": "explicit",
+      "source": "case_vn_hanoi_kim_ma_photo",
+      "status": null,
+      "target": "motif_urban_ostension_liminal",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
       "source": "case_vn_hcm_vu_lan",
       "status": null,
       "target": "corpus_theme_ancestor_returns",
@@ -47033,6 +47264,17 @@
       "source": "case_vn_saigon_turtle_lake_dragon_legend",
       "status": null,
       "target": "case_cn_bj_metro_beixinqiao_audio_2019",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_vn_vinh_diec_bronze_buddha",
+      "status": null,
+      "target": "corpus_theme_between_life_death",
       "type": "COMPARED_WITH",
       "weight": 1.0
     },
@@ -454799,6 +455041,85 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_cn_beijing_dormitory_window_eyes",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "访谈没有公开学校或宿舍名；坐标只表示北京，不是具体校舍。",
+        "map_label": "北京 · 城市参考点",
+        "paragraphs": [
+          "北京一位受访者讲起一间学生宿舍：住过的人说，夜里常有走动和低语声。灯熄了，朝窗玻璃望去，有时会看见一双悲伤的眼睛。知道传闻的老生避开房间，新生住进去后又很快搬走。",
+          "故事里，眼睛被解释为很久以前住在这里的一位女生。民俗学者索洛维耶娃在 2015 年访谈中记录了这个版本；访谈留下的是讲述者的记忆与解释，没有指明学校，也不能据此确认故事中的旧事。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_beijing_dormitory_window_eyes",
+      "sources": [
+        {
+          "citation": "Alevtina Solovyova, “Ghostlore of Contemporary Beijing”, 2019, pp. 278–283.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "2012–2016 北京田野访谈；所引叙事注明访谈年份",
+          "type": "academic_chapter",
+          "url": "https://www.academia.edu/61013635/Ghostlore_of_Contemporary_Beijing"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 中国",
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "location_name": "北京 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "北京宿舍｜关灯后窗里的眼睛",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "375路公交车",
         "375 路",
@@ -454898,6 +455219,85 @@
         "year_start": null
       },
       "title": "北京末班公交失踪传说",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_cn_beijing_school_wheelchair",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "原访谈未公开学校名称；北京坐标仅用于标示采录城市。",
+        "map_label": "北京 · 城市参考点",
+        "paragraphs": [
+          "有人讲，校园里的厕所关上门以后，门外会传来轮椅移动的声音；偶尔还能见到一位坐在轮椅上的老妇人，离地悬着，慢慢经过。",
+          "讲述者又说，一位家长后来打听到这里以前曾是老人医院。索洛维耶娃在 2014 年访谈中把这个说法记作故事的一部分：它把校园的陌生声音与一段想象中的建筑旧史连在一起，具体学校和旧史均未在材料中核定。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_beijing_school_wheelchair",
+      "sources": [
+        {
+          "citation": "Alevtina Solovyova, “Ghostlore of Contemporary Beijing”, 2019, pp. 278–283.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "2012–2016 北京田野访谈；所引叙事注明访谈年份",
+          "type": "academic_chapter",
+          "url": "https://www.academia.edu/61013635/Ghostlore_of_Contemporary_Beijing"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 中国",
+        "lat": 39.9042,
+        "lng": 116.4074,
+        "location_name": "北京 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "北京校园｜门外响起轮椅声",
       "z": 0,
       "z_layer": 1
     },
@@ -468467,6 +468867,95 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "urban_legend",
+      "id": "case_cn_hk_cuhk_braid",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "中文大学校园参考点，不表示传说中的事故地点。",
+        "map_label": "香港 · 沙田中大校园",
+        "paragraphs": [
+          "中文大学附近流传的“辫子姑娘”故事，讲一位年轻女子乘火车来到这一带，跳车时长辫被列车勾住，后来人们便说她在校园附近徘徊。",
+          "香港 01 将它记为自 1970 年代流传的版本，也提到影像改编。它是一则校园与铁路相连的传说，原报道没有提供可供核对的当事人和事故档案。"
+        ],
+        "source_numbers": [
+          1,
+          2
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_hk_cuhk_braid",
+      "sources": [
+        {
+          "citation": "董欣琪：〈十二传说：香港院校鬼故〉，香港 01，2019 年，2025 年更新。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "各高校校园故事段落",
+          "type": "journalism",
+          "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/361275/%E5%8D%81%E4%BA%8C%E5%82%B3%E8%AA%AA-%E9%99%A4%E5%92%97%E9%81%94%E5%BE%B7%E5%AD%B8%E6%A0%A1%E7%8C%9B%E9%AC%BC-%E8%81%96%E5%A3%AB%E6%8F%90%E5%8F%8D%E6%9B%B8%E9%99%A2%E9%AC%BC%E6%93%8D%E5%85%B5%E4%BB%B2%E9%A9%9A%E5%9A%87"
+        },
+        {
+          "citation": "Joseph Bosco, “Young People’s Ghost Stories in Hong Kong”, Journal of Popular Culture 40(5), 2007, 785–807.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "香港年轻人鬼故事的研究背景",
+          "type": "peer_reviewed",
+          "url": "https://doi.org/10.1111/j.1540-5931.2007.00454.x"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 中国香港",
+        "lat": 22.4198,
+        "lng": 114.2068,
+        "location_name": "香港 · 沙田中大校园",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "香港中文大学｜铁路旁的辫子姑娘",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "香港鬼压床",
         "Ghost oppression",
@@ -468683,6 +469172,184 @@
         "year_start": null
       },
       "title": "香港西营盘“高街鬼屋”",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "urban_legend",
+      "id": "case_cn_hk_hku_lotus_pool",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "香港大学校园参考点，非荷花池具体位置。",
+        "map_label": "香港 · 薄扶林校园",
+        "paragraphs": [
+          "港大校园鬼故里，有位女生夜里在荷花池附近徘徊，向路过的学生询问时间。故事把她的出现连到一场没有等到赴约者的约会，并提醒听故事的人：午夜遇见时不要回答。",
+          "香港 01 在 2019 年整理了这个校园流传版本。传说中的人物与过去发生的事没有独立核实；林舟对香港年轻人鬼故事的研究可作为理解校园讲述背景的延伸阅读。"
+        ],
+        "source_numbers": [
+          1,
+          2
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_hk_hku_lotus_pool",
+      "sources": [
+        {
+          "citation": "董欣琪：〈十二传说：香港院校鬼故〉，香港 01，2019 年，2025 年更新。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "各高校校园故事段落",
+          "type": "journalism",
+          "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/361275/%E5%8D%81%E4%BA%8C%E5%82%B3%E8%AA%AA-%E9%99%A4%E5%92%97%E9%81%94%E5%BE%B7%E5%AD%B8%E6%A0%A1%E7%8C%9B%E9%AC%BC-%E8%81%96%E5%A3%AB%E6%8F%90%E5%8F%8D%E6%9B%B8%E9%99%A2%E9%AC%BC%E6%93%8D%E5%85%B5%E4%BB%B2%E9%A9%9A%E5%9A%87"
+        },
+        {
+          "citation": "Joseph Bosco, “Young People’s Ghost Stories in Hong Kong”, Journal of Popular Culture 40(5), 2007, 785–807.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "香港年轻人鬼故事的研究背景",
+          "type": "peer_reviewed",
+          "url": "https://doi.org/10.1111/j.1540-5931.2007.00454.x"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 中国香港",
+        "lat": 22.2836,
+        "lng": 114.1371,
+        "location_name": "香港 · 薄扶林校园",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "香港大学｜荷花池边问时间的女生",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "urban_legend",
+      "id": "case_cn_hk_polyu_pool_child",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "香港理工大学校园参考点，不精确标示泳池和饭堂。",
+        "map_label": "香港 · 红磡理大校园",
+        "paragraphs": [
+          "理工大学校园故事说，夜里有人隔着饭堂窗户，看见一个小孩从泳池爬出，缓缓朝饭堂走来，随后消失。流传的说法还把后来窗上的磨砂贴膜解释为遮挡视线。",
+          "香港 01 的校园怪谈汇编把这个场景与孩子溺水的传闻连在一起；报道未给出可核实的事件记录，贴膜和身影的解释都保留为故事中的说法。"
+        ],
+        "source_numbers": [
+          1,
+          2
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_hk_polyu_pool_child",
+      "sources": [
+        {
+          "citation": "董欣琪：〈十二传说：香港院校鬼故〉，香港 01，2019 年，2025 年更新。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "各高校校园故事段落",
+          "type": "journalism",
+          "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/361275/%E5%8D%81%E4%BA%8C%E5%82%B3%E8%AA%AA-%E9%99%A4%E5%92%97%E9%81%94%E5%BE%B7%E5%AD%B8%E6%A0%A1%E7%8C%9B%E9%AC%BC-%E8%81%96%E5%A3%AB%E6%8F%90%E5%8F%8D%E6%9B%B8%E9%99%A2%E9%AC%BC%E6%93%8D%E5%85%B5%E4%BB%B2%E9%A9%9A%E5%9A%87"
+        },
+        {
+          "citation": "Joseph Bosco, “Young People’s Ghost Stories in Hong Kong”, Journal of Popular Culture 40(5), 2007, 785–807.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "香港年轻人鬼故事的研究背景",
+          "type": "peer_reviewed",
+          "url": "https://doi.org/10.1111/j.1540-5931.2007.00454.x"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 中国香港",
+        "lat": 22.3034,
+        "lng": 114.1796,
+        "location_name": "香港 · 红磡理大校园",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "香港理工大学｜从泳池走向饭堂的小孩",
       "z": 0,
       "z_layer": 1
     },
@@ -468982,6 +469649,95 @@
         "year_start": 1998
       },
       "title": "屏山达德旧校舍的红衣传闻",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "urban_legend",
+      "id": "case_cn_hk_ust_reverse_peephole",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "香港科技大学校园参考点，不指向任何宿舍房间。",
+        "map_label": "香港 · 清水湾科大校园",
+        "paragraphs": [
+          "一个香港科技大学宿舍鬼故事里，有人发现门镜装反，可以从走廊往房内看。他有一次望进去，视野里却只剩一片红，敲门也无人应答；进入后才发现，那不是一块红布。",
+          "香港 01 将其作为校园口耳相传的故事转述，文章把红色与房内女子的遭遇联系起来，但没有提供可核实的个案细节。这里只标校园，不指认房间或个人。"
+        ],
+        "source_numbers": [
+          1,
+          2
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_hk_ust_reverse_peephole",
+      "sources": [
+        {
+          "citation": "董欣琪：〈十二传说：香港院校鬼故〉，香港 01，2019 年，2025 年更新。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "各高校校园故事段落",
+          "type": "journalism",
+          "url": "https://www.hk01.com/%E5%8D%B3%E6%99%82%E5%A8%9B%E6%A8%82/361275/%E5%8D%81%E4%BA%8C%E5%82%B3%E8%AA%AA-%E9%99%A4%E5%92%97%E9%81%94%E5%BE%B7%E5%AD%B8%E6%A0%A1%E7%8C%9B%E9%AC%BC-%E8%81%96%E5%A3%AB%E6%8F%90%E5%8F%8D%E6%9B%B8%E9%99%A2%E9%AC%BC%E6%93%8D%E5%85%B5%E4%BB%B2%E9%A9%9A%E5%9A%87"
+        },
+        {
+          "citation": "Joseph Bosco, “Young People’s Ghost Stories in Hong Kong”, Journal of Popular Culture 40(5), 2007, 785–807.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "香港年轻人鬼故事的研究背景",
+          "type": "peer_reviewed",
+          "url": "https://doi.org/10.1111/j.1540-5931.2007.00454.x"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 中国香港",
+        "lat": 22.3364,
+        "lng": 114.2645,
+        "location_name": "香港 · 清水湾科大校园",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "香港科大｜门镜里的一片红",
       "z": 0,
       "z_layer": 1
     },
@@ -541165,6 +541921,85 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_cn_tw_changhua_head_football",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "彰化市参考点，用以标示传说流传地，不作为操场具体位置。",
+        "map_label": "台湾彰化 · 彰化市参考点",
+        "paragraphs": [
+          "彰化高中流传过一则夜间操场故事：有身影在踢球，走近才发现他们踢的并不是球。这个版本还把校园说成旧时刑场。",
+          "台湾历史博物馆研究者对照殖民时期刑务所资料指出，这类传说的刑场地点和行刑方式与史料不符。故事展示了恐怖叙事如何借用地方历史，但不能当作校园历史的证据。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_tw_changhua_head_football",
+      "sources": [
+        {
+          "citation": "国立台湾历史博物馆：《台湾灵异怪谈与都市传说》，《观・台湾》，2022 年。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "刑场传说、军中小红及搭车女鬼",
+          "type": "institutional_account",
+          "url": "https://storystudio.tw/article/watch-Taiwan-NMTH/weirdtales-place-of-origin-taiwan"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 中国台湾",
+        "lat": 24.075,
+        "lng": 120.544,
+        "location_name": "台湾彰化 · 彰化市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "彰化校园｜操场上的无头球赛",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "紅衣小女孩",
         "红衣小女孩",
@@ -541270,6 +542105,85 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_cn_tw_hsinchu_ghost_playground",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "校园参考坐标；不表示声音或游乐设施的精确位置。",
+        "map_label": "台湾新竹 · 清华大学校园",
+        "paragraphs": [
+          "清华大学人文社会学院的校园传闻说，留到深夜的人会听见孩子嬉闹；楼后曾有的秋千与跷跷板，也被说成是为安抚他们而设。它因此有了“儿童乐园”和“鬼娃谷”的名字。",
+          "台湾历史博物馆的文章对照 1936 年新竹都市计划图，指出该片校园附近过去确有墓地；地图能说明地景变化，不能证实孩子、声音或游乐设施用途的传闻。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_tw_hsinchu_ghost_playground",
+      "sources": [
+        {
+          "citation": "苏峯楠：〈博物馆惊魂：文物里的鬼故事与传说背后的台湾史〉，《观・台湾》，国立台湾历史博物馆，2022 年。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "“夜间限定儿童乐园”与“八宝公主”",
+          "type": "institutional_account",
+          "url": "https://storystudio.tw/article/watch-Taiwan-NMTH/taiwan-history-in-ghost-stories"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 中国台湾",
+        "lat": 24.7956,
+        "lng": 120.9939,
+        "location_name": "台湾新竹 · 清华大学校园",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "新竹清大｜夜里的儿童乐园",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "鸡笼中元祭",
         "鷄籠中元祭"
@@ -541358,6 +542272,85 @@
       },
       "temporal": null,
       "title": "基隆中元祭：水灯与城中的普度",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "folktale",
+      "id": "case_cn_tw_kenting_babao",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "story",
+        "location_note": "恒春半岛城市参考点；不把传说中的发现位置当作已核实的具体坐标。",
+        "map_label": "台湾屏东 · 恒春参考点",
+        "paragraphs": [
+          "垦丁海边有关于“八宝公主”的传说：相传人们在 1930 年代发现来历不明的遗骨，后来将其安置奉祀；又有人讲，这是一位漂流到此的外国女子。",
+          "台湾历史博物馆把这段传说放在恒春海岸的漂流、船难和无祀孤魂信仰中讨论。文章指出，遗骨是否属于某位历史人物无法断定；“公主”的身份属于地方讲述。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_theme_between_life_death",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_tw_kenting_babao",
+      "sources": [
+        {
+          "citation": "苏峯楠：〈博物馆惊魂：文物里的鬼故事与传说背后的台湾史〉，《观・台湾》，国立台湾历史博物馆，2022 年。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "“夜间限定儿童乐园”与“八宝公主”",
+          "type": "institutional_account",
+          "url": "https://storystudio.tw/article/watch-Taiwan-NMTH/taiwan-history-in-ghost-stories"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 中国台湾",
+        "lat": 22.004,
+        "lng": 120.745,
+        "location_name": "台湾屏东 · 恒春参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "垦丁｜海边被供奉的八宝公主",
       "z": 0,
       "z_layer": 1
     },
@@ -542114,6 +543107,164 @@
         "year_start": 1930
       },
       "title": "台南唱片里的女鬼陈守娘",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_cn_tw_taipei_xinhai_taxi",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "台北市区参考点；原文只将传说联系辛亥隧道，不精确定位上车处。",
+        "map_label": "台湾台北 · 市区参考点",
+        "paragraphs": [
+          "一个深夜，司机在辛亥隧道附近载了一位女乘客。到了目的地，乘客已经不在车上；第二天，收到的车资也变成了冥纸。故事的后半段说，司机回到载客地点，才认出墓碑上的照片。",
+          "台湾历史博物馆将它与“消失的搭车人”比较：这个台湾版本把主人公换成出租车司机，并加入冥纸与特定隧道的细节。文章称此故事至少自 1980 年代在当地流传。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_vanishing_hitchhiker_1981",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_tw_taipei_xinhai_taxi",
+      "sources": [
+        {
+          "citation": "国立台湾历史博物馆：《台湾灵异怪谈与都市传说》，《观・台湾》，2022 年。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "刑场传说、军中小红及搭车女鬼",
+          "type": "institutional_account",
+          "url": "https://storystudio.tw/article/watch-Taiwan-NMTH/weirdtales-place-of-origin-taiwan"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 中国台湾",
+        "lat": 25.033,
+        "lng": 121.565,
+        "location_name": "台湾台北 · 市区参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "台北辛亥隧道｜车资变成冥纸",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_cn_tw_yilan_xiaohong",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "金六结一带的城市参考点，不标记营区内部位置。",
+        "map_label": "台湾宜兰 · 宜兰市参考点",
+        "paragraphs": [
+          "台湾多处新训营区都讲过名叫“小红”的女子：她探望男友后遭遇侵害，死后徘徊在营区。宜兰金六结的早期讲法把故事放在泳池，后来流传更广的版本则转向西侧厕所。",
+          "台湾历史博物馆文章将它视作不同营区反复讲述、不断变化的营队怪谈；同一情节并不意味着每处都发生过相同事件。这里保留情节而不把暴力传闻指认为真实个案。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "motif_urban_ostension_liminal",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_tw_yilan_xiaohong",
+      "sources": [
+        {
+          "citation": "国立台湾历史博物馆：《台湾灵异怪谈与都市传说》，《观・台湾》，2022 年。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "刑场传说、军中小红及搭车女鬼",
+          "type": "institutional_account",
+          "url": "https://storystudio.tw/article/watch-Taiwan-NMTH/weirdtales-place-of-origin-taiwan"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 中国台湾",
+        "lat": 24.757,
+        "lng": 121.754,
+        "location_name": "台湾宜兰 · 宜兰市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "宜兰｜营区里的“小红”",
       "z": 0,
       "z_layer": 1
     },
@@ -556449,6 +557600,164 @@
       },
       "temporal": null,
       "title": "永宁纳语录音 · L'ethnonyme 'Moso': son histoire et sa pertinence",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "memorate",
+      "id": "case_cn_yongzhou_liuzijie_cave",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "story",
+        "location_note": "使用零陵城区参考坐标；山洞位置与口述者住址均不作精确标定。",
+        "map_label": "湖南永州 · 零陵柳子街",
+        "paragraphs": [
+          "柳子庙假山里有山洞，街坊传说洞中藏着宝物，也有蛇和蝙蝠守着。受访者回忆，小时候曾与伙伴举火把进去；洞越走越窄，一支火把先熄了，返回途中又灭了一支。",
+          "有人摔倒，有人喊了一声“鬼”，几个孩子便一齐跑出洞。事后有人说看见了白影。2021 年的柳子街田野论文保留了这段地方口述：宝藏与白影都属于讲述，洞内经历的具体年代并未说明。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_theme_between_life_death",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_yongzhou_liuzijie_cave",
+      "sources": [
+        {
+          "citation": "潘雁飞、黄鹂：《柳子街民间传说故事田野调查》，《湖南科技学院学报》2021 年第 4 期，第 20–26 页。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "2021 年发表的柳子街地方口述采录",
+          "type": "peer_reviewed",
+          "url": "https://www.huse.edu.cn/__local/9/BC/CE/831C9ADC31DBEC09E0A74AE1037_E2D67927_9ADB5.pdf?e=.pdf"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 中国",
+        "lat": 26.221,
+        "lng": 111.624,
+        "location_name": "湖南永州 · 零陵柳子街",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "永州柳子街｜山洞里熄灭的火把",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "folktale",
+      "id": "case_cn_yongzhou_liuzijie_snake",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "story",
+        "location_note": "柳子街及愚溪一带的城区参考点，并非故事中桥面的精确坐标。",
+        "map_label": "湖南永州 · 零陵柳子街",
+        "paragraphs": [
+          "柳子街的一个中秋传说里，愚溪上会出现三座桥。一名化缘的老和尚引人上桥，传说他其实是蛇精；前来调查的人抬头，看见天上竟有三个月亮。",
+          "他们向其中一轮射箭，才发现那是蛇精的眼睛。第二天，独眼和尚来到药铺，被等候的人识破。论文还采录了伤在脚上的另一种讲法，两种版本都属于 2021 年记录的地方口述，不能把故事发生时间当作历史年代。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_theme_between_life_death",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_yongzhou_liuzijie_snake",
+      "sources": [
+        {
+          "citation": "潘雁飞、黄鹂：《柳子街民间传说故事田野调查》，《湖南科技学院学报》2021 年第 4 期，第 20–26 页。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "2021 年发表的柳子街地方口述采录",
+          "type": "peer_reviewed",
+          "url": "https://www.huse.edu.cn/__local/9/BC/CE/831C9ADC31DBEC09E0A74AE1037_E2D67927_9ADB5.pdf?e=.pdf"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 中国",
+        "lat": 26.221,
+        "lng": 111.624,
+        "location_name": "湖南永州 · 零陵柳子街",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "永州愚溪｜中秋夜的三座桥",
       "z": 0,
       "z_layer": 1
     },
@@ -646257,6 +647566,164 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "urban_legend",
+      "id": "case_id_jakarta_ancol_bridge",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "安佐尔地区参考点；不同版本中的桥与具体事件位置并不确定。",
+        "map_label": "印度尼西亚雅加达 · 安佐尔",
+        "paragraphs": [
+          "雅加达“安佐尔桥上的美丽女子”讲一名叫 Ariah 的年轻女子为躲避强迫而死，之后桥边有人声称看见美丽女子的身影。这个故事后来被拍成电影和电视剧。",
+          "detikNews 将其归为在城市中反复讲述的地方传说，并引述研究地方历史者对口耳相传来源的提醒。人物、年代和遭遇在不同版本中可能不同，不宜当成已经查证的案件。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "motif_urban_ostension_liminal",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_id_jakarta_ancol_bridge",
+      "sources": [
+        {
+          "citation": "Indra Subagja, “5 Lokasi Urban Legend di Jakarta”, detikNews, 9 July 2012.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "安佐尔桥与 Jeruk Purut 墓园传说",
+          "type": "journalism",
+          "url": "https://news.detik.com/berita/d-1960955/5-lokasi-i-urban-legend-i-di-jakarta"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 印度尼西亚",
+        "lat": -6.125,
+        "lng": 106.84,
+        "location_name": "印度尼西亚雅加达 · 安佐尔",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "雅加达安佐尔｜桥上的美丽女子",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "urban_legend",
+      "id": "case_id_jakarta_jeruk_purut",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "南雅加达地区参考点，不标记墓位。",
+        "map_label": "印度尼西亚雅加达 · 南雅加达",
+        "paragraphs": [
+          "雅加达 Jeruk Purut 墓园的传说中，有一个无头的身影在夜里出现；讲述者常把它与周五夜晚联系在一起。故事后来也进入电影，使墓园的名字更广为人知。",
+          "detikNews 在 2012 年汇集此类城市故事时，引述地方历史研究者的意见：这类叙事也提醒人们尊重墓园环境。报道没有提供足以证实目击的资料。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "motif_urban_ostension_liminal",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_id_jakarta_jeruk_purut",
+      "sources": [
+        {
+          "citation": "Indra Subagja, “5 Lokasi Urban Legend di Jakarta”, detikNews, 9 July 2012.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "安佐尔桥与 Jeruk Purut 墓园传说",
+          "type": "journalism",
+          "url": "https://news.detik.com/berita/d-1960955/5-lokasi-i-urban-legend-i-di-jakarta"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 印度尼西亚",
+        "lat": -6.26,
+        "lng": 106.82,
+        "location_name": "印度尼西亚雅加达 · 南雅加达",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "雅加达｜Jeruk Purut 墓园的无头身影",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "Jeruk Purut",
         "Hantu Jeruk Purut",
@@ -646358,6 +647825,90 @@
         "year_start": 2012
       },
       "title": "南雅加达｜柑橘墓园的无头神父",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_id_jakarta_kolor_ijo",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "芝加冷地区参考坐标，不指向受害者住址或具体犯罪现场。",
+        "map_label": "印度尼西亚雅加达 · 芝加冷",
+        "paragraphs": [
+          "2003 至 2005 年，雅加达及周边流传一种让人恐惧的说法：一个被称为 Kolor Ijo（绿裤子）的人会夜里闯入民居，侵害女性。讲述中有人把他描述成具有异能，也有人把他当作普通犯罪者。",
+          "历史学研究以芝加冷地区的居民记忆、新闻和电视节目为材料，分析传闻怎样形成公共恐惧。论文讨论过媒体记录中的真实案件与扩散后的故事，两者不能简单等同，也不能据此认定超自然能力。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "motif_urban_ostension_liminal",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_id_jakarta_kolor_ijo",
+      "sources": [
+        {
+          "citation": "Endi Aulia Garadian, “Urban Legend Kolor Ijo: Konstruksi Ketakutan di Jakarta, 2003–2005”, Socio Historica 1(1), 2022.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "芝加冷地区的访谈、媒体与传闻研究",
+          "type": "peer_reviewed",
+          "url": "https://journal.uinjkt.ac.id/index.php/sh/article/view/26450/0"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 印度尼西亚",
+        "lat": -6.148,
+        "lng": 106.733,
+        "location_name": "印度尼西亚雅加达 · 芝加冷",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": {
+        "era_label": "2003–2005 年传闻传播",
+        "uncertainty_note": "时间表示研究讨论的传闻传播期，不是单一事件的起止日期。",
+        "year_end": 2005,
+        "year_start": 2003
+      },
+      "title": "雅加达芝加冷｜“绿裤子”的夜间传闻",
       "z": 0,
       "z_layer": 1
     },
@@ -697596,7 +699147,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 2.1563621308308032e-06,
+        "betweenness": 0.0,
         "in_degree": 1,
         "out_degree": 2
       },
@@ -716240,7 +717791,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 5.031511638605208e-06,
+        "betweenness": 0.0,
         "in_degree": 4,
         "out_degree": 2
       },
@@ -724322,7 +725873,7 @@
         }
       ],
       "metrics": {
-        "betweenness": 2.515755819302604e-06,
+        "betweenness": 0.0,
         "in_degree": 1,
         "out_degree": 6
       },
@@ -773428,6 +774979,85 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_sg_bishan_last_train",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "碧山地铁站附近的公共地点参考点；故事并无经核实的车次。",
+        "map_label": "新加坡 · 碧山地铁站一带",
+        "paragraphs": [
+          "末班列车经过碧山站，却没有停下。传说乘客质问司机，司机反问站台有多少人：乘客只看见十几个人，司机却说自己看见更多，而且有人没有脸。",
+          "新加坡国家文物局把这则故事放在碧山旧墓园和新市镇的历史中介绍，也提到当地对这片土地存在不同记忆。旧墓地历史与末班车传闻应分别理解。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_vanishing_hitchhiker_1981",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_sg_bishan_last_train",
+      "sources": [
+        {
+          "citation": "National Heritage Board, “Bishan: Living with the Dead”, Roots.sg.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "末班地铁都市传说与碧山历史",
+          "type": "institutional_account",
+          "url": "https://www.roots.gov.sg/stories-landing/stories/bishan-living-with-the-dead/story"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 新加坡",
+        "lat": 1.3508,
+        "lng": 103.8484,
+        "location_name": "新加坡 · 碧山地铁站一带",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "新加坡碧山｜没有停站的末班车",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "剑鱼袭新加坡拉",
         "红山地名起源传说",
@@ -773610,6 +775240,164 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "urban_legend",
+      "id": "case_sg_ntu_extra_floor",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "南洋理工大学校园参考点，不指向宿舍楼内部。",
+        "map_label": "新加坡 · 南洋理工大学校园",
+        "paragraphs": [
+          "一位学生结束排练后回宿舍，一边看手机一边爬楼梯。走廊变得越来越暗，她抬头看见楼层牌写着四楼；校园传说说，这栋宿舍原本只有三层。",
+          "新加坡媒体 ZULA 在 2017 年整理了这个宿舍版本。楼层与遭遇均出自故事，报道没有提供可供独立核实的房间或经历者；多出来的楼层是叙事的关键。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_sg_ntu_extra_floor",
+      "sources": [
+        {
+          "citation": "Jing En Lim, “6 Ghost Encounters Reported in NTU Singapore”, ZULA, 2017，2023 年更新。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "南洋理工大学校园故事的媒体转述",
+          "type": "journalism",
+          "url": "https://zula.sg/ntu-ghost-stories/"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 新加坡",
+        "lat": 1.3483,
+        "lng": 103.6831,
+        "location_name": "新加坡 · 南洋理工大学校园",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "新加坡南洋理工｜多出来的一层楼",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "urban_legend",
+      "id": "case_sg_ntu_lounge_shadow",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "南洋理工大学校园参考点；未将传闻对应到具体宿舍房间。",
+        "map_label": "新加坡 · 南洋理工大学校园",
+        "paragraphs": [
+          "一位学生去宿舍休息室找朋友，推门只感到一阵冷风和擦身而过的触碰。朋友却说房间闷热，大家早就离开了。几天后，他在自己房里听见室友那一侧有动静，开灯却发现空无一人。",
+          "这段故事由新加坡媒体整理自校园流传的不同讲法；室友当晚在家，是故事里最后一个令人不安的细节。它没有说明讲述者身份或可独立核实的发生日期。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_sg_ntu_lounge_shadow",
+      "sources": [
+        {
+          "citation": "Jing En Lim, “6 Ghost Encounters Reported in NTU Singapore”, ZULA, 2017，2023 年更新。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "南洋理工大学校园故事的媒体转述",
+          "type": "journalism",
+          "url": "https://zula.sg/ntu-ghost-stories/"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 新加坡",
+        "lat": 1.3483,
+        "lng": 103.6831,
+        "location_name": "新加坡 · 南洋理工大学校园",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "新加坡南洋理工｜休息室里跟回来的影子",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "Old Changi Hospital",
         "樟宜鬼屋"
@@ -773707,6 +775495,85 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "urban_legend",
+      "id": "case_sg_pasir_ris_red_house",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "巴西立地区参考点，不是私人建筑门牌或其现用途的精确标记。",
+        "map_label": "新加坡 · 巴西立",
+        "paragraphs": [
+          "巴西立红屋空置多年后，年轻人常结伴夜访。有人讲门前石狮会动，有人讲摇椅上的娃娃在哭，也有人说看见白影；不同讲法把同一栋旧屋变成夜间试胆的目的地。",
+          "地方历史网站 Remember Singapore 在 2014 年记录了旧屋的业主沿革、周边度假区和这些传言。建筑后来改建，流传故事并不能证明屋内发生过所说的怪事。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "motif_urban_ostension_liminal",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_sg_pasir_ris_red_house",
+      "sources": [
+        {
+          "citation": "Remember Singapore, “Pasir Ris Red House… A Haunting Legend No More”, 30 March 2014.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "旧建筑史、夜间探访与红屋传言",
+          "type": "local_history",
+          "url": "https://remembersingapore.org/2014/03/30/pasir-ris-red-house/"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 新加坡",
+        "lat": 1.373,
+        "lng": 103.949,
+        "location_name": "新加坡 · 巴西立",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "新加坡巴西立｜红屋里的哭泣娃娃",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "Pontianak 1957",
         "女鬼 Pontianak",
@@ -773732,7 +775599,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.187873769436011e-07,
+        "betweenness": 0.0,
         "in_degree": 2,
         "out_degree": 1
       },
@@ -774206,7 +776073,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 1.4375747538872022e-06,
+        "betweenness": 0.0,
         "in_degree": 3,
         "out_degree": 2
       },
@@ -851256,6 +853123,85 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "urban_legend",
+      "id": "case_vn_hanoi_kim_ma_photo",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "巴亭郡参考点；不鼓励进入封闭或私人建筑。",
+        "map_label": "越南河内 · 巴亭郡参考点",
+        "paragraphs": [
+          "河内金马街一栋长期空置的建筑，流传着夜里传出声音、走廊里有身影的故事。网络上一张照片中，男子身后似乎站着白衣女孩，传言便越传越远。",
+          "2020 年的越南地方媒体梳理指出，楼宇原为规划中的外交用途而长期未投入使用；照片中的“人影”被解释为院内立柱。故事和照片的这一解释一起保留，建筑现状以实际情况为准。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "motif_urban_ostension_liminal",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_vn_hanoi_kim_ma_photo",
+      "sources": [
+        {
+          "citation": "Toan Ngo, “8 Haunted Houses in Vietnam and the Truth Behind Them”, The Smart Local Vietnam, 7 October 2020.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "河内 Kim Mã 旧楼与 Hàng Trống 街传说",
+          "type": "journalism",
+          "url": "https://thesmartlocal.com/vietnam/haunted-houses-in-vietnam/amp/"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 越南",
+        "lat": 21.032,
+        "lng": 105.818,
+        "location_name": "越南河内 · 巴亭郡参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "河内金马街｜照片里的白衣身影",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "Vu Lan",
         "越南盂兰节"
@@ -851538,6 +853484,85 @@
         "year_start": 1982
       },
       "title": "西贡龟湖与镇住龙尾的故事",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_vn_vinh_diec_bronze_buddha",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "荣市市区参考点；论文讨论的 Diệc 寺遗址没有在此精确落点。",
+        "map_label": "越南荣市 · 市区参考点",
+        "paragraphs": [
+          "荣市 Diệc 寺毁于战争后，附近流传寺里曾有一尊珍贵黑铜佛像。有人说为躲避战乱而埋起来，有人说后来寻找它的人将它带走；也有人认为佛像仍在废墟下。",
+          "人类学者 Christina Schwenkel 将互相矛盾的讲法与战后住房、寺庙重建和居民对城市变化的记忆放在一起研究。佛像的具体下落是传说中的问题，不是论文已证实的结论。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_theme_between_life_death",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_vn_vinh_diec_bronze_buddha",
+      "sources": [
+        {
+          "citation": "Christina Schwenkel, “Haunted Infrastructure: Religious Ruins and Urban Obstruction in Vietnam”, City & Society, 2017.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "越南荣市 Diệc 寺遗址、失踪铜佛与战后城市建设",
+          "type": "peer_reviewed",
+          "url": "https://www.academia.edu/35228258/Haunted_Infrastructure_Religious_Ruins_and_Urban_Obstruction_in_Vietnam"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 越南",
+        "lat": 18.6796,
+        "lng": 105.6813,
+        "location_name": "越南荣市 · 市区参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "越南荣市｜废寺下失踪的黑铜佛",
       "z": 0,
       "z_layer": 1
     },
@@ -852059,7 +854084,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.187873769436011e-07,
+        "betweenness": 7.173354145624827e-07,
         "in_degree": 32,
         "out_degree": 1
       },
@@ -1064590,7 +1066615,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.187873769436011e-07,
+        "betweenness": 7.173354145624827e-07,
         "in_degree": 23,
         "out_degree": 1
       },
@@ -1064872,7 +1066897,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 0.0,
+        "betweenness": 7.173354145624827e-07,
         "in_degree": 28,
         "out_degree": 1
       },
@@ -1064966,7 +1066991,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.187873769436011e-07,
+        "betweenness": 0.0,
         "in_degree": 23,
         "out_degree": 1
       },
@@ -1065248,7 +1067273,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 0.0,
+        "betweenness": 1.4346708291249655e-06,
         "in_degree": 19,
         "out_degree": 1
       },
@@ -1065342,7 +1067367,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 1.4375747538872022e-06,
+        "betweenness": 0.0,
         "in_degree": 20,
         "out_degree": 1
       },
@@ -1065436,7 +1067461,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.187873769436011e-07,
+        "betweenness": 7.173354145624827e-07,
         "in_degree": 26,
         "out_degree": 1
       },
@@ -1065812,7 +1067837,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.187873769436011e-07,
+        "betweenness": 7.173354145624827e-07,
         "in_degree": 26,
         "out_degree": 1
       },
@@ -1065906,7 +1067931,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 1.4375747538872022e-06,
+        "betweenness": 1.4346708291249655e-06,
         "in_degree": 31,
         "out_degree": 1
       },
@@ -1066000,7 +1068025,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.187873769436011e-07,
+        "betweenness": 1.4346708291249655e-06,
         "in_degree": 39,
         "out_degree": 1
       },
@@ -1066094,7 +1068119,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.187873769436011e-07,
+        "betweenness": 0.0,
         "in_degree": 34,
         "out_degree": 1
       },
@@ -1066188,7 +1068213,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 0.0,
+        "betweenness": 7.173354145624827e-07,
         "in_degree": 30,
         "out_degree": 1
       },
@@ -1066282,7 +1068307,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 1.4375747538872022e-06,
+        "betweenness": 7.173354145624827e-07,
         "in_degree": 49,
         "out_degree": 1
       },
@@ -1066564,7 +1068589,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.187873769436011e-07,
+        "betweenness": 7.173354145624827e-07,
         "in_degree": 40,
         "out_degree": 1
       },
@@ -1069200,7 +1071225,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.187873769436011e-07,
+        "betweenness": 7.173354145624827e-07,
         "in_degree": 34,
         "out_degree": 1
       },
@@ -1069276,7 +1071301,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.187873769436011e-07,
+        "betweenness": 0.0,
         "in_degree": 24,
         "out_degree": 1
       },
@@ -1069580,7 +1071605,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 0.0,
+        "betweenness": 7.173354145624827e-07,
         "in_degree": 20,
         "out_degree": 1
       },
@@ -1069656,7 +1071681,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.187873769436011e-07,
+        "betweenness": 0.0,
         "in_degree": 25,
         "out_degree": 1
       },
@@ -1116210,7 +1118235,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 6,
+        "in_degree": 10,
         "out_degree": 3
       },
       "node_type": "myth_corpus",
@@ -1325958,7 +1327983,7 @@
         "betweenness": 0.0,
         "case_in_degree": 26,
         "culture_region_entropy_bits": 4.253915084508907,
-        "in_degree": 28,
+        "in_degree": 34,
         "out_degree": 0
       },
       "node_type": "motif_index",
@@ -1326049,7 +1328074,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 1.0781810654154016e-06,
+        "betweenness": 0.0,
         "case_in_degree": 0,
         "culture_region_entropy_bits": null,
         "in_degree": 10,
@@ -1695763,7 +1697788,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 2,
+        "in_degree": 12,
         "out_degree": 1
       },
       "node_type": "myth_corpus",
@@ -1695959,7 +1697984,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 4,
+        "in_degree": 6,
         "out_degree": 2
       },
       "node_type": "myth_corpus",
@@ -1696311,7 +1698336,7 @@
     }
   ],
   "schema_version": 1,
-  "snapshot_id": "6844c72b4be090b4277bd2b0bae7505b6fcf26d6e887cb280b5b6af411cb37bd",
+  "snapshot_id": "9350670f3520fa71fb1f29ec9374570f78cd8bfde58c26c613c13b74362c6212",
   "stats": {
     "betweenness_sample_size": 128,
     "excluded_drafts": 0,
@@ -1696561,9 +1698586,9 @@
       "theory_witzel_mythology_phylogeny"
     ],
     "unmatched_standard_codes": [],
-    "vault_cards": 10879,
-    "visible_links": 39249,
-    "visible_nodes": 10879
+    "vault_cards": 10901,
+    "visible_links": 39271,
+    "visible_nodes": 10901
   },
   "visibility": {
     "exclude_fiction": false,
