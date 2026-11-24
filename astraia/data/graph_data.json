@@ -21240,6 +21240,17 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_jp_fujisawa_gym_girl_1990",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "普通夜路的搭讪和口罩变成城市怪谈的固定情节。",
       "origin": "explicit",
       "source": "case_jp_hachinohe_kuchisake_1990",
@@ -21300,6 +21311,17 @@
       "source": "case_jp_ishinomaki_taxi_winter_coat",
       "status": null,
       "target": "text_vanishing_hitchhiker_1981",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_jp_kamakura_locked_toilet_1990",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
       "type": "COMPARED_WITH",
       "weight": 1.0
     },
@@ -21370,6 +21392,17 @@
       "weight": 1.0
     },
     {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_jp_tokyo_stair_step_1986",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
       "is_fictional_quarantine": true,
       "matched_codes": [],
       "note": "对照校园楼梯与楼层异常的两个当代版本。",
@@ -21400,6 +21433,28 @@
       "status": null,
       "target": "motif_urban_ostension_liminal",
       "type": "HAS_MOTIF",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_jp_yokohama_moving_waterfall_1990",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_jp_yokohama_spiral_stairs_1990",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
       "weight": 1.0
     },
     {
@@ -25805,6 +25860,17 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_kr_goyang_jayuro_hollow_eyes",
+      "status": null,
+      "target": "text_vanishing_hitchhiker_1981",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "比较韩国校园里先后流行的两名怪谈角色。",
       "origin": "explicit",
       "source": "case_kr_hong_kong_grandma_school_rumor",
@@ -25855,6 +25921,17 @@
       "status": null,
       "target": "motif_urban_ostension_liminal",
       "type": "HAS_MOTIF",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_kr_seoul_doorbell_marks_2009",
+      "status": null,
+      "target": "motif_urban_ostension_liminal",
+      "type": "COMPARED_WITH",
       "weight": 1.0
     },
     {
@@ -26328,6 +26405,17 @@
       "status": null,
       "target": "motif_urban_ostension_liminal",
       "type": "HAS_MOTIF",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_my_kl_um_roadside_woman_2009",
+      "status": null,
+      "target": "text_vanishing_hitchhiker_1981",
+      "type": "COMPARED_WITH",
       "weight": 1.0
     },
     {
@@ -31601,6 +31689,50 @@
       "source": "case_ph_tiyanak_cry_at_night",
       "status": null,
       "target": "case_th_lopburi_krasue_glow",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_ph_up_diliman_doppelganger_2004",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_ph_up_los_banos_baker_hall",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_ph_up_manila_office_child",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_ph_up_visayas_dragged_chair",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
       "type": "COMPARED_WITH",
       "weight": 1.0
     },
@@ -37766,6 +37898,17 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_th_ko_lipe_spider_story",
+      "status": null,
+      "target": "motif_urban_ostension_liminal",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "比较水陆夜间出现的女性灵体怎样在各地媒体中改变。",
       "origin": "explicit",
       "source": "case_th_lopburi_krasue_glow",
@@ -37782,6 +37925,17 @@
       "source": "case_th_mae_nak_phra_khanong",
       "status": null,
       "target": "motif_wolf_stranger_ghosts",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_th_radio_returning_noodles",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
       "type": "COMPARED_WITH",
       "weight": 1.0
     },
@@ -649413,6 +649567,85 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_jp_fujisawa_gym_girl_1990",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "藤泽市区参考点，资料没有公开学校和体育馆的具体位置。",
+        "map_label": "日本神奈川县 · 藤泽市",
+        "paragraphs": [
+          "校园传说里，体育馆明明关灯锁门，过一会儿灯又亮了、门又开了。管理员往里看，见一个女孩独自拍球；他出声询问，女孩回头后便不见了。",
+          "故事接着说，第二天管理员发生了不幸，墙上的污渍又让人联想到女孩的脸。国际日本文化研究中心把它列为 1990 年藤泽地区学校传闻，故事中的事故没有在卡片中获得独立核实。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_jp_fujisawa_gym_girl_1990",
+      "sources": [
+        {
+          "citation": "林英一：〈学校里的非日常空间〉，1990；国际日本文化研究中心《怪异・妖怪传承数据库》卡片 2210101。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "数据库卡片 2210101，1990 年文献中的学校传闻摘要",
+          "type": "institutional_catalogue",
+          "url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=2210101"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 日本",
+        "lat": 35.3389,
+        "lng": 139.4901,
+        "location_name": "日本神奈川县 · 藤泽市",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "藤泽｜体育馆里独自拍球的女孩",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "口裂け女",
         "裂嘴女",
@@ -650085,6 +650318,85 @@
         "year_start": 712
       },
       "title": "岛根出云稻佐之滨｜大国主神救助因幡白兔与出云迎神海滨",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_jp_kamakura_locked_toilet_1990",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "镰仓市区参考点；原卡片未披露学校或厕所位置。",
+        "map_label": "日本神奈川县 · 镰仓市",
+        "paragraphs": [
+          "镰仓一所小学流传，一楼女厕最里侧的门明明没有坏，却会突然打不开，因此学生们不敢使用。故事又说学校建造时填过一口井，厕所恰好在井的上方。",
+          "1990 年的资料将井里的悲剧与门的异样放在同一个传说里；数据库并未独立确认井的旧址或故事中的人物。这里只保留学校社区里的讲法。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_jp_kamakura_locked_toilet_1990",
+      "sources": [
+        {
+          "citation": "林英一：〈学校里的非日常空间〉，1990；国际日本文化研究中心《怪异・妖怪传承数据库》卡片 2210098。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "数据库卡片 2210098，1990 年文献中的学校传闻摘要",
+          "type": "institutional_catalogue",
+          "url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=2210098"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 日本",
+        "lat": 35.3192,
+        "lng": 139.5467,
+        "location_name": "日本神奈川县 · 镰仓市",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "镰仓｜打不开的最里侧隔间",
       "z": 0,
       "z_layer": 1
     },
@@ -651103,6 +651415,85 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_jp_tokyo_stair_step_1986",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "文献仅标注东京都，不指出学校；点位是东京市区参考坐标。",
+        "map_label": "日本东京都 · 城市参考点",
+        "paragraphs": [
+          "有人夜里回小学取忘带的东西，顺手数了一遍楼梯，数到十三阶。第二天再去数，同一段楼梯却只有十二阶。",
+          "日本民俗学者常光彻在 1986 年的文章中记录了这个由女中学生讲述的版本。资料未注明学校，也没有解释多出的一阶，短短的数字差异就是这个故事的全部悬念。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_jp_tokyo_stair_step_1986",
+      "sources": [
+        {
+          "citation": "常光彻：〈学校的闲谈〉，1986；国际日本文化研究中心《怪异・妖怪传承数据库》卡片 2470045。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "数据库卡片 2470045，1986 年文献中的学校传闻摘要",
+          "type": "institutional_catalogue",
+          "url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=2470045"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 日本",
+        "lat": 35.6762,
+        "lng": 139.6503,
+        "location_name": "日本东京都 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "东京｜夜里多出的一阶",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "座敷童子",
         "座敷ワラシ",
@@ -651495,6 +651886,164 @@
         "year_start": 1992
       },
       "title": "山形七日町里的人面犬",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_jp_yokohama_moving_waterfall_1990",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "数据库只注明横滨市和学校类型，点位为市区参考点。",
+        "map_label": "日本神奈川县 · 横滨市",
+        "paragraphs": [
+          "横滨一所小学里，理科教室挂着一幅瀑布画。学生之间流传：夜深以后，画里的水会真的流下来，还能听见哗哗的水声。",
+          "国际日本文化研究中心收录了这则 1990 年文献中的校园传闻。卡片没有写出学校名称，也没有更多情节；这里保留的是原记录的简短版本。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_jp_yokohama_moving_waterfall_1990",
+      "sources": [
+        {
+          "citation": "林英一：〈学校里的非日常空间〉，1990；国际日本文化研究中心《怪异・妖怪传承数据库》卡片 2210094。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "数据库卡片 2210094，1990 年文献中的学校传闻摘要",
+          "type": "institutional_catalogue",
+          "url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=2210094"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 日本",
+        "lat": 35.4437,
+        "lng": 139.638,
+        "location_name": "日本神奈川县 · 横滨市",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "横滨｜理科教室里流动的瀑布",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_jp_yokohama_spiral_stairs_1990",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "记录只写明横滨某所高中，坐标是横滨市区参考点。",
+        "map_label": "日本神奈川县 · 横滨市",
+        "paragraphs": [
+          "横滨一所高中里，通往屋顶的是一段旋转楼梯。学生说，无论数多少次，阶数总会不同：刚以为记住了数字，再走一遍又变了。",
+          "这则讲法见于 1990 年的学校传闻研究，后来收入国际日本文化研究中心数据库。记录没有学校名或确切事发日期；它可与其他地区“多出一阶”的校园故事并读。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_jp_yokohama_spiral_stairs_1990",
+      "sources": [
+        {
+          "citation": "林英一：〈学校里的非日常空间〉，1990；国际日本文化研究中心《怪异・妖怪传承数据库》卡片 2210099。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "数据库卡片 2210099，1990 年文献中的学校传闻摘要",
+          "type": "institutional_catalogue",
+          "url": "https://www.nichibun.ac.jp/cgi-bin/YoukaiDB3/youkai_card.cgi?ID=2210099"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 日本",
+        "lat": 35.4437,
+        "lng": 139.638,
+        "location_name": "日本神奈川县 · 横滨市",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "横滨｜通往屋顶的旋转楼梯",
       "z": 0,
       "z_layer": 1
     },
@@ -692675,6 +693224,95 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "urban_legend",
+      "id": "case_kr_goyang_jayuro_hollow_eyes",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "自由路经过首尔、高阳与坡州；点位只作路线沿线参考，不是目击地点。",
+        "map_label": "韩国京畿道 · 高阳市参考点",
+        "paragraphs": [
+          "连接首尔与坡州的自由路上，流传一个夜间行车故事：路边站着一位看似戴深色墨镜的女子，车驶近时，司机才发现那片黑色并不像镜片。另一些讲法让她试图搭车。",
+          "这一形象在网络与电视转述中反复出现。韩国民俗研究将自由路版本与“搭载幽灵的出租车”以及其他地区的消失乘客故事比较；报道中的具体目击和人物背景仍是传闻。"
+        ],
+        "source_numbers": [
+          1,
+          2
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_vanishing_hitchhiker_1981",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_kr_goyang_jayuro_hollow_eyes",
+      "sources": [
+        {
+          "citation": "Creatrip, “Spine-chilling Korean Horror Stories & Urban Legends”, 2021.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "自由路戴墨镜女子的流传版本",
+          "type": "journalism",
+          "url": "https://creatrip.com/en/blog/10743"
+        },
+        {
+          "citation": "Youm Won-hee, “A comparative study of Korean urban legends: A taxi carrying a ghost”, 2017.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "韩国鬼乘客、自由路传说与跨地区比较",
+          "type": "peer_reviewed",
+          "url": "https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002269677"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 韩国",
+        "lat": 37.6584,
+        "lng": 126.832,
+        "location_name": "韩国京畿道 · 高阳市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "韩国自由路｜夜雾里的墨镜女子",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "김알지 설화",
         "始林白鸡与金匮童子",
@@ -693434,6 +694072,85 @@
         "year_start": 2011
       },
       "title": "韩国首尔｜奉天洞鬼故事",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "urban_legend",
+      "id": "case_kr_seoul_doorbell_marks_2009",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "故事涉及首尔多个住宅区；只标示城市，不指向私人住户。",
+        "map_label": "韩国首尔 · 城市参考点",
+        "paragraphs": [
+          "2009 年，首尔一些住宅门铃旁出现了字母、叉号等标记。居民猜测它们可能是陌生人留下的暗号，担心有人借此挑选目标，于是报警。",
+          "韩国电影委员会整理称，电视调查后来提出报刊、牛奶配送或访问人员作记号等解释；2013 年电影《捉迷藏》又把符号发展成潜入住宅的恐怖故事。实际标记、调查结论和电影情节应分开看。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "motif_urban_ostension_liminal",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_kr_seoul_doorbell_marks_2009",
+      "sources": [
+        {
+          "citation": "CHO Meanjune, “Is This For Real? Korean Urban Legends Made Into Film”, Korean Film Council, 8 August 2017.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "首尔门铃符号传闻、电视调查与电影改编",
+          "type": "institutional_account",
+          "url": "https://www.koreanfilm.or.kr/eng/news/features.jsp?blbdComCd=601013&mode=FEATURES_VIEW&pageRowSize=10&seq=375"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 韩国",
+        "lat": 37.5665,
+        "lng": 126.978,
+        "location_name": "韩国首尔 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "首尔｜门铃旁出现的符号",
       "z": 0,
       "z_layer": 1
     },
@@ -699223,6 +699940,85 @@
         "year_start": 2014
       },
       "title": "峇都牙也凯利古堡的夜间长廊",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "urban_legend",
+      "id": "case_my_kl_um_roadside_woman_2009",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "马来亚大学校园参考点；不将讲述中的道路场景标成确切现场。",
+        "map_label": "马来西亚吉隆坡 · 马来亚大学",
+        "paragraphs": [
+          "一篇 2009 年的个人文章里，作者转述男友几次在大学校园夜路上看到的情景：一位长发、白衣女子从道路一侧走过，转身向车招手，好像想搭车。",
+          "司机当时以为只是学生想乘车，作者却把这幅形象联系到校园鬼故事。两人对同一画面作了不同解释；文章记录的是他们的回忆与对话，没有证明路边人物的身份。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_vanishing_hitchhiker_1981",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_my_kl_um_roadside_woman_2009",
+      "sources": [
+        {
+          "citation": "Diyana, “The Ghost of University Malaya”, 1 November 2009, diyanazman.com.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "马来亚大学校园中，讲述者转述司机的夜间所见",
+          "type": "personal_account",
+          "url": "https://www.diyanazman.com/2009/11/01/the-ghost-of-university-malaya/"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 马来西亚",
+        "lat": 3.1209,
+        "lng": 101.6538,
+        "location_name": "马来西亚吉隆坡 · 马来亚大学",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "吉隆坡马来亚大学｜反复招手的白衣人",
       "z": 0,
       "z_layer": 1
     },
@@ -725566,6 +726362,322 @@
         "year_start": 2020
       },
       "title": "菲律宾夜路上哭得像婴儿的 Tiyanak",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_ph_up_diliman_doppelganger_2004",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "迪利曼校区参考点，不标记办公室内部。",
+        "map_label": "菲律宾奎松市 · 菲律宾大学迪利曼校区",
+        "paragraphs": [
+          "一位大学职员回忆，2004 年某天早到办公室，看到一名同事身穿深绿上衣、坐到对面工位。他没有回答早安。过了一会儿，门再次打开，同一位同事穿着另一套衣服进来，笑着向她问好。",
+          "她转头时还看到对面的人影，拉着刚进门的同事过去，那个人却已经不见。菲律宾大学校友刊物记载了这位员工的回忆；它是一段亲历叙述，而不是可以复现验证的事件。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_ph_up_diliman_doppelganger_2004",
+      "sources": [
+        {
+          "citation": "Yvette Tan, “UP: The University of Phantasms”, Carillon, University of the Philippines Office of Alumni Relations, 2024.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "菲律宾大学各校区员工和校友转述的校园经历",
+          "type": "institutional_account",
+          "url": "https://alum.up.edu.ph/carillon-2024-upou-pop-up-university-of-phantasms/"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 菲律宾",
+        "lat": 14.6563,
+        "lng": 121.0685,
+        "location_name": "菲律宾奎松市 · 菲律宾大学迪利曼校区",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "菲律宾迪利曼｜先到办公室的同事",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_ph_up_los_banos_baker_hall",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "洛斯巴尼奥斯校区参考点，不指向建筑内部。",
+        "map_label": "菲律宾拉古纳 · 洛斯巴尼奥斯校区",
+        "paragraphs": [
+          "菲律宾大学洛斯巴尼奥斯校区的 Baker Memorial Hall 平日用于活动和体育课。校园流传，夜间经过时，有人看见空楼窗内晃动的身影，甚至看见穿着旧式服装的人们聚会。",
+          "校友刊物把这些说法与建筑在战争时期的经历并列介绍。旧建筑的历史与夜间身影属于不同类型的材料，后者仍是转述的校园故事。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_ph_up_los_banos_baker_hall",
+      "sources": [
+        {
+          "citation": "Yvette Tan, “UP: The University of Phantasms”, Carillon, University of the Philippines Office of Alumni Relations, 2024.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "菲律宾大学各校区员工和校友转述的校园经历",
+          "type": "institutional_account",
+          "url": "https://alum.up.edu.ph/carillon-2024-upou-pop-up-university-of-phantasms/"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 菲律宾",
+        "lat": 14.1669,
+        "lng": 121.2416,
+        "location_name": "菲律宾拉古纳 · 洛斯巴尼奥斯校区",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "菲律宾洛斯巴尼奥斯｜夜里的纪念堂",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_ph_up_manila_office_child",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "马尼拉校区参考点，不指向个人办公室。",
+        "map_label": "菲律宾马尼拉 · 菲律宾大学马尼拉校区",
+        "paragraphs": [
+          "一位病理学者回忆，自己过去办公室里偶尔有小东西落地似的声音，回头却找不到东西。一次来访的记者说，桌旁站着一个小女孩，还问是不是她的女儿。",
+          "学者回答女儿当天并不在场，此后她更留意办公室里的孩子。菲律宾大学校友刊物以当事人回忆的形式保存了这个细节，没有将其作为超自然现象的证明。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_ph_up_manila_office_child",
+      "sources": [
+        {
+          "citation": "Yvette Tan, “UP: The University of Phantasms”, Carillon, University of the Philippines Office of Alumni Relations, 2024.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "菲律宾大学各校区员工和校友转述的校园经历",
+          "type": "institutional_account",
+          "url": "https://alum.up.edu.ph/carillon-2024-upou-pop-up-university-of-phantasms/"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 菲律宾",
+        "lat": 14.5789,
+        "lng": 120.986,
+        "location_name": "菲律宾马尼拉 · 菲律宾大学马尼拉校区",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "菲律宾马尼拉｜办公室里的陌生孩子",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_ph_up_visayas_dragged_chair",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "伊洛伊洛市校区参考点，不指定建筑中的房间。",
+        "map_label": "菲律宾伊洛伊洛市 · 比萨亚校区",
+        "paragraphs": [
+          "菲律宾大学比萨亚校区的老楼里，有员工说听过拖椅声、关门声和楼梯上的沉重脚步，也有人听见像同事一样的声音。一个讲述者称，曾看见衣衫破旧的人影拖着脚镣走过。",
+          "校友刊物同时记述这座楼曾作为市政建筑与战争时期关押场所的历史；它将员工讲述和建筑历史并列，并未证明两者之间存在超自然联系。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_ph_up_visayas_dragged_chair",
+      "sources": [
+        {
+          "citation": "Yvette Tan, “UP: The University of Phantasms”, Carillon, University of the Philippines Office of Alumni Relations, 2024.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "菲律宾大学各校区员工和校友转述的校园经历",
+          "type": "institutional_account",
+          "url": "https://alum.up.edu.ph/carillon-2024-upou-pop-up-university-of-phantasms/"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 菲律宾",
+        "lat": 10.6969,
+        "lng": 122.5644,
+        "location_name": "菲律宾伊洛伊洛市 · 比萨亚校区",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "菲律宾伊洛伊洛｜走廊里拖动的椅子",
       "z": 0,
       "z_layer": 1
     },
@@ -776551,6 +777663,85 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "urban_legend",
+      "id": "case_th_ko_lipe_spider_story",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "丽贝岛岛屿范围参考点，不标记墓地、住宿地或讲述者住处。",
+        "map_label": "泰国沙敦府 · 丽贝岛参考点",
+        "paragraphs": [
+          "一篇 2006 年的地方采访转述丽贝岛上的故事：有游客在住宿处附近看见一只像是长着人脸的大蜘蛛，惊慌之余把所见画下来，拿给当地人辨认。",
+          "记者将这段讲述放在岛民对祖先、墓地与旅游开发的叙述中。画作和目击没有得到独立核实；这里保存的是文章中的一次地方转述，不把它当作动物学记录。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "motif_urban_ostension_liminal",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_th_ko_lipe_spider_story",
+      "sources": [
+        {
+          "citation": "Gordon McEvoy, “Haunted Islands”, Untamed Travel, October 2006.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "丽贝岛居民 Krom 转述岛上的游客见闻",
+          "type": "journalism",
+          "url": "https://danielcooper.name/wp-content/uploads/2023/08/Untamed0610.pdf"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 泰国",
+        "lat": 6.488,
+        "lng": 99.305,
+        "location_name": "泰国沙敦府 · 丽贝岛参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "泰国丽贝岛｜游客画下的人面蜘蛛",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "帕登与南艾",
         "南艾",
@@ -777018,6 +778209,85 @@
         "year_start": null
       },
       "title": "巴蜀府三百峰｜中国帆船遇风暴触礁与三百幸存者化山名传说",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "urban_legend",
+      "id": "case_th_radio_returning_noodles",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "电台采访说故事在泰国多所大学流传；曼谷坐标仅为国家范围参考，不代表故事发生在此。",
+        "map_label": "泰国 · 曼谷参考点",
+        "paragraphs": [
+          "泰国电台主持人讲过一个校园流传的故事：两名学生住在一起，其中一人夜里出门买吃的，途中遇害。他仍惦记着没有带回来的食物，于是拿着一袋面出现在室友门前。",
+          "2006 年一篇对 Shock Radio 的采访把它列为高校中反复讲述的故事，并未指定学校或城市。文章讨论的是广播如何承接与传播口头怪谈，不是对案件的报道。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_th_radio_returning_noodles",
+      "sources": [
+        {
+          "citation": "“The Shock Radio”, Untamed Travel, October 2006, p. 19–20.",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "泰国电台主持人转述高校间流传的买面故事",
+          "type": "journalism",
+          "url": "https://danielcooper.name/wp-content/uploads/2023/08/Untamed0610.pdf"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 泰国",
+        "lat": 13.7563,
+        "lng": 100.5018,
+        "location_name": "泰国 · 曼谷参考点",
+        "precision": "culture_region"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "泰国校园电台｜没送到的那袋面",
       "z": 0,
       "z_layer": 1
     },
@@ -854084,7 +855354,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.173354145624827e-07,
+        "betweenness": 7.164144887666208e-07,
         "in_degree": 32,
         "out_degree": 1
       },
@@ -1066615,7 +1067885,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.173354145624827e-07,
+        "betweenness": 7.164144887666208e-07,
         "in_degree": 23,
         "out_degree": 1
       },
@@ -1066897,7 +1068167,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.173354145624827e-07,
+        "betweenness": 7.164144887666208e-07,
         "in_degree": 28,
         "out_degree": 1
       },
@@ -1067273,7 +1068543,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 1.4346708291249655e-06,
+        "betweenness": 1.4328289775332416e-06,
         "in_degree": 19,
         "out_degree": 1
       },
@@ -1067461,7 +1068731,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.173354145624827e-07,
+        "betweenness": 7.164144887666208e-07,
         "in_degree": 26,
         "out_degree": 1
       },
@@ -1067837,7 +1069107,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.173354145624827e-07,
+        "betweenness": 7.164144887666208e-07,
         "in_degree": 26,
         "out_degree": 1
       },
@@ -1067931,7 +1069201,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 1.4346708291249655e-06,
+        "betweenness": 1.4328289775332416e-06,
         "in_degree": 31,
         "out_degree": 1
       },
@@ -1068025,7 +1069295,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 1.4346708291249655e-06,
+        "betweenness": 1.4328289775332416e-06,
         "in_degree": 39,
         "out_degree": 1
       },
@@ -1068213,7 +1069483,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.173354145624827e-07,
+        "betweenness": 7.164144887666208e-07,
         "in_degree": 30,
         "out_degree": 1
       },
@@ -1068307,7 +1069577,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.173354145624827e-07,
+        "betweenness": 7.164144887666208e-07,
         "in_degree": 49,
         "out_degree": 1
       },
@@ -1068589,7 +1069859,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.173354145624827e-07,
+        "betweenness": 7.164144887666208e-07,
         "in_degree": 40,
         "out_degree": 1
       },
@@ -1071225,7 +1072495,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.173354145624827e-07,
+        "betweenness": 7.164144887666208e-07,
         "in_degree": 34,
         "out_degree": 1
       },
@@ -1071605,7 +1072875,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.173354145624827e-07,
+        "betweenness": 7.164144887666208e-07,
         "in_degree": 20,
         "out_degree": 1
       },
@@ -1327983,7 +1329253,7 @@
         "betweenness": 0.0,
         "case_in_degree": 26,
         "culture_region_entropy_bits": 4.253915084508907,
-        "in_degree": 34,
+        "in_degree": 36,
         "out_degree": 0
       },
       "node_type": "motif_index",
@@ -1697788,7 +1699058,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 12,
+        "in_degree": 22,
         "out_degree": 1
       },
       "node_type": "myth_corpus",
@@ -1697984,7 +1699254,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 6,
+        "in_degree": 8,
         "out_degree": 2
       },
       "node_type": "myth_corpus",
@@ -1698336,7 +1699606,7 @@
     }
   ],
   "schema_version": 1,
-  "snapshot_id": "9350670f3520fa71fb1f29ec9374570f78cd8bfde58c26c613c13b74362c6212",
+  "snapshot_id": "278afb9805cc33183d3b961e586a7576dddac6f5b190113a5f8312fe93bb45b1",
   "stats": {
     "betweenness_sample_size": 128,
     "excluded_drafts": 0,
@@ -1698586,9 +1699856,9 @@
       "theory_witzel_mythology_phylogeny"
     ],
     "unmatched_standard_codes": [],
-    "vault_cards": 10901,
-    "visible_links": 39271,
-    "visible_nodes": 10901
+    "vault_cards": 10915,
+    "visible_links": 39285,
+    "visible_nodes": 10915
   },
   "visibility": {
     "exclude_fiction": false,
