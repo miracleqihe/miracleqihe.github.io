@@ -717,6 +717,17 @@
       "matched_codes": [],
       "note": "同题并列阅读，不推断传播或共同起源。",
       "origin": "explicit",
+      "source": "case_cn_beijing_tsinghua_porcelain_finger",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
       "source": "case_cn_beijing_weasel_grandfather_2012",
       "status": null,
       "target": "corpus_cn_beijing_ghostlore_solovyova_2019",
@@ -2057,6 +2068,17 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_guangzhou_yongfang_steps",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "杭州地景卷宗对应 2006 年首批国家级非遗名录“白蛇传传说”中的杭州保护项目。",
       "origin": "explicit",
       "source": "case_cn_hangzhou_leifeng_white_snake",
@@ -2073,6 +2095,17 @@
       "source": "case_cn_harbin_cat_faced_granny",
       "status": null,
       "target": "case_dishisanceng_elevator_campus",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_hebei_baoding_fourth_building",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
       "type": "COMPARED_WITH",
       "weight": 1.0
     },
@@ -8349,6 +8382,17 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_kunming_camera_lens_cap_2006",
+      "status": null,
+      "target": "corpus_cn_yunnan_field_reports_2001_2007",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "同出清代蒲松龄《聊斋志异》卷一，崂山道士更与太清宫道观实景合流。",
       "origin": "explicit",
       "source": "case_cn_laoshan_daoshi_chuanqiang",
@@ -9548,11 +9592,55 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_shanghai_dongfang_road_name",
+      "status": null,
+      "target": "corpus_cn_shanghai_city_lore_liu_2015",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "并读道路／广场工程与地下龙的地方叙事。",
       "origin": "explicit",
       "source": "case_cn_shanghai_dragon_pillar",
       "status": null,
       "target": "case_vn_saigon_turtle_lake_dragon_legend",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_shanghai_longhua_yinyang_river",
+      "status": null,
+      "target": "corpus_cn_shanghai_city_lore_liu_2015",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_shanghai_pacific_baby_song",
+      "status": null,
+      "target": "corpus_cn_shanghai_city_lore_liu_2015",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_shanghai_plaza66_incense_shape",
+      "status": null,
+      "target": "corpus_cn_shanghai_city_lore_liu_2015",
       "type": "COMPARED_WITH",
       "weight": 1.0
     },
@@ -9576,6 +9664,17 @@
       "status": null,
       "target": "motif_urban_ostension_liminal",
       "type": "HAS_MOTIF",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_shanghai_westgate_stairwell",
+      "status": null,
+      "target": "corpus_cn_shanghai_city_lore_liu_2015",
+      "type": "COMPARED_WITH",
       "weight": 1.0
     },
     {
@@ -9631,6 +9730,17 @@
       "status": null,
       "target": "motif_urban_ostension_liminal",
       "type": "HAS_MOTIF",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_tw_hsinchu_bamboo_lake_bed",
+      "status": null,
+      "target": "corpus_tw_campus_lakes_yang_chen_2024",
+      "type": "COMPARED_WITH",
       "weight": 1.0
     },
     {
@@ -9746,11 +9856,33 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_tw_taichung_thu_bridge_time",
+      "status": null,
+      "target": "corpus_tw_campus_lakes_yang_chen_2024",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "同在台南流传，分别可追到曲盘及歌仔戏手稿的现代记录。",
       "origin": "explicit",
       "source": "case_cn_tw_tainan_chen_shouniang_record",
       "status": null,
       "target": "case_cn_tw_lintoujie_gezaixi",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_tw_taipei_ntu_moon_lake",
+      "status": null,
+      "target": "corpus_tw_campus_lakes_yang_chen_2024",
       "type": "COMPARED_WITH",
       "weight": 1.0
     },
@@ -12227,6 +12359,17 @@
       "status": null,
       "target": "corpus_cn_yuhuan_2008",
       "type": "PART_OF_MACRO_TREND",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_cn_yunnan_luliang_jingmacao_sounds",
+      "status": null,
+      "target": "corpus_cn_yunnan_field_reports_2001_2007",
+      "type": "COMPARED_WITH",
       "weight": 1.0
     },
     {
@@ -21207,6 +21350,17 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_id_pontianak_laundry_night_2014",
+      "status": null,
+      "target": "corpus_id_pontianak_duile_2020",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "比较不同村镇故事中大人用会飞或掳童的老妇告诫孩子。",
       "origin": "explicit",
       "source": "case_id_semarang_gombel_hill_wewe",
@@ -26581,6 +26735,17 @@
       "status": null,
       "target": "motif_urban_ostension_liminal",
       "type": "HAS_MOTIF",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_my_kelantan_school_dark_figure_2018",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
       "weight": 1.0
     },
     {
@@ -47583,6 +47748,28 @@
       "source": "case_vn_hcm_vu_lan",
       "status": null,
       "target": "corpus_theme_ancestor_returns",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_vn_hue_memorial_night_voices",
+      "status": null,
+      "target": "corpus_vn_hue_ghost_memory_phuoc_2025",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "case_vn_hue_memorial_unheard_names",
+      "status": null,
+      "target": "corpus_vn_hue_ghost_memory_phuoc_2025",
       "type": "COMPARED_WITH",
       "weight": 1.0
     },
@@ -349781,6 +349968,61 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_cn_shanghai_city_lore_liu_2015",
+      "status": null,
+      "target": "case_cn_shanghai_dragon_pillar",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_cn_shanghai_city_lore_liu_2015",
+      "status": null,
+      "target": "case_cn_shanghai_vampire_school_rumors",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_cn_shanghai_city_lore_liu_2015",
+      "status": null,
+      "target": "corpus_cn_beijing_ghostlore_solovyova_2019",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_cn_yunnan_field_reports_2001_2007",
+      "status": null,
+      "target": "case_cn_shanghai_abandoned_school_exploration_2012",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_cn_yunnan_field_reports_2001_2007",
+      "status": null,
+      "target": "case_cn_shennongjia_road_yeren_2007",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "维基文库所列卷次。",
       "origin": "explicit",
       "source": "corpus_cn_zibuyu_v01",
@@ -350209,6 +350451,39 @@
       "source": "corpus_id_banjarmasin_nasrullah_2018",
       "status": null,
       "target": "corpus_seasia_airport_ferguson_2014",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_id_pontianak_duile_2020",
+      "status": null,
+      "target": "case_id_pontianak_ghost_river_cannon",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_id_pontianak_duile_2020",
+      "status": null,
+      "target": "case_my_kl_um_roadside_woman_2009",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_id_pontianak_duile_2020",
+      "status": null,
+      "target": "case_sg_pontianak_film_1957",
       "type": "COMPARED_WITH",
       "weight": 1.0
     },
@@ -356616,6 +356891,28 @@
     {
       "is_fictional_quarantine": false,
       "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_tw_campus_lakes_yang_chen_2024",
+      "status": null,
+      "target": "case_cn_hk_hku_lotus_pool",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_tw_campus_lakes_yang_chen_2024",
+      "status": null,
+      "target": "text_cn_ma_xingyu_campus_horror_2016",
+      "type": "COMPARED_WITH",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
       "note": "同一社区故事项目的馆藏资料，不表示各故事同源或发生于洛厄尔。",
       "origin": "explicit",
       "source": "corpus_us_lowell_sea_1241",
@@ -356853,6 +357150,17 @@
       "status": null,
       "target": "corpus_us_lowell_sea_folktales",
       "type": "PART_OF_MACRO_TREND",
+      "weight": 1.0
+    },
+    {
+      "is_fictional_quarantine": false,
+      "matched_codes": [],
+      "note": "同题并列阅读，不推断传播或共同起源。",
+      "origin": "explicit",
+      "source": "corpus_vn_hue_ghost_memory_phuoc_2025",
+      "status": null,
+      "target": "corpus_la_tappe_ghosts_war_business",
+      "type": "COMPARED_WITH",
       "weight": 1.0
     },
     {
@@ -455927,6 +456235,85 @@
       "credibility_tier": "A",
       "credibility_weight": 0.85,
       "genre": "memorate",
+      "id": "case_cn_beijing_tsinghua_porcelain_finger",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "报道只提供雕塑在校园主楼后方西侧的相对位置；点位为校园区域参考。",
+        "map_label": "中国北京 · 清华大学校园参考点",
+        "paragraphs": [
+          "一位在清华园读书的学生常骑车经过一件雕塑：它像一截手指，长指甲上画着青花山水。白天看只是奇特，晚上从旁边经过，她却觉得有点吓人。",
+          "作品本名为《美甲系列——青花山水》，与百年校庆期间的雕塑展有关。2013 年的采访里，她还谈到校园里其他看起来古怪的作品；这些感受属于日常空间里的个人经验。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_beijing_tsinghua_porcelain_finger",
+      "sources": [
+        {
+          "citation": "韩琨：〈校园里的“奇葩”景观〉，《中国科学报》，2013 年 10 月 10 日，第 8 版。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "受访学生对广州永芳堂台阶与北京校园雕塑的回忆",
+          "type": "newspaper_report",
+          "url": "https://news.sciencenet.cn/sbhtmlnews/2013/10/278588.shtm?id=278588"
+        }
+      ],
+      "spatial": {
+        "culture_region": "中国 · 华北",
+        "lat": 40.0009,
+        "lng": 116.327,
+        "location_name": "中国北京 · 清华大学校园参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "北京清华园｜夜路上的青花指甲",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "memorate",
       "id": "case_cn_beijing_weasel_grandfather_2012",
       "is_fictional_quarantine": false,
       "markdown": "",
@@ -469055,6 +469442,95 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "memorate",
+      "id": "case_cn_guangzhou_yongfang_steps",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "点位为永芳堂公开地图轮廓中心；故事流传和学生核数的具体时间未说明。",
+        "map_label": "中国广州 · 中山大学永芳堂",
+        "paragraphs": [
+          "广州一位学生记得，刚入学时就听学长谈起永芳堂。它的建筑形状、广场雕像，以及白天和夜里数不出同样阶数的楼梯，都成了校园故事的材料。",
+          "她的同学后来真的去数过，结果两次一样。2013 年《中国科学报》采访了这段校园回忆：学生既讲述传说，也会亲自验证其中可核对的部分。"
+        ],
+        "source_numbers": [
+          1,
+          2
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_guangzhou_yongfang_steps",
+      "sources": [
+        {
+          "citation": "韩琨：〈校园里的“奇葩”景观〉，《中国科学报》，2013 年 10 月 10 日，第 8 版。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "受访学生对广州永芳堂台阶与北京校园雕塑的回忆",
+          "type": "newspaper_report",
+          "url": "https://news.sciencenet.cn/sbhtmlnews/2013/10/278588.shtm?id=278588"
+        },
+        {
+          "citation": "OpenStreetMap contributors：中山大学永芳堂，地图数据 ODbL 1.0。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "公开地图对象；坐标用于地点参考",
+          "type": "map_reference",
+          "url": "https://www.openstreetmap.org/way/301319558"
+        }
+      ],
+      "spatial": {
+        "culture_region": "中国 · 华南",
+        "lat": 23.0991051,
+        "lng": 113.2912292,
+        "location_name": "中国广州 · 中山大学永芳堂",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "广州校园｜白天与夜晚的台阶",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "济公传说",
         "济颠和尚传说",
@@ -469370,6 +469846,90 @@
         "year_start": 1995
       },
       "title": "哈尔滨猫脸老太太",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "memorate",
+      "id": "case_cn_hebei_baoding_fourth_building",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "读者回忆涉及河北大学旧教学楼；具体楼址未核定，地图使用保定市区参考点。",
+        "map_label": "中国河北保定 · 城市参考点",
+        "paragraphs": [
+          "一位河北大学校友记得，旧第四教学楼长期有各种传闻。2001 年前后的一晚，他带着好奇走上楼顶，天台角落忽然传来轻微的窸窣声，停下后又从另一边响起。",
+          "他壮着胆子走近，才发现角落里还有别人，声响来自地上的纸。多年后，他把这个有些尴尬的经历投给媒体；那栋楼的传闻与这一次听到的声音，是两回事。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_hebei_baoding_fourth_building",
+      "sources": [
+        {
+          "citation": "周唯：〈你的学校也有灵异故事吗〉，界面新闻，2017 年 4 月 8 日。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "读者“一枝什么什么”讲述河北大学旧四教经历",
+          "type": "newspaper_report",
+          "url": "https://www.jiemian.com/article/1230463.html"
+        }
+      ],
+      "spatial": {
+        "culture_region": "中国 · 华北",
+        "lat": 38.874,
+        "lng": 115.464,
+        "location_name": "中国河北保定 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": {
+        "era_label": "约 2001 年的校园回忆",
+        "uncertainty_note": "时间为讲述者在 2017 年回忆时提供。",
+        "year_end": 2001,
+        "year_start": 2001
+      },
+      "title": "保定校园｜旧教学楼天台的响声",
       "z": 0,
       "z_layer": 1
     },
@@ -469886,7 +470446,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 0,
+        "in_degree": 1,
         "out_degree": 1
       },
       "node_type": "case",
@@ -532485,6 +533045,90 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
+      "genre": "memorate",
+      "id": "case_cn_kunming_camera_lens_cap_2006",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "报道所述旧楼在昆明西山区，未核对其现状；地图只使用昆明城市参考点。",
+        "map_label": "中国云南昆明 · 城市参考点",
+        "paragraphs": [
+          "几位昆明青年听过一栋旧楼的种种传闻，2006 年冬夜决定亲自去看。有人回忆，进楼时正赶上雷电，房间里积着灰和旧桌椅，几个人始终提着心。",
+          "他们回放录像，画面却漆黑一片，一时更加紧张。检查之后才发现，镜头盖一直没有打开。《春城晚报》2007 年采访了这段经历；故事的结尾也留下了他们自己笑场的片刻。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_cn_yunnan_field_reports_2001_2007",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_kunming_camera_lens_cap_2006",
+      "sources": [
+        {
+          "citation": "毛翠、秦力：〈昆明 X 友的另类空间：吓得半死再乐死〉，《生活新报》，2007 年 8 月 13 日，新浪新闻转载。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "昆明城市探访者采访与“滇五大 X 空间”段落",
+          "type": "newspaper_report",
+          "url": "https://news.sina.com.cn/c/2007-08-13/102612375407s.shtml"
+        }
+      ],
+      "spatial": {
+        "culture_region": "中国 · 西南",
+        "lat": 25.0389,
+        "lng": 102.7183,
+        "location_name": "中国云南昆明 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": {
+        "era_label": "2006 年冬夜的回忆",
+        "uncertainty_note": "2007 年采访转述前一年 11 月的经历。",
+        "year_end": 2006,
+        "year_start": 2006
+      },
+      "title": "昆明旧楼｜漆黑录像的原因",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "崂山道士传说",
         "劳山道士穿墙术",
@@ -542062,7 +542706,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 0,
+        "in_degree": 1,
         "out_degree": 1
       },
       "node_type": "case",
@@ -542119,6 +542763,95 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_cn_shanghai_dongfang_road_name",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "坐标取东方路潍坊路公交站公开地图点，作为路口附近参考，不定位任何事故。",
+        "map_label": "中国上海 · 东方路潍坊路附近",
+        "paragraphs": [
+          "有一则浦东传闻把东方路一带的旧路名与上海话里关于墓地的词联系起来，又把十字路口的交通事故放进同一个故事。不同转述者由此讲出一条名字令人不安的道路。",
+          "Mingming Liu 于 2015 年把这一说法作为网络传闻译录。谐音、地点的旧貌和故事里的事故次数，都属于所收录的讲法，不能直接当作道路历史或事故统计。"
+        ],
+        "source_numbers": [
+          1,
+          2
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_cn_shanghai_city_lore_liu_2015",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_shanghai_dongfang_road_name",
+      "sources": [
+        {
+          "citation": "Mingming Liu, Theory of the Strange: Towards the Establishment of Zhiguai as a Genre, University of California, Riverside, 2015。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "附录 VIII，第 125—130 页：上海城市传闻的网络文本与译注",
+          "type": "academic_thesis",
+          "url": "https://escholarship.org/content/qt3579w43t/qt3579w43t_noSplash_12f87bb1b9e1abf8834fc55ba8836130.pdf"
+        },
+        {
+          "citation": "OpenStreetMap contributors：东方路潍坊路公交站，地图数据 ODbL 1.0。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "公开地图对象；坐标用于地点参考",
+          "type": "map_reference",
+          "url": "https://www.openstreetmap.org/node/9903306768"
+        }
+      ],
+      "spatial": {
+        "culture_region": "中国 · 华东",
+        "lat": 31.2301468,
+        "lng": 121.5215483,
+        "location_name": "中国上海 · 东方路潍坊路附近",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "上海浦东｜被重新解释的路名",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "上海龙柱事件",
         "盘龙柱",
@@ -542148,7 +542881,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 1,
+        "in_degree": 2,
         "out_degree": 1
       },
       "node_type": "case",
@@ -542229,6 +542962,304 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_cn_shanghai_longhua_yinyang_river",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "文献把传闻与龙华寺及附近河道相连；坐标取寺院公开地图中心，不代表河道具体位置。",
+        "map_label": "中国上海 · 龙华寺参考点",
+        "paragraphs": [
+          "上海龙华一带有一则关于“阴阳河”的讲法：人们把机场附近的一条河与不安的夜间气氛联系起来，并想象寺院有守护附近的作用。",
+          "2015 年论文将它作为网上流传的地点故事收录。寺院、河道和城市建设各有自己的历史；传说里的解释属于讲述者的想象。"
+        ],
+        "source_numbers": [
+          1,
+          2
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_cn_shanghai_city_lore_liu_2015",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_shanghai_longhua_yinyang_river",
+      "sources": [
+        {
+          "citation": "Mingming Liu, Theory of the Strange: Towards the Establishment of Zhiguai as a Genre, University of California, Riverside, 2015。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "附录 VIII，第 125—130 页：上海城市传闻的网络文本与译注",
+          "type": "academic_thesis",
+          "url": "https://escholarship.org/content/qt3579w43t/qt3579w43t_noSplash_12f87bb1b9e1abf8834fc55ba8836130.pdf"
+        },
+        {
+          "citation": "OpenStreetMap contributors：龙华寺，地图数据 ODbL 1.0。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "公开地图对象；坐标用于地点参考",
+          "type": "map_reference",
+          "url": "https://www.openstreetmap.org/way/404694432"
+        }
+      ],
+      "spatial": {
+        "culture_region": "中国 · 华东",
+        "lat": 31.1767917,
+        "lng": 121.4472502,
+        "location_name": "中国上海 · 龙华寺参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "上海龙华｜河边的阴阳传闻",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_cn_shanghai_pacific_baby_song",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "坐标为 OpenStreetMap 所标的太平洋百货徐汇店旧址参考点；商场于 2023 年结束营业。",
+        "map_label": "中国上海 · 徐家汇太平洋百货旧址",
+        "paragraphs": [
+          "九十年代，上海徐家汇太平洋百货总会响起同一首《宝贝对不起》。顾客逛上几个小时，往往能听见好几遍。慢慢地，大家开始猜测：为什么商场要一直放这首歌？",
+          "一种网络传说说，商场的地面下曾是育婴堂，夜里保安会听见孩子哭声，却找不到人；后来有人建议用这首歌安抚他们。不同版本把故事讲得越来越长。",
+          "旧报纸确曾批评商场反复播放这首歌。2020 年受访的商场人员解释，整点音乐用于提醒各楼层汇总营业额；2023 年地方史采访也指出，传说中的育婴堂与百货店旧址不是同一地点。"
+        ],
+        "source_numbers": [
+          1,
+          2,
+          3,
+          4
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_cn_shanghai_city_lore_liu_2015",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_shanghai_pacific_baby_song",
+      "sources": [
+        {
+          "citation": "Mingming Liu, Theory of the Strange: Towards the Establishment of Zhiguai as a Genre, University of California, Riverside, 2015。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "附录 VIII，第 125—130 页：上海城市传闻的网络文本与译注",
+          "type": "academic_thesis",
+          "url": "https://escholarship.org/content/qt3579w43t/qt3579w43t_noSplash_12f87bb1b9e1abf8834fc55ba8836130.pdf"
+        },
+        {
+          "citation": "上海市民生活指南：〈《宝贝，对不起》的真相，我们今天解开了〉，澎湃号，2020 年 7 月 9 日。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "文汇报 1996 年报道及商场工作人员对整点播放用途的解释",
+          "type": "newspaper_report",
+          "url": "https://www.thepaper.cn/newsDetail_forward_8190351"
+        },
+        {
+          "citation": "严晓峰：〈太平洋百货徐汇店 8 月底终止运营：陪伴上海人 30 年，这次真的要告别了〉，《新闻晨报》，2023 年 8 月 1 日。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "第 8 版：徐汇非遗工作者关于育婴堂与商场旧址的考证",
+          "type": "newspaper_report",
+          "url": "https://ep.shxwcb.com/2023/08/01/img/080801.pdf"
+        },
+        {
+          "citation": "OpenStreetMap contributors：太平洋百货徐汇店，地图数据 ODbL 1.0。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "公开地图对象；坐标用于地点参考",
+          "type": "map_reference",
+          "url": "https://www.openstreetmap.org/node/6298348685"
+        }
+      ],
+      "spatial": {
+        "culture_region": "中国 · 华东",
+        "lat": 31.1967669,
+        "lng": 121.4340122,
+        "location_name": "中国上海 · 徐家汇太平洋百货旧址",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "上海徐家汇｜商场里反复响起的歌",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_cn_shanghai_plaza66_incense_shape",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "点位取恒隆广场公开地图对象中心；传说中的施工过程并未由该点位证实。",
+        "map_label": "中国上海 · 恒隆广场",
+        "paragraphs": [
+          "南京西路的恒隆广场外形醒目，附近流传过一种讲法：大楼在传闻中被想象成一座香炉，而这样的造型是为了回应建造时碰到的怪事。",
+          "2015 年研究收录的网络版本把施工受阻与建筑形状连在一起；2012 年民俗学会议提要也把恒隆广场列入上海都市传说。它们记录的是人们如何解释一座大楼，并不是施工事故的证明。"
+        ],
+        "source_numbers": [
+          1,
+          2,
+          3
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_cn_shanghai_city_lore_liu_2015",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_shanghai_plaza66_incense_shape",
+      "sources": [
+        {
+          "citation": "Mingming Liu, Theory of the Strange: Towards the Establishment of Zhiguai as a Genre, University of California, Riverside, 2015。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "附录 VIII，第 125—130 页：上海城市传闻的网络文本与译注",
+          "type": "academic_thesis",
+          "url": "https://escholarship.org/content/qt3579w43t/qt3579w43t_noSplash_12f87bb1b9e1abf8834fc55ba8836130.pdf"
+        },
+        {
+          "citation": "黄景春：〈当代民间叙事的文化幻象——上海都市传说的文学解析〉，中国民俗学会 2012 年年会论文提要。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "年会论文提要第 10 页：上海当代传说与城市空间",
+          "type": "conference_abstract",
+          "url": "https://chinafolklore.org/upload/userfiles/cfs_2012_abstracts.pdf"
+        },
+        {
+          "citation": "OpenStreetMap contributors：恒隆广场，地图数据 ODbL 1.0。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "公开地图对象；坐标用于地点参考",
+          "type": "map_reference",
+          "url": "https://www.openstreetmap.org/way/10692949"
+        }
+      ],
+      "spatial": {
+        "culture_region": "中国 · 华东",
+        "lat": 31.2298098,
+        "lng": 121.4488454,
+        "location_name": "中国上海 · 恒隆广场",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "上海南京西路｜被说成香炉的大楼",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "上海吸血鬼",
         "上海吸血老太婆"
@@ -542254,7 +543285,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 0,
+        "in_degree": 1,
         "out_degree": 2
       },
       "node_type": "case",
@@ -542319,6 +543350,95 @@
         "year_start": 1993
       },
       "title": "上海校园传闻｜吸血人",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_cn_shanghai_westgate_stairwell",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "使用梅龙镇广场公开地图轮廓的参考坐标，不标示传闻中的具体楼梯。",
+        "map_label": "中国上海 · 梅龙镇广场",
+        "paragraphs": [
+          "一位讲述者去南京西路的梅龙镇广场见客户，不想等电梯，便走进楼梯间。走了许久，他仍找不到出口，回想起来觉得自己像是在同一段楼梯里绕圈。",
+          "他也猜测可能只是迷了路。2015 年一篇关于“志怪”的博士论文收录并翻译了这则网络传闻；文章记录的正是一个人如何给普通建筑里的迷路经历增添神秘意味。"
+        ],
+        "source_numbers": [
+          1,
+          2
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_cn_shanghai_city_lore_liu_2015",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_shanghai_westgate_stairwell",
+      "sources": [
+        {
+          "citation": "Mingming Liu, Theory of the Strange: Towards the Establishment of Zhiguai as a Genre, University of California, Riverside, 2015。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "附录 VIII，第 125—130 页：上海城市传闻的网络文本与译注",
+          "type": "academic_thesis",
+          "url": "https://escholarship.org/content/qt3579w43t/qt3579w43t_noSplash_12f87bb1b9e1abf8834fc55ba8836130.pdf"
+        },
+        {
+          "citation": "OpenStreetMap contributors：梅龙镇广场，地图数据 ODbL 1.0。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "公开地图对象；坐标用于地点参考",
+          "type": "map_reference",
+          "url": "https://www.openstreetmap.org/way/255632383"
+        }
+      ],
+      "spatial": {
+        "culture_region": "中国 · 华东",
+        "lat": 31.2308605,
+        "lng": 121.4522614,
+        "location_name": "中国上海 · 梅龙镇广场",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "上海南京西路｜走不出去的楼梯间",
       "z": 0,
       "z_layer": 1
     },
@@ -542446,7 +543566,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 1,
+        "in_degree": 2,
         "out_degree": 1
       },
       "node_type": "case",
@@ -542868,6 +543988,95 @@
         "year_start": 1996
       },
       "title": "大坑步道录像末尾的红衣小女孩",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_cn_tw_hsinchu_bamboo_lake_bed",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "坐标取竹湖公开地图轮廓中心；传闻涉及的宿舍床位不作定位。",
+        "map_label": "中国台湾新竹 · 竹湖",
+        "paragraphs": [
+          "新竹校园的一则故事从竹湖说起：有人在湖上失踪，此后，宿舍里曾经使用过的床铺总像在渗水。传闻又说，有人留下来过夜，次日不愿谈起经历。",
+          "2024 年校湖研究将它作为流传叙事，并提到故事可能借用了更早的一次湖上事故。床铺与过夜的细节属于传闻，不能据此还原个体经历。"
+        ],
+        "source_numbers": [
+          1,
+          2
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_tw_campus_lakes_yang_chen_2024",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_tw_hsinchu_bamboo_lake_bed",
+      "sources": [
+        {
+          "citation": "杨凯杰、陈彦杰：〈方塘鉴开：大学校湖水景的政治与文化〉，《建筑与城乡研究学报》第 24 期，2024 年，第 69—119 页。",
+          "content_sha256": null,
+          "doi": "10.6154/JBP.202409_(24).0003",
+          "local_path": null,
+          "locator": "第 104—105 页：醉月湖和竹湖的校园叙事；第 89 页：湖泊沿革",
+          "type": "peer_reviewed",
+          "url": "https://bp.ntu.edu.tw/001/Upload/1352/ckfile/6d584ee0-8cfe-45fb-bb2a-594cb996eeb2.pdf"
+        },
+        {
+          "citation": "OpenStreetMap contributors：竹湖，地图数据 ODbL 1.0。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "公开地图对象；坐标用于地点参考",
+          "type": "map_reference",
+          "url": "https://www.openstreetmap.org/way/200787364"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 中国台湾",
+        "lat": 24.7883151,
+        "lng": 121.0000658,
+        "location_name": "中国台湾新竹 · 竹湖",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "新竹竹湖｜宿舍里渗水的床铺",
       "z": 0,
       "z_layer": 1
     },
@@ -543779,6 +544988,95 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_cn_tw_taichung_thu_bridge_time",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "点位为东海大学公开地图范围的中心；桥的旧址和现址版本不同，未作精确标定。",
+        "map_label": "中国台湾台中 · 东海大学校园参考点",
+        "paragraphs": [
+          "东海大学学生之间流传着“女鬼桥”的故事：夜里经过桥边，可能遇见一位长发女子问时间。故事的背景常被讲成一场未能成行的约定，但细节在不同版本中并不一致。",
+          "2024 年的校园故事整理提到，有读者曾对照校刊和校园记录寻找来源，却无法确证传说中的人物与经过。它与醉月湖、香港大学荷花池的问时故事可以并读，各自保留地点与版本差异。"
+        ],
+        "source_numbers": [
+          1,
+          2
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_tw_campus_lakes_yang_chen_2024",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_tw_taichung_thu_bridge_time",
+      "sources": [
+        {
+          "citation": "迷诚品内容中心：〈8 则台湾校园怪谈传说〉，2024 年 2 月 20 日。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "东海大学女鬼桥条目及网络溯源讨论",
+          "type": "published_collection",
+          "url": "https://meet.eslite.com/tw/sc/article/202402190001"
+        },
+        {
+          "citation": "OpenStreetMap contributors：东海大学，地图数据 ODbL 1.0。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "公开地图对象；坐标用于地点参考",
+          "type": "map_reference",
+          "url": "https://www.openstreetmap.org/way/347094469"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 中国台湾",
+        "lat": 24.1788982,
+        "lng": 120.6045034,
+        "location_name": "中国台湾台中 · 东海大学校园参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "台中东海大学｜桥上询问时间的身影",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "陳守娘",
         "陈守娘",
@@ -543874,6 +545172,95 @@
         "year_start": 1930
       },
       "title": "台南唱片里的女鬼陈守娘",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_cn_tw_taipei_ntu_moon_lake",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "坐标为醉月湖公开地图对象中心；它标识故事场景而非未经证实的事件地点。",
+        "map_label": "中国台湾台北 · 醉月湖",
+        "paragraphs": [
+          "醉月湖湖心有一座孤亭，学生间流传一位女子深夜在湖边问人时间。故事把她的徘徊与一段失约的感情联系起来，还衍生出亭子为什么看似断桥的不同说法。",
+          "2024 年的校湖研究追溯这些版本，并引用校史资料指出：湖心亭的断桥式设计原本就存在。风景的形状与后来流传的故事，叠成了两种不同的记忆。"
+        ],
+        "source_numbers": [
+          1,
+          2
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_tw_campus_lakes_yang_chen_2024",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_tw_taipei_ntu_moon_lake",
+      "sources": [
+        {
+          "citation": "杨凯杰、陈彦杰：〈方塘鉴开：大学校湖水景的政治与文化〉，《建筑与城乡研究学报》第 24 期，2024 年，第 69—119 页。",
+          "content_sha256": null,
+          "doi": "10.6154/JBP.202409_(24).0003",
+          "local_path": null,
+          "locator": "第 104—105 页：醉月湖和竹湖的校园叙事；第 89 页：湖泊沿革",
+          "type": "peer_reviewed",
+          "url": "https://bp.ntu.edu.tw/001/Upload/1352/ckfile/6d584ee0-8cfe-45fb-bb2a-594cb996eeb2.pdf"
+        },
+        {
+          "citation": "OpenStreetMap contributors：醉月湖，地图数据 ODbL 1.0。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "公开地图对象；坐标用于地点参考",
+          "type": "map_reference",
+          "url": "https://www.openstreetmap.org/relation/206483"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东亚 · 中国台湾",
+        "lat": 25.0201734,
+        "lng": 121.5377888,
+        "location_name": "中国台湾台北 · 醉月湖",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "台北醉月湖｜孤亭旁的问时人",
       "z": 0,
       "z_layer": 1
     },
@@ -563190,6 +564577,95 @@
       },
       "temporal": null,
       "title": "玉环传说故事 · 下一世怎么报答",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "memorate",
+      "id": "case_cn_yunnan_luliang_jingmacao_sounds",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "调查地点在陆良彩色沙林一带；点位为陆良县城参考坐标，不标示山谷具体位置。",
+        "map_label": "中国云南 · 陆良县城参考点",
+        "paragraphs": [
+          "陆良彩色沙林附近，几位村民向记者描述山沟里的声音：有人听成喊声、马叫，有人说像脚步和鼓声；当地流传的名字叫“阴兵过路”。他们记住的时间、天气和声音并不完全一样。",
+          "2001 年，记者夜里走进惊马槽，最终只听见风声。报道也收录过不同的自然解释，但没有提供足以确认具体声源的重复测量；这份记录保留村民的讲述和记者当晚的观察。"
+        ],
+        "source_numbers": [
+          1,
+          2
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_cn_yunnan_field_reports_2001_2007",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_cn_yunnan_luliang_jingmacao_sounds",
+      "sources": [
+        {
+          "citation": "〈鬼影鬼叫连连：云南陆良“闹鬼”现场调查记〉，新浪新闻，2001 年 11 月 4 日。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "仕官村、汤官箐村受访者讲述及记者夜访惊马槽",
+          "type": "newspaper_report",
+          "url": "https://news.sina.com.cn/s/2001-11-04/392051.html"
+        },
+        {
+          "citation": "OpenStreetMap contributors：陆良县城，地图数据 ODbL 1.0。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "公开地图对象；坐标用于地点参考",
+          "type": "map_reference",
+          "url": "https://www.openstreetmap.org/node/244081254"
+        }
+      ],
+      "spatial": {
+        "culture_region": "中国 · 西南",
+        "lat": 25.0314329,
+        "lng": 103.6622775,
+        "location_name": "中国云南 · 陆良县城参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "云南陆良｜惊马槽里的声音",
       "z": 0,
       "z_layer": 1
     },
@@ -648953,7 +650429,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 2,
+        "in_degree": 3,
         "out_degree": 1
       },
       "node_type": "case",
@@ -649021,6 +650497,85 @@
         "year_start": null
       },
       "title": "坤甸河口的女鬼与开城炮声",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "memorate",
+      "id": "case_id_pontianak_laundry_night_2014",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "田野观察发生在坤甸市郊；为了保护私人住宅，仅标城市参考点。",
+        "map_label": "印尼西加里曼丹 · 坤甸城市参考点",
+        "paragraphs": [
+          "人类学者在坤甸市郊居住时，听邻居说夜里不要把衣服留在晾衣线上，免得引起 Kuntilanak 的注意。天黑后，朋友们也曾请他别再谈论她，怕越说越觉得她就在附近。",
+          "他注意到，住宅门前夜里常亮着灯，附近一栋空屋外也有灯光。这些习惯与讲故事时又害怕又好奇的气氛，被写进他 2020 年发表的田野研究。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_id_pontianak_duile_2020",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_id_pontianak_laundry_night_2014",
+      "sources": [
+        {
+          "citation": "Timo Duile, “Kuntilanak: Ghost Narratives and Malay Modernity in Pontianak, Indonesia”, Bijdragen tot de Taal-, Land- en Volkenkunde 176, 2020, 279–303。",
+          "content_sha256": null,
+          "doi": "10.1163/22134379-17601001",
+          "local_path": null,
+          "locator": "第 291—292 页：2014 年起坤甸郊区的访谈与观察",
+          "type": "peer_reviewed",
+          "url": "https://brill.com/view/journals/bki/176/2-3/article-p279_3.pdf"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 印度尼西亚",
+        "lat": -0.0263,
+        "lng": 109.3425,
+        "location_name": "印尼西加里曼丹 · 坤甸城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "印尼坤甸｜夜里收起的衣服",
       "z": 0,
       "z_layer": 1
     },
@@ -701520,6 +703075,100 @@
       },
       "credibility_tier": "B",
       "credibility_weight": 0.6,
+      "genre": "memorate",
+      "id": "case_my_kelantan_school_dark_figure_2018",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "report",
+        "location_note": "报道地点在吉兰丹州一所学校；地图只给出州首府参考坐标，不定位学生或教室。",
+        "map_label": "马来西亚吉兰丹州 · 哥打巴鲁参考点",
+        "paragraphs": [
+          "2018 年，吉兰丹一所学校出现一阵集体惊慌。有学生向记者说自己看见了黑色身影，身边的人也先后受到惊吓；家长和教师随后参与照顾与安抚。",
+          "后续讨论中，有人从地方故事与信仰理解这些经历，也有人从压力和群体反应解释。这里记录当时的报道与不同解释，不对个别学生作诊断。"
+        ],
+        "source_numbers": [
+          1,
+          2
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_my_kelantan_school_dark_figure_2018",
+      "sources": [
+        {
+          "citation": "〈Kelantan school mass hysteria: “I saw a big, black figure”〉，New Straits Times，2018 年 7 月 19 日。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "吉兰丹校园学生与家长的采访",
+          "type": "newspaper_report",
+          "url": "https://www.nst.com.my/amp/news/nation/2018/07/392352/kelantan-school-mass-hysteria-i-saw-big-black-figure"
+        },
+        {
+          "citation": "Zev Mayer, “Revenge of the Pontianak?: Encounters with the Spirit World in Malaysia”, Yale University Modern Southeast Asia, 2020。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "马来西亚学校见闻与多种解释的并列讨论",
+          "type": "academic_commentary",
+          "url": "https://seasia.yale.edu/news/revenge-pontianak-encounters-spirit-world-malaysia"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 马来西亚",
+        "lat": 6.1254,
+        "lng": 102.2381,
+        "location_name": "马来西亚吉兰丹州 · 哥打巴鲁参考点",
+        "precision": "province"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": {
+        "era_label": "2018 年 7 月的校园报道",
+        "uncertainty_note": "具体描述来自当年采访；后续研究讨论了不同解释。",
+        "year_end": 2018,
+        "year_start": 2018
+      },
+      "title": "马来西亚吉兰丹｜校园里的黑影传闻",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "B",
+      "credibility_weight": 0.6,
       "genre": "urban_legend",
       "id": "case_my_kl_um_roadside_woman_2009",
       "is_fictional_quarantine": false,
@@ -701527,7 +703176,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 0,
+        "in_degree": 1,
         "out_degree": 1
       },
       "node_type": "case",
@@ -778273,7 +779922,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 2,
+        "in_degree": 3,
         "out_degree": 1
       },
       "node_type": "case",
@@ -779114,7 +780763,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.149066617862372e-07,
+        "betweenness": 0.0,
         "in_degree": 1,
         "out_degree": 1
       },
@@ -856273,6 +857922,164 @@
       "z_layer": 1
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_vn_hue_memorial_night_voices",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "研究记录的是顺化民间纪念空间附近的多种讲法；点位为城市参考。",
+        "map_label": "越南顺化 · 城市参考点",
+        "paragraphs": [
+          "顺化的一些讲述把纪念日夜里的哭声和呼喊声，与 1885 年都城陷落时失去亲人的记忆联系起来。讲述者说，这些声音像是过去的悲伤还在向后来的人诉说。",
+          "研究者在 2022—2024 年的访谈中归纳出这些流传的叙事，把它们与祭祀和安慰亡者的仪式放在一起讨论。声音及其含义是讲述中的经验，也承载对历史受难者的哀悼。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_vn_hue_ghost_memory_phuoc_2025",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_vn_hue_memorial_night_voices",
+      "sources": [
+        {
+          "citation": "Hoàng Hữu Phước, “Contemporary Ghost Legends Associated with the Fall of Huế Citadel in 1885”, HNUE Journal of Science: Social Sciences 70(2), 2025, 35–46。",
+          "content_sha256": null,
+          "doi": "10.18173/2354-1067.2025-0018",
+          "local_path": null,
+          "locator": "第 40—42 页：2022—2024 年田野访谈归纳的祭坛与庙宇传说",
+          "type": "peer_reviewed",
+          "url": "https://hnuejs.edu.vn/ss/article/download/897/454/5795"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 越南",
+        "lat": 16.4637,
+        "lng": 107.5909,
+        "location_name": "越南顺化 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "越南顺化｜纪念日夜里的声音",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "urban_legend",
+      "id": "case_vn_hue_memorial_unheard_names",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 0,
+        "out_degree": 1
+      },
+      "node_type": "case",
+      "reading": {
+        "kind": "legend",
+        "location_note": "研究关联顺化的纪念祭坛；为避免混淆祭坛与庙宇，点位使用顺化城市参考坐标。",
+        "map_label": "越南顺化 · 城市参考点",
+        "paragraphs": [
+          "顺化关于 1885 年都城陷落的传说里，有一种反复出现的讲法：无名亡者在梦中出现，告诉活着的人自己的身份，请求把名字写进祭祀名册或立在牌位上。",
+          "2022—2024 年的访谈研究把这种“报梦—记名—纪念”的结构归纳为一组讲法，并讨论它如何让没有留下姓名的人重新进入共同记忆。这是对多个版本的概括，不是某一次梦境的逐字记录。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_vn_hue_ghost_memory_phuoc_2025",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/case_vn_hue_memorial_unheard_names",
+      "sources": [
+        {
+          "citation": "Hoàng Hữu Phước, “Contemporary Ghost Legends Associated with the Fall of Huế Citadel in 1885”, HNUE Journal of Science: Social Sciences 70(2), 2025, 35–46。",
+          "content_sha256": null,
+          "doi": "10.18173/2354-1067.2025-0018",
+          "local_path": null,
+          "locator": "第 40—42 页：2022—2024 年田野访谈归纳的祭坛与庙宇传说",
+          "type": "peer_reviewed",
+          "url": "https://hnuejs.edu.vn/ss/article/download/897/454/5795"
+        }
+      ],
+      "spatial": {
+        "culture_region": "东南亚 · 越南",
+        "lat": 16.4637,
+        "lng": 107.5909,
+        "location_name": "越南顺化 · 城市参考点",
+        "precision": "city"
+      },
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "越南顺化｜梦里请求记下名字的人",
+      "z": 0,
+      "z_layer": 1
+    },
+    {
       "aliases": [
         "My Lai ghosts",
         "Ghosts of War in Vietnam",
@@ -857073,7 +858880,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.149066617862372e-07,
+        "betweenness": 7.134703196347032e-07,
         "in_degree": 32,
         "out_degree": 1
       },
@@ -1054152,7 +1055959,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 3,
+        "in_degree": 4,
         "out_degree": 4
       },
       "node_type": "myth_corpus",
@@ -1069336,6 +1071143,101 @@
       "aliases": [],
       "audit": {
         "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "academic_model",
+      "id": "corpus_cn_shanghai_city_lore_liu_2015",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 5,
+        "out_degree": 3
+      },
+      "node_type": "myth_corpus",
+      "reading": {
+        "kind": "research",
+        "paragraphs": [
+          "上海的高架桥、商场、写字楼和地铁站，常被人们赋予建筑用途之外的故事。反复播放的歌曲、楼梯间里的迷路经历，或大楼形状，都可能成为传说的起点。",
+          "Mingming Liu 的 2015 年论文附录保存并翻译了当时网络上流传的一组上海城市传闻；黄景春的会议论文提要则把这些叙事与城市发展和文化记忆联系起来。这里比较的是不同讲法，不把网上的细节当作已核实的事件。"
+        ],
+        "source_numbers": [
+          1,
+          2
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "case_cn_shanghai_dragon_pillar",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        },
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "case_cn_shanghai_vampire_school_rumors",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        },
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_cn_beijing_ghostlore_solovyova_2019",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/corpus_cn_shanghai_city_lore_liu_2015",
+      "sources": [
+        {
+          "citation": "Mingming Liu, Theory of the Strange: Towards the Establishment of Zhiguai as a Genre, University of California, Riverside, 2015。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "附录 VIII，第 125—130 页：上海城市传闻的网络文本与译注",
+          "type": "academic_thesis",
+          "url": "https://escholarship.org/content/qt3579w43t/qt3579w43t_noSplash_12f87bb1b9e1abf8834fc55ba8836130.pdf"
+        },
+        {
+          "citation": "黄景春：〈当代民间叙事的文化幻象——上海都市传说的文学解析〉，中国民俗学会 2012 年年会论文提要。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "年会论文提要第 10 页：上海当代传说与城市空间",
+          "type": "conference_abstract",
+          "url": "https://chinafolklore.org/upload/userfiles/cfs_2012_abstracts.pdf"
+        }
+      ],
+      "spatial": null,
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "上海都市传说｜从建筑外形到口耳相传",
+      "z": 120,
+      "z_layer": 2
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
         "created_at": "2026-11-22",
         "is_sample": false,
         "public_content_sha256": null,
@@ -1069490,6 +1071392,94 @@
       "aliases": [],
       "audit": {
         "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "academic_model",
+      "id": "corpus_cn_yunnan_field_reports_2001_2007",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 2,
+        "out_degree": 2
+      },
+      "node_type": "myth_corpus",
+      "reading": {
+        "kind": "research",
+        "paragraphs": [
+          "在陆良，有村民向记者讲过惊马槽的声音；在昆明，一群青年回忆走进旧楼后，被一段漆黑的录像吓了一跳。这两则地方材料都保留了人们对陌生空间的好奇与猜测。",
+          "2001 年和 2007 年的报道还写下调查者自己看到或没有看到的情形。将传闻、当事人回忆和现场观察分开，可以让故事更完整，也更容易追查出处。"
+        ],
+        "source_numbers": [
+          1,
+          2
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "case_cn_shanghai_abandoned_school_exploration_2012",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        },
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "case_cn_shennongjia_road_yeren_2007",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/corpus_cn_yunnan_field_reports_2001_2007",
+      "sources": [
+        {
+          "citation": "〈鬼影鬼叫连连：云南陆良“闹鬼”现场调查记〉，新浪新闻，2001 年 11 月 4 日。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "仕官村、汤官箐村受访者讲述及记者夜访惊马槽",
+          "type": "newspaper_report",
+          "url": "https://news.sina.com.cn/s/2001-11-04/392051.html"
+        },
+        {
+          "citation": "毛翠、秦力：〈昆明 X 友的另类空间：吓得半死再乐死〉，《生活新报》，2007 年 8 月 13 日，新浪新闻转载。",
+          "content_sha256": null,
+          "doi": null,
+          "local_path": null,
+          "locator": "昆明城市探访者采访与“滇五大 X 空间”段落",
+          "type": "newspaper_report",
+          "url": "https://news.sina.com.cn/c/2007-08-13/102612375407s.shtml"
+        }
+      ],
+      "spatial": null,
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "云南的传闻与现场｜山谷和旧楼",
+      "z": 120,
+      "z_layer": 2
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
         "created_at": "2026-11-22",
         "is_sample": false,
         "public_content_sha256": null,
@@ -1069602,7 +1071592,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 0.0,
+        "betweenness": 7.134703196347032e-07,
         "in_degree": 33,
         "out_degree": 1
       },
@@ -1069696,7 +1071686,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.149066617862372e-07,
+        "betweenness": 0.0,
         "in_degree": 23,
         "out_degree": 1
       },
@@ -1069978,7 +1071968,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.149066617862372e-07,
+        "betweenness": 7.134703196347032e-07,
         "in_degree": 28,
         "out_degree": 1
       },
@@ -1070260,7 +1072250,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 0.0,
+        "betweenness": 7.134703196347032e-07,
         "in_degree": 22,
         "out_degree": 1
       },
@@ -1070354,7 +1072344,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 1.4298133235724744e-06,
+        "betweenness": 7.134703196347032e-07,
         "in_degree": 19,
         "out_degree": 1
       },
@@ -1070448,7 +1072438,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 0.0,
+        "betweenness": 7.134703196347032e-07,
         "in_degree": 20,
         "out_degree": 1
       },
@@ -1070542,7 +1072532,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.149066617862372e-07,
+        "betweenness": 0.0,
         "in_degree": 26,
         "out_degree": 1
       },
@@ -1070824,7 +1072814,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 0.0,
+        "betweenness": 7.134703196347032e-07,
         "in_degree": 27,
         "out_degree": 1
       },
@@ -1070918,7 +1072908,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.149066617862372e-07,
+        "betweenness": 1.4269406392694064e-06,
         "in_degree": 26,
         "out_degree": 1
       },
@@ -1071012,7 +1073002,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 1.4298133235724744e-06,
+        "betweenness": 7.134703196347032e-07,
         "in_degree": 31,
         "out_degree": 1
       },
@@ -1071106,7 +1073096,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 1.4298133235724744e-06,
+        "betweenness": 7.134703196347032e-07,
         "in_degree": 39,
         "out_degree": 1
       },
@@ -1071294,7 +1073284,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.149066617862372e-07,
+        "betweenness": 7.134703196347032e-07,
         "in_degree": 30,
         "out_degree": 1
       },
@@ -1071388,7 +1073378,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.149066617862372e-07,
+        "betweenness": 7.134703196347032e-07,
         "in_degree": 49,
         "out_degree": 1
       },
@@ -1071670,7 +1073660,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.149066617862372e-07,
+        "betweenness": 7.134703196347032e-07,
         "in_degree": 40,
         "out_degree": 1
       },
@@ -1073315,6 +1075305,91 @@
       "z_layer": 2
     },
     {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "academic_model",
+      "id": "corpus_id_pontianak_duile_2020",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 1,
+        "out_degree": 3
+      },
+      "node_type": "myth_corpus",
+      "reading": {
+        "kind": "research",
+        "paragraphs": [
+          "Kuntilanak 在印尼和马来语世界的口述、电影中都有不同形象。坤甸的建城故事讲到两河交汇处的树与炮声；当代居民也会在夜谈、晾衣和门前灯光中，提起这位熟悉又令人畏惧的角色。",
+          "人类学者 Timo Duile 依据 2014 年起的田野观察，区分地方建城叙事、居民讲述与流行影视作品。相同名称并不表示每个地区的故事相同。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "case_id_pontianak_ghost_river_cannon",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        },
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "case_sg_pontianak_film_1957",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        },
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "case_my_kl_um_roadside_woman_2009",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/corpus_id_pontianak_duile_2020",
+      "sources": [
+        {
+          "citation": "Timo Duile, “Kuntilanak: Ghost Narratives and Malay Modernity in Pontianak, Indonesia”, Bijdragen tot de Taal-, Land- en Volkenkunde 176, 2020, 279–303。",
+          "content_sha256": null,
+          "doi": "10.1163/22134379-17601001",
+          "local_path": null,
+          "locator": "第 291—292 页：2014 年起坤甸郊区的访谈与观察",
+          "type": "peer_reviewed",
+          "url": "https://brill.com/view/journals/bki/176/2-3/article-p279_3.pdf"
+        }
+      ],
+      "spatial": null,
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "坤甸夜谈｜女鬼、河流与城市边缘",
+      "z": 120,
+      "z_layer": 2
+    },
+    {
       "aliases": [
         "Intelligent Search Engine for Belief Legends",
         "Meertens"
@@ -1074377,7 +1076452,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.149066617862372e-07,
+        "betweenness": 0.0,
         "in_degree": 34,
         "out_degree": 1
       },
@@ -1074605,7 +1076680,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 0.0,
+        "betweenness": 7.134703196347032e-07,
         "in_degree": 12,
         "out_degree": 1
       },
@@ -1074681,7 +1076756,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 7.149066617862372e-07,
+        "betweenness": 0.0,
         "in_degree": 19,
         "out_degree": 1
       },
@@ -1074909,7 +1076984,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 0.0,
+        "betweenness": 7.134703196347032e-07,
         "in_degree": 29,
         "out_degree": 1
       },
@@ -1075090,7 +1077165,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 2,
+        "in_degree": 3,
         "out_degree": 1
       },
       "node_type": "myth_corpus",
@@ -1121525,7 +1123600,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 1.4298133235724744e-06,
+        "betweenness": 0.0,
         "in_degree": 5,
         "out_degree": 1
       },
@@ -1121792,6 +1123867,84 @@
       },
       "temporal": null,
       "title": "天地如何开始：不同传统中的创世叙事",
+      "z": 120,
+      "z_layer": 2
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "academic_model",
+      "id": "corpus_tw_campus_lakes_yang_chen_2024",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 3,
+        "out_degree": 2
+      },
+      "node_type": "myth_corpus",
+      "reading": {
+        "kind": "research",
+        "paragraphs": [
+          "台湾校园里的湖有着多重身份：它们是散步、纪念与毕业活动的地方，也成为学生讲述怪谈的场景。醉月湖的孤亭让人联想到断桥故事；竹湖的叙事则把水里的意外和宿舍中的异样联系起来。",
+          "杨凯杰、陈彦杰 2024 年比较校湖的建造、使用和地方想象，同时指出醉月湖湖心亭的断桥式设计早已存在。把故事和湖的历史一起阅读，更容易看出景观如何进入学生的共同记忆。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "case_cn_hk_hku_lotus_pool",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        },
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "text_cn_ma_xingyu_campus_horror_2016",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/corpus_tw_campus_lakes_yang_chen_2024",
+      "sources": [
+        {
+          "citation": "杨凯杰、陈彦杰：〈方塘鉴开：大学校湖水景的政治与文化〉，《建筑与城乡研究学报》第 24 期，2024 年，第 69—119 页。",
+          "content_sha256": null,
+          "doi": "10.6154/JBP.202409_(24).0003",
+          "local_path": null,
+          "locator": "第 104—105 页：醉月湖和竹湖的校园叙事；第 89 页：湖泊沿革",
+          "type": "peer_reviewed",
+          "url": "https://bp.ntu.edu.tw/001/Upload/1352/ckfile/6d584ee0-8cfe-45fb-bb2a-594cb996eeb2.pdf"
+        }
+      ],
+      "spatial": null,
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "校园湖泊｜风景、记忆与鬼故事",
       "z": 120,
       "z_layer": 2
     },
@@ -1123685,6 +1125838,77 @@
       },
       "temporal": null,
       "title": "越南占族故事选集 · Truyện cổ dân gian Chăm",
+      "z": 120,
+      "z_layer": 2
+    },
+    {
+      "aliases": [],
+      "audit": {
+        "ai_confidence": null,
+        "created_at": "2026-11-23",
+        "is_sample": false,
+        "public_content_sha256": null,
+        "public_release": false,
+        "public_rights_note": null,
+        "review_note": null,
+        "reviewed_at": null,
+        "reviewed_by_human": false,
+        "reviewer": null
+      },
+      "credibility_tier": "A",
+      "credibility_weight": 0.85,
+      "genre": "academic_model",
+      "id": "corpus_vn_hue_ghost_memory_phuoc_2025",
+      "is_fictional_quarantine": false,
+      "markdown": "",
+      "mechanisms": [],
+      "metrics": {
+        "betweenness": 0.0,
+        "in_degree": 2,
+        "out_degree": 1
+      },
+      "node_type": "myth_corpus",
+      "reading": {
+        "kind": "research",
+        "paragraphs": [
+          "顺化关于 1885 年都城陷落的记忆，既留在纪念仪式中，也留在民间关于无名亡者的故事里。有人讲亡者托梦寻求安葬和名字，有人记得夜里传来的哭声与求救声。",
+          "Hoàng Hữu Phước 在 2022—2024 年访谈与资料分析的基础上，比较纪念场所中的不同叙事。文章把这些故事看作人们表达哀悼和传递历史记忆的方式。"
+        ],
+        "source_numbers": [
+          1
+        ]
+      },
+      "relations": [
+        {
+          "note": "同题并列阅读，不推断传播或共同起源。",
+          "status": null,
+          "target": "corpus_la_tappe_ghosts_war_business",
+          "type": "COMPARED_WITH",
+          "weight": 1.0
+        }
+      ],
+      "source_path": "资料目录/corpus_vn_hue_ghost_memory_phuoc_2025",
+      "sources": [
+        {
+          "citation": "Hoàng Hữu Phước, “Contemporary Ghost Legends Associated with the Fall of Huế Citadel in 1885”, HNUE Journal of Science: Social Sciences 70(2), 2025, 35–46。",
+          "content_sha256": null,
+          "doi": "10.18173/2354-1067.2025-0018",
+          "local_path": null,
+          "locator": "第 40—42 页：2022—2024 年田野访谈归纳的祭坛与庙宇传说",
+          "type": "peer_reviewed",
+          "url": "https://hnuejs.edu.vn/ss/article/download/897/454/5795"
+        }
+      ],
+      "spatial": null,
+      "standards": {
+        "atu_types": [],
+        "berezkin_codes": [],
+        "macro_phylogeny": null,
+        "ocm_codes": [],
+        "thompson_motifs": []
+      },
+      "temporal": null,
+      "title": "顺化的纪念与讲述｜1885 年之后",
       "z": 120,
       "z_layer": 2
     },
@@ -1331446,7 +1333670,7 @@
       "markdown": "",
       "mechanisms": [],
       "metrics": {
-        "betweenness": 0.0,
+        "betweenness": 2.1404109589041094e-06,
         "case_in_degree": 0,
         "culture_region_entropy_bits": null,
         "in_degree": 10,
@@ -1701160,7 +1703384,7 @@
       "mechanisms": [],
       "metrics": {
         "betweenness": 0.0,
-        "in_degree": 27,
+        "in_degree": 32,
         "out_degree": 1
       },
       "node_type": "myth_corpus",
@@ -1701708,7 +1703932,7 @@
     }
   ],
   "schema_version": 1,
-  "snapshot_id": "90ad14ff89a3f176c0947a76c19543bb5645afa15c27f7400d99267fd506e23e",
+  "snapshot_id": "5741193cc762237428eaa02ef5efbdfd2382ef22950dd64a39222854bf1fdc3a",
   "stats": {
     "betweenness_sample_size": 128,
     "excluded_drafts": 0,
@@ -1701958,9 +1704182,9 @@
       "theory_witzel_mythology_phylogeny"
     ],
     "unmatched_standard_codes": [],
-    "vault_cards": 10938,
-    "visible_links": 39312,
-    "visible_nodes": 10938
+    "vault_cards": 10960,
+    "visible_links": 39340,
+    "visible_nodes": 10960
   },
   "visibility": {
     "exclude_fiction": false,
