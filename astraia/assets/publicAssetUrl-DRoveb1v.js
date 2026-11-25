@@ -1,0 +1,1 @@
+const c=(()=>{if(typeof document>"u")return{};const e=document.getElementById("astraia-r2-assets")?.textContent;return e?JSON.parse(e):{}})();function o(e,r){const s=`${e}${r}`,n=c.files;if(!n)return s;let t=r;if(!Object.hasOwn(n,t)&&t.includes("%"))try{t=decodeURIComponent(t)}catch{return s}return Object.hasOwn(n,t)?`${c.origin}/assets/${n[t]}`:s}export{o as p};
