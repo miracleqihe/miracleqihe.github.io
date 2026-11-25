@@ -33,6 +33,16 @@ jobs:
           cp -R assets _site/assets
           cp -R astraia _site/astraia
 
+      - name: Report published site size
+        run: |
+          bytes=$(du -sb _site | cut -f1)
+          files=$(find _site -type f | wc -l)
+          echo "### Published site capacity" >> "$GITHUB_STEP_SUMMARY"
+          echo "Site artifact: $bytes bytes, $files files." >> "$GITHUB_STEP_SUMMARY"
+          if [ "$bytes" -ge 900000000 ]; then
+            echo "::warning::Published site exceeds 900 MB; review large generated assets before the GitHub Pages 1 GB limit."
+          fi
+
       - name: Upload site
         uses: actions/upload-pages-artifact@v3
         with:
