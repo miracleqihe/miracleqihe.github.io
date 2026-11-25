@@ -42,15 +42,17 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.ASTRAIA_R2_SECRET_ACCESS_KEY }}
           AWS_EC2_METADATA_DISABLED: 'true'
         run: |
-          test -n "$AWS_ACCESS_KEY_ID" && test -n "$AWS_SECRET_ACCESS_KEY"
+          test -n "$AWS_ACCESS_KEY_ID"
+          test -n "$AWS_SECRET_ACCESS_KEY"
           python3 -m venv "$RUNNER_TEMP/astraia-r2-python"
-          "$RUNNER_TEMP/astraia-r2-python/bin/python" -m pip install 'boto3==1.40.82'
+          "$RUNNER_TEMP/astraia-r2-python/bin/python" -m pip install 'boto3==1.40.76'
           "$RUNNER_TEMP/astraia-r2-python/bin/python" .github/scripts/astraia_r2.py _site/astraia --upload
 
       - name: Report published site size
         run: |
-          bytes=$(du -sb _site | cut -f1)
+          bytes=$(find _site -type f -printf '%s\n' | awk '{ sum += $1 } END { printf "%.0f", sum }')
           files=$(find _site -type f | wc -l)
+          echo "Site artifact: $bytes bytes, $files files."
           echo "### Published site capacity" >> "$GITHUB_STEP_SUMMARY"
           echo "Site artifact: $bytes bytes, $files files." >> "$GITHUB_STEP_SUMMARY"
           if [ "$bytes" -ge 900000000 ]; then
