@@ -5,22 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>ASTRAIA · 朔望叠影</title>
   <link rel="icon" href="data:," />
-  <!-- Responsive layout utilities -->
-  <!-- Museum & Astrolabe Typography -->
-  <!-- Three.js r128 & OrbitControls -->
 
   <style>
     :root {
-      --void-deep: #04060b;
-      --void-mid: #080c17;
-      --brass-gold: #d6b678;
-      --brass-bright: #f2d9a0;
-      --brass-hairline: rgba(214, 182, 120, 0.22);
-      --brass-faint: rgba(214, 182, 120, 0.10);
-      --obsidian-glass: rgba(8, 12, 22, 0.78);
-      --obsidian-deep: rgba(5, 8, 16, 0.88);
-      --ink-ivory: #ede6d6;
-      --ink-muted: #968f82;
+      --void-deep: #050811;
+      --void-mid: #090e18;
+      --brass-gold: #cfa962;
+      --brass-bright: #f0d79c;
+      --brass-hairline: rgba(207, 169, 98, 0.28);
+      --brass-faint: rgba(207, 169, 98, 0.12);
+      --obsidian-glass: rgba(11, 15, 24, 0.92);
+      --obsidian-deep: rgba(6, 9, 16, 0.95);
+      --ink-ivory: #efe9dc;
+      --ink-muted: #a69f90;
     }
 
     * {
@@ -34,7 +31,7 @@
       width: 100%;
       height: 100%;
       overflow: hidden;
-      background: radial-gradient(ellipse at 47% 50%, #0a1022 0%, #060913 52%, #03050a 100%);
+      background: radial-gradient(ellipse at 47% 50%, #0b1224 0%, #060a14 55%, #04060d 100%);
       color: var(--ink-ivory);
       font-family: 'Noto Serif SC', Georgia, serif;
       -webkit-font-smoothing: antialiased;
@@ -57,10 +54,10 @@
     /* Subtle Astrolabe Degree Ticks & Atmospheric Vignette */
     .astrolabe-bezel {
       position: fixed;
-      inset: 50px 0 0 0;
+      inset: 52px 0 0 0;
       pointer-events: none;
       z-index: 8;
-      background: radial-gradient(circle at 47% 50%, transparent 56%, rgba(2, 4, 9, 0.72) 100%);
+      background: radial-gradient(circle at 46% 50%, transparent 56%, rgba(3, 5, 11, 0.68) 100%);
     }
 
     .bezel-scale-top {
@@ -69,188 +66,110 @@
       left: 0;
       right: 0;
       height: 6px;
-      border-bottom: 1px solid rgba(214, 182, 120, 0.14);
+      border-bottom: 1px solid rgba(207, 169, 98, 0.14);
       background-image: repeating-linear-gradient(
         to right,
-        rgba(214, 182, 120, 0.28) 0px,
-        rgba(214, 182, 120, 0.28) 1px,
+        rgba(207, 169, 98, 0.28) 0px,
+        rgba(207, 169, 98, 0.28) 1px,
         transparent 1px,
         transparent 28px
       );
     }
 
-    /* Bespoke Celestial Obsidian Panels (Zero Generic SaaS Styling) */
+    /* Bespoke Celestial Obsidian Panels */
     .celestial-panel {
       background: var(--obsidian-glass);
-      backdrop-filter: blur(16px) saturate(130%);
-      -webkit-backdrop-filter: blur(16px) saturate(130%);
+      backdrop-filter: blur(14px) saturate(120%);
+      -webkit-backdrop-filter: blur(14px) saturate(120%);
       border: 1px solid var(--brass-hairline);
-      box-shadow: 0 24px 64px rgba(0, 0, 0, 0.72), inset 0 0 0 1px rgba(255, 244, 218, 0.04);
-      border-radius: 4px;
-      position: relative;
-    }
-
-    /* Astrolabe Corner Crosshair Ticks (+) */
-    .astrolabe-corners::before,
-    .astrolabe-corners::after,
-    .astrolabe-corners > .corner-bl,
-    .astrolabe-corners > .corner-br {
-      content: '+';
-      position: absolute;
-      font-family: 'JetBrains Mono', monospace;
-      font-size: 11px;
-      font-weight: 400;
-      line-height: 1;
-      color: rgba(214, 182, 120, 0.62);
-      pointer-events: none;
-      z-index: 5;
-    }
-    .astrolabe-corners::before { top: -6px; left: -5px; }
-    .astrolabe-corners::after { top: -6px; right: -5px; }
-    .astrolabe-corners > .corner-bl { bottom: -6px; left: -5px; }
-    .astrolabe-corners > .corner-br { bottom: -6px; right: -5px; }
-
-    /* Warm Museum Parchment Theme for Right Syzygy Scroll */
-    .parchment-scroll {
-      background: rgba(244, 239, 228, 0.96) !important;
-      color: #191c24 !important;
-      border-color: rgba(166, 132, 74, 0.48) !important;
-      box-shadow: 0 24px 64px rgba(0, 0, 0, 0.78), inset 0 0 0 1px rgba(255, 252, 245, 0.75) !important;
-    }
-    .parchment-scroll .t-heading { color: #12151c !important; }
-    .parchment-scroll .t-body { color: #2d313b !important; }
-    .parchment-scroll .t-muted { color: #686256 !important; }
-    .parchment-scroll .t-gold { color: #8c6218 !important; }
-    .parchment-scroll .b-hairline { border-color: rgba(28, 32, 42, 0.14) !important; }
-    .parchment-scroll .mythos-pane {
-      background: rgba(233, 225, 210, 0.68) !important;
-      border-color: rgba(124, 92, 168, 0.28) !important;
-    }
-    .parchment-scroll .prism-pane {
-      background: rgba(226, 217, 198, 0.75) !important;
-      border-color: rgba(166, 132, 74, 0.35) !important;
-    }
-    .parchment-scroll .physis-pane {
-      background: rgba(235, 229, 216, 0.75) !important;
-      border-color: rgba(45, 118, 138, 0.28) !important;
-    }
-    .parchment-scroll .pdf-slice-box {
-      background: rgba(252, 249, 242, 0.92) !important;
-      border-color: rgba(140, 98, 24, 0.28) !important;
-      color: #1f242d !important;
-    }
-    .parchment-scroll .search-field {
-      background: rgba(255, 252, 246, 0.92) !important;
-      color: #151820 !important;
-      border-color: rgba(140, 98, 24, 0.32) !important;
-    }
-    .parchment-scroll .action-pill {
-      background: rgba(140, 98, 24, 0.09) !important;
-      border-color: rgba(140, 98, 24, 0.32) !important;
-      color: #593d0b !important;
-    }
-    .parchment-scroll .action-pill:hover {
-      background: rgba(140, 98, 24, 0.18) !important;
-      color: #12151c !important;
-    }
-    .parchment-scroll .bridge-row:hover {
-      background: rgba(166, 132, 74, 0.12) !important;
-    }
-    .parchment-scroll .bridge-row.active-row {
-      background: rgba(166, 132, 74, 0.18) !important;
-      border-left-color: #8c6218 !important;
+      box-shadow: 0 20px 56px rgba(0, 0, 0, 0.68), inset 0 0 0 1px rgba(255, 244, 218, 0.04);
+      border-radius: 0;
     }
 
     /* Custom Scrollbars */
     .astro-scroll::-webkit-scrollbar { width: 4px; height: 4px; }
     .astro-scroll::-webkit-scrollbar-track { background: transparent; }
-    .astro-scroll::-webkit-scrollbar-thumb {
-      background: rgba(214, 182, 120, 0.26);
-      border-radius: 2px;
-    }
-    .astro-scroll::-webkit-scrollbar-thumb:hover {
-      background: rgba(214, 182, 120, 0.52);
-    }
+    .astro-scroll::-webkit-scrollbar-thumb { background: rgba(207, 169, 98, 0.28); }
+    .astro-scroll::-webkit-scrollbar-thumb:hover { background: rgba(207, 169, 98, 0.56); }
 
-    /* Navigation & Interactive Buttons */
+    /* Navigation & Interactive Buttons (harmonized 1:1 with Classic Topbar) */
     .dim-tab {
       position: relative;
       padding: 6px 14px;
-      font-size: 12px;
-      letter-spacing: 0.06em;
-      color: rgba(237, 230, 214, 0.68);
-      border-right: 1px solid var(--brass-hairline);
-      transition: all 0.24s ease;
+      font-size: 12.5px;
+      letter-spacing: 0.04em;
+      color: rgba(239, 236, 230, 0.74);
+      border-right: 1px solid rgba(207, 169, 98, 0.24);
+      transition: background-color 0.2s ease, color 0.2s ease;
       white-space: nowrap;
     }
     .dim-tab:last-child { border-right: none; }
     .dim-tab:hover {
       color: #fff8eb;
-      background: rgba(214, 182, 120, 0.09);
+      background: rgba(207, 169, 98, 0.11);
     }
     .dim-tab.active {
-      background: linear-gradient(180deg, rgba(214, 182, 120, 0.24) 0%, rgba(214, 182, 120, 0.08) 100%);
+      background: linear-gradient(180deg, rgba(207, 169, 98, 0.26) 0%, rgba(207, 169, 98, 0.08) 100%);
       color: #fff6e0;
       box-shadow: inset 0 -2px 0 var(--brass-gold);
     }
 
-    /* Prominent Syzygy Eclipse Toggle */
+    /* Prominent Bridge Toggle */
     .syzygy-btn {
-      border: 1px solid rgba(214, 182, 120, 0.35);
-      background: rgba(10, 14, 26, 0.85);
-      color: rgba(237, 230, 214, 0.78);
-      transition: all 0.28s cubic-bezier(0.22, 1, 0.36, 1);
-      border-radius: 3px;
+      border: 1px solid rgba(207, 169, 98, 0.36);
+      background: rgba(9, 14, 24, 0.88);
+      color: rgba(239, 236, 230, 0.78);
+      transition: all 0.22s ease;
+      border-radius: 0;
     }
     .syzygy-btn.active {
-      background: linear-gradient(135deg, rgba(214, 182, 120, 0.28) 0%, rgba(126, 102, 214, 0.24) 100%);
-      border-color: #e8c987;
+      background: linear-gradient(135deg, rgba(207, 169, 98, 0.26) 0%, rgba(126, 102, 214, 0.2) 100%);
+      border-color: var(--brass-bright);
       color: #fff9eb;
-      box-shadow: 0 0 22px rgba(214, 182, 120, 0.28), inset 0 0 10px rgba(214, 182, 120, 0.14);
+      box-shadow: 0 0 18px rgba(207, 169, 98, 0.24);
     }
 
     .ctl-btn {
       border: 1px solid var(--brass-hairline);
-      background: rgba(8, 12, 22, 0.76);
-      color: rgba(237, 230, 214, 0.78);
-      border-radius: 3px;
-      transition: all 0.2s ease;
+      background: rgba(9, 14, 24, 0.82);
+      color: rgba(239, 236, 230, 0.8);
+      border-radius: 0;
+      transition: background-color 0.18s ease, border-color 0.18s ease, color 0.18s ease;
     }
     .ctl-btn:hover {
-      border-color: rgba(214, 182, 120, 0.55);
+      border-color: var(--brass-bright);
       color: #fff;
-      background: rgba(214, 182, 120, 0.12);
+      background: rgba(207, 169, 98, 0.14);
     }
     .ctl-btn.active {
       border-color: var(--brass-gold);
       color: var(--brass-bright);
-      background: rgba(214, 182, 120, 0.18);
+      background: rgba(207, 169, 98, 0.2);
     }
 
     /* Bottom Curated Syzygy Trail Pills */
     .trail-pill {
-      padding: 6px 12px;
-      border: 1px solid rgba(214, 182, 120, 0.18);
-      background: rgba(7, 10, 19, 0.75);
-      color: rgba(232, 224, 208, 0.76);
-      border-radius: 3px;
+      padding: 5px 10px;
+      border: 1px solid rgba(207, 169, 98, 0.2);
+      background: rgba(8, 12, 22, 0.82);
+      color: rgba(232, 224, 208, 0.78);
+      border-radius: 0;
       font-size: 11.5px;
-      transition: all 0.22s ease;
+      transition: all 0.2s ease;
       white-space: nowrap;
       display: inline-flex;
       align-items: center;
-      gap: 6px;
+      gap: 5px;
     }
     .trail-pill:hover {
-      border-color: rgba(214, 182, 120, 0.52);
+      border-color: rgba(207, 169, 98, 0.56);
       color: #fff8e8;
-      transform: translateY(-1px);
     }
     .trail-pill.active {
-      background: linear-gradient(135deg, rgba(214, 182, 120, 0.24), rgba(82, 209, 162, 0.14));
+      background: linear-gradient(135deg, rgba(207, 169, 98, 0.24), rgba(82, 209, 162, 0.12));
       border-color: var(--brass-bright);
       color: #fff9eb;
-      box-shadow: 0 0 18px rgba(214, 182, 120, 0.22);
+      box-shadow: 0 0 14px rgba(207, 169, 98, 0.2);
     }
 
     /* 3D Projected World Anchors */
@@ -267,7 +186,7 @@
       transform: translate(-50%, -50%);
       pointer-events: auto;
       cursor: pointer;
-      transition: opacity 0.25s ease, transform 0.22s ease;
+      transition: opacity 0.22s ease, transform 0.2s ease;
       will-change: left, top, opacity;
     }
     .world-tag:hover {
@@ -276,36 +195,36 @@
     }
 
     .vol-plaque {
-      padding: 4px 11px 5px;
-      background: rgba(5, 8, 16, 0.76);
-      border: 1px solid rgba(214, 182, 120, 0.28);
+      padding: 4px 10px 5px;
+      background: rgba(7, 11, 20, 0.82);
+      border: 1px solid rgba(207, 169, 98, 0.3);
       backdrop-filter: blur(6px);
-      border-radius: 3px;
+      border-radius: 0;
       text-align: center;
       white-space: nowrap;
     }
     .vol-plaque.wormhole-plaque {
-      border-color: rgba(243, 208, 138, 0.62);
-      box-shadow: 0 0 18px rgba(243, 208, 138, 0.18);
+      border-color: rgba(240, 215, 156, 0.62);
+      box-shadow: 0 0 16px rgba(240, 215, 156, 0.16);
     }
 
     .motif-anchor-chip {
-      padding: 2px 8px;
-      background: rgba(14, 12, 30, 0.82);
-      border: 1px solid rgba(182, 146, 246, 0.42);
-      border-radius: 2px;
-      font-size: 10.5px;
-      color: #ede4ff;
+      padding: 3px 9px;
+      background: rgba(11, 14, 28, 0.88);
+      border: 1px solid rgba(207, 169, 98, 0.45);
+      border-radius: 0;
+      font-size: 11px;
+      color: #f4ecda;
       white-space: nowrap;
       backdrop-filter: blur(4px);
       display: inline-flex;
       align-items: center;
-      gap: 5px;
+      gap: 6px;
     }
     .motif-anchor-chip:hover {
-      border-color: #f2d9a0;
+      border-color: var(--brass-bright);
       color: #fff;
-      box-shadow: 0 0 14px rgba(182, 146, 246, 0.38);
+      box-shadow: 0 0 14px rgba(207, 169, 98, 0.32);
     }
 
     /* Animated Brass Celestial Reticle */
@@ -342,7 +261,7 @@
 
     /* Slide-out Drawers */
     .drawer-anim {
-      transition: transform 0.42s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.3s ease;
+      transition: transform 0.32s cubic-bezier(0.22, 1, 0.36, 1), opacity 0.22s ease;
     }
     .drawer-left-hidden {
       transform: translateX(calc(-100% - 24px));
@@ -355,10 +274,10 @@
       pointer-events: none;
     }
   </style>
-  <script type="module" crossorigin src="/astraia/assets/index-CMbjF6r5.js"></script>
-  <link rel="modulepreload" crossorigin href="/astraia/assets/engraving-DXXoZXPm.js">
-  <link rel="stylesheet" crossorigin href="/astraia/assets/engraving-DiJwgmlA.css">
-  <link rel="stylesheet" crossorigin href="/astraia/assets/index-CQXT2Htc.css">
+  <script type="module" crossorigin src="/astraia/assets/index-Cy4bxCWe.js"></script>
+  <link rel="modulepreload" crossorigin href="/astraia/assets/engraving-B1Dq8Psu.js">
+  <link rel="stylesheet" crossorigin href="/astraia/assets/engraving-0pHSjG8_.css">
+  <link rel="stylesheet" crossorigin href="/astraia/assets/index-CSBSJ9Kg.css">
 </head>
 <body>
 
@@ -377,12 +296,12 @@
   <!-- 4. ANIMATED BRASS CELESTIAL RETICLE -->
   <div id="astrolabe-reticle">
     <svg class="reticle-svg" viewBox="0 0 48 48" fill="none">
-      <circle cx="24" cy="24" r="19" stroke="#d6b678" stroke-width="0.9" stroke-dasharray="4 3" opacity="0.9"/>
+      <circle cx="24" cy="24" r="19" stroke="#cfa962" stroke-width="0.9" stroke-dasharray="4 3" opacity="0.9"/>
       <circle cx="24" cy="24" r="11.5" stroke="#fff3d1" stroke-width="0.7" opacity="0.65"/>
-      <line x1="24" y1="1" x2="24" y2="8" stroke="#d6b678" stroke-width="1.2"/>
-      <line x1="24" y1="40" x2="24" y2="47" stroke="#d6b678" stroke-width="1.2"/>
-      <line x1="1" y1="24" x2="8" y2="24" stroke="#d6b678" stroke-width="1.2"/>
-      <line x1="40" y1="24" x2="47" y2="24" stroke="#d6b678" stroke-width="1.2"/>
+      <line x1="24" y1="1" x2="24" y2="8" stroke="#cfa962" stroke-width="1.2"/>
+      <line x1="24" y1="40" x2="24" y2="47" stroke="#cfa962" stroke-width="1.2"/>
+      <line x1="1" y1="24" x2="8" y2="24" stroke="#cfa962" stroke-width="1.2"/>
+      <line x1="40" y1="24" x2="47" y2="24" stroke="#cfa962" stroke-width="1.2"/>
     </svg>
   </div>
 
@@ -396,26 +315,26 @@
     <div id="tt-sub" class="text-[10.5px] text-[#a8a092] mt-1 leading-normal">点击检视朔望心物双卷与折光机制</div>
   </div>
 
-  <!-- 6. TOP NAVIGATION BAR -->
-  <header id="syzygy-header" class="fixed top-0 left-0 right-0 h-[50px] z-30 flex items-center justify-between px-3.5 lg:px-6 bg-[#04060b]/90 backdrop-blur-md border-b border-[#d6b678]/25">
+  <!-- 6. UNIFIED 52PX OBSERVATORY TOP NAVIGATION BAR -->
+  <header id="syzygy-header" class="fixed top-0 left-0 right-0 z-30 flex items-center justify-between px-4 lg:px-6 bg-[#060913]/90 backdrop-blur-md border-b border-[#d6b678]/30">
     <!-- Left Brand -->
-    <a href="../" class="syzygy-brand flex items-center gap-2.5 shrink-0" aria-label="返回 Astraia 主图谱">
-      <svg class="engraving-brand-mark" viewBox="0 0 64 64" aria-hidden="true"><rect x="3" y="3" width="58" height="58" fill="none" stroke="currentColor"/><rect x="7" y="7" width="50" height="50" fill="none" stroke="currentColor" stroke-width=".8"/><path d="M12 12 Q32 27 52 12 Q37 32 52 52 Q32 37 12 52 Q27 32 12 12Z M3 32H61 M32 3V61" fill="none" stroke="currentColor" stroke-width="1.1"/><path d="M32 27L37 32L32 37L27 32Z" fill="currentColor"/></svg>
-      <span class="font-cinzel tracking-[0.26em] text-sm md:text-base font-semibold text-[#f5eedc]">ASTRAIA</span>
-      <span class="hidden xl:inline-block font-mono-tech text-[9.5px] tracking-[0.18em] text-[#d6b678]/70 border-l border-[#d6b678]/25 pl-2.5 uppercase">
-        PHYSIS × MYTHOS COSMOGRAPHY
+    <a href="../" class="syzygy-brand flex items-center gap-2.5 shrink-0" aria-label="返回 Astraia 精查图谱">
+      <svg class="engraving-brand-mark" viewBox="0 0 64 64" aria-hidden="true"><rect x="3" y="3" width="58" height="58" fill="none" stroke="currentColor" stroke-width="1.3"/><rect x="8" y="8" width="48" height="48" fill="none" stroke="currentColor" stroke-width=".85"/><path d="M12 12 Q32 27 52 12 Q37 32 52 52 Q32 37 12 52 Q27 32 12 12Z M3 32H61 M32 3V61" fill="none" stroke="currentColor" stroke-width="1.15"/><path d="M32 26.5L37.5 32L32 37.5L26.5 32Z" fill="currentColor"/></svg>
+      <span class="font-cinzel tracking-[0.22em] text-sm md:text-base font-semibold text-[#f5eedc]">ASTRAIA</span>
+      <span class="hidden xl:inline-block font-mono-tech text-[9.5px] tracking-[0.18em] text-[#d6b678]/75 border-l border-[#d6b678]/25 pl-2.5 uppercase">
+        PHYSIS × MYTHOS
       </span>
     </a>
 
     <!-- Center 3-Module Cosmic Dimension Switcher -->
-    <nav class="flex items-center border border-[#d6b678]/30 bg-[#060913]/90 rounded-[3px] overflow-x-auto max-w-[54vw] sm:max-w-none">
+    <nav class="flex items-center border border-[#d6b678]/35 bg-[#04060b]/90 overflow-x-auto max-w-[54vw] sm:max-w-none">
       <button data-dim="umbra" class="dim-tab flex items-center gap-1.5">
         <span class="text-[#d6b678]">◇</span>
         <span class="font-cinzel tracking-wider hidden sm:inline">UMBRA ·</span>
         <span>坤舆异志</span>
       </button>
       <button data-dim="sidera" class="dim-tab flex items-center gap-1.5">
-        <span class="text-[#b692f6]">+</span>
+        <span class="text-[#c4b5fd]">+</span>
         <span class="font-cinzel tracking-wider hidden sm:inline">SIDERA ·</span>
         <span>玄象星络</span>
       </button>
@@ -426,14 +345,13 @@
       </button>
     </nav>
 
-    <!-- Right Syzygy & Projection Controls -->
+    <!-- Right Observatory & Bridge Controls -->
     <div class="flex items-center gap-1.5 shrink-0">
-      <a id="btn-classic-view" class="ctl-btn syzygy-classic" href="../?view=life">经典图谱</a>
-      <button id="btn-fiction" class="ctl-btn syzygy-fiction" type="button" role="switch" aria-checked="true">隐藏 F 级虚构</button>
-      <button id="btn-syzygy-toggle" class="syzygy-btn active px-2.5 md:px-3.5 py-1.5 text-xs font-medium flex items-center gap-1.5" title="开启/关闭朔望心物叠影折光弦">
-        <span class="text-[#f2d9a0] text-sm leading-none">◐</span>
-        <span>朔望叠影</span>
-        <span class="hidden md:inline font-mono-tech text-[10px] tracking-wider opacity-85">· SYZYGY</span>
+      <a id="btn-classic-view" class="ctl-btn syzygy-classic" href="../?view=life" title="返回精查图谱（真地图、四层切片、年代轴与双卷宗取证）">◈ 精查图谱</a>
+      <button id="btn-fiction" class="ctl-btn syzygy-fiction" type="button" role="switch" aria-checked="true" title="隔离或放行 F 级数字传说与文学虚构">隔离 F 级</button>
+      <button id="btn-syzygy-toggle" class="syzygy-btn active px-2.5 md:px-3.5 py-1.5 text-xs font-medium flex items-center gap-1.5" title="开启或关闭画布上的心物折光星桥">
+        <span class="text-[#f2d9a0] text-xs leading-none">◐</span>
+        <span>折光星桥</span>
       </button>
       <button id="btn-proj-toggle" class="ctl-btn px-2.5 py-1.5 text-xs font-mono-tech">
         2D 星盘
@@ -445,64 +363,77 @@
   </header>
 
   <!-- Floating Context Watermark Header -->
-  <div id="context-banner" class="fixed top-[64px] left-5 lg:left-[274px] z-15 pointer-events-none transition-all duration-300">
-    <div id="banner-eyebrow" class="font-mono-tech text-[9.5px] tracking-[0.22em] text-[#d6b678]/80 uppercase">
+  <div id="context-banner" class="fixed top-[64px] left-5 lg:left-[274px] pointer-events-none transition-all duration-300">
+    <div id="banner-eyebrow" class="font-mono-tech text-[9.5px] tracking-[0.2em] text-[#d6b678]/80 uppercase">
       OMNIA × SYZYGY / HETEROGENEOUS ASTROLABE
     </div>
     <div class="flex items-baseline gap-2.5 mt-0.5">
       <h1 id="banner-title" class="font-cinzel text-xl md:text-2xl tracking-[0.14em] text-[#f7f1e3]">OMNIA · 万象星枢</h1>
-      <span id="banner-pill" class="font-mono-tech text-[10px] px-2 py-0.5 border border-[#d6b678]/35 text-[#f2d9a0] bg-[#080c16]/70">
+      <span id="banner-pill" class="font-mono-tech text-[10px] px-2 py-0.5 border border-[#d6b678]/35 text-[#f2d9a0] bg-[#050811]/85">
         正在载入心物折光弦…
       </span>
     </div>
-    <p id="banner-desc" class="text-[11.5px] text-[#9e9688] mt-0.5">
+    <p id="banner-desc" class="text-[11.5px] text-[#a8a092] mt-0.5">
       《格物识微》五卷知识星系，与民俗、个案及研究线索相互对照
     </p>
   </div>
 
   <!-- Restore Drawer Tabs when Collapsed -->
-  <button id="btn-open-left" class="hidden fixed top-[68px] left-3 z-25 celestial-panel px-3 py-1.5 text-xs text-[#f2d9a0] hover:text-white items-center gap-1.5">
+  <button id="btn-open-left" class="hidden fixed top-[64px] left-3.5 celestial-panel px-3 py-1.5 text-xs text-[#f2d9a0] hover:text-white items-center gap-1.5">
     <span>☰</span> <span>星域目录</span>
   </button>
-  <button id="btn-open-right" class="hidden fixed top-[68px] right-3 z-25 celestial-panel px-3 py-1.5 text-xs text-[#f2d9a0] hover:text-white items-center gap-1.5">
+  <button id="btn-open-right" class="hidden fixed top-[64px] right-3.5 celestial-panel px-3 py-1.5 text-xs text-[#f2d9a0] hover:text-white items-center gap-1.5">
     <span>◂</span> <span>朔望手卷</span>
   </button>
 
-  <!-- 7. LEFT COLLAPSIBLE PANEL: 星域目录 · ATLAS INDEX -->
-  <aside id="left-drawer" class="drawer-anim fixed top-[64px] bottom-[76px] left-3.5 w-[246px] z-20 celestial-panel astrolabe-corners engraving-panel flex flex-col">
-    <span class="corner-bl">+</span><span class="corner-br">+</span>
-
+  <!-- 7. LEFT COLLAPSIBLE PANEL: 星域目录 · ATLAS INDEX (always observatory dark) -->
+  <aside id="left-drawer" class="drawer-anim fixed top-[64px] bottom-[76px] left-3.5 w-[246px] z-20 celestial-panel engraving-panel flex flex-col">
     <!-- Header -->
     <div class="px-3.5 pt-3 pb-2.5 border-b border-[#d6b678]/20 flex items-start justify-between">
       <div>
-        <div class="font-mono-tech text-[9px] tracking-[0.2em] text-[#d6b678]/75 uppercase">ATLAS INDEX</div>
+        <div class="font-mono-tech text-[9px] tracking-[0.2em] text-[#d6b678]/80 uppercase">ATLAS INDEX</div>
         <h2 class="font-serif-sc text-sm font-semibold text-[#f5eedc] tracking-wider mt-0.5">星域目录 · 双界检索</h2>
       </div>
-      <button id="btn-close-left" class="text-[11px] text-[#9e9688] hover:text-[#f2d9a0] px-1.5 py-0.5">◂ 收起</button>
+      <button id="btn-close-left" class="text-[11px] text-[#a8a092] hover:text-[#f2d9a0] px-1.5 py-0.5">◂ 收起</button>
     </div>
 
     <!-- Stats Summary Strip -->
-    <div class="syzygy-stats grid border-b border-[#d6b678]/15 text-center py-2 bg-[#050811]/55">
+    <div class="syzygy-stats grid border-b border-[#d6b678]/20 text-center py-2 bg-[#050811]/55">
       <div>
         <div id="stats-entries" class="font-mono-tech text-xs text-[#f2d9a0] font-medium">—</div>
-        <div class="text-[9.5px] text-[#968f82]">格物星点</div>
+        <div class="text-[9.5px] text-[#9e9688]">格物星点</div>
       </div>
       <div class="border-x border-[#d6b678]/15">
         <div id="stats-subjects" class="font-mono-tech text-xs text-[#52d1a2] font-medium">—</div>
-        <div class="text-[9.5px] text-[#968f82]">知识学科</div>
+        <div class="text-[9.5px] text-[#9e9688]">知识学科</div>
       </div>
       <div>
-        <div id="stats-bridges" class="font-mono-tech text-xs text-[#b692f6] font-medium">—</div>
-        <div class="text-[9.5px] text-[#968f82]">心物桥接</div>
+        <div id="stats-bridges" class="font-mono-tech text-xs text-[#c4b5fd] font-medium">—</div>
+        <div class="text-[9.5px] text-[#9e9688]">心物桥接</div>
       </div>
       <div class="border-l border-[#d6b678]/15" title="主题候选与资料类型阅读指引">
-        <div id="stats-matches" class="font-mono-tech text-xs text-[#e8c57b] font-medium">—</div>
-        <div class="text-[9.5px] text-[#968f82]">可对读</div>
+        <div id="stats-matches" class="font-mono-tech text-xs text-[#f3d08a] font-medium">—</div>
+        <div class="text-[9.5px] text-[#9e9688]">可对读</div>
       </div>
     </div>
 
+    <!-- Co-located Global Search Input (right above results!) -->
+    <div class="px-2.5 py-2 border-b border-[#d6b678]/20">
+      <div class="relative">
+        <input
+          id="codex-search"
+          type="text"
+          placeholder="检索格物、志怪或编码... (⌘K)"
+          class="search-field w-full px-2.5 py-1.5 pr-8 text-xs bg-[#050811]/85 border border-[#d6b678]/30 text-[#f3ece0] focus:outline-none focus:border-[#d6b678]"
+        />
+        <button id="btn-clear-query" class="hidden absolute right-2.5 top-1/2 -translate-y-1/2 text-xs text-[#a8a092] hover:text-white">✕</button>
+      </div>
+      <button id="btn-mobile-results" class="syzygy-mobile-results" type="button" hidden>已筛出匹配条目</button>
+    </div>
+
+    <!-- Source Tier Seals -->
     <div class="syzygy-tier-rail" aria-label="信源等级筛选">
-      <span>SOURCE</span>
+      <span title="按资料信源等级筛选：S/A/B/C 为实证文献，F 为虚构隔离区">SOURCE</span>
       <button type="button" data-tier="S" aria-pressed="true">S</button>
       <button type="button" data-tier="A" aria-pressed="true">A</button>
       <button type="button" data-tier="B" aria-pressed="true">B</button>
@@ -518,107 +449,81 @@
       </select>
     </label>
 
-    <!-- 4 Quick Filter Tabs -->
-    <div class="p-2 grid grid-cols-2 gap-1 border-b border-[#d6b678]/15 text-[11px]">
+    <!-- 5 Quick Filter Tabs -->
+    <div class="p-2 grid grid-cols-2 gap-1 border-b border-[#d6b678]/20 text-[11px]">
       <button data-scope="all" class="scope-tab ctl-btn active py-1 px-2 text-center">全部星域</button>
       <button data-scope="volumes" class="scope-tab ctl-btn py-1 px-2 text-center">五卷格物</button>
       <button data-scope="supplement" class="scope-tab ctl-btn py-1 px-2 text-center">全部民俗</button>
       <button data-scope="bridges" class="scope-tab ctl-btn py-1 px-2 text-center">心物桥接</button>
-      <button data-scope="reading" class="scope-tab ctl-btn py-1 px-2 text-center col-span-2">跨学科阅读 · 68</button>
+      <button data-scope="reading" class="scope-tab ctl-btn py-1 px-2 text-center">跨学科选读 · 68</button>
     </div>
 
     <!-- Dynamic Directory Tree -->
-    <div id="atlas-tree" class="flex-1 overflow-y-auto astro-scroll px-3 py-2.5 space-y-3">
+    <div id="atlas-tree" class="flex-1 overflow-y-auto astro-scroll px-2.5 py-2.5 space-y-3">
       <!-- Populated by JS -->
     </div>
   </aside>
 
-  <!-- 8. RIGHT COLLAPSIBLE PANEL: 朔望手卷 · SYZYGY CODEX -->
-  <aside id="right-drawer" class="drawer-anim fixed top-[64px] bottom-[76px] right-3.5 w-[412px] max-w-[calc(100vw-1.75rem)] z-20 celestial-panel astrolabe-corners engraving-panel flex flex-col">
-    <span class="corner-bl">+</span><span class="corner-br">+</span>
-
-    <!-- Top Scroll Bar: Dual-Theme Pill & Collapse -->
-    <div class="px-4 py-2.5 border-b border-[#d6b678]/20 b-hairline flex items-center justify-between">
+  <!-- 8. RIGHT COLLAPSIBLE PANEL: 朔望手卷 · SYZYGY CODEX (supports 深空金错 / 古拓羊皮 + 展卷并读) -->
+  <aside id="right-drawer" class="drawer-anim fixed top-[64px] bottom-[76px] right-3.5 w-[412px] max-w-[calc(100vw-1.75rem)] z-20 celestial-panel engraving-panel flex flex-col">
+    <!-- Top Scroll Bar: Dual-Theme Pill, Spread Toggle & Collapse -->
+    <div class="px-4 py-2.5 border-b border-[#d6b678]/25 b-hairline flex items-center justify-between gap-2">
       <div class="flex items-center gap-2">
-        <span class="font-mono-tech text-[9.5px] tracking-[0.16em] t-gold text-[#d6b678] uppercase">SYZYGY CODEX</span>
-        <div class="inline-flex rounded-[3px] p-0.5 border border-[#d6b678]/30 bg-black/25 text-[11px]">
+        <span class="font-mono-tech text-[9.5px] tracking-[0.16em] t-gold text-[#d6b678] uppercase shrink-0">SYZYGY CODEX</span>
+        <div class="codex-theme-switch text-[11px]">
           <button id="theme-btn-dark" type="button" aria-pressed="true" class="engraving-theme-btn">深空金错</button>
           <button id="theme-btn-parchment" type="button" aria-pressed="false" class="engraving-theme-btn">古拓羊皮</button>
         </div>
       </div>
-      <button id="btn-close-right" class="text-[11px] t-muted text-[#9e9688] hover:text-[#d6b678] transition">收起 ▸</button>
-    </div>
-
-    <!-- Live Search Input -->
-    <div class="px-4 py-2.5 border-b border-[#d6b678]/15 b-hairline">
-      <div class="relative">
-        <input
-          id="codex-search"
-          type="text"
-          placeholder="检索格物词条、志怪母题、ATU/OCM编号... (⌘K)"
-          class="search-field w-full px-3 py-1.5 pr-8 text-xs bg-[#050811]/85 border border-[#d6b678]/28 rounded-[3px] text-[#f3ece0] focus:outline-none focus:border-[#d6b678]"
-        />
-        <button id="btn-clear-query" class="hidden absolute right-2.5 top-1/2 -translate-y-1/2 text-xs text-[#9e9688] hover:text-white">✕</button>
+      <div class="flex items-center gap-2 shrink-0">
+        <button id="btn-spread-codex" type="button" aria-pressed="false" class="engraving-theme-btn syzygy-spread-btn" title="展开双栏并排对读上卷志怪与下卷格物">展卷并读</button>
+        <button id="btn-close-right" class="text-[11px] t-muted text-[#a8a092] hover:text-[#d6b678]">收起 ▸</button>
       </div>
-      <button id="btn-mobile-results" class="syzygy-mobile-results" type="button" hidden>在星域目录查看匹配 ↗</button>
     </div>
 
-    <!-- Scrollable Dual-Pane Syzygy Manuscript + Bridge Index -->
-    <div class="flex-1 overflow-y-auto astro-scroll px-4 py-3 space-y-3.5">
+    <!-- Scrollable Pure Reading Codex -->
+    <div id="codex-scroll" class="flex-1 overflow-y-auto astro-scroll px-4 py-3 space-y-3.5">
       <!-- Active Dual-Pane Syzygy Card -->
       <div id="syzygy-card-container">
         <!-- Rendered dynamically -->
-      </div>
-
-      <!-- List of All Syzygy Bridges & Filtered Nodes -->
-      <div class="pt-2 border-t border-[#d6b678]/20 b-hairline">
-        <div class="flex items-center justify-between mb-2">
-          <span class="font-mono-tech text-[10px] tracking-[0.15em] t-gold text-[#d6b678] uppercase">
-            ✦ 心物耦合星桥索引 · SYZYGY BRIDGES
-          </span>
-          <span id="bridge-count-label" class="font-mono-tech text-[10px] t-muted text-[#968f82]">— BRIDGES</span>
-        </div>
-        <div id="bridges-index-list" class="space-y-1.5">
-          <!-- Populated dynamically -->
-        </div>
       </div>
     </div>
   </aside>
 
   <!-- 9. BOTTOM FLOATING DOCK: 5 CURATED SYZYGY TRAILS (心物共鸣星轨) -->
-  <footer class="fixed bottom-3 left-1/2 -translate-x-1/2 z-25 max-w-[96vw]">
-    <div class="celestial-panel px-3 py-2 flex items-center gap-1.5 overflow-x-auto astro-scroll">
-      <div class="flex items-center gap-1.5 pr-2.5 mr-1 border-r border-[#d6b678]/25 shrink-0">
+  <footer class="fixed bottom-3 left-1/2 -translate-x-1/2 max-w-[96vw]">
+    <div class="celestial-panel px-2.5 py-1.5 flex items-center gap-1 overflow-x-auto astro-scroll">
+      <div class="flex items-center gap-1.5 pr-2.5 mr-1 border-r border-[#d6b678]/30 shrink-0">
         <span class="text-[#d6b678] text-xs">✦</span>
         <div class="leading-tight">
-          <div class="font-mono-tech text-[8.5px] tracking-[0.18em] text-[#d6b678]/80">SYZYGY TRAILS</div>
-          <div class="text-[11px] font-semibold text-[#f4ecda]">心物共鸣星轨</div>
+          <div class="font-mono-tech text-[8.5px] tracking-[0.16em] text-[#d6b678]/80">SYZYGY TRAILS</div>
+          <div class="text-[10.5px] font-semibold text-[#f4ecda]">心物共鸣星轨</div>
         </div>
       </div>
 
       <button data-trail="all" class="trail-pill active">
         <span class="font-mono-tech text-[10px] text-[#d6b678]">ALL</span>
-        <span>全域朔望总览</span>
+        <span>全域总览</span>
       </button>
       <button data-trail="trail1" class="trail-pill">
         <span class="font-mono-tech text-[10px] text-[#e8a856]">01</span>
-        <span>暗夜压床的全球切片</span>
+        <span>暗夜压床切片</span>
       </button>
       <button data-trail="trail2" class="trail-pill">
         <span class="font-mono-tech text-[10px] text-[#64b5f6]">02</span>
-        <span>凶宅的毒理、声学与暗示</span>
+        <span>凶宅毒理与声学</span>
       </button>
       <button data-trail="trail3" class="trail-pill">
         <span class="font-mono-tech text-[10px] text-[#52d1a2]">03</span>
-        <span>身后鬼影与大脑空间错配</span>
+        <span>身后鬼影与错配</span>
       </button>
       <button data-trail="trail4" class="trail-pill">
-        <span class="font-mono-tech text-[10px] text-[#9d8df7]">04</span>
-        <span>陌生人焦虑与猎巫风暴</span>
+        <span class="font-mono-tech text-[10px] text-[#c4b5fd]">04</span>
+        <span>陌生人焦虑与猎巫</span>
       </button>
       <button data-trail="trail5" class="trail-pill">
         <span class="font-mono-tech text-[10px] text-[#f3d08a]">05</span>
-        <span>钢筋森林的阈限造神</span>
+        <span>钢筋森林阈限造神</span>
       </button>
     </div>
   </footer>
