@@ -19,6 +19,7 @@ MARKER = '<script id="astraia-r2-assets" type="application/json">{}</script>'
 ENTRYPOINTS = ("index.html", "syzygy/index.html")
 IMAGES = {".avif", ".gif", ".jpg", ".jpeg", ".png", ".svg", ".webp"}
 SHARD = re.compile(r"(?:graph|book)-[a-f0-9]{12}-[0-9]{2}-[a-f0-9]{16}\.json")
+LEXICON_SHARD = re.compile(r"(?P<domain>[a-z0-9_]+)-(?P<hash>[a-f0-9]{12})\.json")
 PREVIEW = re.compile(r'(<meta (?:property="og:image"|name="twitter:image") content=")('
                      + re.escape(SITE) + r'og/[^"]+)(")')
 MIME_TYPES = {
@@ -49,6 +50,80 @@ class Asset:
                      transport_hash.hexdigest())
 
 
+def taxonomy_assets(site: Path):
+    """Validate the active taxonomy and retain content-addressed older shards."""
+    taxonomy_path = site / "syzygy/taxonomy.json"
+    lexicon_dir = site / "syzygy/lexicon"
+    manifest_path = lexicon_dir / "manifest.json"
+    if not taxonomy_path.exists() and not manifest_path.exists():
+        if lexicon_dir.exists() and any(lexicon_dir.glob("*.json")):
+            raise ValueError("Lexicon shards exist without their taxonomy and manifest")
+        return []
+    for path in (taxonomy_path, manifest_path):
+        if path.is_symlink() or not path.is_file() or not path.resolve().is_relative_to(site):
+            raise ValueError(f"Invalid taxonomy index: {path}")
+    if lexicon_dir.is_symlink():
+        raise ValueError("Lexicon directory cannot be a symbolic link")
+    taxonomy = json.loads(taxonomy_path.read_text(encoding="utf-8"))
+    manifest_bytes = manifest_path.read_bytes()
+    manifest = json.loads(manifest_bytes.decode("utf-8"))
+    if taxonomy.get("lexicon_manifest_sha256") != sha256(manifest_bytes).hexdigest():
+        raise ValueError("Taxonomy and lexicon manifest do not match")
+    graph_index = json.loads((site / "data/graph_index.json").read_text(encoding="utf-8"))
+    boot = json.loads((site / "syzygy/boot.json").read_text(encoding="utf-8"))
+    if not taxonomy.get("snapshot_id") or taxonomy["snapshot_id"] != graph_index.get("snapshot_id") or taxonomy["snapshot_id"] != boot.get("snapshot_id"):
+        raise ValueError("Taxonomy and published graph snapshots do not match")
+    domains = taxonomy.get("domains")
+    manifest_domains = manifest.get("domains")
+    if not isinstance(domains, list) or not domains or not isinstance(manifest_domains, dict):
+        raise ValueError("Invalid taxonomy domains")
+    active = {}
+    for domain in domains:
+        if not isinstance(domain, dict):
+            raise ValueError("Invalid taxonomy domain")
+        domain_id = domain.get("id")
+        shard = domain.get("lexicon_shard")
+        entry = manifest_domains.get(domain_id)
+        if not isinstance(domain_id, str) or domain_id in active or not isinstance(shard, dict) or not isinstance(entry, dict):
+            raise ValueError("Missing or duplicate taxonomy domain shard")
+        file_name = shard.get("file")
+        digest = shard.get("sha256")
+        count = shard.get("count")
+        if not isinstance(file_name, str) or not file_name.startswith("lexicon/") or not isinstance(digest, str) or not re.fullmatch(r"[a-f0-9]{64}", digest):
+            raise ValueError(f"Invalid lexicon metadata for {domain_id}")
+        basename = file_name.removeprefix("lexicon/")
+        name_match = LEXICON_SHARD.fullmatch(basename)
+        if not name_match or name_match.group("domain") != domain_id or name_match.group("hash") != digest[:12]:
+            raise ValueError(f"Invalid lexicon filename for {domain_id}")
+        if entry.get("file") != file_name or entry.get("sha256") != digest or entry.get("count") != count or domain.get("lexicon_count") != count:
+            raise ValueError(f"Lexicon indexes disagree for {domain_id}")
+        path = lexicon_dir / basename
+        if path.is_symlink() or not path.is_file() or not path.resolve().is_relative_to(site):
+            raise ValueError(f"Missing or invalid lexicon shard: {domain_id}")
+        data = path.read_bytes()
+        if sha256(data).hexdigest() != digest or entry.get("bytes") != len(data):
+            raise ValueError(f"Lexicon shard failed integrity verification: {domain_id}")
+        payload = json.loads(data.decode("utf-8"))
+        if payload.get("domain_id") != domain_id or not isinstance(payload.get("entries"), list) or len(payload["entries"]) != count or payload.get("count", count) != count:
+            raise ValueError(f"Invalid lexicon shard content: {domain_id}")
+        active[domain_id] = path
+    if set(active) != set(manifest_domains):
+        raise ValueError("Taxonomy and lexicon domains differ")
+    paths = []
+    for path in sorted(lexicon_dir.glob("*.json")):
+        if path.name == "manifest.json":
+            continue
+        match = LEXICON_SHARD.fullmatch(path.name)
+        if not match or path.is_symlink() or not path.is_file() or not path.resolve().is_relative_to(site):
+            raise ValueError(f"Invalid lexicon object: {path}")
+        if not sha256(path.read_bytes()).hexdigest().startswith(match.group("hash")):
+            raise ValueError(f"Lexicon filename hash mismatch: {path.name}")
+        paths.append(path)
+    if not set(active.values()).issubset(paths):
+        raise ValueError("Not all active lexicon shards were selected")
+    return paths
+
+
 def assets_in(site: Path):
     names = ("knowledge/handbook.pdf", "data/graph_data.json", "data/graph_details.json")
     files = [site / name for name in names]
@@ -57,6 +132,7 @@ def assets_in(site: Path):
     files.extend(path for path in (site / "knowledge/figures").rglob("*") if path.suffix.lower() in IMAGES)
     files.extend((site / "og").glob("*.png"))
     files.extend(path for path in (site / "syzygy/shards").glob("*.json") if SHARD.fullmatch(path.name))
+    files.extend(taxonomy_assets(site))
     for path in sorted(files):
         if path.is_symlink() or not path.is_file() or not path.resolve().is_relative_to(site):
             raise ValueError(f"Invalid Pages asset {path}")
@@ -137,6 +213,30 @@ def check_delivery(assets, origin, *, ranged_pdf=False):
                 raise ValueError(f"Worker returned an unexpected length for {asset.name}")
 
 
+def check_taxonomy_delivery(site: Path, assets, origin):
+    """Read every active shard through the public worker before Pages deploys."""
+    taxonomy_path = site / "syzygy/taxonomy.json"
+    if not taxonomy_path.exists():
+        return
+    taxonomy = json.loads(taxonomy_path.read_text(encoding="utf-8"))
+    by_name = {asset.name: asset for asset in assets}
+    for domain in taxonomy["domains"]:
+        shard = domain["lexicon_shard"]
+        name = "syzygy/" + shard["file"]
+        asset = by_name[name]
+        request = Request(f"{origin}/{asset.key}", headers={
+            "User-Agent": "Astraia-Pages-publish/1.0", "Origin": "https://miracleqihe.github.io"})
+        with urlopen(request, timeout=25) as response:
+            if response.status != 200 or response.headers.get("Access-Control-Allow-Origin") not in ("*", "https://miracleqihe.github.io"):
+                raise ValueError(f"Worker returned unexpected status or CORS headers for {name}")
+            if response.headers.get_content_type() != "application/json":
+                raise ValueError(f"Worker returned an unexpected content type for {name}")
+            body = response.read()
+        if len(body) != asset.length or sha256(body).hexdigest() != shard["sha256"]:
+            raise ValueError(f"Worker returned different lexicon bytes for {name}")
+    print(f"R2 verified {len(taxonomy['domains'])} active taxonomy shards via the public worker", flush=True)
+
+
 def activate(site: Path, assets, origin):
     pages = {site / name: (site / name).read_text(encoding="utf-8") for name in ENTRYPOINTS}
     markers = [html.count(MARKER) for html in pages.values()]
@@ -193,6 +293,7 @@ def main():
         origin = https_origin(os.environ["ASTRAIA_R2_ASSET_ORIGIN"])
         upload_assets(assets, endpoint)
         check_delivery(assets, origin, ranged_pdf=True)
+        check_taxonomy_delivery(site, assets, origin)
         activate(site, assets, origin)
 
 

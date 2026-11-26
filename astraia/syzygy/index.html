@@ -275,10 +275,10 @@
     }
   </style>
   <script id="astraia-r2-assets" type="application/json">{}</script>
-  <script type="module" crossorigin src="/astraia/assets/index-kmEoG1GR.js"></script>
-  <link rel="modulepreload" crossorigin href="/astraia/assets/engraving-B1Dq8Psu.js">
-  <link rel="stylesheet" crossorigin href="/astraia/assets/engraving-0pHSjG8_.css">
-  <link rel="stylesheet" crossorigin href="/astraia/assets/index-WM9OZslr.css">
+  <script type="module" crossorigin src="/astraia/assets/index-CF6Blx9a.js"></script>
+  <link rel="modulepreload" crossorigin href="/astraia/assets/engraving-BpI4DVvE.js">
+  <link rel="stylesheet" crossorigin href="/astraia/assets/engraving-Cv_qrUCK.css">
+  <link rel="stylesheet" crossorigin href="/astraia/assets/index-CLcCWG6q.css">
 </head>
 <body>
 
@@ -505,13 +505,14 @@
       </select>
     </label>
 
-    <!-- 5 Quick Filter Tabs -->
+    <!-- 6 Quick Filter Tabs -->
     <div class="p-2 grid grid-cols-2 gap-1 border-b border-[#d6b678]/20 text-[11px]">
       <button data-scope="all" class="scope-tab ctl-btn active py-1 px-2 text-center">全部星域</button>
       <button data-scope="volumes" class="scope-tab ctl-btn py-1 px-2 text-center">五卷格物</button>
       <button data-scope="supplement" class="scope-tab ctl-btn py-1 px-2 text-center">全部民俗</button>
       <button data-scope="bridges" class="scope-tab ctl-btn py-1 px-2 text-center">心物桥接</button>
       <button data-scope="reading" class="scope-tab ctl-btn py-1 px-2 text-center">跨学科选读 · 68</button>
+      <button data-scope="taxonomy" class="scope-tab ctl-btn py-1 px-2 text-center">专题谱系</button>
     </div>
 
     <!-- Dynamic Directory Tree -->
@@ -545,6 +546,9 @@
       </div>
     </div>
   </aside>
+
+  <!-- 8B. THEMATIC TAXONOMY EXPLORER OVERLAY -->
+  <section id="taxonomy-explorer" class="celestial-panel engraving-panel taxonomy-explorer" role="region" aria-label="七大专题谱系与辞条总览" hidden></section>
 
   <!-- 9. BOTTOM FLOATING DOCK: SYZYGY MEMBRANE INSTRUMENT + 5 CURATED SYZYGY TRAILS -->
   <footer id="observatory-popovers" class="fixed bottom-3 left-1/2 -translate-x-1/2 max-w-[96vw] flex flex-col items-center gap-1.5">
@@ -620,6 +624,7 @@
     <button type="button" data-observatory-panel="bridges" data-sidera-only aria-controls="sidera-v3-controls" aria-expanded="false"><span aria-hidden="true">◇</span> 星桥</button>
     <button type="button" data-observatory-panel="realm" aria-controls="realm-dock" aria-expanded="false"><span aria-hidden="true">◐</span> 界膜</button>
     <button type="button" data-observatory-panel="trails" aria-controls="trail-dock" aria-expanded="false"><span aria-hidden="true">✦</span> 星轨</button>
+    <button type="button" id="btn-taxonomy-dock" data-scope-trigger="taxonomy" aria-controls="taxonomy-explorer" aria-expanded="false"><span aria-hidden="true">◈</span> 专题谱系</button>
   </nav>
 
   <!-- Subtle Status Toast -->

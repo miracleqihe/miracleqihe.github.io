@@ -33,8 +33,10 @@ jobs:
           cp -R assets _site/assets
           cp -R astraia _site/astraia
 
+      - name: Test R2 taxonomy handling
+        run: python3 -m unittest discover -s .github/tests -p 'test_astraia_r2.py'
+
       - name: Sync and verify Astraia assets on R2
-        if: vars.ASTRAIA_R2_ASSET_ORIGIN != ''
         env:
           ASTRAIA_R2_ASSET_ORIGIN: ${{ vars.ASTRAIA_R2_ASSET_ORIGIN }}
           ASTRAIA_R2_ENDPOINT: ${{ vars.ASTRAIA_R2_ENDPOINT }}
@@ -42,6 +44,8 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.ASTRAIA_R2_SECRET_ACCESS_KEY }}
           AWS_EC2_METADATA_DISABLED: 'true'
         run: |
+          test -n "$ASTRAIA_R2_ASSET_ORIGIN"
+          test -n "$ASTRAIA_R2_ENDPOINT"
           test -n "$AWS_ACCESS_KEY_ID"
           test -n "$AWS_SECRET_ACCESS_KEY"
           python3 -m venv "$RUNNER_TEMP/astraia-r2-python"
