@@ -275,16 +275,46 @@
     }
   </style>
   <script id="astraia-r2-assets" type="application/json">{}</script>
-  <script type="module" crossorigin src="/astraia/assets/index-DMp15D5D.js"></script>
+  <script type="module" crossorigin src="/astraia/assets/index-kmEoG1GR.js"></script>
   <link rel="modulepreload" crossorigin href="/astraia/assets/engraving-B1Dq8Psu.js">
   <link rel="stylesheet" crossorigin href="/astraia/assets/engraving-0pHSjG8_.css">
-  <link rel="stylesheet" crossorigin href="/astraia/assets/index-CSBSJ9Kg.css">
+  <link rel="stylesheet" crossorigin href="/astraia/assets/index-WM9OZslr.css">
 </head>
 <body>
 
   <!-- 1. FULL-BLEED 3D COSMIC CANVAS -->
   <div id="webgl-viewport"></div>
+  <canvas id="membrane-canvas" aria-hidden="true"></canvas>
+  <div id="membrane-whispers" aria-live="polite" aria-atomic="true"></div>
   <div id="syzygy-loading" class="syzygy-loading" role="status">正在汇合星图与卷宗…</div>
+
+  <!-- 1B. FOURTH-WALL OBSERVER PLANE HUD (Realm V: 夷) -->
+  <aside id="observer-veil-hud" class="celestial-panel observer-veil-hud" hidden aria-label="第四面墙 · 夷阶观测者视窗">
+    <div class="observer-veil-head">
+      <span class="font-mono-tech text-[9.5px] tracking-[0.18em] text-[#d6b678]">REALM V · 希死为夷 / FOURTH WALL</span>
+      <button id="btn-observer-close" type="button" class="text-[11px] text-[#a8a092] hover:text-[#f0d79c]">收起</button>
+    </div>
+    <p class="observer-veil-quote">“人死为鬼，鬼死为聻，聻死为希，希死为夷。”——物质与精神都在画框内自转，唯一穿过波动界膜的实体，是此刻凝视屏幕的你。</p>
+    <div class="observer-veil-grid">
+      <div><small>本地时刻</small><strong id="obs-clock">—</strong></div>
+      <div><small>当下月相</small><strong id="obs-lunar">—</strong></div>
+      <div><small>物理视口</small><strong id="obs-viewport">—</strong></div>
+      <div><small>触膜微澜</small><strong id="obs-ripples">0 次</strong></div>
+    </div>
+    <div class="observer-veil-balance">
+      <div class="observer-veil-balance-labels">
+        <span>格物实证</span>
+        <span id="obs-balance-title">初临界膜</span>
+        <span>玄象心象</span>
+      </div>
+      <div class="observer-veil-bar"><span id="obs-balance-marker"></span></div>
+      <p id="obs-balance-reflection" class="syzygy-reference"></p>
+    </div>
+    <div class="observer-veil-actions">
+      <button id="btn-obs-zibuyu" type="button" class="ctl-btn">✦ 典籍示范：《子不语·为聻》⇄《道家名言边界》</button>
+      <button id="btn-obs-return" type="button" class="ctl-btn">◇ 返膜入人界</button>
+    </div>
+  </aside>
 
   <!-- 2. ASTROLABE DEGREE RULER & VIGNETTE -->
   <div class="astrolabe-bezel">
@@ -379,12 +409,37 @@
     </p>
   </div>
 
+  <section id="sidera-v3-controls" class="sidera-v3-controls" aria-label="玄象星络观测控制" hidden>
+    <div class="sidera-v3-row" data-observatory-content="observe" role="group" aria-label="聚焦星群">
+      <span class="sidera-v3-caption">观测</span>
+      <button type="button" data-v3-focus="all" aria-pressed="true">◈ 全景</button>
+      <button type="button" data-v3-focus="sid_myth" aria-pressed="false">Ⅰ 太初</button>
+      <button type="button" data-v3-focus="sid_hag" aria-pressed="false">Ⅱ 月蚀</button>
+      <button type="button" data-v3-focus="sid_witch" aria-pressed="false">Ⅲ 星盘</button>
+      <button type="button" data-v3-focus="sid_crypt" aria-pressed="false">Ⅳ 烛龙</button>
+      <button type="button" data-v3-focus="sid_liminal" aria-pressed="false">Ⅴ 星门</button>
+    </div>
+    <div class="sidera-v3-row" data-observatory-content="bridges" role="group" aria-label="星桥与动效">
+      <span class="sidera-v3-caption">星桥</span>
+      <button type="button" data-v3-bridge="bundled" aria-pressed="true" title="按星群汇聚展示线索">集束</button>
+      <button type="button" data-v3-bridge="minimal" aria-pressed="false" title="仅显示当前选中的星桥">纯净</button>
+      <button type="button" data-v3-bridge="full" aria-pressed="false" title="展示共享知识条目的代表性跨群连接">跨群</button>
+      <span class="sidera-v3-divider" aria-hidden="true"></span>
+      <span class="sidera-v3-caption">节律</span>
+      <button type="button" data-v3-tempo="tide" aria-pressed="true">星潮</button>
+      <button type="button" data-v3-tempo="calm" aria-pressed="false">舒缓</button>
+      <button type="button" data-v3-tempo="still" aria-pressed="false">静帧</button>
+      <span class="sidera-v3-divider" aria-hidden="true"></span>
+      <button type="button" id="sidera-v3-export" title="导出当前筛选的精选星桥和观测参数">⇩ 导出</button>
+    </div>
+  </section>
+
   <!-- Restore Drawer Tabs when Collapsed -->
-  <button id="btn-open-left" class="hidden fixed top-[64px] left-3.5 celestial-panel px-3 py-1.5 text-xs text-[#f2d9a0] hover:text-white items-center gap-1.5">
-    <span>☰</span> <span>星域目录</span>
+  <button id="btn-open-left" type="button" aria-controls="left-drawer" aria-expanded="false" class="hidden fixed top-[64px] left-3.5 celestial-panel px-3 py-1.5 text-xs text-[#f2d9a0] hover:text-white items-center gap-1.5">
+    <span aria-hidden="true">☰</span> <span>目录</span>
   </button>
-  <button id="btn-open-right" class="hidden fixed top-[64px] right-3.5 celestial-panel px-3 py-1.5 text-xs text-[#f2d9a0] hover:text-white items-center gap-1.5">
-    <span>◂</span> <span>朔望手卷</span>
+  <button id="btn-open-right" type="button" aria-controls="right-drawer" aria-expanded="false" class="hidden fixed top-[64px] right-3.5 celestial-panel px-3 py-1.5 text-xs text-[#f2d9a0] hover:text-white items-center gap-1.5">
+    <span aria-hidden="true">◧</span> <span>卷宗</span>
   </button>
 
   <!-- 7. LEFT COLLAPSIBLE PANEL: 星域目录 · ATLAS INDEX (always observatory dark) -->
@@ -410,11 +465,11 @@
       </div>
       <div>
         <div id="stats-bridges" class="font-mono-tech text-xs text-[#c4b5fd] font-medium">—</div>
-        <div class="text-[9.5px] text-[#9e9688]">心物桥接</div>
+        <div class="text-[9.5px] text-[#9e9688]">精选对读</div>
       </div>
-      <div class="border-l border-[#d6b678]/15" title="主题候选与资料类型阅读指引">
+      <div class="border-l border-[#d6b678]/15" title="含精选对读、母题传导与跨语主题连通的实质星桥节点（不含纯资料指引）">
         <div id="stats-matches" class="font-mono-tech text-xs text-[#f3d08a] font-medium">—</div>
-        <div class="text-[9.5px] text-[#9e9688]">可对读</div>
+        <div class="text-[9.5px] text-[#9e9688]">实质星桥</div>
       </div>
     </div>
 
@@ -491,9 +546,40 @@
     </div>
   </aside>
 
-  <!-- 9. BOTTOM FLOATING DOCK: 5 CURATED SYZYGY TRAILS (心物共鸣星轨) -->
-  <footer class="fixed bottom-3 left-1/2 -translate-x-1/2 max-w-[96vw]">
-    <div class="celestial-panel px-2.5 py-1.5 flex items-center gap-1 overflow-x-auto astro-scroll">
+  <!-- 9. BOTTOM FLOATING DOCK: SYZYGY MEMBRANE INSTRUMENT + 5 CURATED SYZYGY TRAILS -->
+  <footer id="observatory-popovers" class="fixed bottom-3 left-1/2 -translate-x-1/2 max-w-[96vw] flex flex-col items-center gap-1.5">
+    <div id="realm-dock" class="celestial-panel realm-dock" role="region" aria-label="朔望界膜 · 五重界阶仪">
+      <div class="realm-dock-buttons" role="group" aria-label="界阶切换">
+        <button type="button" class="realm-btn" data-realm="human" data-depth="0" title="人界（实存物界 · 可观可涉）">
+          <span>Ⅰ</span><span>人</span>
+        </button>
+        <button type="button" class="realm-btn active" data-realm="threshold" data-depth="0.5" title="界膜临界点（心物叠影 · 默认）">
+          <span>◐</span><span>界膜</span>
+        </button>
+        <button type="button" class="realm-btn" data-realm="ghost" data-depth="1" title="鬼阶（人死为鬼 · 可观不可涉）">
+          <span>Ⅱ</span><span>鬼</span>
+        </button>
+        <button type="button" class="realm-btn" data-realm="jian" data-depth="2" title="聻阶（鬼死为聻 · 跨文化母题）">
+          <span>Ⅲ</span><span>聻</span>
+        </button>
+        <button type="button" class="realm-btn" data-realm="xi" data-depth="3" title="希阶（聻死为希 · 隐性机理与哲思）">
+          <span>Ⅳ</span><span>希</span>
+        </button>
+        <button type="button" class="realm-btn" data-realm="yi" data-depth="4" title="夷阶（希死为夷 · 悬置维与第四面墙）">
+          <span>Ⅴ</span><span>夷</span>
+        </button>
+      </div>
+      <label class="realm-slider-wrap" title="连续穿膜深度：0 人界 ⇄ 0.5 界膜 ⇄ 4 夷阶">
+        <span class="realm-slider-tag">穿膜</span>
+        <input id="membrane-depth-slider" type="range" min="0" max="4" step="0.05" value="0.5" aria-label="朔望界膜穿行深度" />
+      </label>
+      <span id="lunar-phase-pill" class="realm-lunar-pill" title="基于当前现实时间的天文朔望月相">◐ 朔望校准中</span>
+      <button id="btn-membrane-audio" type="button" class="ctl-btn realm-audio-btn" aria-pressed="false" title="开启或静音界膜程序化环境声景">
+        <span>声景：静</span>
+      </button>
+    </div>
+
+    <div id="trail-dock" class="celestial-panel px-2.5 py-1.5 flex items-center gap-1 overflow-x-auto astro-scroll max-w-full">
       <div class="flex items-center gap-1.5 pr-2.5 mr-1 border-r border-[#d6b678]/30 shrink-0">
         <span class="text-[#d6b678] text-xs">✦</span>
         <div class="leading-tight">
@@ -528,6 +614,13 @@
       </button>
     </div>
   </footer>
+
+  <nav id="observatory-dock" aria-label="观测工具">
+    <button type="button" data-observatory-panel="observe" data-sidera-only aria-controls="sidera-v3-controls" aria-expanded="false"><span aria-hidden="true">◈</span> 观测</button>
+    <button type="button" data-observatory-panel="bridges" data-sidera-only aria-controls="sidera-v3-controls" aria-expanded="false"><span aria-hidden="true">◇</span> 星桥</button>
+    <button type="button" data-observatory-panel="realm" aria-controls="realm-dock" aria-expanded="false"><span aria-hidden="true">◐</span> 界膜</button>
+    <button type="button" data-observatory-panel="trails" aria-controls="trail-dock" aria-expanded="false"><span aria-hidden="true">✦</span> 星轨</button>
+  </nav>
 
   <!-- Subtle Status Toast -->
   <div id="status-toast" class="fixed top-[64px] left-1/2 -translate-x-1/2 z-50 pointer-events-none opacity-0 transition-opacity duration-300 celestial-panel px-4 py-1.5 text-xs text-[#f7eed8] border-[#d6b678]/50">
