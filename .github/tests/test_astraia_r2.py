@@ -1,4 +1,5 @@
 import json
+import os
 from email.message import Message
 from hashlib import sha256
 from pathlib import Path
@@ -125,6 +126,89 @@ class TaxonomyR2Tests(unittest.TestCase):
         with patch.object(astraia_r2, "urlopen", return_value=Response(b"wrong bytes")):
             with self.assertRaisesRegex(ValueError, "different lexicon bytes"):
                 astraia_r2.check_taxonomy_delivery(self.site, assets, "https://r2.example")
+
+    def test_reuse_requires_a_matching_content_address_and_keeps_new_files_local(self):
+        self.write_taxonomy()
+        assets = list(astraia_r2.assets_in(self.site))
+        origin = "https://r2.example"
+        graph = next(asset for asset in assets if asset.name == "data/graph_data.json")
+        details = next(asset for asset in assets if asset.name == "data/graph_details.json")
+        config = {"origin": origin, "files": {
+            graph.name: graph.key.removeprefix("assets/"),
+            # Same path with old content must not be sent to R2.
+            details.name: "old-content.json",
+        }}
+        reused = astraia_r2.reusable_assets(assets, config, origin)
+        self.assertEqual([asset.name for asset in reused], [graph.name])
+        astraia_r2.activate(self.site, reused, origin)
+        self.assertFalse(graph.path.exists())
+        self.assertTrue(details.path.is_file())
+        page = (self.site / "index.html").read_text(encoding="utf-8")
+        activated = json.loads(page.split('type="application/json">', 1)[1].split("</script>", 1)[0])
+        self.assertIn(graph.name, activated["files"])
+        self.assertNotIn(details.name, activated["files"])
+
+    def test_reuse_preserves_unmapped_social_preview_url(self):
+        story = self.site / "s" / "case_example"
+        story.mkdir(parents=True)
+        image_url = astraia_r2.SITE + "og/shared.png"
+        page = story / "index.html"
+        page.write_text(f'<meta property="og:image" content="{image_url}">', encoding="utf-8")
+        graph = next(asset for asset in astraia_r2.assets_in(self.site) if asset.name == "data/graph_data.json")
+        astraia_r2.activate(self.site, [graph], "https://r2.example")
+        self.assertIn(image_url, page.read_text(encoding="utf-8"))
+
+    def test_reuse_skips_preview_hashing_but_migration_keeps_previews(self):
+        previews = self.site / 'og'
+        previews.mkdir()
+        (previews / 'shared.png').write_bytes(b'preview')
+        self.assertNotIn('og/shared.png', {asset.name for asset in astraia_r2.assets_in(self.site, include_previews=False)})
+        self.assertIn('og/shared.png', {asset.name for asset in astraia_r2.assets_in(self.site)})
+
+    def test_reuse_rejects_a_different_origin_or_no_matching_assets(self):
+        assets = list(astraia_r2.assets_in(self.site))
+        with self.assertRaisesRegex(ValueError, "mapping"):
+            astraia_r2.reusable_assets(assets, {"origin": "https://other.example", "files": {}}, "https://r2.example")
+        with self.assertRaisesRegex(ValueError, "No current assets"):
+            astraia_r2.reusable_assets(assets, {"origin": "https://r2.example", "files": {}}, "https://r2.example")
+
+    def test_locally_retained_new_taxonomy_shard_does_not_require_r2(self):
+        taxonomy = self.write_taxonomy()
+        assets = list(astraia_r2.assets_in(self.site))
+        shards = [asset for asset in assets if asset.name.startswith("syzygy/lexicon/")]
+        reused = shards[:6]
+        origin = "https://r2.example"
+        payloads = {f"{origin}/{asset.key}": asset.path.read_bytes() for asset in reused}
+        with patch.object(astraia_r2, "urlopen", side_effect=lambda request, timeout: Response(payloads[request.full_url])):
+            astraia_r2.check_taxonomy_delivery(self.site, reused, origin, allow_local=True)
+        self.assertEqual(len(taxonomy["domains"]), 7)
+        self.assertTrue(shards[6].path.is_file())
+
+    def test_projected_capacity_counts_new_local_content_and_entrypoint_mappings(self):
+        assets = list(astraia_r2.assets_in(self.site))
+        graph = next(asset for asset in assets if asset.name == "data/graph_data.json")
+        total = sum(path.stat().st_size for path in self.site.rglob("*") if path.is_file())
+        projected = astraia_r2.projected_pages_bytes(self.site, [graph], "https://r2.example")
+        self.assertGreater(projected, total - graph.length)
+        self.assertLess(projected, total + 1000)
+
+    def test_no_upload_below_threshold_but_upload_at_threshold(self):
+        assets = list(astraia_r2.assets_in(self.site))
+        graph = next(asset for asset in assets if asset.name == "data/graph_data.json")
+        origin = "https://r2.example"
+        config = {"origin": origin, "files": {graph.name: graph.key.removeprefix("assets/")}}
+        env = {"ASTRAIA_R2_ASSET_ORIGIN": origin,
+               "ASTRAIA_R2_ENDPOINT": "https://" + "a" * 32 + ".r2.cloudflarestorage.com"}
+        argv = ["publish", str(self.site), "--upload", "--artifact-root", str(self.site), "--reuse-until-bytes"]
+        with patch.dict(os.environ, env), patch.object(astraia_r2, "published_config", return_value=config), \
+                patch.object(astraia_r2, "check_delivery"), patch.object(astraia_r2, "check_taxonomy_delivery"), \
+                patch.object(astraia_r2, "activate"), patch.object(astraia_r2, "upload_assets") as upload:
+            with patch.object(sys, "argv", argv + ["800000000"]):
+                astraia_r2.main()
+            upload.assert_not_called()
+            with patch.object(sys, "argv", argv + ["1"]):
+                astraia_r2.main()
+            upload.assert_called_once()
 
 
 if __name__ == "__main__":

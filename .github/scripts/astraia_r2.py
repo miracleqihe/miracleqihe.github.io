@@ -124,13 +124,14 @@ def taxonomy_assets(site: Path):
     return paths
 
 
-def assets_in(site: Path):
+def assets_in(site: Path, *, include_previews=True):
     names = ("knowledge/handbook.pdf", "data/graph_data.json", "data/graph_details.json")
     files = [site / name for name in names]
     files.extend((site / "knowledge/pages").glob("*.webp"))
     files.extend((site / "knowledge/inline-figures").glob("*.svg"))
     files.extend(path for path in (site / "knowledge/figures").rglob("*") if path.suffix.lower() in IMAGES)
-    files.extend((site / "og").glob("*.png"))
+    if include_previews:
+        files.extend((site / "og").glob("*.png"))
     files.extend(path for path in (site / "syzygy/shards").glob("*.json") if SHARD.fullmatch(path.name))
     files.extend(taxonomy_assets(site))
     for path in sorted(files):
@@ -213,16 +214,19 @@ def check_delivery(assets, origin, *, ranged_pdf=False):
                 raise ValueError(f"Worker returned an unexpected length for {asset.name}")
 
 
-def check_taxonomy_delivery(site: Path, assets, origin):
+def check_taxonomy_delivery(site: Path, assets, origin, *, allow_local=False):
     """Read every active shard through the public worker before Pages deploys."""
     taxonomy_path = site / "syzygy/taxonomy.json"
     if not taxonomy_path.exists():
         return
     taxonomy = json.loads(taxonomy_path.read_text(encoding="utf-8"))
     by_name = {asset.name: asset for asset in assets}
+    checked = 0
     for domain in taxonomy["domains"]:
         shard = domain["lexicon_shard"]
         name = "syzygy/" + shard["file"]
+        if name not in by_name and allow_local:
+            continue
         asset = by_name[name]
         request = Request(f"{origin}/{asset.key}", headers={
             "User-Agent": "Astraia-Pages-publish/1.0", "Origin": "https://miracleqihe.github.io"})
@@ -234,7 +238,8 @@ def check_taxonomy_delivery(site: Path, assets, origin):
             body = response.read()
         if len(body) != asset.length or sha256(body).hexdigest() != shard["sha256"]:
             raise ValueError(f"Worker returned different lexicon bytes for {name}")
-    print(f"R2 verified {len(taxonomy['domains'])} active taxonomy shards via the public worker", flush=True)
+        checked += 1
+    print(f"R2 verified {checked} active taxonomy shards via the public worker", flush=True)
 
 
 def activate(site: Path, assets, origin):
@@ -253,12 +258,15 @@ def activate(site: Path, assets, origin):
         path.write_text(html.replace(MARKER, markup), encoding="utf-8", newline="\n")
 
     preview_keys = {asset.name: asset.key for asset in assets if asset.name.startswith("og/")}
-    for page in (site / "s").glob("*/index.html"):
-        html = page.read_text(encoding="utf-8")
-        replaced = PREVIEW.sub(lambda match: match[1] + origin + "/" + preview_keys[match[2].removeprefix(SITE)]
-                               + match[3], html)
-        if replaced != html:
-            page.write_text(replaced, encoding="utf-8", newline="\n")
+    if preview_keys:
+        for page in (site / "s").glob("*/index.html"):
+            html = page.read_text(encoding="utf-8")
+            def preview(match):
+                key = preview_keys.get(match[2].removeprefix(SITE))
+                return match[1] + origin + "/" + key + match[3] if key else match.group(0)
+            replaced = PREVIEW.sub(preview, html)
+            if replaced != html:
+                page.write_text(replaced, encoding="utf-8", newline="\n")
 
     removed = 0
     for asset in assets:
@@ -276,21 +284,79 @@ def https_origin(value):
     return value.rstrip("/")
 
 
+def published_config(origin):
+    """Read the previously deployed public mapping; never trust unmatched content."""
+    request = Request(SITE + "index.html", headers={"User-Agent": "Astraia-Pages-publish/1.0",
+                                                      "Cache-Control": "no-cache"})
+    with urlopen(request, timeout=30) as response:
+        html = response.read().decode("utf-8")
+    match = re.search(r'<script id="astraia-r2-assets" type="application/json">([^<]+)</script>', html)
+    if not match:
+        raise ValueError("Published site has no reusable R2 mapping")
+    config = json.loads(match.group(1))
+    if not isinstance(config, dict) or config.get("origin") != origin or not isinstance(config.get("files"), dict):
+        raise ValueError("Published R2 mapping has an unexpected origin or shape")
+    return config
+
+
+def reusable_assets(assets, config, origin):
+    if not isinstance(config, dict) or config.get("origin") != origin or not isinstance(config.get("files"), dict):
+        raise ValueError("Invalid reusable R2 mapping")
+    # The current file must hash to the exact published content address.
+    reused = [asset for asset in assets if config["files"].get(asset.name) == asset.key.removeprefix("assets/")]
+    if not reused:
+        raise ValueError("No current assets matched the published R2 mapping")
+    return reused
+
+
+def projected_pages_bytes(artifact: Path, assets, origin):
+    size = sum(path.stat().st_size for path in artifact.rglob("*") if path.is_file() and not path.is_symlink())
+    retired = sum(asset.length for asset in assets
+                  if asset.name != "knowledge/handbook.pdf" and not asset.name.startswith("og/"))
+    mapping = {asset.name: asset.key.removeprefix("assets/") for asset in assets
+               if not asset.name.startswith("og/")}
+    # Two entrypoints receive the mapping; count its entire size conservatively.
+    overhead = 2 * len(json.dumps({"origin": origin, "files": mapping}, separators=(",", ":")).encode("utf-8"))
+    return size - retired + overhead
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("site", type=Path, help="The existing published /astraia directory inside the staged Pages site")
     parser.add_argument("--upload", action="store_true")
+    parser.add_argument("--reuse-until-bytes", type=int, default=0,
+                        help="Keep new assets on Pages until the projected complete artifact reaches this size")
+    parser.add_argument("--artifact-root", type=Path, help="Root of the complete Pages artifact")
     args = parser.parse_args()
     site = args.site.resolve()
-    assets = list(assets_in(site))
+    assets = list(assets_in(site, include_previews=not args.reuse_until_bytes))
     unique = {asset.key: asset for asset in assets}
     print(f"Selected {len(assets)} published paths, {len(unique)} distinct objects, "
           f"{sum(asset.length for asset in assets):,} bytes", flush=True)
     if args.upload:
+        origin = https_origin(os.environ["ASTRAIA_R2_ASSET_ORIGIN"])
+        if args.reuse_until_bytes:
+            if args.reuse_until_bytes < 0 or not args.artifact_root:
+                raise ValueError("A positive limit and complete artifact root are required")
+            artifact = args.artifact_root.resolve()
+            if not site.is_relative_to(artifact):
+                raise ValueError("The Pages artifact must contain the site")
+            reusable = reusable_assets(assets, published_config(origin), origin)
+            projected = projected_pages_bytes(artifact, reusable, origin)
+            print(f"Projected Pages artifact with existing R2 resources: {projected:,} bytes "
+                  f"(threshold {args.reuse_until_bytes:,})", flush=True)
+            if projected < args.reuse_until_bytes:
+                check_delivery(reusable, origin, ranged_pdf=True)
+                check_taxonomy_delivery(site, reusable, origin, allow_local=True)
+                activate(site, reusable, origin)
+                print(f"Reused {len(reusable)} published paths; new resources remain on Pages; no R2 uploads.", flush=True)
+                return
+            # Preview images are retained on Pages in reuse mode, so only hash
+            # and upload them if the migration threshold is actually reached.
+            assets = list(assets_in(site))
         endpoint = https_origin(os.environ["ASTRAIA_R2_ENDPOINT"])
         if not re.fullmatch(r"https://[a-f0-9]{32}\.r2\.cloudflarestorage\.com", endpoint):
             raise ValueError("Expected the Cloudflare R2 S3 endpoint")
-        origin = https_origin(os.environ["ASTRAIA_R2_ASSET_ORIGIN"])
         upload_assets(assets, endpoint)
         check_delivery(assets, origin, ranged_pdf=True)
         check_taxonomy_delivery(site, assets, origin)
