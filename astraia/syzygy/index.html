@@ -275,10 +275,10 @@
     }
   </style>
   <script id="astraia-r2-assets" type="application/json">{}</script>
-  <script type="module" crossorigin src="/astraia/assets/index-I9BaQl8k.js"></script>
+  <script type="module" crossorigin src="/astraia/assets/index-CPD5fjWW.js"></script>
   <link rel="modulepreload" crossorigin href="/astraia/assets/engraving-CZgaTWQh.js">
   <link rel="stylesheet" crossorigin href="/astraia/assets/engraving-Bnk5Rb9X.css">
-  <link rel="stylesheet" crossorigin href="/astraia/assets/index-CLcCWG6q.css">
+  <link rel="stylesheet" crossorigin href="/astraia/assets/index-iBY0NOt2.css">
 </head>
 <body>
 
@@ -377,8 +377,10 @@
     </nav>
 
     <!-- Right Observatory & Bridge Controls -->
-    <div class="flex items-center gap-1.5 shrink-0">
+    <div class="syzygy-header-actions flex items-center gap-1.5 shrink-0">
       <a id="btn-classic-view" class="ctl-btn syzygy-classic" href="../?view=life" title="返回精查图谱（真地图、四层切片、年代轴与双卷宗取证）">◈ 精查图谱</a>
+      <button id="btn-mobile-tools" class="ctl-btn syzygy-tools-toggle" type="button" aria-expanded="false" aria-controls="syzygy-extra-tools">☷ 工具</button>
+      <div id="syzygy-extra-tools" class="syzygy-extra-tools" data-open="false">
       <button id="btn-fiction" class="ctl-btn syzygy-fiction" type="button" role="switch" aria-checked="true" title="隔离或放行 F 级数字传说与文学虚构">隔离 F 级</button>
       <button id="btn-syzygy-toggle" class="syzygy-btn active px-2.5 md:px-3.5 py-1.5 text-xs font-medium flex items-center gap-1.5" title="开启或关闭画布上的心物折光星桥">
         <span class="text-[#f2d9a0] text-xs leading-none">◐</span>
@@ -390,6 +392,7 @@
       <button id="btn-reset-cam" class="ctl-btn px-2.5 py-1.5 text-xs hidden sm:inline-flex items-center gap-1">
         <span>重置视角</span>
       </button>
+      </div>
     </div>
   </header>
 
