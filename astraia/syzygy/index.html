@@ -275,12 +275,12 @@
     }
   </style>
   <script id="astraia-r2-assets" type="application/json">{}</script>
-  <script type="module" crossorigin src="/astraia/assets/index-CnwPklko.js"></script>
-  <link rel="modulepreload" crossorigin href="/astraia/assets/engraving-DH8ynu48.js">
+  <script type="module" crossorigin src="/astraia/assets/index-ClXpn8mK.js"></script>
+  <link rel="modulepreload" crossorigin href="/astraia/assets/engraving-DsVX7Ocr.js">
   <link rel="stylesheet" crossorigin href="/astraia/assets/engraving-C5A_ALeh.css">
-  <link rel="stylesheet" crossorigin href="/astraia/assets/index-Cmi_tfgL.css">
+  <link rel="stylesheet" crossorigin href="/astraia/assets/index-CduGcOS-.css">
 </head>
-<body>
+<body data-left-open="false">
 
   <!-- 1. FULL-BLEED 3D COSMIC CANVAS -->
   <div id="webgl-viewport"></div>
@@ -438,15 +438,15 @@
   </section>
 
   <!-- Restore Drawer Tabs when Collapsed -->
-  <button id="btn-open-left" type="button" aria-controls="left-drawer" aria-expanded="false" class="hidden fixed top-[64px] left-3.5 celestial-panel px-3 py-1.5 text-xs text-[#f2d9a0] hover:text-white items-center gap-1.5">
+  <button id="btn-open-left" type="button" aria-controls="left-drawer" aria-expanded="false" class="inline-flex fixed top-[64px] left-3.5 celestial-panel px-3 py-1.5 text-xs text-[#f2d9a0] hover:text-white items-center gap-1.5">
     <span aria-hidden="true">☰</span> <span>目录</span>
   </button>
-  <button id="btn-open-right" type="button" aria-controls="right-drawer" aria-expanded="false" class="hidden fixed top-[64px] right-3.5 celestial-panel px-3 py-1.5 text-xs text-[#f2d9a0] hover:text-white items-center gap-1.5">
+  <button id="btn-open-right" type="button" aria-controls="right-drawer" aria-expanded="false" class="inline-flex fixed top-[64px] right-3.5 celestial-panel px-3 py-1.5 text-xs text-[#f2d9a0] hover:text-white items-center gap-1.5">
     <span aria-hidden="true">◧</span> <span>卷宗</span>
   </button>
 
   <!-- 7. LEFT COLLAPSIBLE PANEL: 星域目录 · ATLAS INDEX (always observatory dark) -->
-  <aside id="left-drawer" class="drawer-anim fixed top-[64px] bottom-[76px] left-3.5 w-[246px] z-20 celestial-panel engraving-panel flex flex-col">
+  <aside id="left-drawer" inert aria-hidden="true" class="drawer-anim drawer-left-hidden fixed top-[64px] bottom-[76px] left-3.5 w-[246px] z-20 celestial-panel engraving-panel flex flex-col">
     <!-- Header -->
     <div class="px-3.5 pt-3 pb-2.5 border-b border-[#d6b678]/20 flex items-start justify-between">
       <div>
@@ -520,12 +520,12 @@
 
     <!-- Dynamic Directory Tree -->
     <div id="atlas-tree" class="flex-1 overflow-y-auto astro-scroll px-2.5 py-2.5 space-y-3">
-      <!-- Populated by JS -->
+      <p class="syzygy-reference" role="status">正在载入星域目录…</p>
     </div>
   </aside>
 
   <!-- 8. RIGHT COLLAPSIBLE PANEL: 朔望手卷 · SYZYGY CODEX (supports 深空金错 / 古拓羊皮 + 展卷并读) -->
-  <aside id="right-drawer" class="drawer-anim fixed top-[64px] bottom-[76px] right-3.5 w-[412px] max-w-[calc(100vw-1.75rem)] z-20 celestial-panel engraving-panel flex flex-col">
+  <aside id="right-drawer" inert aria-hidden="true" class="drawer-anim drawer-right-hidden fixed top-[64px] bottom-[76px] right-3.5 w-[412px] max-w-[calc(100vw-1.75rem)] z-20 celestial-panel engraving-panel flex flex-col">
     <!-- Top Scroll Bar: Dual-Theme Pill, Spread Toggle & Collapse -->
     <div class="px-4 py-2.5 border-b border-[#d6b678]/25 b-hairline flex items-center justify-between gap-2">
       <div class="flex items-center gap-2">
@@ -545,7 +545,7 @@
     <div id="codex-scroll" class="flex-1 overflow-y-auto astro-scroll px-4 py-3 space-y-3.5">
       <!-- Active Dual-Pane Syzygy Card -->
       <div id="syzygy-card-container">
-        <!-- Rendered dynamically -->
+        <p class="syzygy-reference" role="status">正在载入卷宗；可先打开目录。</p>
       </div>
     </div>
   </aside>
