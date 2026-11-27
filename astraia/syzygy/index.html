@@ -51,109 +51,116 @@
       z-index: 1;
     }
 
-    /* Subtle Astrolabe Degree Ticks & Atmospheric Vignette */
+    /* Subtle Astrolabe Corona & Atmospheric Vignette */
     .astrolabe-bezel {
       position: fixed;
-      inset: 52px 0 0 0;
+      inset: 56px 0 0 0;
       pointer-events: none;
       z-index: 8;
-      background: radial-gradient(circle at 46% 50%, transparent 56%, rgba(3, 5, 11, 0.68) 100%);
+      background: radial-gradient(circle at 46% 50%, transparent 58%, rgba(3, 5, 11, 0.62) 100%);
     }
 
     .bezel-scale-top {
       position: absolute;
       top: 0;
-      left: 0;
-      right: 0;
-      height: 6px;
-      border-bottom: 1px solid rgba(207, 169, 98, 0.14);
-      background-image: repeating-linear-gradient(
-        to right,
-        rgba(207, 169, 98, 0.28) 0px,
-        rgba(207, 169, 98, 0.28) 1px,
-        transparent 1px,
-        transparent 28px
-      );
+      left: 8%;
+      right: 8%;
+      height: 1px;
+      border: 0;
+      background: linear-gradient(90deg, transparent 0%, rgba(214, 182, 120, 0.24) 50%, transparent 100%);
     }
 
-    /* Bespoke Celestial Obsidian Panels */
+    /* Sculpted Spatial Obsidian Glass Panels */
     .celestial-panel {
-      background: var(--obsidian-glass);
-      backdrop-filter: blur(14px) saturate(120%);
-      -webkit-backdrop-filter: blur(14px) saturate(120%);
-      border: 1px solid var(--brass-hairline);
-      box-shadow: 0 20px 56px rgba(0, 0, 0, 0.68), inset 0 0 0 1px rgba(255, 244, 218, 0.04);
-      border-radius: 0;
+      background: linear-gradient(165deg, rgba(15, 21, 38, 0.84) 0%, rgba(7, 11, 21, 0.90) 100%);
+      backdrop-filter: blur(20px) saturate(145%);
+      -webkit-backdrop-filter: blur(20px) saturate(145%);
+      border: 1px solid rgba(214, 182, 120, 0.24);
+      box-shadow: 0 22px 56px rgba(2, 5, 14, 0.68), inset 0 1px 0 rgba(255, 246, 224, 0.16);
+      border-radius: 22px;
     }
 
     /* Custom Scrollbars */
     .astro-scroll::-webkit-scrollbar { width: 4px; height: 4px; }
     .astro-scroll::-webkit-scrollbar-track { background: transparent; }
-    .astro-scroll::-webkit-scrollbar-thumb { background: rgba(207, 169, 98, 0.28); }
+    .astro-scroll::-webkit-scrollbar-thumb { background: rgba(207, 169, 98, 0.30); border-radius: 999px; }
     .astro-scroll::-webkit-scrollbar-thumb:hover { background: rgba(207, 169, 98, 0.56); }
 
-    /* Navigation & Interactive Buttons (harmonized 1:1 with Classic Topbar) */
+    /* Astrolabe Capsule Dimension Switcher */
     .dim-tab {
       position: relative;
-      padding: 6px 14px;
+      padding: 6px 15px;
       font-size: 12.5px;
       letter-spacing: 0.04em;
       color: rgba(239, 236, 230, 0.74);
-      border-right: 1px solid rgba(207, 169, 98, 0.24);
-      transition: background-color 0.2s ease, color 0.2s ease;
+      border: 1px solid transparent;
+      border-radius: 999px;
+      transition: background 0.24s cubic-bezier(0.22, 1, 0.36, 1), color 0.2s ease, box-shadow 0.24s ease, border-color 0.24s ease;
       white-space: nowrap;
     }
-    .dim-tab:last-child { border-right: none; }
     .dim-tab:hover {
       color: #fff8eb;
-      background: rgba(207, 169, 98, 0.11);
+      background: rgba(214, 182, 120, 0.10);
     }
     .dim-tab.active {
-      background: linear-gradient(180deg, rgba(207, 169, 98, 0.26) 0%, rgba(207, 169, 98, 0.08) 100%);
-      color: #fff6e0;
-      box-shadow: inset 0 -2px 0 var(--brass-gold);
+      background: linear-gradient(135deg, rgba(218, 182, 112, 0.32) 0%, rgba(132, 110, 222, 0.20) 100%);
+      border-color: rgba(240, 215, 156, 0.42);
+      color: #fff8ea;
+      box-shadow: 0 3px 14px rgba(207, 169, 98, 0.22), inset 0 1px 0 rgba(255, 246, 224, 0.28);
+    }
+    .dim-tab[data-dim="umbra"].active {
+      background: linear-gradient(135deg, rgba(214, 170, 92, 0.34) 0%, rgba(140, 92, 38, 0.20) 100%);
+      border-color: rgba(232, 192, 118, 0.46);
+    }
+    .dim-tab[data-dim="sidera"].active {
+      background: linear-gradient(135deg, rgba(164, 138, 248, 0.32) 0%, rgba(86, 118, 218, 0.20) 100%);
+      border-color: rgba(196, 181, 253, 0.46);
+      box-shadow: 0 3px 16px rgba(164, 138, 248, 0.24), inset 0 1px 0 rgba(242, 236, 255, 0.26);
     }
 
-    /* Prominent Bridge Toggle */
+    /* Prominent Bridge Toggle Pill */
     .syzygy-btn {
-      border: 1px solid rgba(207, 169, 98, 0.36);
-      background: rgba(9, 14, 24, 0.88);
-      color: rgba(239, 236, 230, 0.78);
-      transition: all 0.22s ease;
-      border-radius: 0;
+      border: 1px solid rgba(214, 182, 120, 0.30);
+      background: rgba(11, 16, 30, 0.76);
+      color: rgba(239, 236, 230, 0.80);
+      border-radius: 999px;
+      box-shadow: inset 0 1px 0 rgba(255, 246, 224, 0.12);
+      transition: all 0.22s cubic-bezier(0.22, 1, 0.36, 1);
     }
     .syzygy-btn.active {
-      background: linear-gradient(135deg, rgba(207, 169, 98, 0.26) 0%, rgba(126, 102, 214, 0.2) 100%);
-      border-color: var(--brass-bright);
+      background: linear-gradient(135deg, rgba(214, 178, 106, 0.28) 0%, rgba(132, 110, 220, 0.22) 100%);
+      border-color: rgba(240, 215, 156, 0.54);
       color: #fff9eb;
-      box-shadow: 0 0 18px rgba(207, 169, 98, 0.24);
+      box-shadow: 0 4px 18px rgba(207, 169, 98, 0.22), inset 0 1px 0 rgba(255, 246, 224, 0.24);
     }
 
     .ctl-btn {
-      border: 1px solid var(--brass-hairline);
-      background: rgba(9, 14, 24, 0.82);
-      color: rgba(239, 236, 230, 0.8);
-      border-radius: 0;
-      transition: background-color 0.18s ease, border-color 0.18s ease, color 0.18s ease;
+      border: 1px solid rgba(214, 182, 120, 0.24);
+      background: rgba(11, 16, 30, 0.74);
+      color: rgba(239, 236, 230, 0.82);
+      border-radius: 999px;
+      box-shadow: inset 0 1px 0 rgba(255, 246, 224, 0.12);
+      transition: background-color 0.2s ease, border-color 0.2s ease, color 0.2s ease, box-shadow 0.2s ease, transform 0.18s ease;
     }
     .ctl-btn:hover {
-      border-color: var(--brass-bright);
+      border-color: rgba(240, 215, 156, 0.56);
       color: #fff;
-      background: rgba(207, 169, 98, 0.14);
+      background: rgba(214, 182, 120, 0.16);
     }
     .ctl-btn.active {
-      border-color: var(--brass-gold);
+      border-color: rgba(240, 215, 156, 0.52);
       color: var(--brass-bright);
-      background: rgba(207, 169, 98, 0.2);
+      background: linear-gradient(135deg, rgba(207, 169, 98, 0.24), rgba(126, 102, 214, 0.14));
+      box-shadow: 0 2px 12px rgba(207, 169, 98, 0.18), inset 0 1px 0 rgba(255, 246, 224, 0.2);
     }
 
     /* Bottom Curated Syzygy Trail Pills */
     .trail-pill {
-      padding: 5px 10px;
-      border: 1px solid rgba(207, 169, 98, 0.2);
-      background: rgba(8, 12, 22, 0.82);
-      color: rgba(232, 224, 208, 0.78);
-      border-radius: 0;
+      padding: 5px 12px;
+      border: 1px solid rgba(214, 182, 120, 0.20);
+      background: rgba(10, 15, 28, 0.76);
+      color: rgba(232, 224, 208, 0.80);
+      border-radius: 999px;
       font-size: 11.5px;
       transition: all 0.2s ease;
       white-space: nowrap;
@@ -162,14 +169,15 @@
       gap: 5px;
     }
     .trail-pill:hover {
-      border-color: rgba(207, 169, 98, 0.56);
+      border-color: rgba(214, 182, 120, 0.52);
       color: #fff8e8;
+      background: rgba(214, 182, 120, 0.12);
     }
     .trail-pill.active {
-      background: linear-gradient(135deg, rgba(207, 169, 98, 0.24), rgba(82, 209, 162, 0.12));
-      border-color: var(--brass-bright);
+      background: linear-gradient(135deg, rgba(207, 169, 98, 0.26), rgba(82, 209, 162, 0.16));
+      border-color: rgba(240, 215, 156, 0.56);
       color: #fff9eb;
-      box-shadow: 0 0 14px rgba(207, 169, 98, 0.2);
+      box-shadow: 0 3px 14px rgba(207, 169, 98, 0.22), inset 0 1px 0 rgba(255, 246, 224, 0.22);
     }
 
     /* 3D Projected World Anchors */
@@ -186,7 +194,7 @@
       transform: translate(-50%, -50%);
       pointer-events: auto;
       cursor: pointer;
-      transition: opacity 0.22s ease, transform 0.2s ease;
+      transition: opacity 0.22s ease, transform 0.22s cubic-bezier(0.22, 1, 0.36, 1);
       will-change: left, top, opacity;
     }
     .world-tag:hover {
@@ -195,28 +203,49 @@
     }
 
     .vol-plaque {
-      padding: 4px 10px 5px;
-      background: rgba(7, 11, 20, 0.82);
-      border: 1px solid rgba(207, 169, 98, 0.3);
-      backdrop-filter: blur(6px);
-      border-radius: 0;
+      --plaque-accent: #cfa962;
+      padding: 6px 15px 7px;
+      background: radial-gradient(125% 145% at 50% 0%, rgba(22, 31, 56, 0.82) 0%, rgba(7, 11, 21, 0.76) 100%);
+      border: 1px solid rgba(214, 182, 120, 0.28);
+      border-color: color-mix(in srgb, var(--plaque-accent) 42%, rgba(214, 182, 120, 0.18));
+      backdrop-filter: blur(10px) saturate(135%);
+      -webkit-backdrop-filter: blur(10px) saturate(135%);
+      border-radius: 999px;
+      box-shadow: 0 8px 24px rgba(2, 5, 14, 0.52), inset 0 1px 0 rgba(255, 246, 224, 0.18);
       text-align: center;
       white-space: nowrap;
+      transition: border-color 0.22s ease, box-shadow 0.22s ease, background 0.22s ease;
+    }
+    .world-tag:hover .vol-plaque {
+      border-color: rgba(245, 224, 174, 0.68);
+      box-shadow: 0 10px 28px rgba(0, 0, 0, 0.6), 0 0 18px color-mix(in srgb, var(--plaque-accent) 32%, transparent), inset 0 1px 0 rgba(255, 248, 230, 0.3);
     }
     .vol-plaque.wormhole-plaque {
-      border-color: rgba(240, 215, 156, 0.62);
-      box-shadow: 0 0 16px rgba(240, 215, 156, 0.16);
+      background: linear-gradient(135deg, rgba(28, 24, 52, 0.84) 0%, rgba(18, 22, 40, 0.80) 52%, rgba(34, 26, 20, 0.82) 100%);
+      border-color: rgba(240, 215, 156, 0.56);
+      box-shadow: 0 8px 26px rgba(0, 0, 0, 0.56), 0 0 20px rgba(182, 146, 246, 0.20), inset 0 1px 0 rgba(255, 246, 224, 0.26);
+    }
+    .plaque-orb {
+      display: inline-block;
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: var(--plaque-accent, #cfa962);
+      box-shadow: 0 0 8px var(--plaque-accent, #cfa962);
+      flex-shrink: 0;
     }
 
     .motif-anchor-chip {
-      padding: 3px 9px;
-      background: rgba(11, 14, 28, 0.88);
-      border: 1px solid rgba(207, 169, 98, 0.45);
-      border-radius: 0;
+      padding: 4px 11px;
+      background: rgba(11, 16, 30, 0.82);
+      border: 1px solid rgba(214, 182, 120, 0.36);
+      border-radius: 999px;
+      box-shadow: 0 6px 18px rgba(0, 0, 0, 0.45), inset 0 1px 0 rgba(255, 246, 224, 0.14);
       font-size: 11px;
       color: #f4ecda;
       white-space: nowrap;
-      backdrop-filter: blur(4px);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
       display: inline-flex;
       align-items: center;
       gap: 6px;
@@ -275,10 +304,10 @@
     }
   </style>
   <script id="astraia-r2-assets" type="application/json">{}</script>
-  <script type="module" crossorigin src="/astraia/assets/index-DHHjncdG.js"></script>
-  <link rel="modulepreload" crossorigin href="/astraia/assets/engraving-DsVX7Ocr.js">
-  <link rel="stylesheet" crossorigin href="/astraia/assets/engraving-C5A_ALeh.css">
-  <link rel="stylesheet" crossorigin href="/astraia/assets/index-CzCrWpWW.css">
+  <script type="module" crossorigin src="/astraia/assets/index-C9y5LtsR.js"></script>
+  <link rel="modulepreload" crossorigin href="/astraia/assets/engraving-DIXkUFn5.js">
+  <link rel="stylesheet" crossorigin href="/astraia/assets/engraving-CRESEY2Z.css">
+  <link rel="stylesheet" crossorigin href="/astraia/assets/index-CO3gKC1o.css">
 </head>
 <body data-left-open="false">
 
@@ -346,19 +375,19 @@
     <div id="tt-sub" class="text-[10.5px] text-[#a8a092] mt-1 leading-normal">点击检视朔望心物双卷与折光机制</div>
   </div>
 
-  <!-- 6. UNIFIED 52PX OBSERVATORY TOP NAVIGATION BAR -->
-  <header id="syzygy-header" class="fixed top-0 left-0 right-0 z-30 flex items-center justify-between px-4 lg:px-6 bg-[#060913]/90 backdrop-blur-md border-b border-[#d6b678]/30">
+  <!-- 6. UNIFIED OBSERVATORY TOP NAVIGATION BAR -->
+  <header id="syzygy-header" class="fixed top-0 left-0 right-0 z-30 flex items-center justify-between px-4 lg:px-6">
     <!-- Left Brand -->
     <a href="../" class="syzygy-brand flex items-center gap-2.5 shrink-0" aria-label="返回 Astraia 精查图谱">
-      <svg class="engraving-brand-mark" viewBox="0 0 64 64" aria-hidden="true"><rect x="3" y="3" width="58" height="58" fill="none" stroke="currentColor" stroke-width="1.3"/><rect x="8" y="8" width="48" height="48" fill="none" stroke="currentColor" stroke-width=".85"/><path d="M12 12 Q32 27 52 12 Q37 32 52 52 Q32 37 12 52 Q27 32 12 12Z M3 32H61 M32 3V61" fill="none" stroke="currentColor" stroke-width="1.15"/><path d="M32 26.5L37.5 32L32 37.5L26.5 32Z" fill="currentColor"/></svg>
+      <svg class="engraving-brand-mark" viewBox="0 0 64 64" aria-hidden="true"><circle cx="32" cy="32" r="28" fill="none" stroke="currentColor" stroke-width="1.35"/><circle cx="32" cy="32" r="22" fill="none" stroke="currentColor" stroke-width=".85" stroke-dasharray="3.2 2.6" opacity=".82"/><ellipse cx="32" cy="32" rx="26" ry="11.5" transform="rotate(-28 32 32)" fill="none" stroke="currentColor" stroke-width=".95" opacity=".78"/><path d="M32 10 Q35.2 28.8 54 32 Q35.2 35.2 32 54 Q28.8 35.2 10 32 Q28.8 28.8 32 10Z" fill="currentColor" fill-opacity=".16" stroke="currentColor" stroke-width="1.15"/><circle cx="32" cy="32" r="3.6" fill="currentColor"/></svg>
       <span class="font-cinzel tracking-[0.22em] text-sm md:text-base font-semibold text-[#f5eedc]">ASTRAIA</span>
       <span class="hidden xl:inline-block font-mono-tech text-[9.5px] tracking-[0.18em] text-[#d6b678]/75 border-l border-[#d6b678]/25 pl-2.5 uppercase">
         PHYSIS × MYTHOS
       </span>
     </a>
 
-    <!-- Center 3-Module Cosmic Dimension Switcher -->
-    <nav class="flex items-center border border-[#d6b678]/35 bg-[#04060b]/90 overflow-x-auto max-w-[54vw] sm:max-w-none">
+    <!-- Center 3-Module Cosmic Dimension Capsule Switcher -->
+    <nav id="dim-switcher" class="dim-capsule-nav flex items-center overflow-x-auto max-w-[54vw] sm:max-w-none">
       <button data-dim="umbra" class="dim-tab flex items-center gap-1.5">
         <span class="text-[#d6b678]">◇</span>
         <span class="font-cinzel tracking-wider hidden sm:inline">UMBRA ·</span>
@@ -378,6 +407,9 @@
 
     <!-- Right Observatory & Bridge Controls -->
     <div class="syzygy-header-actions flex items-center gap-1.5 shrink-0">
+      <button id="btn-ui-scheme" class="ctl-btn syzygy-scheme-btn" type="button" title="切换视觉方案：方案一（流光胶囊） ⇄ 方案二（浑天星盘）" aria-label="切换视觉方案">
+        <span aria-hidden="true">✦</span><span data-scheme-label>方案二</span>
+      </button>
       <a id="btn-classic-view" class="ctl-btn syzygy-classic" href="../?view=life" title="返回精查图谱（真地图、四层切片、年代轴与双卷宗取证）">◈ 精查图谱</a>
       <button id="btn-mobile-tools" class="ctl-btn syzygy-tools-toggle" type="button" aria-expanded="false" aria-controls="syzygy-extra-tools">☷ 工具</button>
       <div id="syzygy-extra-tools" class="syzygy-extra-tools" data-open="false">
@@ -623,11 +655,13 @@
   </footer>
 
   <nav id="observatory-dock" aria-label="观测工具">
+    <button type="button" id="btn-dock-left" class="dock-mobile-only" aria-controls="left-drawer" aria-expanded="false"><span aria-hidden="true">☰</span> 目录</button>
     <button type="button" data-observatory-panel="observe" data-sidera-only aria-controls="sidera-v3-controls" aria-expanded="false"><span aria-hidden="true">◈</span> 观测</button>
     <button type="button" data-observatory-panel="bridges" data-sidera-only aria-controls="sidera-v3-controls" aria-expanded="false"><span aria-hidden="true">◇</span> 星桥</button>
     <button type="button" data-observatory-panel="realm" aria-controls="realm-dock" aria-expanded="false"><span aria-hidden="true">◐</span> 界膜</button>
     <button type="button" data-observatory-panel="trails" aria-controls="trail-dock" aria-expanded="false"><span aria-hidden="true">✦</span> 星轨</button>
     <button type="button" id="btn-taxonomy-dock" data-scope-trigger="taxonomy" aria-controls="taxonomy-explorer" aria-expanded="false"><span aria-hidden="true">◈</span> 专题谱系</button>
+    <button type="button" id="btn-dock-right" class="dock-mobile-only" aria-controls="right-drawer" aria-expanded="false"><span aria-hidden="true">◧</span> 卷宗</button>
   </nav>
 
   <!-- Subtle Status Toast -->
