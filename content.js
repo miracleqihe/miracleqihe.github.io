@@ -123,6 +123,22 @@ window.SITE_CONTENT = {
       "description": "We care about PL cross-caps and their PL resolutions.",
       "linkLabel": "",
       "linkUrl": "https://github.com/Mauris-Chueng/mauris-chueng.github.io/blob/main/pub/PL_Cross-Caps_and_Their_PL_Resolutions.pdf"
+    },
+    {
+      "type": "Project",
+      "title": "Sym Gen",
+      "year": "2026",
+      "description": "A public education platform on psychology, mental health, and psychiatry, with accessible articles on psychiatric conditions and medications, teaching cases, and interactive data visualizations.",
+      "linkLabel": "Visit Sym Gen",
+      "linkUrl": "https://miracleqihe.github.io/symgene/"
+    },
+    {
+      "type": "Project",
+      "title": "Astraia",
+      "year": "2026",
+      "description": "An interactive atlas and knowledge graph of world folklore, mythology, and urban legends. Explore stories by place and compare recurring motifs across cultures.",
+      "linkLabel": "Explore Astraia",
+      "linkUrl": "https://miracleqihe.github.io/astraia/"
     }
   ],
   "friends": [
