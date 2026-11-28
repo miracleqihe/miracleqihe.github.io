@@ -33,14 +33,14 @@
       overflow: hidden;
       background: radial-gradient(ellipse at 47% 50%, #0b1224 0%, #060a14 55%, #04060d 100%);
       color: var(--ink-ivory);
-      font-family: 'Noto Serif SC', Georgia, serif;
+      font-family: var(--font-prose, 'Noto Serif SC', serif);
       -webkit-font-smoothing: antialiased;
     }
 
-    .font-cinzel { font-family: 'Cinzel', 'Cormorant Garamond', serif; }
-    .font-cormorant { font-family: 'Cormorant Garamond', 'Noto Serif SC', serif; }
-    .font-serif-sc { font-family: 'Noto Serif SC', serif; }
-    .font-mono-tech { font-family: 'JetBrains Mono', monospace; }
+    .font-cinzel { font-family: var(--font-brand, serif); }
+    .font-cormorant { font-family: var(--font-quote, serif); }
+    .font-serif-sc { font-family: var(--font-heading, serif); }
+    .font-mono-tech { font-family: var(--font-meta, monospace); }
 
     /* Full-screen 3D Canvas */
     #webgl-viewport {
@@ -304,10 +304,10 @@
     }
   </style>
   <script id="astraia-r2-assets" type="application/json">{}</script>
-  <script type="module" crossorigin src="/astraia/assets/index-C4uwY5M_.js"></script>
-  <link rel="modulepreload" crossorigin href="/astraia/assets/engraving-DEubYH9B.js">
-  <link rel="stylesheet" crossorigin href="/astraia/assets/engraving-Cvva-hD7.css">
-  <link rel="stylesheet" crossorigin href="/astraia/assets/index-BOVNhMkG.css">
+  <script type="module" crossorigin src="/astraia/assets/index-DyQCJS2O.js"></script>
+  <link rel="modulepreload" crossorigin href="/astraia/assets/engraving-BRCNr8A-.js">
+  <link rel="stylesheet" crossorigin href="/astraia/assets/engraving-49Kme0xh.css">
+  <link rel="stylesheet" crossorigin href="/astraia/assets/index-egB_2ig6.css">
 </head>
 <body data-left-open="false">
 
@@ -350,50 +350,19 @@
     <div class="bezel-scale-top"></div>
   </div>
   <div id="shanhai-horizon" class="shanhai-horizon" aria-hidden="true">
-    <svg class="shanhai-svg shanhai-svg-top" viewBox="0 0 1440 96" preserveAspectRatio="none" focusable="false">
-      <defs>
-        <linearGradient id="shanhai-cloud-stroke" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stop-color="#cfa962" stop-opacity="0" />
-          <stop offset="22%" stop-color="#58c4a7" stop-opacity="0.42" />
-          <stop offset="50%" stop-color="#f2d99b" stop-opacity="0.68" />
-          <stop offset="78%" stop-color="#58c4a7" stop-opacity="0.42" />
-          <stop offset="100%" stop-color="#cfa962" stop-opacity="0" />
-        </linearGradient>
-      </defs>
-      <path d="M90 22 C190 6, 260 38, 360 22 C430 11, 510 8, 720 8 C930 8, 1010 11, 1080 22 C1180 38, 1250 6, 1350 22" fill="none" stroke="url(#shanhai-cloud-stroke)" stroke-width="1.05" />
-      <path d="M210 30 Q245 14 276 28 T332 26 M1230 30 Q1195 14 1164 28 T1108 26" fill="none" stroke="url(#shanhai-cloud-stroke)" stroke-width="0.9" opacity="0.72" />
-    </svg>
-    <svg class="shanhai-svg shanhai-svg-bottom" viewBox="0 0 1440 210" preserveAspectRatio="none" focusable="false">
-      <defs>
-        <linearGradient id="shanhai-azurite-back" x1="0%" y1="0%" x2="0%" y2="100%">
-          <stop offset="0%" stop-color="#173b56" stop-opacity="0.46" />
-          <stop offset="65%" stop-color="#0b1d30" stop-opacity="0.72" />
-          <stop offset="100%" stop-color="#050a14" stop-opacity="0.94" />
-        </linearGradient>
-        <linearGradient id="shanhai-malachite-front" x1="0%" y1="0%" x2="100%" y2="100%">
-          <stop offset="0%" stop-color="#1f5c54" stop-opacity="0.52" />
-          <stop offset="32%" stop-color="#102b3f" stop-opacity="0.68" />
-          <stop offset="68%" stop-color="#102b3f" stop-opacity="0.68" />
-          <stop offset="100%" stop-color="#215950" stop-opacity="0.52" />
-        </linearGradient>
-        <linearGradient id="shanhai-gold-ridge" x1="0%" y1="0%" x2="100%" y2="0%">
-          <stop offset="0%" stop-color="#f2d99b" stop-opacity="0.75" />
-          <stop offset="20%" stop-color="#64ccb0" stop-opacity="0.68" />
-          <stop offset="42%" stop-color="#cfa962" stop-opacity="0.22" />
-          <stop offset="58%" stop-color="#cfa962" stop-opacity="0.22" />
-          <stop offset="80%" stop-color="#64ccb0" stop-opacity="0.68" />
-          <stop offset="100%" stop-color="#f2d99b" stop-opacity="0.75" />
-        </linearGradient>
-      </defs>
-      <!-- Distant Kunlun & Penglai Azurite Peaks (dipping open in center for 3D cosmos) -->
-      <path d="M0 210 L0 88 Q42 52 86 74 Q138 22 196 64 Q248 44 304 98 Q382 146 520 172 Q720 192 920 172 Q1058 146 1136 98 Q1192 44 1244 64 Q1302 22 1354 74 Q1398 52 1440 88 L1440 210 Z" fill="url(#shanhai-azurite-back)" />
-      <path d="M0 88 Q42 52 86 74 Q138 22 196 64 Q248 44 304 98 Q382 146 520 172 Q720 192 920 172 Q1058 146 1136 98 Q1192 44 1244 64 Q1302 22 1354 74 Q1398 52 1440 88" fill="none" stroke="url(#shanhai-gold-ridge)" stroke-width="1.15" opacity="0.78" />
-      <!-- Foreground Malachite-Gold Ridges & Swirling Cloud-Waves -->
-      <path d="M0 210 L0 126 Q58 92 118 118 Q176 78 238 116 Q310 152 430 178 Q720 202 1010 178 Q1130 152 1202 116 Q1264 78 1322 118 Q1382 92 1440 126 L1440 210 Z" fill="url(#shanhai-malachite-front)" />
-      <path d="M0 126 Q58 92 118 118 Q176 78 238 116 Q310 152 430 178 Q720 202 1010 178 Q1130 152 1202 116 Q1264 78 1322 118 Q1382 92 1440 126" fill="none" stroke="url(#shanhai-gold-ridge)" stroke-width="1.35" />
-      <!-- Traditional Auspicious Cloud & Sea-Wave Spirals (山海云涛纹) -->
-      <path d="M36 168 C68 148, 108 152, 134 170 C156 184, 194 178, 224 162 M162 152 C180 138, 204 144, 196 158 C190 168, 174 164, 178 154 M1404 168 C1372 148, 1332 152, 1306 170 C1284 184, 1246 178, 1216 162 M1278 152 C1260 138, 1236 144, 1244 158 C1250 168, 1266 164, 1262 154" fill="none" stroke="url(#shanhai-gold-ridge)" stroke-width="1.0" opacity="0.72" />
-    </svg>
+    <div class="shanhai-corners">
+      <svg class="shanhai-corner corner-nw" viewBox="0 0 24 24" fill="none"><path d="M1 23V1h22M5 19V5h14M9 17V9h8v4h-4v-2"/></svg>
+      <svg class="shanhai-corner corner-ne" viewBox="0 0 24 24" fill="none"><path d="M1 23V1h22M5 19V5h14M9 17V9h8v4h-4v-2"/></svg>
+      <svg class="shanhai-corner corner-sw" viewBox="0 0 24 24" fill="none"><path d="M1 23V1h22M5 19V5h14M9 17V9h8v4h-4v-2"/></svg>
+      <svg class="shanhai-corner corner-se" viewBox="0 0 24 24" fill="none"><path d="M1 23V1h22M5 19V5h14M9 17V9h8v4h-4v-2"/></svg>
+    </div>
+    <span class="shanhai-compass-mark compass-north">北山经 · 烛阴</span>
+    <span class="shanhai-compass-mark compass-south">南山经 · 丹穴</span>
+    <span class="shanhai-compass-mark compass-west">西山经 · 昆仑</span>
+    <span class="shanhai-compass-mark compass-east">东山经 · 扶桑</span>
+    <div class="shanhai-scroll-mist"></div>
+    <div class="shanhai-wing shanhai-wing-west"></div>
+    <div class="shanhai-wing shanhai-wing-east"></div>
   </div>
 
   <!-- 3. 3D PROJECTED ANCHOR LABELS -->
@@ -455,7 +424,7 @@
     <div class="syzygy-header-actions flex items-center gap-1.5 shrink-0">
       <div id="ui-mode-switch" class="mode-theme-switch" role="group" aria-label="视界意境切换">
         <button type="button" data-ui-mode="cosmos" aria-pressed="false" title="星野界膜 · 流体星轨玻璃"><span aria-hidden="true">✦</span><span>星野</span></button>
-        <button type="button" data-ui-mode="shanhai" aria-pressed="true" title="山海绘卷 · 青绿泥金星图"><span class="mode-seal-mark" aria-hidden="true"><svg viewBox="0 0 16 16"><path d="M1.5 12.5 5.7 5.6 8 8.6 10 5.8 14.5 12.5Z" /></svg></span><span>山海</span></button>
+        <button type="button" data-ui-mode="shanhai" aria-pressed="true" title="山海绘卷 · 古刻泥金星图"><span class="mode-seal-mark" aria-hidden="true">印</span><span>山海</span></button>
       </div>
       <a id="btn-classic-view" class="ctl-btn syzygy-classic" href="../?view=life" title="返回精查图谱（真地图、四层切片、年代轴与双卷宗取证）">◈ 精查图谱</a>
       <button id="btn-mobile-tools" class="ctl-btn syzygy-tools-toggle" type="button" aria-expanded="false" aria-controls="syzygy-extra-tools">☷ 工具</button>
